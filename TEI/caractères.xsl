@@ -47,7 +47,7 @@
     
     <xsl:template match="tei:div2/tei:p[contains(@source,'#Paris_ed6') or not(@source)]">
         <xsl:choose>
-            <xsl:when test="position()=2"> <!-- Pour une raison que je ne m'explique pas, la position du premier p est systématiquement 2 -->
+            <xsl:when test="position()=2"> 
                 <p>(<xsl:value-of select="../@n"/>) <xsl:apply-templates/></p>
             </xsl:when>
             <xsl:otherwise>
