@@ -256,8 +256,8 @@
                         l'apparition dans les éditions). </date>
                     <date when="2023-11-24" resp="#ML">Ajout des xml:id pour les div1 et les
                         différents types de chapitre.</date>
-                    <date when="2024-01-20" resp="#SFD">Intégrations des remarques 22 à 41 de
-                        Des Femmes et les remarques 67 et 74 de la même partie, mise à jour de du biblStruct selon la procédure établie, ajout
+                    <date when="2024-01-20" resp="#SFD">Intégrations des remarques 22 à 41 et 74 de
+                        Des Femmes, mise à jour de du biblStruct selon la procédure établie, ajout
                         de placeName et de persName, déclaration des pieds de mouche</date>
                 </item>
             </list>
@@ -1915,7 +1915,7 @@
                             <lem wit="#Paris_ed2017">l'autel</lem>
                             <rdg wit="#Paris_1688_ed1">l'Autel</rdg>
                         </app> des tribunes et des oratoires où elles lisent des <seg>billets
-                            tendres <note resp="#Editrice">Selon le Littré : "Missive, petit lettre
+                            tendres <note type="voc" resp="#SFD">Selon le Littré : "Missive, petit lettre
                                 qui n'a pas les formules usitées dans les lettres ordinaires [...]
                                 Billet doux, billet d'amour et de galanterie"</note></seg> , et où
                         personne ne voit qu’elles ne prient point Dieu.</p>
@@ -2025,7 +2025,7 @@
                     <p><g ref="#Pied_de_mouche_seul"/>C’est trop contre un mari d’être coquette et
                         dévote ; une femme <app>
                             <lem wit="#Paris_ed2017">devrait</lem>
-                            <rdg wit="#Paris_1688_ed1 #Paris_1688_ed3">devroit<note resp="#Editrice"
+                            <rdg wit="#Paris_1688_ed1 #Paris_1688_ed3">devroit<note type="ed" resp="#SFD"
                                     >Ancienne conjugaison</note></rdg>
                         </app> opter.</p>
                 </div2>
@@ -2036,13 +2036,12 @@
                             <lem wit="#Paris_ed2017">pas</lem>
                             <rdg wit="#Paris_1688_ed1">point</rdg>
                             <rdg wit="#Paris_1688_ed3">pas</rdg>
-                    </app> comment un mari qui s'abandonne à son humeur et à sa complexion <app>
-                        <lem wit="#Paris_ed2017">,</lem>
-                        <rdg wit="#Paris_1688_ed1 #Paris_1688_ed3">;</rdg>
-                    </app> qui
-                        ne cache aucun de ses défauts, et se montre au contraire par ses mauvais
-                        endroits ; qui est avare , qui est trop négligé dans son ajustement, brusque
-                        dans ses réponses, incivel, froid et taciture, peut <pb n="192"
+                        </app> comment un mari qui s'abandonne à son humeur et à sa complexion <app>
+                            <lem wit="#Paris_ed2017">,</lem>
+                            <rdg wit="#Paris_1688_ed1 #Paris_1688_ed3">;</rdg>
+                        </app> qui ne cache aucun de ses défauts, et se montre au contraire par ses
+                        mauvais endroits ; qui est avare , qui est trop négligé dans son ajustement,
+                        brusque dans ses réponses, incivel, froid et taciture, peut <pb n="192"
                             source="#Paris_1688_ed1"/> espé <pb n="140" source="#Paris_1688_ed3"
                         />rer de défendre le coeur d'une jeune femme contre les entreprises de son
                         galant, qui employe, la parure et la magnificence, la complaisance, les
@@ -2151,13 +2150,12 @@
                         s'abandonne à son humeur et à sa complexion<app>
                             <lem wit="#Paris_ed2017">,</lem>
                             <rdg wit="#Paris_1689_ed4">;</rdg>
-                        </app> qui ne cache aucun de ses
-                        défauts, et se montre au contraire par ses mauvais endroits ; qui est avare
-                        , qui est trop négligé dans son ajustement, brusque dans ses réponses,
-                        incivel, froid et taciture, peut espérer de défendre le coeur d'une jeune
-                        femme contre les entreprises de son galant, qui employe <pb n="128"
-                            source="#Paris_1689_ed4"/> la parure et la magnificence, la
-                        complaisance, les soins, l'empressement, les dons, la <app>
+                        </app> qui ne cache aucun de ses défauts, et se montre au contraire par ses
+                        mauvais endroits ; qui est avare , qui est trop négligé dans son ajustement,
+                        brusque dans ses réponses, incivel, froid et taciture, peut espérer de
+                        défendre le coeur d'une jeune femme contre les entreprises de son galant,
+                        qui employe <pb n="128" source="#Paris_1689_ed4"/> la parure et la
+                        magnificence, la complaisance, les soins, l'empressement, les dons, la <app>
                             <lem wit="#Paris_ed2017">flatterie</lem>
                             <rdg wit="#Paris_1689_ed4">Flatterie</rdg>
                         </app>.</p>
@@ -2177,7 +2175,7 @@
                                 >: celle-là</rdg>
                         </app> cherche à engager ; <app>
                             <lem wit="#Paris_ed2017">celle-ci</lem>
-                            <rdg>celle-cy<note resp="#Editrice">Ancienne graphie</note></rdg>
+                            <rdg>celle-cy<note type="ed" resp="#SFD">Ancienne graphie</note></rdg>
                         </app> se contente de plaire <app>
                             <lem wit="#Paris_ed2017">. La</lem>
                             <rdg
@@ -2237,14 +2235,12 @@
                         s'abandonne à son humeur et à sa complexion <app>
                             <lem wit="#Paris_ed2017">,</lem>
                             <rdg wit="#Paris_1689_ed5">;</rdg>
-                        </app>
-                        qui ne cache aucun de ses
-                        défauts, et se montre au contraire par ses mauvais endroits ; qui est avare,
-                        qui est trop négligé dans son ajustement, brusque dans ses réponses,
-                        incivel, froid et taciture, peut espérer de défendre le coeur d'une jeune
-                        femme contre les entreprises de son galant, qui employe la parure et la
-                        magnificence, la complaisance, les soins, l'empressement, les dons, la
-                        flatterie.</p>
+                        </app> qui ne cache aucun de ses défauts, et se montre au contraire par ses
+                        mauvais endroits ; qui est avare, qui est trop négligé dans son ajustement,
+                        brusque dans ses réponses, incivel, froid et taciture, peut espérer de
+                        défendre le coeur d'une jeune femme contre les entreprises de son galant,
+                        qui employe la parure et la magnificence, la complaisance, les soins,
+                        l'empressement, les dons, la flatterie.</p>
                 </div2>
 
 
@@ -2257,7 +2253,7 @@
                             <lem wit="#Paris_ed2017">un mensonge</lem>
                             <rdg
                                 wit="#Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
-                                >une menterie <note resp="#Editrice">Selon le Littré : "Synonyme
+                                >une menterie <note type="voc" resp="#SFD">Selon le Littré : "Synonyme
                                     familier de mensonge" ou "Mensonge léger ou badin, sans
                                     conséquence."</note></rdg>
                         </app> de toute la personne : c’est dans une femme l’art de placer un mot ou
@@ -2323,7 +2319,7 @@
                         mauvais caractère sont naturellement la ressource des jeunes gens qui n’ont
                         pas assez de bien. Je ne sais qui est plus à plaindre, ou d’une femme
                         avancée en âge qui a besoin d’un cavalier, ou d’un cavalier qui a besoin
-                        d’une vieille. <note source="#Paris_1694_ed8_ex1"
+                        d’une vieille. <note type="prop" source="#Paris_1694_ed8_ex1"
                             resp="#Proprietaire-edition" place="right" type="ms" hand="Inconnu"
                             >Illisible</note>
                     </p>
@@ -2395,7 +2391,7 @@
                         </app> en baudrier, <pb n="129" source="#Paris_1689_ed4"/>
                         <app>
                             <lem wit="#Paris_ed2017"/>
-                            <rdg source="#Paris_1689_ed4">baudrier,<note resp="#Editrice">répétition
+                            <rdg source="#Paris_1689_ed4">baudrier,<note type="ed" resp="#SFD">répétition
                                     du dernier mot de la page précédente au début de la page
                                     suivante</note></rdg>
                         </app> les écarte et devient maître de la place : il est écouté, il est aimé
@@ -2406,7 +2402,7 @@
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
                                     ><roleName>Ministres</roleName></rdg>
                         </app> . Il fait des jaloux et des jalouses : on l’admire, il fait envie : à
-                        quatre lieues de là, il fait pitié. <note source="#Paris_1694_ed8_ex1"
+                        quatre lieues de là, il fait pitié. <note type="prop" source="#Paris_1694_ed8_ex1"
                             resp="#Proprietaire-edition" place="right" type="ms" hand="Inconnu"
                             >Illisible</note>
                     </p>
@@ -2473,7 +2469,7 @@
                             <lem wit="#Paris_ed2017">l'autel</lem>
                             <rdg wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6">l'Autel</rdg>
                         </app> des tribunes et des oratoires où elles lisent des <seg>billets
-                            tendres <note resp="#Editrice">Selon le Littré : "Missive, petit lettre
+                            tendres <note type="voc" resp="#SFD">Selon le Littré : "Missive, petit lettre
                                 qui n'a pas les formules usitées dans les lettres ordinaires [...]
                                 Billet doux, billet d'amour et de galanterie"</note></seg> , et où
                         personne ne <pb n="130" source="#Paris_1689_ed4"/> voit qu’elles ne prient
@@ -2501,7 +2497,7 @@
                 <div2 n="33"
                     source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
                     <p><g ref="#Pied_de_mouche_seul"/>
-                        <note source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="left"
+                        <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="left"
                             type="ms" hand="Inconnu">... La fille de ...</note>
                         <persName type="pseudo" ref="#Roscius">Roscius</persName> entre sur la scène
                         de bonne grâce : oui, <persName type="pseudo" ref="#Lélie">Lélie</persName>
@@ -2539,23 +2535,23 @@
                             <rdg wit="#Paris_1694_ed8" resp="#Proprietaire-edition"><persName
                                     ref="#Beauchamps">Beauchamps</persName></rdg>
                         </app>
-                        <note source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="right"
-                            type="ms" hand="Inconnu"><persName type="cle" ref="#Beauchamps"
-                                >Beauchamps</persName></note> , le joueur de flûte : nul autre de
-                        son métier n’enfle plus décemment ses joues en soufflant dans le hautbois ou
-                        le flageolet, car c’est une chose infinie que le nombre des <note
-                            source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="right"
-                            type="ms" hand="Inconnu">Illisible</note> instruments qu’il fait parler
-                        ; plaisant d’ailleurs, il fait rire jusqu’aux enfants et aux femmelettes.
-                        Qui mange et qui boit mieux que <persName type="pseudo" ref="#Dracon"
-                            >Dracon</persName> en un seul repas ? Il enivre toute une compagnie, et
-                        il se rend le dernier. Vous soupirez, <persName type="pseudo" ref="#Lélie"
-                            >Lélie</persName> : est-ce que <persName type="pseudo" ref="#Dracon"
-                            >Dracon</persName>
+                        <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
+                            place="right" type="ms" hand="Inconnu"><persName type="cle"
+                                ref="#Beauchamps">Beauchamps</persName></note> , le joueur de flûte
+                        : nul autre de son métier n’enfle plus décemment ses joues en soufflant dans
+                        le hautbois ou le flageolet, car c’est une chose infinie que le nombre des
+                        <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
+                            place="right" type="ms" hand="Inconnu">Illisible</note> instruments
+                        qu’il fait parler ; plaisant d’ailleurs, il fait rire jusqu’aux enfants et
+                        aux femmelettes. Qui mange et qui boit mieux que <persName type="pseudo"
+                            ref="#Dracon">Dracon</persName> en un seul repas ? Il enivre toute une
+                        compagnie, et il se rend le dernier. Vous soupirez, <persName type="pseudo"
+                            ref="#Lélie">Lélie</persName> : est-ce que <persName type="pseudo"
+                            ref="#Dracon">Dracon</persName>
                         <persName type="cle" source="#Philibert">Philibert</persName> ? Se serait-il
                         enfin engagé à <seg><persName type="pseudo" ref="#Césonie"
                                 >Césonie</persName>
-                            <note source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
+                            <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
                                 place="right" type="ms" hand="Inconnu">La Debusier d'aumont ou la
                                 fille du...</note></seg> , qui l’a tant couru, qui lui a sacrifié
                         une si grande foule <app>
@@ -2576,7 +2572,7 @@
                         condition à la vue des autres. Que ferez-vous, lorsque le meilleur en ce
                         genre vous est enlevé ? Il reste encore <seg><persName type="pseudo"
                                 ref="#Bronte">Bronte</persName>
-                            <note source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
+                            <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition"
                                 place="left" type="ms" hand="Inconnu">Leboureau</note></seg> , le
                         questionnaire : le peuple ne parle que de sa force et de son adresse ; c’est
                         un jeune homme qui a les épaules larges et la taille ramassée, un nègre
@@ -2586,7 +2582,7 @@
 
                 <div2 n="34"
                     source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><g ref="#Pied_de_mouche_seul"/><note source="#Paris_1694_ed8_ex1"
+                    <p><g ref="#Pied_de_mouche_seul"/><note type="prop" source="#Paris_1694_ed8_ex1"
                             resp="#Proprietaire-edition" place="left" type="ms" hand="Inconnu">Me.
                             de ...</note> Pour les femmes du monde, un <app>
                             <lem wit="#Paris_ed2017">jardinier</lem>
@@ -2624,7 +2620,7 @@
 
                 <div2 n="35"
                     source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><g ref="#Pied_de_mouche_seul"/><note source="#Paris_1694_ed8_ex1"
+                    <p><g ref="#Pied_de_mouche_seul"/><note type="prop" source="#Paris_1694_ed8_ex1"
                             resp="#Proprietaire-edition" place="left" type="ms" hand="Inconnu"
                             >Duchette d'...</note> Quelques femmes donnent aux couvents et à leurs <app>
                             <lem wit="#Paris_ed2017">amants</lem>
@@ -2637,7 +2633,7 @@
                                 wit="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
                                 >l'Autel</rdg>
                         </app> des tribu <pb n="56" source="#Paris_1696_ed9"/> nes et des oratoires
-                        où elles lisent des <seg>billets tendres <note resp="#Editrice">Selon le
+                        où elles lisent des <seg>billets tendres <note type="voc" resp="#SFD">Selon le
                                 Littré : "Missive, petit lettre qui n'a pas les formules usitées
                                 dans les lettres ordinaires [...] Billet doux, billet d'amour et de
                                 galanterie"</note></seg> , et où personne ne voit qu’elles ne prient
@@ -2648,7 +2644,7 @@
                 <div2 n="36"
                     source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
                     <p><g ref="#Pied_de_mouche_seul"/>
-                        <note source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="left"
+                        <note type="prop" source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="left"
                             type="ms" hand="Inconnu">Illisible</note> Qu’est-ce qu’une femme que
                         l’on dirige ? Est-ce une femme plus com <pb n="89" source="#Paris_1699_ed10"/>
                         <pb n="140" source="#Paris_1692_ed7"/>
@@ -2723,7 +2719,7 @@
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
                                     ><roleName ref="#Confesseur">Confesseur</roleName></rdg>
-                            <note resp="#Editrice">Selon le Littré : "Prêtre à qui l'on se
+                        <note type="voc" resp="#SFD">Selon le Littré : "Prêtre à qui l'on se
                                 confesse"</note>
                         </app> , avec ses autres faiblesses, celles qu’elle a pour son <app>
                             <lem wit="#Paris_ed2017"><roleName ref="#Directeur"
@@ -2731,7 +2727,7 @@
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
                                     ><roleName ref="#Directeur">Directeur</roleName></rdg>
-                            <note resp="#Editrice">Selon le Littré : "Directeur de conscience, ou,
+                            <note type="voc" resp="#SFD">Selon le Littré : "Directeur de conscience, ou,
                                 simplement, directeur ecclésiastique qui dirige la conscience d'une
                                 personne"</note>
                         </app> ; et le temps qu’elle perd dans son entretien, peut-être lui
@@ -2743,7 +2739,7 @@
                             source="#Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
                         <g ref="#Pied_de_mouche_double" source="#Paris_1689_ed5"/>Je <app>
                             <lem wit="#Paris_ed2017">voudrais</lem>
-                            <rdg wit="#Paris_1689_ed5">voudrois<note resp="#Editrice">Ancienne
+                            <rdg wit="#Paris_1689_ed5">voudrois<note type="ed" resp="#SFD">Ancienne
                                     conjugaison</note></rdg>
                         </app> qu’il me fût permis de crier de toute ma force à ces hommes saints
                         qui ont été autrefois blessés des femmes : "Fuyez les <pb n="57"
@@ -2757,7 +2753,7 @@
                             <lem wit="#Paris_ed2017">devrait</lem>
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
-                                    >devroit<note resp="#Editrice">Ancienne conjugaison</note></rdg>
+                                >devroit<note type="ed" resp="#SFD">Ancienne conjugaison</note></rdg>
                         </app> opter.</p>
                 </div2>
                 <div2 n="42[VI]" source="#Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
