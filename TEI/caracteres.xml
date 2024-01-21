@@ -2073,36 +2073,26 @@
                 </div2>
 
 
-                <div2 n="D1" source="#Paris_1688_ed1">
+                <div2 n="67" source="#Paris_1688_ed1">
                     <app>
                         <lem wit="#Paris_ed2017"/>
                         <rdg wit="#Paris_1688_ed1">
                             <p><g ref="#Pied_de_mouche_seul" source="#Paris_1688_ed1"/> Il arrive
-                                quelquefois qu'une femme cache à un homme toute la passion qu'elle
-                                sent pour luy ; cependant que de son côté il feint pour elle toute
-                                celle qu'il ne sent pas.<note resp="#Editrice">choix de conserver
-                                    l'ancienne graphie car cette partie de la remarque 26 à disparu
-                                    par la suite, il n'y a donc que très rarement des versions en
-                                    français moderne de ce texte</note></p></rdg>
+                                quelquefois qu’une femme cache à un homme toute la passion qu’elle
+                                sent pour lui ; pendant que de son côté il feint pour elle toute
+                                celle qu’il ne sent pas.</p></rdg>
                     </app>
                 </div2>
 
 
-                <div2 n="26" source="#Paris_1688_ed3">
+                <div2 n="26 67" source="#Paris_1688_ed3">
                     <p><g ref="#Pied_de_mouche_seul" source="#Paris_1688_ed3"/> Quelques femmes ont
                         dans le cours de leur vie un double engagement à soutenir, également
                         difficile à rompre et à dissimuler ; il ne manque à l’un que le contrat, et
-                        à l’autre que le cœur. <app>
-                            <lem/>
-                            <rdg wit="#Paris_1688_ed3"><p>Il arrive quelquefois qu'une femme cache à
-                                    un homme toute la passion qu'elle senes pour luy ; cependant que
-                                    de son côté il feint pour elle toute celle qu'il ne sent pas
-                                        <note resp="#Editrice">choix de conserver l'ancienne graphie
-                                        car cette partie de la remarque 26 à disparu par la suite,
-                                        il n'y a donc que très rarement des versions en français
-                                        moderne de ce texte</note></p></rdg>
-                        </app>
-                    </p>
+                        à l’autre que le cœur. </p>
+                    <p>Il arrive quelquefois qu’une femme cache à un homme toute la passion qu’elle
+                        sent pour lui ; pendant que de son côté il feint pour elle toute celle qu’il
+                        ne sent pas. </p>
                 </div2>
 
 
@@ -3022,8 +3012,8 @@
                     <p>Il coûte peu aux femmes de dire ce qu’elles ne sentent point : il coûte
                         encore moins aux hommes de dire ce qu’ils sentent.</p>
                 </div2>
-                <div2 n="67[I]"
-                    source="#Paris_ed1 #Paris_ed3 #Paris_ed4 #Paris_ed5 #Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
+                <div2 n="67"
+                    source="#Paris_ed4 #Paris_ed5 #Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
                     <p>Il arrive quelquefois qu’une femme cache à un homme toute la passion qu’elle
                         sent pour lui ; pendant que de son côté il feint pour elle toute celle qu’il
                         ne sent pas.</p>
