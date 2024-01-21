@@ -204,12 +204,12 @@
 
         <encodingDesc>
             <projectDesc>
-                <p resp="#ML">Nous avons sélectionné le texte d'Emmanuel Bury comme texte
+                <p resp="#ML #SFD">Nous avons sélectionné le texte d'Emmanuel Bury comme texte
                     canonique.</p>
-                <p resp="#ML">Pour la simplicité, nous avons d'abord encodé le texte de manière
+                <p resp="#ML #SFD">Pour la simplicité, nous avons d'abord encodé le texte de manière
                     simple avec seulement des div et des p pour pouvoir facilement mettre des
                     sources.</p>
-                <p resp="#ML">Les textes des éditions ont été sélectionné en regardant ce que les
+                <p resp="#ML #SFD">Les textes des éditions ont été sélectionné en regardant ce que les
                     élèves de M1 des métiers du livre et de l'édition de l'année 2022/2023 avait
                     prit le plus pour pouvoir, dans la mesure du possible, utiliser leur codage.</p>
             </projectDesc>
