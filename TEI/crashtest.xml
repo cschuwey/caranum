@@ -1,1 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt xml:id="LL">
+                    <name>Lisa Lesaffre</name>
+                    <resp>Encodeuse et co-chargée de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="LB">
+                    <name>Léa Brossat</name>
+                    <resp>Encodeuse et co-chargée de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="MBB">
+                    <name>Maxime Broca-Brisson</name>
+                    <resp>Encodeur et co-chargé de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="JB">
+                    <name>Jean de La Bruyère</name>
+                    <resp>Auteur</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr xml:id="Paris_ed1">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Première édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_ed1_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"
+                                >RES-R-2056</classCode>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k105077m"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1688_ed3">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Troisième édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1688_ed3_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57572x"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1689_ed4">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Quatrième édition, augmentée et corrigée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1689_ed4_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor>Gallica</distributor>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575649"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1689_ed5">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Cinquième édition augmentée de plusieurs remarques</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1689_ed5_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1690</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575660"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1691_ed6">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Sixie'me édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1691_ed6_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1691</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k8712342k"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1692_ed7">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Septième édition, revue et corrigée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1692_ed7_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1692</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57575z"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1694_ed8">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Huitième édition. Revue, corrigée et augmentée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1694_ed8_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1694</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57577n"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1696_ed9">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grac avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Neuvième édition. Revue, corrigée et augmentée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1696_ed9_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1696</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57579b"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1699_ed10">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Dixième édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1699_ed10_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1699</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57580j"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <listPerson>
+                    <person xml:id="Roscius"/>
+                    <person xml:id="Lélie"/>
+                    <person xml:id="Claudie"/>
+                    <person xml:id="Césonie"/>
+                    <person xml:id="Bronte"/>
+                    <person xml:id="Dorinne"/>
+                    <person xml:id="Messaline"/>
+                    <person xml:id="Bathylle"/>
+                    <person xml:id="Cobus"/>
+                    <person xml:id="Dracon"/>
+                    <person xml:id="Philibert"/>
+                    <person xml:id="Beauchamps"/>
+                    <person xml:id="Roi">
+                        <occupation>Roi de France</occupation>
+                        <name>Louis XIV</name>
+                        <link
+                            target="https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv#la-famille-royale"
+                        />
+                    </person>
+                </listPerson>
+                <listPlace>
+                    <place>
+                        <placeName xml:id="Ville">La Ville désigne dans beaucoup de cas Paris, ou la
+                            plus grande ville à proximité</placeName>
+                        <placeName xml:id="Cour">Sous-entendu : la Cour du Roi Louis XIV, qui se
+                            trouvait alors à Versailles, par opposition à la Ville : Paris, qui
+                            n'est plus la cité royale, les nobles vivent à Versailles et les
+                            Bourgeois (et le peuple) à Paris</placeName>
+                        <placeName xml:id="Province">La Province, désigne le reste de la France,
+                            au-delà de Paris et Versaille</placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p resp="#ML #SFD">Nous avons sélectionné le texte d'Emmanuel Bury comme texte
+                    canonique.</p>
+                <p resp="#ML #SFD">Pour la simplicité, nous avons d'abord encodé le texte de manière
+                    simple avec seulement des div et des p pour pouvoir facilement mettre des
+                    sources.</p>
+                <p resp="#ML #SFD">Les textes des éditions ont été sélectionné en regardant ce que
+                    les élèves de M1 des métiers du livre et de l'édition de l'année 2022/2023 avait
+                    prit le plus pour pouvoir, dans la mesure du possible, utiliser leur codage.</p>
+            </projectDesc>
+            <charDecl>
+                <glyph xml:id="Pied_de_mouche_seul">
+                    <desc>¶</desc>
+                </glyph>
+                <glyph xml:id="Pied_de_mouche_simple">
+                    <desc>(¶)</desc>
+                </glyph>
+                <glyph xml:id="Pied_de_mouche_double">
+                    <desc>((¶))</desc>
+                </glyph>
+            </charDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc>
+                            <roleName xml:id="Directeur">Selon le Littré : "Directeur de conscience,
+                                ou, simplement, directeur ecclésiastique qui dirige la conscience
+                                d'une personne</roleName>
+                            <roleName xml:id="Confesseur">Selon le Littré : "Prêtre à qui l'on se
+                                confesse"</roleName>
+                        </catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+
+        <revisionDesc>
+            <list>
+                <item>
+                    <date when="2024-05-22">Création du fichier "crashtest.xml" par Christophe
+                        Schuwey ; début d'encodage de la remarque 11 du chapitre "De la Mode" par
+                        Lisa Lesaffre (copié-collé du squelette XML et de ladite remarque depuis le
+                        fichier "caracteres.xml" sur Github).</date>
+                </item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div1 xml:id="M">
+                <head>De la Mode</head>
+                <div2 n="11[I]"
+                    source="#Paris_ed1 #Paris_ed3 #Paris_ed4 #Paris_ed5 #Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
+                    <p>Un homme fat et ridicule porte un long chapeau, un pourpoint à ailerons, des
+                        chausses à aiguillettes et des bottines ; il rêve la veille par où et
+                        comment il pourra se faire remarquer le jour qui suit. Un philosophe se
+                        laisse habiller par son tailleur : il y a autant de faiblesse à fuir la mode
+                        qu’à l’affecter.</p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
