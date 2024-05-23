@@ -7,7 +7,15 @@
                 <title/>
             </titleStmt>
             <editionStmt>
-                <edition/>
+                <edition/>                
+                <respStmt xml:id="ML">
+                    <name>Marine Larroque</name>
+                    <resp>Encodeuse du fichier 1</resp>
+                </respStmt>
+                <respStmt xml:id="SFD">
+                    <name>Sarah Fontaine-Demay</name>
+                    <resp>Encodeuse du fichier 2</resp>
+                </respStmt>
                 <respStmt xml:id="LL">
                     <name>Lisa Lesaffre</name>
                     <resp>Encodeuse et co-chargée de la réalisation du protocole d'encodage</resp>
@@ -43,6 +51,27 @@
                             <date when="1688"/>
                             <distributor select="#Gallica"/>
                             <link target="https://gallica.bnf.fr/ark:/12148/bpt6k105077m"/>
+                        </imprint>
+                        <imprint xml:id="Paris_ed1_ex2">
+                            <date when="1688"/>
+                            <distributor select="#Yale"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Lyon_ed1">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Première édition</edition>
+                        <editor>Thomas Amaulry, rue Merciere, au Mercure galant</editor>
+                        <imprint xml:id="Lyon_ed1_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575738"/>
+                        </imprint>
+                        <imprint xml:id="Lyon_ed1_ex2">
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
                         </imprint>
                     </monogr>
                     <monogr xml:id="Paris_1688_ed3">
@@ -238,6 +267,11 @@
                         Schuwey ; début d'encodage de la remarque 11 du chapitre "De la Mode" par
                         Lisa Lesaffre (copié-collé du squelette XML et de ladite remarque depuis le
                         fichier "caracteres.xml" sur Github).</date>
+                    <date when="2024-05-23">Ajouts de versions de la remarque 11 à éditer en
+                        fonction des exemplaires de la première édition. Écriture de variantes pour
+                        la première édition, ainsi qu'inscription d'exemplaires pour ladite édition.
+                        Correction de quelques suppressions superflues dans le teiheader.Ajout d'un
+                        pied-de-mouche devant la remarque.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -247,13 +281,26 @@
         <body>
             <div1 xml:id="M">
                 <head>De la Mode</head>
-                <div2 n="11[I]"
-                    source="#Paris_ed1 #Paris_ed3 #Paris_ed4 #Paris_ed5 #Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
-                    <p>Un homme fat et ridicule porte un long chapeau, un pourpoint à ailerons, des
-                        chausses à aiguillettes et des bottines ; il rêve la veille par où et
-                        comment il pourra se faire remarquer le jour qui suit. Un philosophe se
-                        laisse habiller par son tailleur : il y a autant de faiblesse à fuir la mode
-                        qu’à l’affecter.</p>
+                <div2 n="4[I]" source="#Paris_ed1">
+                    <p source="#Paris_ed1_ex1"><g ref="#Pied_de_mouche_seul"/>Un homme fat &amp;
+                        ridicule porte un long chapeau , un pourpoint à aîlerons, des chausses à
+                            éguillettes<note type="defaut_d_impression">le "é" dans "éguillettes"
+                            est mal imprimé</note> &amp; des bottines ; il réve la veille par où
+                        &amp; comment il pourra se faire remarquer le jour qui suit. Un Philosophe
+                        se laisse habiller par son Tailleur ; il y a autant de foiblesse à fuir la
+                        mode qu’à l’affecter<note type="defaut_d_impression">la boucle du premier
+                            "e" d'"affecter" est mal imprimé, ce qui lui fait ressembler à un
+                            "c".</note>.</p>
+                </div2>
+                <div2 n="4[I]" source="#Lyon_ed1">
+                    <p source="#Lyon_ed1_ex1"><g ref="#Pied_de_mouche_seul"/>Un homme fat &amp;
+                        ridicule porte un long chapeau , <note type="variation_typogr">on dirait que
+                            les espaces autour de la virgule précédente sont plus fines que dans les
+                            exemplaires de l'édition parisienne.</note>un pourpoint à aîlerons, des
+                        chaussettes à éguillettes &amp; des bottines ; il réve la veille par où
+                        &amp; comment il pourra se faire remarquer le jour qui suit. Un Philosophe
+                        se laisse habiller par son Tailleur ; il y a autant de foiblesse à fuir la
+                        mode qu’à l’affecter.</p>
                 </div2>
             </div1>
         </body>
