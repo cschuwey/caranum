@@ -272,6 +272,10 @@
                         la première édition, ainsi qu'inscription d'exemplaires pour ladite édition.
                         Correction de quelques suppressions superflues dans le teiheader.Ajout d'un
                         pied-de-mouche devant la remarque.</date>
+                    <date when="2024-05-24">Encodage de la remarque 81 (celle qui change de chapitre)
+                        par Léa Brossat, remarqueencodée telle qu'elle apparait la première fois
+                        dans les Caractères. Matérialisation de certains changements au niveau 
+                        graphie du texte brut.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -279,6 +283,17 @@
     <text>
         <front/>
         <body>
+            <div1 xml:id="SC">
+                <head>De la Société et de la Conversation</head>
+                <div2 n="81">
+                </div2>
+            </div1>
+            <div1 xml:id="G">
+                <head>Des Grands</head>
+                <div2 n="81" source="#Paris_1689_ed5_ex1">
+                    <p source="#Paris_1689_ed5_ex1"><g ref="#Pied_de_mouche_double"/>Des gens vous promettent le <choice><reg>s</reg><orig>ſ</orig></choice>ecret, <choice><reg>et</reg><orig>&amp;</orig></choice> ils le revelent eux-mêmes, <choice><reg>et</reg><orig>&amp;</orig></choice> à leur in<choice><reg>s</reg><orig>ſ</orig></choice>çû ; ils ne remüent pas les levres, <choice><reg>et</reg><orig>&amp;</orig></choice> on les entend, on lit <choice><reg>s</reg><orig>ſ</orig></choice>ur leur front, <choice><reg>et</reg><orig>&amp;</orig></choice> dans leurs yeux, on voit au travers de leur poitrine , ils <choice><reg>s</reg><orig>ſ</orig></choice>ont tran<choice><reg>s</reg><orig>ſ</orig></choice>parens : d'autres ne di<choice><reg>s</reg><orig>ſ</orig></choice>ent pas préci<choice><reg>s</reg><orig>ſ</orig></choice>ément une cho<choice><reg>s</reg><orig>ſ</orig></choice>e qui leur a e<choice><reg>s</reg><orig>ſ</orig></choice>té confiée , mais ils parlent <choice><reg>et</reg><orig>&amp;</orig></choice> agi<choice><reg>s</reg><orig>ſ</orig></choice><choice><reg>s</reg><orig>ſ</orig></choice>ent de maniere qu'on la découvre de <choice><reg>s</reg><orig>ſ</orig></choice>o<choice><reg>i</reg><orig>y</orig></choice>-me<choice><reg>s</reg><orig>ſ</orig></choice>me : enfin quelques-uns mépri<choice><reg>s</reg><orig>ſ</orig></choice> vo<choice><reg>s</reg><orig>ſ</orig></choice>tre <choice><reg>s</reg><orig>ſ</orig></choice>ecret de quelque con<choice><reg>s</reg><orig>ſ</orig></choice>equence qu'il pui<choice><reg>s</reg><orig>ſ</orig></choice><choice><reg>s</reg><orig>ſ</orig></choice>e e<choice><reg>s</reg><orig>ſ</orig></choice>tre , <seg>c'e<choice><reg>s</reg><orig>ſ</orig></choice>t un my<choice><reg>s</reg><orig>ſ</orig></choice>tere , un tel m'en a fait part <choice><reg>et</reg><orig>&amp;</orig></choice> ma deffendu de le dire</seg> , <choice><reg>et</reg><orig>&amp;</orig></choice> ils le di<choice><reg>s</reg><orig>ſ</orig></choice>ent.</p>
+                </div2>
+            </div1>
             <div1 xml:id="M">
                 <head>De la Mode</head>
                 <div2 n="4[I]" source="#Paris_ed1">
