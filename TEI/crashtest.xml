@@ -54,7 +54,11 @@
                         </imprint>
                         <imprint xml:id="Paris_ed1_ex2">
                             <date when="1688"/>
-                            <distributor select="#Yale"/>
+                            <distributor select="#Beinecke"/>
+                            <note resp="#LL">Exemplaire disponible dans le dossier de bibliographie
+                                matérielle du projet Caranum. Il faudrait une source internet de la
+                                numérisation en question, afin qu'elle soit accessible depuis le
+                                document XML.</note>
                         </imprint>
                     </monogr>
                     <monogr xml:id="Lyon_ed1">
@@ -69,10 +73,7 @@
                             <distributor select="#Gallica"/>
                             <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575738"/>
                         </imprint>
-                        <imprint xml:id="Lyon_ed1_ex2">
-                            <date when="1688"/>
-                            <distributor select="#Gallica"/>
-                        </imprint>
+                        <!-- Je me suis trompée, je n'ai pas trouvé de deuxième exemplaire de Lyon -->
                     </monogr>
                     <monogr xml:id="Paris_1688_ed3">
                         <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
@@ -86,6 +87,21 @@
                             <date when="1688"/>
                             <distributor select="#Gallica"/>
                             <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57572x"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1688_ed3_ex2">
+                            <classCode scheme="f">Res.986<note resp="#LL">Je ne suis pas sûre qu'il
+                                    s'agisse du bon numéro, mais la mention "Rés" me fait penser aux
+                                    mentions de "réserves" comme on peut les observer pour les
+                                    exemplaires cotés à la BnF. Je note donc cela comme une cotation
+                                    provisoire </note></classCode>
+                            <date when="1688"/>
+                            <distributor select="#Google_Books"/>
+                            <distributor select="#Université_Gand"/>
+                            <distributor>Se vend à <placeName>Bruxelles</placeName>chee Jean
+                                Leonard.</distributor>
+                            <link
+                                target="https://books.google.fr/books?id=t3FOAAAAcAAJ&amp;pg=PP7&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false"
+                            />
                         </imprint>
                     </monogr>
                     <monogr xml:id="Paris_1689_ed4">
@@ -101,7 +117,52 @@
                             <distributor>Gallica</distributor>
                             <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575649"/>
                         </imprint>
+                         <imprint xml:id="Paris_1689_ed4_ex2">
+                            <classCode scheme="f"/>
+                            <distributor select="Beinecke"/>
+                            <note resp="#LL">Exemplaire disponible dans le dossier de bibliographie
+                                matérielle du projet Caranum. Il faudrait une source internet de la
+                                numérisation en question, afin qu'elle soit accessible depuis le
+                                document XML.</note>
+                        </imprint>
                     </monogr>
+                    <monogr xml:id="Lyon_1689_ed4">
+                        <imprint xml:id="Lyon_1689_ed4_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57565n"/>
+                        </imprint>
+                        <imprint xml:id="Lyon_1689_ed4_ex2">
+                            <classCode scheme="f">810925</classCode>
+                            <date when="1689"/>
+                            <distributor>Numelyo, Bibliothèque numérique de Lyon</distributor>
+                            <link
+                                target="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100959613"/>
+                            <note resp="#LL">Très probablement le même exemplaire que celui présenté
+                                en couleur sur Google Books : cf les premières pages avec l'ex
+                                libris, ainsi que les marques manuscrites. De plus, Google Books
+                                indique que l'exemplaire appartient à la Bibliothèque Municipale de
+                                Lyon. La version en couleur sur Google Books est donc utile pour
+                                comprendre davantage le type de dégâts matériels qui ont pu affecter
+                                    l'exemplaire.<link
+                                    target="https://books.google.fr/books?amp;id=HP3rG8zzeEYC&amp;pg=PP5&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false"
+                                /></note>
+                        </imprint>
+                        <imprint xml:id="Lyon_1689_ed4_ex3">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor>The British Library</distributor>
+                            <distributor>Google Books</distributor>
+                            <link
+                                target="https://www.google.fr/books/edition/Les_Caract%C3%A8res_de_Th%C3%A9ophraste_traduits/5MBjAAAAcAAJ?amp;hl=fr&amp;gbpv=1"/>
+                            <note resp="#LL">Exemplaire reconnaissable avec le soulignement au
+                                crayon à papier sous le nom "Théophraste" sur la page de titre,
+                                ainsi que la note manuscrite "us", souligné et placé au-dessus du
+                                dernier "e" de "Théophraste", sur la même page.</note>
+                        </imprint>
+                    </monogr>
+                    <!--Je n'ai pas osé ajouter les exemplaires que j'ai utilisé parce que la numérotation que je leur ai donné est différente de celle présentée ici-->
                     <monogr xml:id="Paris_1690_ed5">
                         <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
                         <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
@@ -660,26 +721,159 @@
             </div1>
             <div1 xml:id="M">
                 <head>De la Mode</head>
-                <div2 n="4[I]" source="#Paris_ed1">
-                    <p source="#Paris_ed1_ex1"><g ref="#Pied_de_mouche_seul"/>Un homme fat &amp;
-                        ridicule porte un long chapeau , un pourpoint à aîlerons, des chausses à
-                            éguillettes<note type="defaut_d_impression">le "é" dans "éguillettes"
-                            est mal imprimé</note> &amp; des bottines ; il réve la veille par où
-                        &amp; comment il pourra se faire remarquer le jour qui suit. Un Philosophe
-                        se laisse habiller par son Tailleur ; il y a autant de foiblesse à fuir la
-                        mode qu’à l’affecter<note type="defaut_d_impression">la boucle du premier
-                            "e" d'"affecter" est mal imprimé, ce qui lui fait ressembler à un
-                            "c".</note>.</p>
+                <div2 n="4[I]" source="#Paris_ed1 #Lyon_ed1 #Paris_1688_ed3">
+                    <p
+                        source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2"
+                            ><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> ridicule port<damage agent="encre" source="Paris_1688_ed3_ex2"
+                                ><unclear reason="illegible"/>e</damage> un long chapeau<app>
+                            <lem wit="#Paris_ed1_ex1 #Paris_ed1_ex2 #Paris_1688_ed3_ex2"> </lem>
+                            <rdg wit="Lyon_ed1_ex1 #Paris_1688_ed3_ex1"/>
+                        </app>,<app>
+                            <lem wit="#Paris_ed1_ex1 #Paris_ed1_ex2 #Paris_1688_ed3_ex2"> </lem>
+                            <rdg wit="#Lyon_ed1_ex1 #Paris_1688_ed3_ex1"/>
+                        </app><app>
+                            <lem wit="#Paris_ed1_ex1 #Paris_ed1_ex2"> </lem>
+                            <rdg/>
+                        </app>un pourpoint à a<choice>
+                            <orig>î</orig>
+                            <reg>i</reg>
+                        </choice>lerons<app>
+                            <lem wit="#Paris_1688_ed3_ex2"> </lem>
+                            <rdg/>
+                        </app>, des chau<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e<app>
+                            <lem wit="#Lyon_ed1_ex1">ttes</lem>
+                            <rdg>s</rdg>
+                        </app> à <choice>
+                            <unclear reason="illegible" source="Paris_ed1_ex1"
+                                ><orig>é</orig></unclear>
+                            <reg>ai</reg>
+                        </choice>guillettes <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> des bottines ; il r<choice>
+                            <orig>é</orig>
+                            <reg>ê</reg>
+                        </choice>ve la veille par où <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> comment il pourra se faire rema<unclear reason="illegible"
+                            source="Paris_1688_ed3_ex1">r</unclear>quer le jour qui <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>uit. Un <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>hilo<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>ophe <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e lai<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e habiller par <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>on <choice>
+                            <orig>T</orig>
+                            <reg>t</reg>
+                        </choice>ailleur<app>
+                            <lem wit="#Paris_1688_ed3_ex2"/>
+                            <rdg> </rdg>
+                        </app> ;<app>
+                            <lem wit="#Paris_1688_ed3_ex2"/>
+                            <rdg> </rdg>
+                        </app> il y a autant de f<choice>
+                            <orig>oi</orig>
+                            <reg>ai</reg>
+                        </choice>ble<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e à fu<app>
+                            <lem wit="#Paris_1688_ed3_ex2">ï</lem>
+                            <rdg>i</rdg>
+                        </app>r la mode qu’à l’aff<unclear reason="illegible"
+                            source="#Paris_ed1_ex1">e</unclear>cter.</p>
                 </div2>
-                <div2 n="4[I]" source="#Lyon_ed1">
-                    <p source="#Lyon_ed1_ex1"><g ref="#Pied_de_mouche_seul"/>Un homme fat &amp;
-                        ridicule porte un long chapeau , <note type="variation_typogr">on dirait que
-                            les espaces autour de la virgule précédente sont plus fines que dans les
-                            exemplaires de l'édition parisienne.</note>un pourpoint à aîlerons, des
-                        chaussettes à éguillettes &amp; des bottines ; il réve la veille par où
-                        &amp; comment il pourra se faire remarquer le jour qui suit. Un Philosophe
-                        se laisse habiller par son Tailleur ; il y a autant de foiblesse à fuir la
-                        mode qu’à l’affecter.</p>
+                <div2 n="6[IV]"
+                    source="#Paris_1689_ed4 #Paris_1690_ed5">
+                    <p source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> ridicule porte un long chapeau<app>
+                            <lem/>
+                            <rdg
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                            > </rdg>
+                        </app>, un pourpoint à a<choice>
+                            <orig>î</orig>
+                            <reg>i</reg>
+                        </choice>lerons<app>
+                            <lem/>
+                            <rdg
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                            > </rdg>
+                        </app>, des chau<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>es à <choice>
+                            <orig>é</orig>
+                            <reg>ai</reg>
+                        </choice>guillettes <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> des bottines<app>
+                            <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2"> ;</lem>
+                            <rdg wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2">,</rdg>
+                            <rdg wit="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3">;</rdg>
+                        </app> il r<choice>
+                            <orig>é</orig>
+                            <reg>ê</reg>
+                        </choice>ve la veille par où <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> comment il pourra se faire remarquer le jour qui <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>uit.<app>
+                            <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"> </lem>
+                            <rdg wit="#Lyon_1689_ed4_ex1"/>
+                        </app>Un <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>hilosophe <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e lai<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e habiller par son <choice>
+                            <orig>t</orig>
+                            <reg>t</reg>
+                        </choice>ailleur <choice>
+                            <orig>;</orig>
+                            <reg>:</reg>
+                        </choice> il y a autant de f<choice>
+                            <orig>oi</orig>
+                            <reg>ai</reg>
+                        </choice>ble<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e à fu<app>
+                            <lem>i</lem>
+                            <rdg wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                >ï</rdg>
+                        </app>r la mode<app>
+                            <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2">,</lem>
+                            <rdg wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"> ,</rdg>
+                        </app> qu’à l’affecter.</p>
                 </div2>
             </div1>
         </body>
