@@ -749,7 +749,7 @@
             </div1>
             <div1 xml:id="M">
                 <head>De la Mode</head>
-                <div2 n="4[I]" source="#Paris_ed1 #Lyon_ed1 #Paris_1688_ed3">
+                <div2 n="4[I]" source="#Paris_ed1 #Lyon_ed1 #Paris_1688_ed3" xml:id="M_4a">
                     <p
                         source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2"
                             ><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
@@ -831,7 +831,7 @@
                             source="#Paris_ed1_ex1">e</unclear>cter.</p>
                 </div2>
                 <div2 n="6[IV]"
-                    source="#Paris_1689_ed4 #Paris_1690_ed5">
+                    source="#Paris_1689_ed4 #Paris_1690_ed5" ref="#M_4a">
                     <p source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
                             <orig>&amp;</orig>
                             <reg>et</reg>
