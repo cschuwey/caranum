@@ -431,6 +431,8 @@
                     <date when="2024-05-28">Rajouts de variations à la remarque 81 (fin édition 8 et
                         9). Rajouts d'exemplaires dans la bibliographie (selon la norme déjà
                         établie).</date>
+                    <date when="2024-05-28">Encodage de la remarque 51 du chapitre 9 "Des Grands" par Maxime Broca,
+                    remarque encodée telle qu'elle apparait la dans l'édition 7 de l'exemplaire #Lyon_1693_ed7.</date>
                     <date when="2024-05-29">Correction de quelques erreurs dans l'encodage des
                         variations de la remarque 81.</date>
                 </item>
@@ -717,6 +719,25 @@
                                 source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
                                 >celuy</orig>
                         </choice> qui l'a confié.</p>
+                </div2>
+                <div2 n="51[VI]" source="#Lyon_1693_ed7">
+                    <p source="#Lyon_1693_ed7"><g ref="#Pied_de_mouche_seul"/>
+                    Nous avons pour les Grands et<!--Esperluette--> pour les ge<!-- Tache d'encre -->ns en place une jalous<!-- S long -->ie s<!-- S long -->térile, ou
+                        une haine impuiss<!-- Deux S longs -->ante, qui ne nous vange point de leur s<!-- S long -->plendeur et de leur
+                        élevation, et<!--Esperluette--> qui ne fait qu’ajoûter à nôtre propre mis<!-- S long -->ère le poids
+                        ins<!-- S long -->upportable du bonheur d’autruy : que faire contre une maladie de l’ame s<!-- S long -->i
+                        inveterée et<!--Esperluette--> s<!-- S long -->i contagieus<!-- S long -->e ? Contentons-nous de peu, et<!--Esperluette--> de moins encore
+                        s’il es<!-- S long -->t poss<!-- Deux S longs -->ible ; s<!-- S long -->çachons perdre dans l’occas<!-- S long -->ion, la recette es<!-- S long -->t
+                        infaillible, et<!--Esperluette--> je cons<!-- S long -->ens à l’éprouver : j’évite par là d’apprivois<!-- S long -->er un
+                        Suiss<!-- Deux S longs -->e ou de flechir un Commis ; d’es<!-- S long -->tre repouss<!-- Deux S longs -->é à une porte par la foule
+                        -innombrable de cliens ou de Courtis<!-- S long -->ans dont la mais<!-- S long -->on d’un Minis<!-- S long -->tre s<!-- S long -->e
+                        dégorge plus<!-- S long -->ieurs fois le jour ; de languir dans s<!-- S long -->a s<!-- S long -->alle d’audience, de luy
+                        de-mander en tremblant et<!--Esperluette--> en balbutiant une chose jus<!-- S long -->te, d’ess<!-- Deux S longs -->uyer s<!-- S long -->a
+                        gravité et<!--Esperluette--> s<!-- S long -->on <!-- Italique -->Laconis<!-- S long -->me<!-- Italique --> ; alors je ne le haïs plus, je ne
+                        luy porte plus d’envie ; il ne me fait aucune prière, je ne luy en fais pas
+                        ; nous s<!-- S long -->ommes égaux, s<!-- S long -->i ce ne peut-es<!-- S long -->tre qu’il n’es<!-- S long -->t pas tran-quille, et<!--Esperluette-->
+                        que je le s<!-- S long -->uis.
+                    </p>
                 </div2>
             </div1>
             <div1 xml:id="M">
