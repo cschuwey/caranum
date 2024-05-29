@@ -385,96 +385,277 @@
             </div1>
             <div1 xml:id="G">
                 <head>Des Grands</head>
-                <div2 n="81" source="#Paris_1689_ed5_ex1">
-                    <p source="#Paris_1689_ed5_ex1"><g ref="#Pied_de_mouche_double"/>Des gens vous
-                        promettent le <choice>
+                <div2 n="81" source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1">
+                    <p source="#Paris_1690_ed5_ex1 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"><g ref="#Pied_de_mouche_double"
+                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"/><g
+                            ref="#Pied_de_mouche_seul"
+                            source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                        />Des gens vous promettent le <choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
                         </choice>ecret, <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
-                        </choice> ils le revelent eux-mêmes, <choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
+                        </choice> ils le <choice>
+                            <reg>révèlent</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >revelent</orig>
+                        </choice> eux-mêmes, <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
-                        </choice> à leur in<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>çû ; ils ne remüent pas les levres, <choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
+                        </choice> à leur <choice>
+                            <reg>insu</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >inſçû</orig>
+                        </choice> ; ils ne <choice>
+                            <reg>remuent</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                        >remüent</lem>
+                                    <rdg
+                                        source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1"
+                                        >remuënt</rdg>
+                                    <rdg source="#Paris_1694_ed8_ex1">remuent</rdg>
+                                </app></orig>
+                        </choice> pas les <choice>
+                            <reg>lèvres</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                        >levres</lem>
+                                    <rdg
+                                        source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >lévres</rdg>
+                                </app></orig>
+                        </choice>, <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
                         </choice> on les entend, on lit <choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
                         </choice>ur leur front, <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
                         </choice> dans leurs yeux, on voit au travers de leur poitrine , ils <choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>ont tran<choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
+                        </choice>ont <choice>
+                            <reg>transparents</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >tranſparens</orig>
+                        </choice> : d'autres ne di<choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>parens : d'autres ne di<choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
+                        </choice>ent pas <choice>
+                            <reg>précisément</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >préciſément</lem>
+                                    <rdg source="#Haye_1696_ed9_ex1">préciſement</rdg>
+                                </app></orig>
+                        </choice> une cho<choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>ent pas préci<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>ément une cho<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>e qui leur a e<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>té confiée , mais ils parlent <choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
+                        </choice>e qui leur a <choice>
+                            <reg>été</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                        >eſté</lem>
+                                    <rdg
+                                        source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >été</rdg>
+                                </app></orig>
+                        </choice> confiée , mais ils parlent <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
                         </choice> agi<choice>
                             <reg>ss</reg>
-                            <orig>ſſ</orig>
-                        </choice>ent de maniere qu'on la découvre de <choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſſ</orig>
+                        </choice>ent de <choice>
+                            <reg>manière</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >maniere</orig>
+                        </choice> qu'on la découvre<pb n="353"
+                            source="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"/> de <choice>
+                            <reg>soi-même</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                        >ſoy-meſme</lem>
+                                    <rdg
+                                        source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >ſoy-même</rdg>
+                                    <rdg
+                                        source="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >ſoy-méme</rdg>
+                                </app></orig>
+                        </choice> : enfin quelques-uns mépri<choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>o<choice>
-                            <reg>i</reg>
-                            <orig>y</orig>
-                        </choice>-me<choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
+                        </choice>ent <choice>
+                            <reg>votre</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                        >voſtre</lem>
+                                    <rdg
+                                        source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                        >vôtre</rdg>
+                                </app></orig>
+                        </choice>
+                        <choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>me : enfin quelques-uns mépri<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice> vo<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>tre <choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>ecret de quelque con<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>equence qu'il pui<choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
+                        </choice>ecret de quelque <choice>
+                            <reg>conséquence</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >conſequence</orig>
+                        </choice>
+                        <pb n="226" source="#Paris_1694_ed8_ex1"/>qu'il pui<choice>
                             <reg>ss</reg>
-                            <orig>ſſ</orig>
-                        </choice>e e<choice>
-                            <reg>s</reg>
-                            <orig>ſ</orig>
-                        </choice>tre , <seg>c'e<choice>
-                                <reg>s</reg>
-                                <orig>ſ</orig>
-                            </choice>t un my<choice>
-                                <reg>s</reg>
-                                <orig>ſ</orig>
-                            </choice>tere , un tel m'en a fait part <choice>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſſ</orig>
+                        </choice>e <choice>
+                            <reg>être</reg>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2"><app>
+                                    <lem
+                                        source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2"
+                                        >eſtre</lem>
+                                    <rdg source="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2">être</rdg>
+                                </app></orig>
+                        </choice> , <hi
+                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                            rend="italique"><choice>
+                                <reg>C'est</reg>
+                                <orig
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"><app>
+                                        <lem
+                                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2"
+                                            >c'eſt</lem>
+                                        <rdg source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1"
+                                            >C'eſt</rdg>
+                                    </app></orig>
+                            </choice> un <choice>
+                                <reg>mystère</reg>
+                                <orig
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"><app>
+                                        <lem
+                                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2"
+                                            >myſtere</lem>
+                                        <rdg source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1"
+                                            >miſtere</rdg>
+                                    </app></orig>
+                            </choice> , un tel m'en <app>
+                                <lem
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"
+                                    >a</lem>
+                                <rdg
+                                    source="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                    >à</rdg>
+                            </app> fait part <choice>
                                 <reg>et</reg>
-                                <orig>&amp;</orig>
-                            </choice> ma deffendu de le dire</seg> , <choice>
+                                <orig
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                    >&amp;</orig>
+                            </choice>
+                            <choice>
+                                <reg>m'a</reg>
+                                <orig
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"><app>
+                                        <lem
+                                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                            >ma</lem>
+                                        <rdg
+                                            source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                            >m'a</rdg>
+                                    </app></orig>
+                            </choice>
+                            <choice>
+                                <reg>défendu</reg>
+                                <orig
+                                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"><app>
+                                        <lem
+                                            source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                            >deffendu</lem>
+                                        <rdg
+                                            source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                            >défendu</rdg>
+                                    </app></orig>
+                            </choice> de le dire</hi> , <choice>
                             <reg>et</reg>
-                            <orig>&amp;</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >&amp;</orig>
                         </choice> ils le di<choice>
                             <reg>s</reg>
-                            <orig>ſ</orig>
+                            <orig
+                                source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſ</orig>
                         </choice>ent.</p>
+                    <p>Toute <choice>
+                            <reg>révélation</reg>
+                            <orig
+                                source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >revelation</orig>
+                        </choice> d'un <choice>
+                            <reg>secret</reg>
+                            <orig
+                                source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >ſecret</orig>
+                        </choice>
+                        <choice>
+                            <reg>est</reg>
+                            <orig
+                                source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >eſt</orig>
+                        </choice> la faute de <choice>
+                            <reg>celui</reg>
+                            <orig
+                                source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1"
+                                >celuy</orig>
+                        </choice> qui l'a confié.</p>
                 </div2>
             </div1>
             <div1 xml:id="M">
