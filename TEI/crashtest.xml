@@ -416,15 +416,19 @@
                     <date when="2024-05-23">Ajouts de versions de la remarque 11 à éditer en
                         fonction des exemplaires de la première édition. Écriture de variantes pour
                         la première édition, ainsi qu'inscription d'exemplaires pour ladite édition.
-                        Correction de quelques suppressions superflues dans le teiheader.Ajout d'un
+                        Correction de quelques suppressions superflues dans le teiheader. Ajout d'un
                         pied-de-mouche devant la remarque.</date>
                     <date when="2024-05-24">Encodage de la remarque 81 (celle qui change de
                         chapitre) par Léa Brossat, remarque encodée telle qu'elle apparait la
                         première fois dans les Caractères. Matérialisation de certains changements
                         au niveau graphie du texte brut.</date>
+                    <date when="2024-05-24">Ajout de variantes en fonction des éditions 1 et
+                        3 pour la remarque 11 par Lisa Lesaffre.</date>
                     <date when="2024-05-27">Rajouts de variations à la remarque 81 (éditions 5 et
                         6). Rajouts d'exemplaires dans la bibliographie (selon la norme déjà
                         établie).</date>
+                    <date when="2024-05-27">Ajout de variantes orthographiques et typographiques à
+                        travers les balises choice dans la remarque 11.</date>
                     <date when="2024-05-28">Rajouts de variations à la remarque 81 (édition 7 et une
                         partie des 8). Rajouts d'exemplaires dans la bibliographie (selon la norme
                         déjà établie).</date>
@@ -433,6 +437,9 @@
                         établie).</date>
                     <date when="2024-05-28">Encodage de la remarque 51 du chapitre 9 "Des Grands" par Maxime Broca,
                     remarque encodée telle qu'elle apparait la dans l'édition 7 de l'exemplaire #Lyon_1693_ed7.</date>
+                    <date when="2024-05-28">Correction pour distinguer les app des choice et les wit
+                        des sources (selon mes moyens) dans la remarque 11, et ajout de variantes en fonction des éditions
+                        4 et 5. Ajout de références bibliographiques</date>
                     <date when="2024-05-29">Correction de quelques erreurs dans l'encodage des
                         variations de la remarque 81.</date>
                 </item>
