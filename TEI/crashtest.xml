@@ -357,6 +357,7 @@
                     <person xml:id="Dracon"/>
                     <person xml:id="Philibert"/>
                     <person xml:id="Beauchamps"/>
+                    <person xml:id="Aubigny"/>
                     <person xml:id="Roi">
                         <occupation>Roi de France</occupation>
                         <name>Louis XIV</name>
@@ -457,6 +458,24 @@
                         remarque 11 (remarque 4 dans la première édition). Ajout de balises ref et
                         d'un attribut xml:id pour la remarque et ses différentes versions entre les
                         éditions. Début d'encodage des balises term.</date>
+                    <date when="2024-05-30" resp="#LL">Ajout de variations dans les éditions 6 et 7,
+                        8, suppression de l'élément ref et remplacement par l'attribut "corresp"
+                        dans le div 2.</date>
+                    <date when="2024-05-31" resp="#LL">Ajout de variations d'exemplaires de
+                        l'édition 8, début d'encodage de la remarque 29 du chapitre "Des
+                        Femmes"(code repris depuis le document "caracteres.xml"), retrait de
+                        certains attributs type dans les éléments notes, et qui ne faisaient pas
+                        fonctionner Oxygen (prise de note manuscrite des attributs en question pour
+                        les restaurer en cas de possibilité de restauration).</date>
+                    <date when="2024-06-03" resp="#LL">Début d'encodage des clés et notes
+                        manuscrites de la remarque 29 du chapitre "Des Femmes" et dans la remarque
+                        11 du chapitre "De la Mode". Début de transcription de notes manuscrites pour
+                        lesdites remarques. Début d'encodage des variantes selon quelques
+                        exemplaires pour la remarque 29 du chapitre "Des Femmes". Insertion du texte
+                        des remarques 14 et 15 du chapitre "De la Mode" en vue d'en encoder des
+                        notes imprimées et/ou manuscrites, ainsi que des clés et des variations de
+                        type choice (texte copié depuis "caracteres.xml" sur le github du
+                        projet.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -464,6 +483,94 @@
     <text>
         <front/>
         <body>
+            <div1 xml:id="F">
+                <head>Des Femmes</head>
+                <div2 n="29 30" source="#Paris_1696_ed9">
+                    <p><g ref="#Pied_de_mouche_seul" source="#Paris_1696_ed9"/>Le rebut de la <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Cour">cour</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Cour">Cour</placeName></rdg>
+                        </app> est reçu à la <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
+                                >Ville</placeName></rdg>
+                        </app> dans une <term>ruelle</term>, où il défait le <app>
+                            <lem wit="#Paris_ed2017">magistrat</lem>
+                            <rdg wit="#Paris_1696_ed9">Magistrat</rdg>
+                        </app> même en cravate et en habit gris, ainsi que le bourgeois en
+                            <term>baudrier</term>, les écarte et devient maître de la place : il est
+                        écouté, il est aimé ; on ne tient guère plus d’un moment contre une écharpe
+                        d’or et une plume blanche, contre un homme qui parle au <persName ref="#Roi"
+                            >Roi</persName> et voit les ministres . <pb n="54"
+                            source="#Paris_1696_ed9"/> Il fait des jaloux et des jalouses : on
+                        l’admire, il fait envie : à quatre <term>lieues</term> de là, il fait
+                        pitié.</p>
+                    <p>Un homme de la <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
+                                >Ville</placeName></rdg>
+                        </app> est pour une femme de <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Province"
+                                >province</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Province"
+                                    >Province</placeName></rdg>
+                        </app> ce qu’est pour une femme de <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
+                                >Ville</placeName></rdg>
+                        </app> un homme de la <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Cour">cour</placeName></lem>
+                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Cour">Cour</placeName></rdg>
+                        </app>.</p>
+                </div2>
+
+
+                <div2 n="29"
+                    source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10">
+                    <p><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1689_ed4 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"/>
+                        <g ref="#Pied_de_mouche_simple" source="#Paris_1689_ed5"/> Le rebut de la <app>
+                            <lem wit="#Paris_ed2017"><placeName ref="#Cour">cour</placeName></lem>
+                            <rdg
+                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                    ><placeName ref="#Cour">Cour</placeName></rdg>
+                        </app> est reçu à la <note source="#Paris_1694_ed8_ex1"
+                            resp="#Proprietaire-edition" place="right" type="ms" hand="Inconnu">Le
+                            comte d'Aubigny</note><app>
+                            <lem wit="#Paris_ed2017"><placeName>ville</placeName></lem>
+                            <rdg
+                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                    ><placeName ref="#Ville">Ville</placeName></rdg>
+                        </app> dans une <term>ruelle</term>, où il défait le <app>
+                            <lem wit="#Paris_ed2017"><roleName>magistrat</roleName></lem>
+                            <rdg
+                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                    ><roleName>Magistrat</roleName></rdg>
+                        </app> même en cravate et en habit gris, ainsi que le <app>
+                            <lem wit="#Paris_ed2017"><roleName>bourgeois</roleName></lem>
+                            <rdg
+                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                    ><roleName>Bourgeois</roleName></rdg>
+                        </app> en baudrier, <pb n="129" source="#Paris_1689_ed4"/>
+                        <app>
+                            <lem wit="#Paris_ed2017"/>
+                            <rdg source="#Paris_1689_ed4"><term>baudrier</term>,<note type="ed"
+                                    resp="#SFD">répétition du dernier mot de la page précédente au
+                                    début de la page suivante</note></rdg>
+                        </app> les écarte et devient maître de la place : il est écouté, il est aimé
+                        ; on ne tient guère plus d’un moment contre une écharpe d’or et une plume
+                        blanche, contre un homme qui parle au <persName>Roi</persName> et voit les <app>
+                            <lem wit="#Paris_ed2017"><roleName>ministres</roleName></lem>
+                            <rdg
+                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                    ><roleName>Ministres</roleName></rdg>
+                        </app> . Il fait des jaloux et des jalouses : on l’admire, il fait envie : à
+                        quatre <term>lieues</term> de là, il fait pitié. <note
+                            source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="right"
+                            type="ms" hand="Inconnu">A Versailles ou <unclear reason="illegible"/>
+                            La <placeName ref="#Cour">cour</placeName></note>
+                    </p>
+                </div2>
+            </div1>
             <div1 xml:id="SC">
                 <head>De la Société et de la Conversation</head>
                 <div2 n="81"> </div2>
@@ -848,133 +955,277 @@
                         </app>r la mode qu’à l’aff<unclear reason="illegible"
                             source="#Paris_ed1_ex1">e</unclear>cter.</p>
                 </div2>
-                <div2 n="6[IV]" source="#Paris_1689_ed4 #Paris_1690_ed5">
+                <div2 n="6[IV]" source="#Paris_1689_ed4 #Paris_1690_ed5" corresp="#ch13_r4">
                     <p source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2
                         #Lyon_1689_ed4 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2
                         #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                            ><ref target="#ch13_r4"><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
-                                <orig>&amp;</orig>
-                                <reg>et</reg>
-                            </choice> ridicule porte un long chapeau<app>
-                                <lem/>
-                                <rdg
-                                    wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                                > </rdg>
-                            </app>, un <term>pourpoint</term> à a<choice>
-                                <orig>î</orig>
-                                <reg>i</reg>
-                            </choice>lerons<app>
-                                <lem/>
-                                <rdg
-                                    wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                                > </rdg>
-                            </app>, des <term>chau<choice>
-                                    <orig>ſſ</orig>
-                                    <reg>ss</reg>
-                                </choice>es</term> à <choice>
-                                <orig>é</orig>
-                                <reg>ai</reg>
-                            </choice>guillettes <choice>
-                                <orig>&amp;</orig>
-                                <reg>et</reg>
-                            </choice> des bottines<app>
-                                <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2"> ;</lem>
-                                <rdg wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2">,</rdg>
-                                <rdg
-                                    wit="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                                    >;</rdg>
-                            </app> il r<choice>
-                                <orig>é</orig>
-                                <reg>ê</reg>
-                            </choice>ve la veille par où <choice>
-                                <orig>&amp;</orig>
-                                <reg>et</reg>
-                            </choice> comment il pourra se faire remarquer le jour qui <choice>
-                                <orig>ſ</orig>
-                                <reg>s</reg>
-                            </choice>uit.<app>
-                                <lem
-                                    wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"> </lem>
-                                <rdg wit="#Lyon_1689_ed4_ex1"/>
-                            </app>Un <choice>
-                                <orig>P</orig>
-                                <reg>p</reg>
-                            </choice>hilosophe <choice>
-                                <orig>ſ</orig>
-                                <reg>s</reg>
-                            </choice>e lai<choice>
+                            ><g ref="#Pied_de_mouche_seul"/>Un homme fat <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> ridicule porte un long chapeau<app>
+                            <lem/>
+                            <rdg
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                            > </rdg>
+                        </app>, un <term>pourpoint</term> à a<choice>
+                            <orig>î</orig>
+                            <reg>i</reg>
+                        </choice>lerons<app>
+                            <lem/>
+                            <rdg
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                            > </rdg>
+                        </app>, des <term>chau<choice>
                                 <orig>ſſ</orig>
                                 <reg>ss</reg>
-                            </choice>e habiller par son <choice>
-                                <orig>t</orig>
-                                <reg>t</reg>
-                            </choice>ailleur <choice>
-                                <orig>;</orig>
-                                <reg>:</reg>
-                            </choice> il y a autant de f<choice>
-                                <orig>oi</orig>
-                                <reg>ai</reg>
-                            </choice>ble<choice>
-                                <orig>ſſ</orig>
-                                <reg>ss</reg>
-                            </choice>e à fu<app>
-                                <lem>i</lem>
-                                <rdg
-                                    wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                                    >ï</rdg>
-                            </app>r la mode<app>
-                                <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2">,</lem>
-                                <rdg
-                                    wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
-                                    > ,</rdg>
-                            </app> qu’à l’affecter.</ref></p>
+                            </choice>es</term> à <choice>
+                            <orig>é</orig>
+                            <reg>ai</reg>
+                        </choice>guillettes <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> des bottines<app>
+                            <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2"> ;</lem>
+                            <rdg wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2">,</rdg>
+                            <rdg wit="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                >;</rdg>
+                        </app> il r<choice>
+                            <orig>é</orig>
+                            <reg>ê</reg>
+                        </choice>ve la veille par où <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> comment il pourra se faire remarquer le jour qui <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>uit.<app>
+                            <lem
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"> </lem>
+                            <rdg wit="#Lyon_1689_ed4_ex1"/>
+                        </app>Un <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>hilosophe <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e lai<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e habiller par son <choice>
+                            <orig>t</orig>
+                            <reg>t</reg>
+                        </choice>ailleur <choice>
+                            <orig>;</orig>
+                            <reg>:</reg>
+                        </choice> il y a autant de f<choice>
+                            <orig>oi</orig>
+                            <reg>ai</reg>
+                        </choice>ble<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e à fu<app>
+                            <lem>i</lem>
+                            <rdg
+                                wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                >ï</rdg>
+                        </app>r la mode<app>
+                            <lem wit="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2">,</lem>
+                            <rdg
+                                wit="#Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"
+                                > ,</rdg>
+                        </app> qu’à l’affecter.</p>
                 </div2>
-                <div2 n="11[VI]"
+                <div2 n="11[VI]" corresp="#ch13_r4"
                     source="#Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><ref target="#ch13_r4">Un homme fat <choice>
+                    <p><g ref="#Pied_de_mouche_seul"/><seg><note source="#Lyon_1694_ed8_ex2"
+                                place="right" type="ms" hand="Inconnu">Mr. Bourlon</note>
+                            <note source="#Paris_1694_ed8_ex1" place="left" type="ms" hand="Inconnu"
+                                >M. de Bourlon, ? de feu Mlle de Guize.</note> Un homme fat <choice>
                                 <orig>&amp;</orig>
                                 <reg>et</reg>
-                            </choice> ridicule porte un long chapeau, un <term>pourpoint</term> à a<choice>
-                                <orig>î</orig>
-                                <reg>i</reg>
-                            </choice>lerons, des <term>chau<choice>
-                                    <orig>ſſ</orig>
-                                    <reg>ss</reg>
-                                </choice>es</term> à <choice>
-                                <orig>é</orig>
-                                <reg>ai</reg>
-                            </choice>guillettes <choice>
-                                <orig>&amp;</orig>
-                                <reg>et</reg>
-                            </choice> des bottines ; il r<choice>
-                                <orig>é</orig>
-                                <reg>ê</reg>
-                            </choice>ve la veille par où <choice>
-                                <orig>&amp;</orig>
-                                <reg>et</reg>
-                            </choice> comment il pourra se faire remarquer le jour qui <choice>
-                                <orig>ſ</orig>
-                                <reg>s</reg>
-                            </choice>uit. Un <choice>
-                                <orig>P</orig>
-                                <reg>p</reg>
-                            </choice>hilosophe <choice>
-                                <orig>ſ</orig>
-                                <reg>s</reg>
-                            </choice>e lai<choice>
+                            </choice> ridicule</seg> porte un long chapeau<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3
+                                #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                                >,</rdg>
+                            <rdg wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 
+                                    #Paris_1694_ed8_ex1"> , </rdg>
+                        </app>un <term>pourpoint</term> à a<choice>
+                            <orig>î</orig>
+                            <reg>i</reg>
+                        </choice>lerons<app>
+                            <lem wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2">, </lem>
+                            <rdg wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 
+                                #Paris_1694_ed8_ex1"> , </rdg>
+                        </app>des <term>chau<choice>
                                 <orig>ſſ</orig>
                                 <reg>ss</reg>
-                            </choice>e habiller par son <choice>
-                                <orig>T</orig>
-                                <reg>t</reg>
-                            </choice>ailleur : il y a autant de f<choice>
-                                <orig>oi</orig>
-                                <reg>ai</reg>
-                            </choice>ble<choice>
-                                <orig>ſſ</orig>
-                                <reg>ss</reg>
-                            </choice>e à fuir la mode qu’à l’affecter.</ref>
-                    </p>
+                            </choice>es</term> à <app>
+                            <lem/>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 
+                                    #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                            > </rdg>
+                        </app><choice>
+                            <orig>é</orig>
+                            <reg>ai</reg>
+                        </choice>gu<unclear reason="illegible" source="#Paris_1694_ed8_ex1"
+                            >i</unclear>lle<app>
+                            <lem>tt</lem>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex2"
+                                >t</rdg>
+                        </app>es <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice><app>
+                            <lem/>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 
+                                #Lyon_1693_ed7_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                            > </rdg>
+                        </app> des bottines<app>
+                            <lem wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 
+                                #Paris_1694_ed8_ex1"> ; </lem>
+                            <rdg wit="#Paris_1692_ed7_ex1">; </rdg>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 
+                                #Lyon_1694_ed8_ex2">;</rdg>
+                        </app>il r<choice>
+                            <orig>é</orig>
+                            <reg>ê</reg>
+                        </choice>ve<app>
+                            <lem/>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3"
+                            > </rdg>
+                        </app> la veille par <app>
+                            <lem/>
+                            <rdg wit="#Paris_1694_ed8_ex1"> </rdg>
+                        </app>où <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> comment il <app>
+                            <lem/>
+                            <rdg wit="#Paris_1694_ed8_ex1"> </rdg>
+                        </app>pourra<app>
+                            <lem/>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                            > </rdg>
+                        </app> se faire remarquer le<app>
+                            <lem/>
+                            <rdg wit="#Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"> </rdg>
+                        </app> jour qui <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>uit.<app>
+                            <lem> </lem>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"/>
+                        </app>Un <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>h<app>
+                            <lem>ilo<choice>
+                                    <orig>ſ</orig>
+                                    <reg>s</reg>
+                                </choice>ophe</lem>
+                            <rdg wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2">lo<choice>
+                                    <orig>ſ</orig>
+                                    <reg>s</reg>
+                                </choice>ophe</rdg>
+                        </app><app>
+                            <lem wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"> </lem>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3"/>
+                        </app><choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e<app>
+                            <lem wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"/>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex3
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                            > </rdg>
+                        </app> lai<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e habiller par son <choice>
+                            <orig>T</orig>
+                            <reg><app>
+                                    <rdg
+                                        wit="#Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex2"
+                                        >t</rdg>
+                                </app></reg>
+                        </choice>ailleur<app>
+                            <lem> : </lem>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 
+                                #Lyon_1693_ed7_ex1
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                                >;</rdg>
+                            <rdg wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2
+                                #Paris_1694_ed8_ex1"> ; </rdg>
+                        </app>il y a autant de f<choice>
+                            <orig>oi</orig>
+                            <reg>ai</reg>
+                        </choice>ble<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>e à f<choice>
+                            <orig>ï</orig>
+                            <reg>i</reg>
+                        </choice>r la mode<app>
+                            <lem> , </lem>
+                            <rdg wit="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 
+                                #Lyon_1693_ed7_ex1 #Paris_1692_ed7_ex2
+                                #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"
+                                >,</rdg>
+                            <rdg wit="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2
+                                #Paris_1694_ed8_ex1"> </rdg>
+                        </app>qu'à l’affecter.</p>
+                </div2>
+                <div2 n="14[VI]" source="#Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
+                    <p>Iphis voit à l’église un <term>soulier</term> d’une nouvelle mode ; il
+                        regarde le sien et en rougit ; il ne se croit plus habillé. Il était venu à
+                        la <term>messe</term> pour s’y montrer, et il se cache ; le voilà retenu par
+                        le pied dans sa <term>chambre</term>tout le reste du jour. Il a la main
+                        douce, et il l’entretien avec une pâte de senteur ; il a soin de rire pour
+                        montrer ses dents ; il fait la petite bouche, et il n’y a guère de moments
+                        où il ne veuille sourire ; il regarde ses jambes, et se voit au miroir :
+                        l’on ne peut être plus content de personne qu’il l’est de lui-même ; il
+                        s’est acquis une voix claire et délicate, et heureusement il parle gras ; il
+                        a un mouvement de tête, et je ne sais quel adoucissement dans les yeux, dont
+                        il n’oublie pas de s’embellir ; il a une démarche molle et le plus joli
+                        maintien qu’il est capable de se procurer ; il met du rouge, mais rarement,
+                        il n’en fait pas habitude. Il est vrai aussi qu’il porte des chausses et un
+                        chapeau, et qu’il n’a ni boucles d’oreilles ni collier de perles ; aussi ne
+                        l’ai-je pas mis dans le chapitre des femmes.</p>
+                </div2>
+                <div2 n="15[VI]" source="#Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
+                    <p>Ces mêmes modes que les hommes suivent si volontiers pour leurs personnes,
+                        ils affectent de les négliger dans leurs portraits, comme s’ils sentaient ou
+                        qu’ils prévissent l’indécence et le ridicule où elles peuvent tomber dès
+                        qu’elles auront perdu ce qu’on appelle la fleur ou l’agrément de la
+                        nouveauté ; ils leur préfèrent une parure arbitraire, une draperie
+                        indifférente, fantaisie du peintre qui ne sont prises ni sur l’air ni sur le
+                        visage, qui ne rappellent ni les mœurs ni la personne. Ils aiment des
+                        attitudes forcées ou immodestes, une manière dure, sauvage, étrangère, qui
+                        font un <term>capitan</term> d’un jeune abbé, et un <term>matamore</term>
+                        d’un homme de robe ; une <term>Diane</term> d’une femme de ville ; comme
+                        d’une femme simple et timide une amazone ou une <term>Pallas</term> ; une
+                            <term>Laïs</term> d’une honnête fille ; un <term>Scythe</term>, un
+                            <term>Attila</term>, d’un prince qui est bon et magnanime.</p>
+                    <p>Une mode a à peine détruit une autre mode, qu’elle est abolie par une plus
+                        nouvelle, qui cède elle-même à celle qui la suit, et qui ne sera pas la
+                        dernière : telle est notre <term>légèreté</term>. Pendant ces révolutions,
+                        un siècle s’est écoulé, qui a mis toutes ces parures au rang des choses
+                        passées et qui ne sont plus. La mode alors la plus curieuse et qui fait plus
+                        de plaisir à voir, c’est la plus ancienne : aidée du temps et des années,
+                        elle a le même agrément dans les portraits qu’a la <term>saye</term> ou
+                        l’habit romain sur les théâtres, qu’on la <term>mante</term>, le
+                            <term>voile</term> et la <term>tiare</term> dans nos tapisseries et dans
+                        nos peintures.</p>
+                    <p>Nos pères nous ont transmis, avec la connaissance de leurs personnes, celle
+                        de leurs habits, de leurs coiffures, de leurs armes, et des autres ornements
+                        qu’ils ont aimés pendant leur vie. Nous ne saurions bien reconnaître cette
+                        sorte de bienfait qu’en traitant de même nos descendants.</p>
                 </div2>
             </div1>
         </body>
