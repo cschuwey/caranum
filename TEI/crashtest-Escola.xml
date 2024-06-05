@@ -493,6 +493,9 @@
                         projet.</date>
                     <date when="2024-06-04" resp="#LB">Début d'encodage du déplacement des remarques dans un chapitre et en dehors d'un chapitre.</date>
                     <date when="2024-06-05" resp="#LB">Continuation de l'encodage des déplacements d'éléments.</date>
+                     <date when="2024-06-05" resp="#LL">Début d'encodage de déplacement de remarques
+                        et de paragraphes : test pour l'identification des paragraphes avec le
+                        xml:id, dans le cas d'une dissociation de paragraphes.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -500,6 +503,42 @@
     <text>
         <front/>
         <body>
+            <div1 xml:id="F">
+                <head>Des Femmes</head>
+                <!--Test d'identification de paragraphes devenant des remarques dans une autre édition
+                    (dissociation des paragraphes de la remarque 19 de l'édition 1, selon l'exemple donné
+                    par Escola), avec d'autres remarques de contextualisation issues de la première édition-->
+                <div2 n="18" xml:id="ch3_r34" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>Pour les femmes du monde, un jardinier est un
+                        jardinier , et un maçon est un maçon ; pour quelques autres plus retirées,
+                        un maçon est un homme, un jardinier est un homme. Tout est tentation à qui
+                        la craint.</p>
+                </div2>
+                <div2 n="19" xml:id="ch3_r35" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <!--Je tiens à faire remarquer que l'élément g risque de poser problème, si certains paragraphes devenant des
+                    remarques dans d'autres éditions n'ont pas de pied de mouche : en effet, l'exportation ne pourra pas afficher le pied de mouche
+                    s'il n'est pas codé dans la première itération du paragraphe dissocié devenu remarque, à moins que l'on ne fasse une commande
+                    spéciale pour ajouter le pied de mouche avant le contenu du paragraphe référencé avec "corresp" dans le codage XSL-->
+                    <p xml:id="ch3_r35_p1"><g ref="#Pied_de_mouche_seul"/>Si le confesseur et le
+                        directeur ne conviennent point sur une règle de conduite, qui sera le tiers
+                        qu’une femme prendra pour sur-arbitre ?</p>
+                    <p xml:id="ch3_r35_p2">Le capital pour une femme n’est pas d’avoir un directeur
+                        , mais de vivre si uniment qu’elle s’en puisse passer.</p>
+                    <p xml:id="ch3_r35_p3">Si une femme pouvait dire à son confesseur , avec ses
+                        autres faiblesses, celles qu’elle a pour son directeur ; et le temps qu’elle
+                        perd dans son entretien, peut-être lui serait-il donné pour pénitence d’y
+                        renoncer.</p>
+                </div2>
+                <div2 n="20" xml:id="ch3_r36" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>C’est trop contre un mari d’être coquette et
+                        dévote ; une femme devrait opter.</p>
+                </div2>
+<!--Il me semble qu'Escola écrit que ces remarques sont les remarques 37 à 39 dans l'édition 4, or en comptant dans l'exemplaire cité,
+                J'ai trouvé une autre numérotation-->
+                <div2 n="36" xml:id="ch3_28" corresp="ch3_r35_p1" source="#Paris_1689_ed4_ex1"/>
+                <div2 n="36" xml:id="ch3_29" corresp="ch3_r35_p2" source="#Paris_1689_ed4_ex1"/>
+                <div2 n="36" xml:id="ch3_30" corresp="ch3_r35_p3" source="#Paris_1689_ed4_ex1"/>
+            </div1>
             <div1>
                 
             </div1>
