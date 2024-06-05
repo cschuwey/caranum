@@ -488,42 +488,100 @@
                 <div2 n="29 30" source="#Paris_1696_ed9">
                     <p><g ref="#Pied_de_mouche_seul" source="#Paris_1696_ed9"/>Le rebut de la <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Cour">cour</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Cour">Cour</placeName></rdg>
-                        </app> est reçu à la <app>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName ref="#Cour"
+                                    >Cour</placeName></rdg>
+                        </app> e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t reç<choice>
+                            <orig source="#Paris_1696_ed9_ex1">û</orig>
+                            <reg>u</reg>
+                        </choice> à la <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
-                                >Ville</placeName></rdg>
-                        </app> dans une <term>ruelle</term>, où il défait le <app>
-                            <lem wit="#Paris_ed2017">magistrat</lem>
-                            <rdg wit="#Paris_1696_ed9">Magistrat</rdg>
-                        </app> même en cravate et en habit gris, ainsi que le bourgeois en
-                            <term>baudrier</term>, les écarte et devient maître de la place : il est
-                        écouté, il est aimé ; on ne tient guère plus d’un moment contre une écharpe
-                        d’or et une plume blanche, contre un homme qui parle au <persName ref="#Roi"
-                            >Roi</persName> et voit les ministres . <pb n="54"
-                            source="#Paris_1696_ed9"/> Il fait des jaloux et des jalouses : on
-                        l’admire, il fait envie : à quatre <term>lieues</term> de là, il fait
-                        pitié.</p>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName ref="#Ville"
+                                    >Ville</placeName></rdg>
+                        </app> dans une <term>ruelle</term><app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1696_ed9_ex1"> , </rdg>
+                        </app>où il défait le <app>
+                            <lem wit="#Paris_ed2017">magi<choice>
+                                    <orig>ſ</orig>
+                                    <reg>s</reg>
+                                </choice>trat</lem>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1">Magi<choice>
+                                    <orig>ſ</orig>
+                                    <reg>s</reg>
+                                </choice>trat</rdg>
+                        </app> même en cravate <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> en habit gris, ainsi que le bourgeois en <term>baudrier</term> ,
+                        les écarte , <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> devient maître de la place : il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t écouté, il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t aimé ; on ne tient gu<choice>
+                            <orig>e</orig>
+                            <reg>è</reg>
+                        </choice>re plus d’un moment contre une écharpe d’or <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> une plume blanche, contre un homme qui <hi rend="italique">parle
+                            au <persName ref="#Roi">Roi</persName>
+                            <choice>
+                                <orig>&amp;</orig>
+                                <reg>et</reg>
+                            </choice> voit les mini<choice>
+                                <orig>ſ</orig>
+                                <reg>s</reg>
+                            </choice>tres</hi>. <pb n="54" source="#Paris_1696_ed9"/> Il fait des
+                        jaloux <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> des jalouses<app>
+                            <lem> : </lem>
+                            <rdg wit="#Paris_1696_ed9_ex1">, </rdg>
+                        </app>on l’admire, il fait envie<app>
+                            <lem>:</lem>
+                            <rdg wit="#Paris_1696_ed9_ex1"> ; </rdg>
+                        </app>à quatre <term>lieu<choice>
+                                <orig>ë</orig>
+                                <reg>e</reg>
+                            </choice>s</term> de là<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1696_ed9_ex1"> </rdg>
+                        </app>il fait pitié.</p>
                     <p>Un homme de la <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
-                                >Ville</placeName></rdg>
-                        </app> est pour une femme de <app>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName ref="#Ville"
+                                    >Ville</placeName></rdg>
+                        </app> e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t pour une femme de <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Province"
                                 >province</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Province"
-                                    >Province</placeName></rdg>
-                        </app> ce qu’est pour une femme de <app>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName
+                                    ref="#Province">Province</placeName></rdg>
+                        </app> ce qu’e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t pour une femme de <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Ville">ville</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Ville"
-                                >Ville</placeName></rdg>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName ref="#Ville"
+                                    >Ville</placeName></rdg>
                         </app> un homme de la <app>
                             <lem wit="#Paris_ed2017"><placeName ref="#Cour">cour</placeName></lem>
-                            <rdg wit="#Paris_1696_ed9"><placeName ref="#Cour">Cour</placeName></rdg>
+                            <rdg wit="#Paris_1696_ed9 #Paris_1696_ed9_ex1"><placeName ref="#Cour"
+                                    >Cour</placeName></rdg>
                         </app>.</p>
+
                 </div2>
-
-
                 <div2 n="29"
                     source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10">
                     <p><g ref="#Pied_de_mouche_seul"
@@ -533,41 +591,98 @@
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
                                     ><placeName ref="#Cour">Cour</placeName></rdg>
-                        </app> est reçu à la <note source="#Paris_1694_ed8_ex1"
+                        </app> e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t reç<choice>
+                            <orig>û</orig>
+                            <reg>u</reg>
+                        </choice>u à la <note source="#Paris_1694_ed8_ex1"
                             resp="#Proprietaire-edition" place="right" type="ms" hand="Inconnu">Le
                             comte d'Aubigny</note><app>
                             <lem wit="#Paris_ed2017"><placeName>ville</placeName></lem>
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
                                     ><placeName ref="#Ville">Ville</placeName></rdg>
-                        </app> dans une <term>ruelle</term>, où il défait le <app>
+                        </app> dans une <term>ruelle</term><app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>où il défait le <app>
                             <lem wit="#Paris_ed2017"><roleName>magistrat</roleName></lem>
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
                                     ><roleName>Magistrat</roleName></rdg>
-                        </app> même en cravate et en habit gris, ainsi que le <app>
+                        </app><app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>même en cravate <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> en habit gris<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>ainsi que le <app>
                             <lem wit="#Paris_ed2017"><roleName>bourgeois</roleName></lem>
                             <rdg
                                 wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
                                     ><roleName>Bourgeois</roleName></rdg>
-                        </app> en baudrier, <pb n="129" source="#Paris_1689_ed4"/>
+                        </app> en baudrier<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app><pb n="129" source="#Paris_1689_ed4"/>
                         <app>
                             <lem wit="#Paris_ed2017"/>
-                            <rdg source="#Paris_1689_ed4"><term>baudrier</term>,<note type="ed"
-                                    resp="#SFD">répétition du dernier mot de la page précédente au
-                                    début de la page suivante</note></rdg>
-                        </app> les écarte et devient maître de la place : il est écouté, il est aimé
-                        ; on ne tient guère plus d’un moment contre une écharpe d’or et une plume
-                        blanche, contre un homme qui parle au <persName>Roi</persName> et voit les <app>
-                            <lem wit="#Paris_ed2017"><roleName>ministres</roleName></lem>
-                            <rdg
-                                wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
-                                    ><roleName>Ministres</roleName></rdg>
-                        </app> . Il fait des jaloux et des jalouses : on l’admire, il fait envie : à
-                        quatre <term>lieues</term> de là, il fait pitié. <note
-                            source="#Paris_1694_ed8_ex1" resp="#Proprietaire-edition" place="right"
-                            type="ms" hand="Inconnu">A Versailles ou <unclear reason="illegible"/>
-                            La <placeName ref="#Cour">cour</placeName></note>
+                            <rdg source="#Paris_1689_ed4"><term>baudrier</term></rdg>
+                        </app>, les écarte <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> devient maître de la place<app>
+                            <lem> : </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> ; </rdg>
+                        </app>il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t écouté<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t aimé ; on ne tient guère plus d’un moment contre une écharpe d’or <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> une plume blanche<app>
+                            <lem>, </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>contre un homme qui <hi rend="italique">parle au
+                                <persName>Roi</persName>
+                            <choice>
+                                <orig>&amp;</orig>
+                                <reg>et</reg>
+                            </choice> voit les <app>
+                                <lem wit="#Paris_ed2017"><roleName>ministres</roleName></lem>
+                                <rdg
+                                    wit="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1699_ed10"
+                                        ><roleName>Ministres</roleName></rdg>
+                            </app></hi>. Il fait des jaloux <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> des jalouses<app>
+                            <lem> : </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1"> , </rdg>
+                        </app>: on l’admire, il fait envie <app>
+                            <lem> : </lem>
+                            <rdg wit="#Paris_1694_ed8_ex1">
+                                <seg>;<note source="#Paris_1694_ed8_ex1" place="above" type="ms"
+                                        hand="Inconnu">v</note></seg>
+                            </rdg>
+                        </app>à quatre <term>lieu<choice>
+                                <orig>ë</orig>
+                                <reg>e</reg>
+                            </choice>s</term> de là, il fait pitié.<note
+                            source="#Paris_1694_ed8_ex1" place="right" type="ms" hand="Inconnu"
+                            cert="medium">v A Versailles ou <unclear reason="illegible"/> La
+                                <placeName ref="#Cour">cour</placeName></note>
                     </p>
                 </div2>
             </div1>
@@ -1198,22 +1313,271 @@
                         chapeau, et qu’il n’a ni boucles d’oreilles ni collier de perles ; aussi ne
                         l’ai-je pas mis dans le chapitre des femmes.</p>
                 </div2>
+                <div2 n="14[VI]" source="#Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
+                    <p><g ref="#Pied_de_mouche_seul"/><hi rend="italique">Iphis</hi> voit à l’église
+                        un <term><choice>
+                                <orig>ſ</orig>
+                                <reg>s</reg>
+                            </choice>oulier</term> d’une nouvelle mode ; il regarde le <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                            </choice>ien <choice>
+                                <orig>&amp;</orig>
+                                <reg>et</reg>
+                            </choice> en rougit ; il ne <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                            </choice>e croit plus habillé. Il <choice>
+                                <orig>ê</orig>
+                                <reg>é</reg>
+                            </choice>t<choice>
+                            <orig>o</orig>
+                            <reg>a</reg>
+                        </choice>it venu à la <term><choice>
+                                <orig>Meſſe</orig>
+                                <reg>messe</reg>
+                        </choice></term> pour s’y montrer, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> il <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e cache ; le voilà retenu par le pied dans <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>a <term>chambre</term>tout le re<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>te du jour. Il a la main douce, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> il l’entretien avec une
+                            <term>pâte de <choice>
+                                <orig>ſ</orig>
+                                <reg>s</reg>
+                            </choice>enteur</term> ; il a <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>oin de rire pour montrer <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>es dents ; il fait la petite bouche, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> il n’y a guère de moments
+                        où il ne veuille <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>ourire ; il regarde <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>es jambes, et <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e voit au miroir : l’on ne peut <choice>
+                            <orig>eſ</orig>
+                            <reg>ê</reg>
+                        </choice>tre plus content de per<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>onne qu’il l’e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t de lui-m<choice>
+                            <orig>eſ</orig>
+                            <reg>ê</reg>
+                        </choice>me ; il s’e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t acquis une voix claire  <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> délicate,  <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> heureusement il parle gras
+                        ; il a un mouvement de t<choice>
+                            <orig>eſ</orig>
+                            <reg>ê</reg>
+                        </choice>te,  <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> je ne <choice>
+                            <orig>ſç</orig>
+                            <reg>s</reg>
+                        </choice>a<choice>
+                            <orig>y</orig>
+                            <reg>is</reg>
+                        </choice> quel adouci<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>ement dans les yeux, dont il n’oublie pas de s’embellir ; il a une
+                        démarche molle  <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> le plus joli maintien qu’il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t capable de <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>e procurer ; il met du rouge, mais rarement, il n’en fait pas
+                        habitude. Il e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t vrai aussi qu’il porte des <term>chau<choice>
+                                <orig>ſſ</orig>
+                                <reg>ss</reg>
+                        </choice>es</term> et un chapeau, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> qu’il n’a n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> boucles d’oreilles n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> co<choice>
+                            <orig>l</orig>
+                            <reg>ll</reg>
+                        </choice>llier de perles ; au<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>i ne l’a<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice>-je pas mis dans le chapitre des femmes.</p>
+                </div2>
                 <div2 n="15[VI]" source="#Paris_ed6 #Paris_ed7 #Paris_ed8 #Paris_ed9 #Paris_ed10">
-                    <p>Ces mêmes modes que les hommes suivent si volontiers pour leurs personnes,
-                        ils affectent de les négliger dans leurs portraits, comme s’ils sentaient ou
-                        qu’ils prévissent l’indécence et le ridicule où elles peuvent tomber dès
-                        qu’elles auront perdu ce qu’on appelle la fleur ou l’agrément de la
-                        nouveauté ; ils leur préfèrent une parure arbitraire, une draperie
-                        indifférente, fantaisie du peintre qui ne sont prises ni sur l’air ni sur le
-                        visage, qui ne rappellent ni les mœurs ni la personne. Ils aiment des
-                        attitudes forcées ou immodestes, une manière dure, sauvage, étrangère, qui
-                        font un <term>capitan</term> d’un jeune abbé, et un <term>matamore</term>
-                        d’un homme de robe ; une <term>Diane</term> d’une femme de ville ; comme
-                        d’une femme simple et timide une amazone ou une <term>Pallas</term> ; une
-                            <term>Laïs</term> d’une honnête fille ; un <term>Scythe</term>, un
-                            <term>Attila</term>, d’un prince qui est bon et magnanime.</p>
-                    <p>Une mode a à peine détruit une autre mode, qu’elle est abolie par une plus
-                        nouvelle, qui cède elle-même à celle qui la suit, et qui ne sera pas la
+                    <p>Ces m<choice>
+                        <orig>eſ</orig>
+                        <reg>ê</reg>
+                    </choice>mes modes que les hommes <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>uivent si volontiers pour leurs per<choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>onnes,
+                        ils affe<hi rend="lig">ct</hi>ent de les n<choice>
+                            <orig>e</orig>
+                            <reg>é</reg>
+                        </choice>gliger dans leurs portraits, comme s’ils <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>ent<choice>
+                            <orig>o</orig>
+                            <reg>a</reg>
+                        </choice>ient ou
+                        qu’ils prévi<choice>
+                            <orig>ſſ</orig>
+                            <reg>ss</reg>
+                        </choice>ent l’ind<choice>
+                        <orig>e</orig>
+                        <reg>é</reg>
+                        </choice>cence et le ridicule où elles peuvent tomber d<choice>
+                            <orig>é</orig>
+                            <reg>è</reg>
+                        </choice>s
+                        qu’elles auront perdu ce qu’on appelle la fleur ou l’agr<choice>
+                            <orig>é</orig>
+                            <reg>ée</reg>
+                        </choice>ment de la
+                        nouveauté ; ils leur préf<choice>
+                            <orig>e</orig>
+                            <reg>è</reg>
+                        </choice>rent une parure arbitraire, une dra<choice>
+                            <orig>pp</orig>
+                            <reg>p</reg>
+                        </choice>erie
+                        indiff<choice>
+                            <orig>e</orig>
+                            <reg>é</reg>
+                        </choice>rente, fantaisi<app><lem>e</lem><rdg wit="#Paris_1689_ed4 #Paris_1689_ed4_ex1">es</rdg></app> du <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>eintre qui ne sont pri<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>es n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>ur l’air n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>ur le
+                        vi<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>age, qui ne rappellent n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> les mœurs n<choice>
+                            <orig>y</orig>
+                            <reg>i</reg>
+                        </choice> la personne. Ils aiment des
+                        attitudes forcées ou immode<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>tes, une manière dure, <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>auvage, étrang<choice>
+                            <orig>e</orig>
+                            <reg>è</reg>
+                        </choice>re, qui
+                        font un <hi rend="italique"><term><choice>
+                            <orig>C</orig>
+                            <reg>c</reg>
+                        </choice>apitan</term></hi> d’un jeune <choice>
+                            <orig>A</orig>
+                            <reg>a</reg>
+                        </choice>bbé, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> un <hi rend="italique"><term><choice>
+                            <orig>M</orig>
+                            <reg>m</reg>
+                        </choice>atamor<app><lem>e</lem><rdg/></app></term></hi>
+                        d’un homme de robe ; une <hi rend="italique"><term>Diane</term></hi> d’une femme de ville ; comme
+                        d’une femme <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>imple <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> timide une amazone ou une <hi rend="italique"><term>Pallas</term></hi> ; une
+                        <hi rend="italique"><term>Laïs</term></hi> d’une honnête fille ; un <term>Scythe</term>, un
+                        <hi rend="italique"><term>Attila</term></hi>, d’un <choice>
+                            <orig>P</orig>
+                            <reg>p</reg>
+                        </choice>rince qui e<choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>t bon <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> magnanime.</p>
+                    <p>Une mode a à peine détruit une autre mode, qu’elle e<choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>t abolie par une plus
+                        nouvelle, qui cède elle-m<choice>
+                            <orig>eſ</orig>
+                            <reg>ê</reg>
+                        </choice>me à celle qui la <choice>
+                            <orig>ſ</orig>
+                            <reg>s</reg>
+                        </choice>uit, <choice>
+                            <orig>&amp;</orig>
+                            <reg>et</reg>
+                        </choice> qui ne sera pas la
                         dernière : telle est notre <term>légèreté</term>. Pendant ces révolutions,
                         un siècle s’est écoulé, qui a mis toutes ces parures au rang des choses
                         passées et qui ne sont plus. La mode alors la plus curieuse et qui fait plus
