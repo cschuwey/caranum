@@ -702,7 +702,8 @@
                                 <placeName ref="#Cour">cour</placeName></note>
                     </p>
                 </div2>
-            <div1 xml:id="SC">
+            </div1>
+            <div1 n="5" xml:id="SC">
                 <head>De la Société et de la Conversation</head>
                 <div2 n="80">
                     <p>Remarque factice le temps de tester.</p>
@@ -1559,7 +1560,7 @@
                     </p>
                 </div2>
             </div1>
-            <div1 xml:id="M">
+            <div1 n="13" xml:id="M">
                 <head>De la Mode</head>
                 <div2 n="4[I]" xml:id="ch13_r4" source="#Paris_ed1 #Lyon_ed1 #Paris_1688_ed3">
                     <p
