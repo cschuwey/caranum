@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt xml:id="ML">
+                    <name>Marine Larroque</name>
+                    <resp>Encodeuse du fichier 1</resp>
+                </respStmt>
+                <respStmt xml:id="SFD">
+                    <name>Sarah Fontaine-Demay</name>
+                    <resp>Encodeuse du fichier 2</resp>
+                </respStmt>
+                <respStmt xml:id="LL">
+                    <name>Lisa Lesaffre</name>
+                    <resp>Encodeuse et co-chargée de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="LB">
+                    <name>Léa Brossat</name>
+                    <resp>Encodeuse et co-chargée de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="MBB">
+                    <name>Maxime Broca-Brisson</name>
+                    <resp>Encodeur et co-chargé de la réalisation du protocole d'encodage</resp>
+                </respStmt>
+                <respStmt xml:id="JB">
+                    <name>Jean de La Bruyère</name>
+                    <resp>Auteur</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr xml:id="Paris_ed1">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Première édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_ed1_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"
+                                >RES-R-2056</classCode>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k105077m"/>
+                        </imprint>
+                        <imprint xml:id="Paris_ed1_ex2">
+                            <date when="1688"/>
+                            <distributor select="#Beinecke"/>
+                            <note resp="#LL">Exemplaire disponible dans le dossier de bibliographie
+                                matérielle du projet Caranum. Il faudrait une source internet de la
+                                numérisation en question, afin qu'elle soit accessible depuis le
+                                document XML.</note>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Lyon_ed1">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Première édition</edition>
+                        <editor>Thomas Amaulry, rue Merciere, au Mercure galant</editor>
+                        <imprint xml:id="Lyon_ed1_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575738"/>
+                        </imprint>
+                        <!-- Je me suis trompée, je n'ai pas trouvé de deuxième exemplaire de Lyon -->
+                    </monogr>
+                    <monogr xml:id="Paris_1688_ed3">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Troisième édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1688_ed3_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1688"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57572x"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1688_ed3_ex2">
+                            <classCode scheme="f">Res.986<note resp="#LL">Je ne suis pas sûre qu'il
+                                    s'agisse du bon numéro, mais la mention "Rés" me fait penser aux
+                                    mentions de "réserves" comme on peut les observer pour les
+                                    exemplaires cotés à la BnF. Je note donc cela comme une cotation
+                                    provisoire </note></classCode>
+                            <date when="1688"/>
+                            <distributor select="#Google_Books"/>
+                            <distributor select="#Université_Gand"/>
+                            <distributor>Se vend à <placeName>Bruxelles</placeName>chee Jean
+                                Leonard.</distributor>
+                            <link
+                                target="https://books.google.fr/books?id=t3FOAAAAcAAJ&amp;pg=PP7&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false"
+                            />
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1689_ed4">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Quatrième édition, augmentée et corrigée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1689_ed4_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor>Gallica</distributor>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575649"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1689_ed4_ex2">
+                            <classCode scheme="f"/>
+                            <distributor select="Beinecke"/>
+                            <note resp="#LL">Exemplaire disponible dans le dossier de bibliographie
+                                matérielle du projet Caranum. Il faudrait une source internet de la
+                                numérisation en question, afin qu'elle soit accessible depuis le
+                                document XML.</note>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Lyon_1689_ed4">
+                        <imprint xml:id="Lyon_1689_ed4_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57565n"/>
+                        </imprint>
+                        <imprint xml:id="Lyon_1689_ed4_ex2">
+                            <classCode scheme="f">810925</classCode>
+                            <date when="1689"/>
+                            <distributor>Numelyo, Bibliothèque numérique de Lyon</distributor>
+                            <link
+                                target="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100959613"/>
+                            <note resp="#LL">Très probablement le même exemplaire que celui présenté
+                                en couleur sur Google Books : cf les premières pages avec l'ex
+                                libris, ainsi que les marques manuscrites. De plus, Google Books
+                                indique que l'exemplaire appartient à la Bibliothèque Municipale de
+                                Lyon. La version en couleur sur Google Books est donc utile pour
+                                comprendre davantage le type de dégâts matériels qui ont pu affecter
+                                    l'exemplaire.<link
+                                    target="https://books.google.fr/books?amp;id=HP3rG8zzeEYC&amp;pg=PP5&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false"
+                                /></note>
+                        </imprint>
+                        <imprint xml:id="Lyon_1689_ed4_ex3">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1689"/>
+                            <distributor>The British Library</distributor>
+                            <distributor>Google Books</distributor>
+                            <link
+                                target="https://www.google.fr/books/edition/Les_Caract%C3%A8res_de_Th%C3%A9ophraste_traduits/5MBjAAAAcAAJ?amp;hl=fr&amp;gbpv=1"/>
+                            <note resp="#LL">Exemplaire reconnaissable avec le soulignement au
+                                crayon à papier sous le nom "Théophraste" sur la page de titre,
+                                ainsi que la note manuscrite "us", souligné et placé au-dessus du
+                                dernier "e" de "Théophraste", sur la même page.</note>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1690_ed5">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Cinquième édition augmentée de plusieurs remarques</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1690_ed5_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1690</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575660"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1690_ed5_ex2">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1690</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k8704023j"/>
+                            <note resp="#LL">Exemplaire reconnaissable à sa numérisation en
+                                couleurs, sa page de titre avec deux marques de tampons rouges (une
+                                plus visible que l'autre, autour du monogramme au centre de ladite
+                                page ; une tache d'eau en tête de la page de titre, et des notes
+                                manuscrites au crayon à papier (notamment sur la date en chiffres
+                                romains, et avec le "114" inscrit en-dessous du monogramme).</note>
+                        </imprint>
+                        <imprint xml:id="Paris_1690_ed5_ex3">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1690</date>
+                            <distributor select="#Beinecke"/>
+                            <link target="https://hdl.handle.net/10079/bibid/14886836"/>
+                            <note resp="#LL">Exemplaire disponible dans le dossier de bibliographie
+                                matérielle du projet Caranum. L'exemplaire dans le dossier en
+                                question est très probablement celui évoqué dans le lien de la
+                                bibliothèque Beinecke : en effet, une des dernières pages de
+                                l'exemplaire présente l'indication "2020 746", faisant probablement
+                                référence au numéro de cotation </note>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1691_ed6">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Sixie'me édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1691_ed6_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1691</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k8712342k"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1691_ed6_ex2">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1691</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57567b"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1691_ed6_ex3">
+                            <!-- Pas de <classCode> pour ce dernier, vu sa source. -->
+                            <date>1691</date>
+                            <distributor select="#Google_Books"/>
+                            <link target="https://books.google.fr/books?id=brw9AAAAcAAJ"/>
+                            <!-- Le lien a été raccourci pour éviter l'erreur de TEI, mais il pointe toujours vers le bon document. Toutefois, voici le lien complet : https://books.google.fr/books?id=brw9AAAAcAAJ&printsec=frontcover&hl=fr&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false -->
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1692_ed7">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Septième édition, revue et corrigée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1692_ed7_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1692</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57575z"/>
+                        </imprint>
+                        <imprint xml:id="Paris_1692_ed7_ex2">
+                            <!-- Pas de <classCode> pour ce dernier, vu sa source. -->
+                            <date>1692</date>
+                            <distributor select="#Google_Books"/>
+                            <link target="https://books.google.fr/books?id=FHfcrDmnOJ0C"/>
+                            <!-- Le lien a été raccourci pour éviter l'erreur de TEI, mais il pointe toujours vers le bon document. Toutefois, voici le lien complet : https://books.google.fr/books?id=FHfcrDmnOJ0C&printsec=frontcover&hl=fr&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false -->
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Lyon_1693_ed7">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Septième édition</edition>
+                        <editor>Thomas Amaulry, rue Merciere, au Mercure galant</editor>
+                        <imprint xml:id="Lyon_1693_ed7_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date when="1693"/>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575769"/>
+                        </imprint>
+                        <imprint xml:id="Lyon_1693_ed7_ex2">
+                            <!-- Pas de <classCode> pour ce dernier, vu sa source. -->
+                            <date when="1693"/>
+                            <distributor select="#Numelyo"/>
+                            <link
+                                target="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100729354#"
+                            />
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1694_ed8">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Huitième édition. Revue, corrigée et augmentée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1694_ed8_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1694</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57577n"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Lyon_1694_ed8">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Huitième édition. Revue, corrigée et augmentée</edition>
+                        <editor>Thomas Amaulry, rue Merciere, au Mercure galant</editor>
+                        <imprint xml:id="Lyon_1694_ed8_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1694</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k575780"/>
+                        </imprint>
+                        <imprint xml:id="Lyon_1694_ed8_ex2">
+                            <!-- Pas de <classCode> pour ce dernier, vu sa source. -->
+                            <date>1694</date>
+                            <distributor select="#Numelyo"/>
+                            <link
+                                target="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100729370#"
+                            />
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1696_ed9">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grac avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Neuvième édition. Revue, corrigée et augmentée</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1696_ed9_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1696</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57579b"/>
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Haye_1696_ed9">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grac avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Neuvième édition</edition>
+                        <editor>Adrian Moetjens, Marchand Libraire prés la Cour.</editor>
+                        <imprint xml:id="Haye_1696_ed9_ex1">
+                            <!-- Pas de <classCode> pour ce dernier, vu sa source. -->
+                            <date>1696</date>
+                            <distributor select="#Numelyo"/>
+                            <link
+                                target="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100959720"
+                            />
+                        </imprint>
+                    </monogr>
+                    <monogr xml:id="Paris_1699_ed10">
+                        <author ref="https://data.bnf.fr/11910249/">Jean de La Bruyère</author>
+                        <title>Les Caractères de Théophraste traduit du grec avec les caractères ou
+                            les moeurs de ce siècle</title>
+                        <edition>Dixième édition</edition>
+                        <editor>Estienne Michallet, premier imprimeur du Roy, rue S. Jacques, à
+                            l'Image Saint Paul</editor>
+                        <imprint xml:id="Paris_1699_ed10_ex1">
+                            <classCode scheme="https://www.bnf.fr/fr/la-cotation-la-bnf"/>
+                            <date>1699</date>
+                            <distributor select="#Gallica"/>
+                            <link target="https://gallica.bnf.fr/ark:/12148/bpt6k57580j"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <listPerson>
+                    <person xml:id="Roscius"/>
+                    <person xml:id="Lélie"/>
+                    <person xml:id="Claudie"/>
+                    <person xml:id="Césonie"/>
+                    <person xml:id="Bronte"/>
+                    <person xml:id="Dorinne"/>
+                    <person xml:id="Messaline"/>
+                    <person xml:id="Bathylle"/>
+                    <person xml:id="Cobus"/>
+                    <person xml:id="Dracon"/>
+                    <person xml:id="Philibert"/>
+                    <person xml:id="Beauchamps"/>
+                    <person xml:id="Aubigny"/>
+                    <person xml:id="Roi">
+                        <occupation>Roi de France</occupation>
+                        <name>Louis XIV</name>
+                        <link
+                            target="https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv#la-famille-royale"
+                        />
+                    </person>
+                </listPerson>
+                <listPlace>
+                    <place>
+                        <placeName xml:id="Ville">La Ville désigne dans beaucoup de cas Paris, ou la
+                            plus grande ville à proximité</placeName>
+                        <placeName xml:id="Cour">Sous-entendu : la Cour du Roi Louis XIV, qui se
+                            trouvait alors à Versailles, par opposition à la Ville : Paris, qui
+                            n'est plus la cité royale, les nobles vivent à Versailles et les
+                            Bourgeois (et le peuple) à Paris</placeName>
+                        <placeName xml:id="Province">La Province, désigne le reste de la France,
+                            au-delà de Paris et Versaille</placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p resp="#ML #SFD">Nous avons sélectionné le texte d'Emmanuel Bury comme texte
+                    canonique.</p>
+                <p resp="#ML #SFD">Pour la simplicité, nous avons d'abord encodé le texte de manière
+                    simple avec seulement des div et des p pour pouvoir facilement mettre des
+                    sources.</p>
+                <p resp="#ML #SFD">Les textes des éditions ont été sélectionné en regardant ce que
+                    les élèves de M1 des métiers du livre et de l'édition de l'année 2022/2023 avait
+                    prit le plus pour pouvoir, dans la mesure du possible, utiliser leur codage.</p>
+            </projectDesc>
+            <charDecl>
+                <glyph xml:id="Pied_de_mouche_seul">
+                    <desc>¶</desc>
+                </glyph>
+                <glyph xml:id="Pied_de_mouche_simple">
+                    <desc>(¶)</desc>
+                </glyph>
+                <glyph xml:id="Pied_de_mouche_double">
+                    <desc>((¶))</desc>
+                </glyph>
+            </charDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc>
+                            <roleName xml:id="Directeur">Selon le Littré : "Directeur de conscience,
+                                ou, simplement, directeur ecclésiastique qui dirige la conscience
+                                d'une personne</roleName>
+                            <roleName xml:id="Confesseur">Selon le Littré : "Prêtre à qui l'on se
+                                confesse"</roleName>
+                        </catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <tagsDecl partial="true">
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <!-- Identification faite à partir du tableau d'Escola -->
+                    <tagUsage gi="deplacement">Une remarque change de rang/de place dans un chapitre
+                        (il y a une qualification pour ce qui est du changement de
+                        chapitre.</tagUsage>
+                    <tagUsage gi="transposition">Une remarque change de chapitre.</tagUsage>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+
+        <revisionDesc>
+            <list>
+                <item>
+                    <date when="2024-05-22" resp="#LL">Création du fichier "crashtest.xml" par
+                        Christophe Schuwey ; début d'encodage de la remarque 11 du chapitre "De la
+                        Mode" par Lisa Lesaffre (copié-collé du squelette XML et de ladite remarque
+                        depuis le fichier "caracteres.xml" sur Github).</date>
+                    <date when="2024-05-23" resp="#LL">Ajouts de versions de la remarque 11 à éditer
+                        en fonction des exemplaires de la première édition. Écriture de variantes
+                        pour la première édition, ainsi qu'inscription d'exemplaires pour ladite
+                        édition. Correction de quelques suppressions superflues dans le teiheader.
+                        Ajout d'un pied-de-mouche devant la remarque.</date>
+                    <date when="2024-05-24" resp="#LB">Encodage de la remarque 81 (celle qui change de
+                        chapitre) par Léa Brossat, remarque encodée telle qu'elle apparait la
+                        première fois dans les Caractères. Matérialisation de certains changements
+                        au niveau graphie du texte brut.</date>
+                    <date when="2024-05-24" resp="#LL">Ajout de variantes en fonction des éditions 1
+                        et 3 pour la remarque 11 par Lisa Lesaffre.</date>
+                    <date when="2024-05-27">Rajouts de variations à la remarque 81 (éditions 5 et
+                        6). Rajouts d'exemplaires dans la bibliographie (selon la norme déjà
+                        établie).</date>
+                    <date when="2024-05-27" resp="#LL">Ajout de variantes orthographiques et
+                        typographiques à travers les balises choice dans la remarque 11.</date>
+                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81 (édition 7 et une
+                        partie des 8). Rajouts d'exemplaires dans la bibliographie (selon la norme
+                        déjà établie).</date>
+                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81 (fin édition 8 et
+                        9). Rajouts d'exemplaires dans la bibliographie (selon la norme déjà
+                        établie).</date>
+                    <date when="2024-05-28">Encodage de la remarque 51 du chapitre 9 "Des Grands"
+                        par Maxime Broca, remarque encodée telle qu'elle apparait la dans l'édition
+                        7 de l'exemplaire #Lyon_1693_ed7.</date>
+                    <date when="2024-05-28" resp="#LL">Correction pour distinguer les app des choice
+                        et les wit des sources (selon mes moyens) dans la remarque 11, et ajout de
+                        variantes en fonction des éditions 4 et 5. Ajout de références
+                        bibliographiques</date>
+                    <date when="2024-05-29" resp="#LB">Correction de quelques erreurs dans l'encodage des
+                        variations de la remarque 81.</date>
+                    <date when="2024-05-29" resp="#LL">Correction de quelques erreurs d'encodage
+                        pour la remarque 11 (remarque 4 dans la première édition). Ajout de balises
+                        ref et d'un attribut xml:id pour la remarque et ses différentes versions
+                        entre les éditions. Début d'encodage des balises term.</date>
+                    <date when="2024-05-30" resp="#LL">Ajout de variations dans les éditions 6 et 7,
+                        8, suppression de l'élément ref et remplacement par l'attribut "corresp"
+                        dans le div 2.</date>
+                    <date when="2024-05-31" resp="#LL">Ajout de variations d'exemplaires de
+                        l'édition 8, début d'encodage de la remarque 29 du chapitre "Des
+                        Femmes"(code repris depuis le document "caracteres.xml"), retrait de
+                        certains attributs type dans les éléments notes, et qui ne faisaient pas
+                        fonctionner Oxygen (prise de note manuscrite des attributs en question pour
+                        les restaurer en cas de possibilité de restauration).</date>
+                    <date when="2024-06-03" resp="#LL">Début d'encodage des clés et notes
+                        manuscrites de la remarque 29 du chapitre "Des Femmes" et dans la remarque
+                        11 du chapitre "De la Mode". Début de transcription de notes manuscrites
+                        pour lesdites remarques. Début d'encodage des variantes selon quelques
+                        exemplaires pour la remarque 29 du chapitre "Des Femmes". Insertion du texte
+                        des remarques 14 et 15 du chapitre "De la Mode" en vue d'en encoder des
+                        notes imprimées et/ou manuscrites, ainsi que des clés et des variations de
+                        type choice (texte copié depuis "caracteres.xml" sur le github du
+                        projet.</date>
+                    <date when="2024-06-04" resp="#LB">Début d'encodage du déplacement des remarques dans un chapitre et en dehors d'un chapitre.</date>
+                    <date when="2024-06-05" resp="#LB">Continuation de l'encodage des déplacements d'éléments.</date>
+                </item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div1>
+                
+            </div1>
+        </body>
+    </text>
+</TEI>
