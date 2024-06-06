@@ -491,9 +491,11 @@
                         notes imprimées et/ou manuscrites, ainsi que des clés et des variations de
                         type choice (texte copié depuis "caracteres.xml" sur le github du
                         projet.</date>
-                    <date when="2024-06-04" resp="#LB">Début d'encodage du déplacement des remarques dans un chapitre et en dehors d'un chapitre.</date>
-                    <date when="2024-06-05" resp="#LB">Continuation de l'encodage des déplacements d'éléments.</date>
-                     <date when="2024-06-05" resp="#LL">Début d'encodage de déplacement de remarques
+                    <date when="2024-06-04" resp="#LB">Début d'encodage du déplacement des remarques
+                        dans un chapitre et en dehors d'un chapitre (remarque n°81).</date>
+                    <date when="2024-06-05" resp="#LB">Continuation de l'encodage des déplacements
+                        d'éléments (même remarque).</date>
+                    <date when="2024-06-05" resp="#LL">Début d'encodage de déplacement de remarques
                         et de paragraphes : test pour l'identification des paragraphes avec le
                         xml:id, dans le cas d'une dissociation de paragraphes.</date>
                 </item>
