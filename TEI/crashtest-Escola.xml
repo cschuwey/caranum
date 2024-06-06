@@ -506,8 +506,7 @@
                         pour des cas de déplacement de remarques. Rangement des remarques en
                         fonction des mises à jour du contexte autour des remarques 37, 38 et
                         39.</date>
-                    <date when="2024-06-06" resp="#LB">Encodage du premier emplacement (première
-                        apparition de la remarque 81.</date>
+                    <date when="2024-06-06" resp="#LB">Encodage des mouvements de la remarque 81 (plusieurs déplacements suivis d'une transposition.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -647,10 +646,15 @@
                     source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 
                     #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
             </div1>
+            <div1 n="5" xml:id="ch5">
+                <div2 n="81" corresp="#ch5_r81"
+                    source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
+                    <!-- Changement de chapitre pour cette remarque, elle restera dans cette position jusqu'à la fin. -->
+            </div1>
             <div1 n="9" xml:id="ch9">
-                <!-- Première occurence de la remarque ci-dessous. -->
-                <div2 n="81" xml:id="ch5_r81"
-                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1">
+                <div2 n="40" xml:id="ch5_r81"
+                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3">
+                    <!-- Première occurence de cette remarque. -->
                     <p n="1" xml:id="ch5_r81_p1"
                         source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
                             ><g ref="#Pied_de_mouche_double"
@@ -663,6 +667,11 @@
                         source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
                         >Toute révélation d’un secret est la faute de celui qui l’a confié.</p>
                 </div2>
+                <div2 n="49" corresp="#ch5_r81"
+                    source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"/>
+                <!-- Premier changement de place de la remarque. Il est intéressant de voir qu'elle reste ici pour l'impression lyonnaise des éditions 7 et 8, mais pas pour les exemplaires imprimés à Paris. -->
+                <div2 n="50" corresp="#ch5_r81" source="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"/>
+                <!-- Second changement de place de la remarque. -->
             </div1>
         </body>
     </text>
