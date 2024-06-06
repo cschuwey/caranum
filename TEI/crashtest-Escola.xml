@@ -497,7 +497,15 @@
                         d'éléments (même remarque).</date>
                     <date when="2024-06-05" resp="#LL">Début d'encodage de déplacement de remarques
                         et de paragraphes : test pour l'identification des paragraphes avec le
-                        xml:id, dans le cas d'une dissociation de paragraphes.</date>
+                        xml:id, dans le cas d'une dissociation de paragraphes (chapitre "Des
+                        Femmes").</date>
+                    <date when="2024-06-06">Encodage d'autres itérations de la remarque dont les
+                        paragraphes subordonnés font l'objet d'une dissociation dans le chapitre
+                        "Des Femmes" entre les éditions. Ajout de remarques pour la
+                        contextualisation de la remarque. Reprise de l'encodage de Marine et Sarah
+                        pour des cas de déplacement de remarques. Rangement des remarques en
+                        fonction des mises à jour du contexte autour des remarques 37, 38 et
+                        39.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -505,42 +513,139 @@
     <text>
         <front/>
         <body>
-            <div1 xml:id="F">
+            <div1 xml:id="ch3">
                 <head>Des Femmes</head>
-                <!--Test d'identification de paragraphes devenant des remarques dans une autre édition
-                    (dissociation des paragraphes de la remarque 19 de l'édition 1, selon l'exemple donné
-                    par Escola), avec d'autres remarques de contextualisation issues de la première édition-->
-                <div2 n="18" xml:id="ch3_r34" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>Pour les femmes du monde, un jardinier est un
-                        jardinier , et un maçon est un maçon ; pour quelques autres plus retirées,
-                        un maçon est un homme, un jardinier est un homme. Tout est tentation à qui
-                        la craint.</p>
+                <!--Cas de déplacements de la remarque 31 à travers plusieurs éditions-->
+                <div2 n="31" xml:id="ch3_r31" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>A un homme vain, indiscret, qui est grand
+                        parleur et mauvais plaisant, qui parle de soi avec confiance et des autres
+                        avec mépris, impétueux, altier, entreprenant, sans mœurs ni probité, de nul
+                        jugement et d’une imagination très libre, il ne lui manque plus, pour être
+                        adoré de bien des femmes, que de beaux traits et la taille belle.</p>
                 </div2>
-                <div2 n="19" xml:id="ch3_r35" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <!--Je tiens à faire remarquer que l'élément g risque de poser problème, si certains paragraphes devenant des
-                    remarques dans d'autres éditions n'ont pas de pied de mouche : en effet, l'exportation ne pourra pas afficher le pied de mouche
-                    s'il n'est pas codé dans la première itération du paragraphe dissocié devenu remarque, à moins que l'on ne fasse une commande
-                    spéciale pour ajouter le pied de mouche avant le contenu du paragraphe référencé avec "corresp" dans le codage XSL-->
-                    <p xml:id="ch3_r35_p1"><g ref="#Pied_de_mouche_seul"/>Si le confesseur et le
+                <div2 n="28" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>Il y a des femmes déjà flétries, qui par leur
+                        complexion ou par leur mauvais caractère sont naturellement la ressource des
+                        jeunes gens qui n’ont pas assez de bien. Je ne sais qui est plus à plaindre,
+                        ou d’une femme avancée en âge qui a besoin d’un cavalier, ou d’un cavalier
+                        qui a besoin d’une vieille.</p>
+                </div2>
+                <!--Cas de déplacement de la remarque 35 à travers plusieurs éditions-->
+                <div2 n="35" xml:id="ch3_r35" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/> Quelques femmes donnent aux couvents et à
+                        leurs amants : galantes et bienfactrices, elles ont jusque dans l’enceinte
+                        de l'autel des tribunes et des oratoires où elles lisent des billets
+                        tendres, et où personne ne voit qu’elles ne prient point Dieu.</p>
+                </div2>
+                <div2 n="27" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p>A juger de cette femme par sa beauté, sa jeunesse, sa fierté et ses dédains,
+                        il n’y a personne qui doute que ce ne soit un héros qui doive un jour la
+                        charmer. Son choix est fait : c’est un petit monstre qui manque
+                        d’esprit.</p>
+                </div2>
+                <!--Cas de déplacement de la remarque 32 à travers plusieurs éditions-->
+                <div2 n="32" xml:id="ch3_r32" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>Est-ce en vue du secret, ou par un goût
+                        hypocondre , que cette femme aime un valet, cette autre un moine , et
+                        Dorinne son médecin ?</p>
+                </div2>
+                <!--Cas de déplacement de la remarque 34 à travers plusieurs éditions-->
+                <div2 n="34" xml:id="ch3_r34" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p><g ref="#Pied_de_mouche_seul"/>Pour les femmes du monde, un jardinier est un
+                        jardinier, et un maçon est un maçon ; pour quelques autres plus retirées, un
+                        maçon est un homme, un jardinier est un homme. Tout est tentation à qui la
+                        craint.</p>
+                </div2>
+                <!--Cas de dissociation des paragraphes de la remarque 24 (voir plus bas pour les autres éditions-->
+                <div2 xml:id="ch3_r37" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p xml:id="ch3_r37_p1"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1688_ed1 #Paris_1688_ed3"/>Si le confesseur et le
                         directeur ne conviennent point sur une règle de conduite, qui sera le tiers
                         qu’une femme prendra pour sur-arbitre ?</p>
-                    <p xml:id="ch3_r35_p2">Le capital pour une femme n’est pas d’avoir un directeur
-                        , mais de vivre si uniment qu’elle s’en puisse passer.</p>
-                    <p xml:id="ch3_r35_p3">Si une femme pouvait dire à son confesseur , avec ses
-                        autres faiblesses, celles qu’elle a pour son directeur ; et le temps qu’elle
-                        perd dans son entretien, peut-être lui serait-il donné pour pénitence d’y
-                        renoncer.</p>
+                    <p xml:id="ch3_r37_p2"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1688_ed4 #Paris_1688_ed5 #Paris_1688_ed6 #Paris_1688_ed7 #Paris_1688_ed8 #Paris_1688_ed9 #Paris_1688_ed10"
+                        />Le capital pour une femme n’est pas d’avoir un directeur , mais de vivre
+                        si uniment qu’elle s’en puisse passer.</p>
+                    <p xml:id="ch3_r37_p3"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1688_ed4 #Paris_1688_ed5 #Paris_1688_ed6 #Paris_1688_ed7 #Paris_1688_ed8 #Paris_1688_ed9 #Paris_1688_ed10"
+                        />Si une femme pouvait dire à son confesseur , avec ses autres faiblesses,
+                        celles qu’elle a pour son directeur ; et le temps qu’elle perd dans son
+                        entretien, peut-être lui serait-il donné pour pénitence d’y renoncer.</p>
                 </div2>
-                <div2 n="20" xml:id="ch3_r36" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                <!--Cas de déplacement de la remarque 41-->
+                <div2 n="41" xml:id="ch3_r41" source="#Paris_1688_ed1 #Paris_1688_ed3">
                     <p><g ref="#Pied_de_mouche_seul"/>C’est trop contre un mari d’être coquette et
                         dévote ; une femme devrait opter.</p>
                 </div2>
-<!--Il me semble qu'Escola écrit que ces remarques sont les remarques 37 à 39 dans l'édition 4, or en comptant dans l'exemplaire cité,
-                J'ai trouvé une autre numérotation-->
-                <div2 n="36" xml:id="ch3_28" corresp="ch3_r35_p1" source="#Paris_1689_ed4_ex1"/>
-                <div2 n="36" xml:id="ch3_29" corresp="ch3_r35_p2" source="#Paris_1689_ed4_ex1"/>
-                <div2 n="36" xml:id="ch3_30" corresp="ch3_r35_p3" source="#Paris_1689_ed4_ex1"/>
+
+
+                <div2 n="31" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6
+                    #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                    corresp="#ch3_r31"/>
+                <div2 n="35" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6"
+                    corresp="#ch3_r35"/>
+                <div2 n="32" corresp="#ch3_r32"
+                    source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <!--Ajout de la remarque 33 dès l'édition 5 : est-ce un cas d'attraction, en séparant
+                    les remarques 32 et 34 qui étaient côte à côté entre les éditions 1 et 3 ?-->
+                <div2 n="33"
+                    source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p><g ref="#Pied_de_mouche_seul"/> Roscius entre sur la scène de bonne grâce :
+                        oui, Lélie ; et j’ajoute encore qu’il a les jambes bien tournées, qu’il joue
+                        bien, et de longs rôles, et que pour déclamer parfaitement il ne lui manque,
+                        comme on le dit, que de parler avec la bouche[...]</p>
+                </div2>
+                <div2 n="34" corresp="#ch3_r34" source="#Paris_1689_ed4 #Paris_1689_ed5
+                    #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 n="35" corresp="#ch3_r35" source="#Paris_1692_ed7 #Paris_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <!--Ajout de la remarque 36 dès l'édition 7 : est-ce un cas d'attraction, notamment
+                    pour la remarque 37 qui se retrouve décalée ?-->
+                <div2 n="36"
+                    source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p><g ref="#Pied_de_mouche_seul"/> Qu’est-ce qu’une femme que l’on dirige ?
+                        Est-ce une femme plus complaisante pour son mari, plus douce pour ses
+                        domestiques, plus appliquée à sa famille et à ses affaires, plus ardente et
+                        plus sincère pour ses amis ; qui soit moins esclave de son humeur, moins
+                        attachée à ses intérêts ; qui aime moins les commodités de la vie ; je ne
+                        dis pas qui fasse des largesses à ses enfants qui sont déjà riches, mais
+                        qui, opulente elle-même et accablée du superflu, leur fournisse le
+                        nécessaire, et leur rende au moins la justice qu’elle leur doit ; qui soit
+                        plus exempte d’amour de soi-même et d’éloignement pour les autres ; qui soit
+                        plus libre de tous attachements humains ? "Non, dites-vous, ce n’est rien de
+                        toutes ces choses." J’insiste, et je vous demande : "Qu’est-ce donc qu’une
+                        femme que l’on dirige ? " Je vous entends, c’est une femme qui a un
+                        directeur.</p>
+                </div2>
+                <!--Pouvons-nous considérer que les remarques 37, 38 et 39 forment une série, étant donné
+                    qu'elles restent ensemble dans le même ordre lors de leurs déplacements à travers les éditions ?
+                    Sous réserve de regarder plusieurs exemplaires avant de trop s'avancer.-->
+                <div2 n="37" xml:id="ch3_37" corresp="#ch3_r37_p1"
+                    source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
+                <div2 n="38" xml:id="ch3_38" corresp="#ch3_r37_p2"
+                    source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
+                <div2 n="39" xml:id="ch3_39" corresp="#ch3_r37_p3"
+                    source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
+                <!--Ajout de la remarque 40 dès l'édition 5 : est-ce un cas d'attraction, notamment
+                    pour la remarque 41 qui se retrouve décalée ?-->
+                <div2 n="40" source="#Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                        <g ref="#Pied_de_mouche_double" source="#Paris_1689_ed5"/>Je voudrais qu’il
+                        me fût permis de crier de toute ma force à ces hommes saints qui ont été
+                        autrefois blessés des femmes : "Fuyez les femmes, ne les dirigez point,
+                        laissez à d’autres le soin de leur salut."</p>
+                </div2>
+                <div2 n="41" corresp="#ch3_r41" xml:id="ch3_r36"
+                    source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
             </div1>
+            
             <div1>
                 
             </div1>
