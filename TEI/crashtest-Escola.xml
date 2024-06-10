@@ -509,7 +509,10 @@
                         pour des cas de déplacement de remarques. Rangement des remarques en
                         fonction des mises à jour du contexte autour des remarques 37, 38 et
                         39.</date>
-                    <date when="2024-06-06" resp="#LB">Encodage des mouvements de la remarque 81 (plusieurs déplacements suivis d'une transposition).</date>
+                    <date when="2024-06-06" resp="#LB">Encodage des mouvements de la remarque 81
+                        (plusieurs déplacements suivis d'une transposition).</date>
+                    <date when="2024-06-10" resp="#LB">Ajout d'un glyphe de signalement de remarque
+                        (*). Encodage de l'annexion d'une remarque (Chapitre 1, remarque 7).</date>
                 </item>
             </list>
         </revisionDesc>
