@@ -766,44 +766,45 @@
                 <head>Des Femmes</head>
                 <!--Cas de déplacements de la remarque 31 à travers plusieurs éditions-->
                 <div2 n="31" xml:id="ch3_r31" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>A un homme vain, indiscret, qui est grand
-                        parleur et mauvais plaisant, qui parle de soi avec confiance et des autres
-                        avec mépris, impétueux, altier, entreprenant, sans mœurs ni probité, de nul
-                        jugement et d’une imagination très libre, il ne lui manque plus, pour être
-                        adoré de bien des femmes, que de beaux traits et la taille belle.</p>
+                    <p xml:id="ch3_r31_p1"><g ref="#Pied_de_mouche_seul"/>A un homme vain,
+                        indiscret, qui est grand parleur et mauvais plaisant, qui parle de soi avec
+                        confiance et des autres avec mépris, impétueux, altier, entreprenant, sans
+                        mœurs ni probité, de nul jugement et d’une imagination très libre, il ne lui
+                        manque plus, pour être adoré de bien des femmes, que de beaux traits et la
+                        taille belle.</p>
                 </div2>
-                <div2 n="28" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>Il y a des femmes déjà flétries, qui par leur
-                        complexion ou par leur mauvais caractère sont naturellement la ressource des
-                        jeunes gens qui n’ont pas assez de bien. Je ne sais qui est plus à plaindre,
-                        ou d’une femme avancée en âge qui a besoin d’un cavalier, ou d’un cavalier
-                        qui a besoin d’une vieille.</p>
+                <div2 n="28" xml:id="ch3_r28" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p xml:id="ch3_r28_p1"><g ref="#Pied_de_mouche_seul"/>Il y a des femmes déjà
+                        flétries, qui par leur complexion ou par leur mauvais caractère sont
+                        naturellement la ressource des jeunes gens qui n’ont pas assez de bien. Je
+                        ne sais qui est plus à plaindre, ou d’une femme avancée en âge qui a besoin
+                        d’un cavalier, ou d’un cavalier qui a besoin d’une vieille.</p>
                 </div2>
                 <!--Cas de déplacement de la remarque 35 à travers plusieurs éditions-->
                 <div2 n="35" xml:id="ch3_r35" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/> Quelques femmes donnent aux couvents et à
-                        leurs amants : galantes et bienfactrices, elles ont jusque dans l’enceinte
-                        de l'autel des tribunes et des oratoires où elles lisent des billets
-                        tendres, et où personne ne voit qu’elles ne prient point Dieu.</p>
+                    <p xml:id="ch3_r35_p1"><g ref="#Pied_de_mouche_seul"/> Quelques femmes donnent
+                        aux couvents et à leurs amants : galantes et bienfactrices, elles ont jusque
+                        dans l’enceinte de l'autel des tribunes et des oratoires où elles lisent des
+                        billets tendres, et où personne ne voit qu’elles ne prient point Dieu.</p>
                 </div2>
-                <div2 n="27" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p>A juger de cette femme par sa beauté, sa jeunesse, sa fierté et ses dédains,
-                        il n’y a personne qui doute que ce ne soit un héros qui doive un jour la
-                        charmer. Son choix est fait : c’est un petit monstre qui manque
-                        d’esprit.</p>
+                <div2 n="27" xml:id="ch3_r27" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p xml:id="ch3_r27_p1">A juger de cette femme par sa beauté, sa jeunesse, sa
+                        fierté et ses dédains, il n’y a personne qui doute que ce ne soit un héros
+                        qui doive un jour la charmer. Son choix est fait : c’est un petit monstre
+                        qui manque d’esprit.</p>
                 </div2>
                 <!--Cas de déplacement de la remarque 32 à travers plusieurs éditions-->
                 <div2 n="32" xml:id="ch3_r32" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>Est-ce en vue du secret, ou par un goût
-                        hypocondre , que cette femme aime un valet, cette autre un moine , et
-                        Dorinne son médecin ?</p>
+                    <p xml:id="ch3_r32_p1"><g ref="#Pied_de_mouche_seul"/>Est-ce en vue du secret,
+                        ou par un goût hypocondre , que cette femme aime un valet, cette autre un
+                        moine , et Dorinne son médecin ?</p>
                 </div2>
                 <!--Cas de déplacement de la remarque 34 à travers plusieurs éditions-->
                 <div2 n="34" xml:id="ch3_r34" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>Pour les femmes du monde, un jardinier est un
-                        jardinier, et un maçon est un maçon ; pour quelques autres plus retirées, un
-                        maçon est un homme, un jardinier est un homme. Tout est tentation à qui la
-                        craint.</p>
+                    <p xml:id="ch3_r34_p1"><g ref="#Pied_de_mouche_seul"/>Pour les femmes du monde,
+                        un jardinier est un jardinier, et un maçon est un maçon ; pour quelques
+                        autres plus retirées, un maçon est un homme, un jardinier est un homme. Tout
+                        est tentation à qui la craint.</p>
                 </div2>
                 <!--Cas de dissociation des paragraphes de la remarque 24 (voir plus bas pour les autres éditions-->
                 <div2 xml:id="ch3_r37" source="#Paris_1688_ed1 #Paris_1688_ed3">
@@ -823,67 +824,86 @@
                 </div2>
                 <!--Cas de déplacement de la remarque 41-->
                 <div2 n="41" xml:id="ch3_r41" source="#Paris_1688_ed1 #Paris_1688_ed3">
-                    <p><g ref="#Pied_de_mouche_seul"/>C’est trop contre un mari d’être coquette et
-                        dévote ; une femme devrait opter.</p>
+                    <p xml:id="ch3_r41_p1"><g ref="#Pied_de_mouche_seul"/>C’est trop contre un mari
+                        d’être coquette et dévote ; une femme devrait opter.</p>
                 </div2>
 
 
                 <div2 n="31" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6
                     #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
-                    corresp="#ch3_r31"/>
+                    corresp="#ch3_r31">
+                    <p corresp="#ch3_r31_p1" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                    />
+                </div2>
                 <div2 n="35" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6"
-                    corresp="#ch3_r35"/>
+                    corresp="#ch3_r35">
+                    <p corresp="#ch3_r35_p1" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                    />
+                </div2>
                 <div2 n="32" corresp="#ch3_r32"
                     source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8
-                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch3_r32_p1"/>
+                </div2>
                 <!--Ajout de la remarque 33 dès l'édition 5 : est-ce un cas d'attraction, en séparant
                     les remarques 32 et 34 qui étaient côte à côté entre les éditions 1 et 3 ?-->
                 <div2 n="33"
                     source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><g ref="#Pied_de_mouche_seul"/> Roscius entre sur la scène de bonne grâce :
-                        oui, Lélie ; et j’ajoute encore qu’il a les jambes bien tournées, qu’il joue
-                        bien, et de longs rôles, et que pour déclamer parfaitement il ne lui manque,
-                        comme on le dit, que de parler avec la bouche[...]</p>
+                    <p xml:id="ch3_r33_p1"><g ref="#Pied_de_mouche_seul"/> Roscius entre sur la
+                        scène de bonne grâce : oui, Lélie ; et j’ajoute encore qu’il a les jambes
+                        bien tournées, qu’il joue bien, et de longs rôles, et que pour déclamer
+                        parfaitement il ne lui manque, comme on le dit, que de parler avec la
+                        bouche[...]</p>
                 </div2>
                 <div2 n="34" corresp="#ch3_r34" source="#Paris_1689_ed4 #Paris_1689_ed5
-                    #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
-                <div2 n="35" corresp="#ch3_r35" source="#Paris_1692_ed7 #Paris_1694_ed8
-                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch3_r34_p1" source="#Paris_1689_ed4 #Paris_1689_ed5
+                        #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                    />
+                </div2>
+                <div2 n="35" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6"
+                    corresp="#ch3_r35">
+                    <p corresp="#ch3_r35_p1" source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                    />
+                </div2>
                 <!--Ajout de la remarque 36 dès l'édition 7 : est-ce un cas d'attraction, notamment
                     pour la remarque 37 qui se retrouve décalée ?-->
                 <div2 n="36"
                     source="#Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><g ref="#Pied_de_mouche_seul"/> Qu’est-ce qu’une femme que l’on dirige ?
-                        Est-ce une femme plus complaisante pour son mari, plus douce pour ses
-                        domestiques, plus appliquée à sa famille et à ses affaires, plus ardente et
-                        plus sincère pour ses amis ; qui soit moins esclave de son humeur, moins
-                        attachée à ses intérêts ; qui aime moins les commodités de la vie ; je ne
-                        dis pas qui fasse des largesses à ses enfants qui sont déjà riches, mais
-                        qui, opulente elle-même et accablée du superflu, leur fournisse le
-                        nécessaire, et leur rende au moins la justice qu’elle leur doit ; qui soit
-                        plus exempte d’amour de soi-même et d’éloignement pour les autres ; qui soit
-                        plus libre de tous attachements humains ? "Non, dites-vous, ce n’est rien de
-                        toutes ces choses." J’insiste, et je vous demande : "Qu’est-ce donc qu’une
-                        femme que l’on dirige ? " Je vous entends, c’est une femme qui a un
+                    <p xml:id="ch3_r36_p1"><g ref="#Pied_de_mouche_seul"/> Qu’est-ce qu’une femme
+                        que l’on dirige ? Est-ce une femme plus complaisante pour son mari, plus
+                        douce pour ses domestiques, plus appliquée à sa famille et à ses affaires,
+                        plus ardente et plus sincère pour ses amis ; qui soit moins esclave de son
+                        humeur, moins attachée à ses intérêts ; qui aime moins les commodités de la
+                        vie ; je ne dis pas qui fasse des largesses à ses enfants qui sont déjà
+                        riches, mais qui, opulente elle-même et accablée du superflu, leur fournisse
+                        le nécessaire, et leur rende au moins la justice qu’elle leur doit ; qui
+                        soit plus exempte d’amour de soi-même et d’éloignement pour les autres ; qui
+                        soit plus libre de tous attachements humains ? "Non, dites-vous, ce n’est
+                        rien de toutes ces choses." J’insiste, et je vous demande : "Qu’est-ce donc
+                        qu’une femme que l’on dirige ? " Je vous entends, c’est une femme qui a un
                         directeur.</p>
                 </div2>
                 <!--Pouvons-nous considérer que les remarques 37, 38 et 39 forment une série, étant donné
                     qu'elles restent ensemble dans le même ordre lors de leurs déplacements à travers les éditions ?
                     Sous réserve de regarder plusieurs exemplaires avant de trop s'avancer.-->
-                <div2 n="37" xml:id="ch3_37" corresp="#ch3_r37_p1"
+                <div2 n="37" corresp="#ch3_r37_p1"
                     source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
-                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
-                <div2 n="38" xml:id="ch3_38" corresp="#ch3_r37_p2"
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"> </div2>
+                <div2 n="38" xml:id="ch3_r38" corresp="#ch3_r37_p2"
                     source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
-                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
-                <div2 n="39" xml:id="ch3_39" corresp="#ch3_r37_p3"
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"> </div2>
+                <div2 n="39" xml:id="ch3_r39" corresp="#ch3_r37_p3"
                     source="#Paris_1689_ed4  #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7
-                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"/>
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1689_ed4_ex1"> </div2>
                 <!--Ajout de la remarque 40 dès l'édition 5 : est-ce un cas d'attraction, notamment
                     pour la remarque 41 qui se retrouve décalée ?-->
                 <div2 n="40" source="#Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8
                     #Paris_1696_ed9 #Paris_1699_ed10">
-                    <p><g ref="#Pied_de_mouche_seul"
+                    <p xml:id="ch3_r40_p1"><g ref="#Pied_de_mouche_seul"
                             source="#Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
                         <g ref="#Pied_de_mouche_double" source="#Paris_1689_ed5"/>Je voudrais qu’il
                         me fût permis de crier de toute ma force à ces hommes saints qui ont été
@@ -892,7 +912,11 @@
                 </div2>
                 <div2 n="41" corresp="#ch3_r41" xml:id="ch3_r36"
                     source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 
-                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch3_r41_p1"
+                        source="#Paris_1689_ed4 #Paris_1689_ed5 #Paris_1691_ed6 #Paris_1692_ed7 
+                        #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                </div2>
             </div1>
             <div1 n="5" xml:id="ch5">
                 <div2 n="81" corresp="#ch5_r81"
