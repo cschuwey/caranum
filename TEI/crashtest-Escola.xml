@@ -502,7 +502,7 @@
                         et de paragraphes : test pour l'identification des paragraphes avec le
                         xml:id, dans le cas d'une dissociation de paragraphes (chapitre "Des
                         Femmes").</date>
-                    <date when="2024-06-06">Encodage d'autres itérations de la remarque dont les
+                    <date when="2024-06-06" resp="#LL">Encodage d'autres itérations de la remarque dont les
                         paragraphes subordonnés font l'objet d'une dissociation dans le chapitre
                         "Des Femmes" entre les éditions. Ajout de remarques pour la
                         contextualisation de la remarque. Reprise de l'encodage de Marine et Sarah
@@ -511,8 +511,18 @@
                         39.</date>
                     <date when="2024-06-06" resp="#LB">Encodage des mouvements de la remarque 81
                         (plusieurs déplacements suivis d'une transposition).</date>
+                    date when="2024-06-07" resp="#LL">Création d'un chapitre 0 dédié aux exemples
+                        avec des lorem ipsum. Ajout de "remarques" avec un lorem ipsum dont le texte
+                        est issu des Contes de Perrault, et traitement de cas de reclassement.</date>
+                    <date when="2024-06-07" resp="#LL">Création d'un chapitre 0 dédié aux exemples
+                        avec des lorem ipsum. Ajout de "remarques" avec un lorem ipsum dont le texte
+                        est issu des Contes de Perrault, et traitement de cas de reclassement.</date>                    
                     <date when="2024-06-10" resp="#LB">Ajout d'un glyphe de signalement de remarque
                         (*). Encodage de l'annexion d'une remarque (Chapitre 1, remarque 7).</date>
+                    <date when="2024-06-10" resp="#LL">Ajout de xml:id, corresp et source pour les
+                        paragraphes du chapitre "Des Femmes", exemples et encodage de cas d'échange,
+                        d'embrayage, désembrayage et de greffes avec des lorem ipsum en écriture 
+                        automatique.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -520,6 +530,205 @@
     <text>
         <front/>
         <body>
+            <div1 xml:id="ch0">
+                <head>Exemples imaginaires (lorem ipsum)</head>
+                <!--Pour avoir un lorem ipsum facilement identifiable à la lecture pour les tests en XSL,
+                    j'ai mis le texte du début de plusieurs contes en prose de Perrault. Le texte est issu
+                    de l'édition de Catherine Magnien, aux éditions Le livre de poche, dans l'édition publiée
+                    en 2022 (dépôt légal de la première édition en 1990). Ici, nous considérerons un conte
+                    comme une remarque. L'ordre proposé ne respecte nullement l'ordre montré dans les exemplaires
+                    des Contes : le texte sert simplement de placeholder. Une partie du texte donné dans l'édition
+                    a été coupée, étant donné que le but principal de l'encodage est de chercher un moyen d'organiser
+                    le texte de manière flexible.-->
+                <div2 n="1" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r1_p1" source="#Paris_1668_ed1 #Paris_1668_ed3">Il était une fois
+                        un Roi et une Reine, qui étaient si fâchés de n'avoir point d'enfants, si
+                        fâchés qu'on ne saurait dire. Ils allèrent à toutes les eaux du monde ;
+                        voeux pélerinages, menues dévotions, tout fut mis en oeuvre, mais rien n'y
+                        faisait. Enfin pourtant la Reine devint grosse, et accoucha d'une fille, on
+                        fit un beau Baptême ; on donna pour Marraines à la petite Princesse toutes
+                        les fées qu'on pût trouver dans le pays</p>
+                    <p xml:id="ch0_r1_p2" source="#Paris_1668_ed1 #Paris_1668_ed3">Après les
+                        cérémonies du Baptême toute la compagnie revint au Palais du Roi, où il y
+                        avait un grand festin pour les Fées.</p>
+                    <p xml:id="ch0_r1_p3" source="#Paris_1668_ed1 #Paris_1668_ed3">Mais comme chacun
+                        prenait sa place à table, on vit entrer une vieille Fée qu'on n'avait point
+                        priée parce qu'il y avait plus de cinquante ans qu'elle n'était sortie d'une
+                        Tour et qu'on la croyait morte, ou enchantée.</p>
+                </div2>
+                <div2 n="2" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r2_p1" source="#Paris_1668_ed1 #Paris_1668_ed3">Il était une fois
+                        une petite fille de Village, la plus jolie qu'on eût su voir ; sa mère en
+                        était folle, et sa mère-grand plus folle encore. </p>
+                    <p xml:id="ch0_r2_p2" source="#Paris_1668_ed1 #Paris_1668_ed3">Un jour, sa mère
+                        ayant cuit et fait des galettes, lui dit : "Va voir comme se porte ta
+                        mère-grand, car on m'a dit qu'elle était malade ; porte-lui une galette et
+                        ce petit pot de beurre."</p>
+                    <p xml:id="ch0_r2_p3" source="#Paris_1668_ed1 #Paris_1668_ed3">Le petit chaperon
+                        rouge partit aussitôt pour aller chez sa mère-grand, qui demeurait dans un
+                        autre village.</p>
+                </div2>
+                <div2 n="3" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r3_p1" source="#Paris_1668_ed1 #Paris_1668_ed3"> Il était une
+                        fois un homme qui avait de belles maisons à la Ville et à la Campagne, de la
+                        vaisselle d'or et d'argent, des meubles en broderie, et des carrosses tout
+                        dorés ; mais par malheur cet homme avait la Barbe bleue : cela le rendait si
+                        laid et si terrible, qu'il n'était ni femme ni fille qui ne s'enfuît de
+                        devant lui. </p>
+                    <p xml:id="ch0_r3_p2" source="#Paris_1668_ed1 #Paris_1668_ed3"> Une de ses
+                        Voisines, Dame de qualité, avait deux filles parfaitement belles. Il lui en
+                        demanda une en Mariage, et lui laissa le choix de celle qu'elle voudrait lui
+                        donner. Elles n'en voulaient point toutes deux, et se le renvoyaient l'une à
+                        l'autre, ne pouvant se résoudre à prendre un homme qui eût la barbe bleue. </p>
+                    <p xml:id="ch0_r3_p3" source="#Paris_1668_ed1 #Paris_1668_ed3">La Barbe bleue,
+                        pour faire connaissance, les mena avec leur Mère, et trois ou quatre de
+                        leurs meilleures amies, et quelques jeunes gens du voisinage, à une de ses
+                        maisons de Campagne.</p>
+                </div2>
+                <div2 n="4" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r4_p1" source="#Paris_1668_ed1 #Paris_1668_ed3"> Un Meunier ne
+                        laissa pour tout bien à trois enfants qu'il avait, que son Moulin, son Âne,
+                        et son Chat. L'aîné eut le Moulin, le second eut l'Âne, et le plus jeune
+                        n'eut que le Chat. </p>
+                    <p xml:id="ch0_r4_p2" source="#Paris_1668_ed1 #Paris_1668_ed3"> Ce dernier ne
+                        pouvait se consoler d'avoir un si pauvre lot : "Mes frères, disait-il,
+                        pourront gagner leur vie honnêtement en se mettant ensemble ; pour moi,
+                        lorsque j'aurais mangé mon chat, et que je me serai fait un manchon de sa
+                        peau, il faudra que je meure de faim." </p>
+                    <p xml:id="ch0_r4_p3" source="#Paris_1668_ed1 #Paris_1668_ed3"> Le Chat qui
+                        entendait ce discours, mais qui n'en fit pas semblant, lui dit d'un air posé
+                        et sérieux : "Ne vous affligez point, mon maître, vous n'avez qu'à me donner
+                        un Sac, et me faire faire une paire de Bottes pour aller dans les
+                        brouissailles, et vous verrez que vous n'êtes pas si mal partagé que vous
+                        croyez" </p>
+                </div2>
+                <!--Traitement d'un cas de reclassement que nous dirons "simple" : deux remarques adjacentes échangent leurs places-->
+                <div2 corresp="#ch0_r1" source="#Paris_1689_ed4"/>
+                <div2 corresp="#ch0_r3" source="#Paris_1689_ed4"/>
+                <div2 corresp="#ch0_r2" source="#Paris_1689_ed4"/>
+                <div2 corresp="#ch0_r4" source="#Paris_1689_ed4"/>
+                <!--Traitement d'un cas de reclassement "complexe" avec déplacement de remarque et série-->
+                <div2 corresp="#ch0_r1" source="#Paris_1690_ed5"/>
+                <div2 corresp="#ch0_r3" source="#Paris_1690_ed5"/>
+                <div2 corresp="#ch0_r4" source="#Paris_1690_ed5"/>
+                <div2 corresp="#ch0_r2" source="#Paris_1690_ed5"/>
+
+                <div2 corresp="#ch0_r1" source="#Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r2" source="#Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r3" source="#Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r4" source="#Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+
+                <!--Traitement d'un cas d'échange et d'embrayage avec un texte inventé, à l'image de l'écriture automatique.
+                    Il est possible de changer le texte s'il est compliqué de distinguer les paragraphes dans
+                    l'export XSL.-->
+                <div2 n="5" xml:id="ch0_r5" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r5_p1" source="#Paris_1668_ed1 #Paris_1668_ed3"> Un train part </p>
+                    <p xml:id="ch0_r5_p2" source="#Paris_1668_ed1 #Paris_1668_ed3"> en direction de
+                        la mer </p>
+                    <p xml:id="ch0_r5_p3" source="#Paris_1668_ed1 #Paris_1668_ed3"> et semble
+                        s'évaporer. </p>
+                </div2>
+                <div2 n="6" xml:id="ch0_r6" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r6_p1" source="#Paris_1668_ed1 #Paris_1668_ed3"> Le vert dans les
+                        nuages </p>
+                    <p xml:id="ch0_r6_p2" source="#Paris_1668_ed1 #Paris_1668_ed3"> obstrue la vue
+                        horrifiée </p>
+                    <p xml:id="ch0_r6_p3" source="#Paris_1668_ed1 #Paris_1668_ed3"> des reflets de
+                        verre. </p>
+                </div2>
+                <div2 n="7" xml:id="ch0_r7" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r7_p1" source="#Paris_1668_ed1 #Paris_1668_ed3"> Le citron
+                        hallucine </p>
+                    <p xml:id="ch0_r7_p2" source="#Paris_1668_ed1 #Paris_1668_ed3"> des lucioles de
+                        feu </p>
+                    <p xml:id="ch0_r7_p3" source="#Paris_1668_ed1 #Paris_1668_ed3"> se posant sur
+                        une règle. </p>
+                </div2>
+
+                <div2 corresp="#ch0_r5" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"/>
+                <div2 corresp="#ch0_r6" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"/>
+                <div2 n="10" xml:id="ch0_r10" source="#Paris_1691_ed6">
+                    <p xml:id="ch0_r10_p1" source="#Paris_1691_ed6">Les perles tombent et
+                        brillent</p>
+                    <p xml:id="ch0_r10_p2" source="#Paris_1691_ed6">sur des mains ridées</p>
+                    <p xml:id="ch0_r10_p3" source="#Paris_1691_ed6">pleines de tendresse.</p>
+                </div2>
+                <div2 n="11" xml:id="ch0_r11" source="#Paris_1691_ed6">
+                    <p xml:id="ch0_r11_p1" source="#Paris_1691_ed6">La guitare aux accents
+                        irisés</p>
+                    <p xml:id="ch0_r11_p2" source="#Paris_1691_ed6">illumine le couloir</p>
+                    <p xml:id="ch0_r11_p3" source="#Paris_1691_ed6">vide et abandonné.</p>
+                </div2>
+                <!--Cas d'échange entre remarques-->
+                <div2 corresp="#ch0_r7" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6">
+                    <p corresp="#ch_r7_p1" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"/>
+                    <p corresp="#ch_r6_p1" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"/>
+                    <p corresp="#ch0_r7_p2" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"/>
+                    <p corresp="#ch0_r7_p3" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6"
+                    />
+                </div2>
+
+                <!--Traitement d'un cas de greffe d'aval-->
+                <div2 xml:id="ch0_r8" source="#Paris_1668_ed1 #Paris_1668_ed3 #Paris_1689_ed4">
+                    <p xml:id="ch0_r8_p1" source="#Paris_1668_ed1 #Paris_1668_ed3 #Paris_1689_ed4"
+                        >Le manoir brumeux cache de sombres manigances,</p>
+                    <p xml:id="ch0_r8_p3" source="#Paris_1668_ed1 #Paris_1668_ed3 #Paris_1689_ed4">
+                        et des arbres aux troncs noueux.</p>
+                </div2>
+
+                <div2 corresp="#ch0_r8"
+                    source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch0_r8_p1"
+                        source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    <p xml:id="ch0_r8_p2"
+                        source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10">d'anciennes
+                        chaises derrière des ruines</p>
+                    <p corresp="#ch0_r8_p3"
+                        source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10"/>
+                </div2>
+
+                <!--Traitement d'un cas de greffe d'amont-->
+                <div2 xml:id="ch0_r9" source="#Paris_1668_ed1 #Paris_1668_ed3">
+                    <p xml:id="ch0_r9_p2" source="#Paris_1668_ed1 #Paris_1668_ed3">les colonnes et
+                        les marches chryséléphantines</p>
+                    <p xml:id="ch0_r9_p3" source="#Paris_1668_ed1 #Paris_1668_ed3"> s'assombrissent
+                        sous les taches d'encre.</p>
+                </div2>
+                <div2 corresp="#ch0_r8"
+                    source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p xml:id="ch0_r9_p1"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10">Sur un mont et
+                        sous le ciel gris,</p>
+                    <p corresp="#ch0_r9_p2"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    <p corresp="#ch0_r9_p3"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Lyon_1694_ed8
+                        #Paris_1696_ed9 #Paris_1699_ed10"/>
+                </div2>
+
+                <!--Traitement d'un cas de désembrayage-->
+                <div2 corresp="#ch0_r5"
+                    source="#Paris_1692_ed7 #Lyon_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r6"
+                    source="#Paris_1692_ed7 #Lyon_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r7"
+                    source="#Paris_1692_ed7 #Lyon_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r10" source="#Paris_1692_ed7 #Lyon_1694_ed8
+                    #Paris_1696_ed9 #Paris_1699_ed10"/>
+                <div2 corresp="#ch0_r11"
+                    source="#Paris_1692_ed7 #Lyon_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+            </div1>
             <div1 xml:id="ch1">
                 <head>Des Ouvrages et de l'Esprit</head>
                 <div2 n="7"
