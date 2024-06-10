@@ -406,6 +406,9 @@
                 <glyph xml:id="Pied_de_mouche_double">
                     <desc>((¶))</desc>
                 </glyph>
+                <glyph xml:id="asterisque">
+                    <desc>*</desc>
+                </glyph>
             </charDecl>
             <classDecl>
                 <taxonomy>
