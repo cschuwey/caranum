@@ -520,9 +520,10 @@
                     <date when="2024-06-10" resp="#LB">Ajout d'un glyphe de signalement de remarque
                         (*). Encodage de l'annexion d'une remarque (Chapitre 1, remarque 7).</date>
                     <date when="2024-06-10" resp="#LL">Ajout de xml:id, corresp et source pour les
-                        paragraphes du chapitre "Des Femmes", exemples et encodage de cas d'échange,
-                        d'embrayage, désembrayage et de greffes avec des lorem ipsum en écriture 
-                        automatique.</date>
+                        paragraphes, d'exemples avec des lorem ipsum en écriture automatique, et
+                        encodage de cas d'échange, d'embrayage, désembrayage et de greffes. Encodage
+                        d'exemples concrets donnés par l'introduction d'Escola, concernant les cas
+                        d'attraction et (r16 dans "Des Ouvrages de l'Esprit" et r85 dans "De la Cour").</date>
                 </item>
             </list>
         </revisionDesc>
@@ -761,6 +762,102 @@
                         />Il y a de certaines choses dont la médiocrité est insupportable, la
                         poésie, la musique, la peinture, le discours public.</p>
                 </div2>
+<div2 n="15" xml:id="ch1_r15">
+                    <p xml:id="ch1_r15_p1"
+                        source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >On a dû faire du style ce qu’on a fait de l’architecture ; on a entièrement
+                        abandonné l’ordre gothique, que la barbarie avait introduit pour les palais
+                        et pour les temples ; on a rappelé le dorique, l’ionique et le corinthien :
+                        ce qu’on ne voyait plus que dans les ruines de l’ancienne Rome et de la
+                        vieille Grèce, devenue moderne, éclate dans nos portiques et dans nos
+                        péristyles. De même on ne saurait en écrivant rencontrer le parfait, et s’il
+                        se peut, surpasser les anciens que par leur imitation.</p>
+                    <p xml:id="ch1_r15_p2"
+                        source="#Paris_ed1 #Paris_ed3 #Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Combien de siècles se sont écoulés avant que les hommes dans les sciences
+                        et dans les arts aient pu revenir au goût des anciens, et reprendre enfin le
+                        simple et le naturel !</p>
+                    <p xml:id="ch1_r15_p3"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >On se nourrit des anciens et des habiles modernes, on les presse, on en
+                        tire le plus que l'on peut, on en renfle ses ouvrages ; et quand enfin l’on
+                        est auteur, et que l’on croit marcher tout seul, on s’élève contre eux, on
+                        les maltraite, semblable à ces enfants drus et forts d’un bon lait qu’ils
+                        ont sucé, qui battent leur nourrice.</p>
+                    <p xml:id="ch1_r15_p4"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Un auteur moderne prouve ordinairement que les Anciens nous sont inférieurs
+                        en deux manières, par raison et par exemple ; il tire la raison de son goût
+                        particulier, et l’exemple de ses ouvrages.</p>
+                    <p xml:id="ch1_r15_p5"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Il avoue que les Anciens, quelque inégaux et peu corrects qu’ils soient,
+                        ont de beaux traits, il les cite, et ils sont si beaux qu’ils font lire sa
+                        critique.</p>
+                    <p xml:id="ch1_r15_p6"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Quelques habiles prononcent en faveur des Anciens contre les Modernes, mais
+                        ils sont suspects et semblent juger en leur propre cause, tant leurs
+                        ouvrages sont faits sur le goût de l’antiquité : on les récuse.</p>
+                </div2>
+                <!--Cas d'annexion pour la remarque 17-->
+                <div2 corresp="#ch1_r15_p2" source="#Paris_ed1 #Paris_ed3">
+                    <p corresp="#ch1_r17_p1" source="#Paris_ed3 #Paris_1688_ed3_ex1"/>
+                </div2>
+                <div2 corresp="#ch1_r17_p2" source="#Paris_ed1 #Paris_ed3"/>
+                <div2 corresp="#ch1_r17_p3" source="#Paris_ed1 #Paris_ed3"/>
+                <!--Encodage d'un cas d'attraction (cf intro d'Escola, pp.26-27)-->
+                <div2 n="16" xml:id="ch1_r16" source="#Paris_ed1 #Paris_ed3">
+                    <p xml:id="ch1_r16_p1" source="#Paris_ed1 #Paris_ed3">L’on devrait aimer à lire
+                        ses ouvrages à ceux qui en savent assez pour les corriger et les
+                        estimer.</p>
+                    <p xml:id="ch1_r16_p2"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Ne vouloir être ni conseillé ni corrigé sur son ouvrage, est un
+                        pédantisme.</p>
+                    <p xml:id="ch1_r16_p3"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Il faut qu’un auteur reçoive avec une égale modestie les éloges et la
+                        critique que l’on fait de ses ouvrages.</p>
+                </div2>
+                <div2 n="18" corresp="#ch1_r18_p1" source="#Paris_ed1 #Paris_ed3"/>
+                <div2 n="18" corresp="#ch1_r18_p2" source="#Paris_ed1 #Paris_ed3"/>
+
+                <div2 n="17" xml:id="ch1_r17"
+                    source="Paris_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p xml:id="ch1_r17_p1"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Entre toutes les différentes expressions qui peuvent rendre une seule de
+                        nos pensées, il n’y en a qu’une qui soit la bonne, on ne la rencontre pas
+                        toujours en parlant, ou en écrivant : il est vrai néanmoins qu’elle existe,
+                        que tout ce qui ne l’est point est faible, et ne satisfait point un homme
+                        d’esprit qui veut se faire entendre.</p>
+                    <p xml:id="ch1_r17_p2"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Un bon auteur, et qui écrit avec soin, éprouve souvent que l’expression
+                        qu’il cherchait depuis longtemps sans la connaître, et qu’il a enfin
+                        trouvée, est celle qui était la plus simple, la plus naturelle, qui semblait
+                        devoir se présenter d’abord et sans effort.</p>
+                    <p xml:id="ch1_r17_p3"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Ceux qui écrivent par humeur sont sujets à retoucher à leurs ouvrages ;
+                        comme elle n’est pas toujours fixe, et qu’elle varie en eux selon les
+                        occasions, ils se refroidissent bientôt pour les expressions et les termes
+                        qu’ils ont le plus aimés.</p>
+                </div2>
+                <div2 n="18" xml:id="ch1_r18"
+                    source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 
+                    #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p xml:id="ch1_r18_p1" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >La même justesse d’esprit qui nous fait écrire de bonnes choses, nous fait
+                        appréhender qu’elles ne le soient pas assez pour mériter d’être lues.</p>
+                    <p xml:id="ch1_r18_p2" source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 
+                        #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Un esprit médiocre croit écrire divinement ; un bon esprit croit écrire
+                        raisonnablement.</p>
+                </div2>                
             </div1>
             <div1 xml:id="ch3">
                 <head>Des Femmes</head>
@@ -919,11 +1016,52 @@
                 </div2>
             </div1>
             <div1 n="5" xml:id="ch5">
+                <head>De la Société et de la Conversation</head>
                 <div2 n="81" corresp="#ch5_r81"
                     source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
                     <!-- Changement de chapitre pour cette remarque, elle restera dans cette position jusqu'à la fin. -->
             </div1>
+            <div1 xml:id="ch8">
+                <head>De la Cour</head>
+                <!-- Exemple de greffe en amont et en aval en lien avec la remarque 85 (exemple donné par Escola, cf
+                intro pp.25-26). Dans la première et troisième édition, ce paragraphe de la remarque est seul
+                et la remarque est la troisième remarque du chapitre (cf intro d'Escola)-->
+                <div2 n="85" xml:id="ch8_r85" source="#Paris_1688_ed1 #Paris_1688_ed3">
+                    <p xml:id="ch8_r85_p2"
+                        source="#Paris_ed1 #Paris_ed3 #Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >C’est avoir fait un grand pas dans la finesse, que de faire penser de soi,
+                        que l’on n’est que médiocrement fin.</p>
+                </div2>
+
+                <div2 n="85" corresp="ch8_r85">
+                    <!--Dans quatrième édition, la remarque obtient les greffes de paragraphes ainsi que la
+                        position en tant que 55 paragraphe du chapitre-->
+                    <p xml:id="ch8_r85_p1"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7
+                        #Paris_1694_ed8 #Paris_ #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Comment nommerai-je cette sorte de gens qui ne sont fins que pour les sots
+                        : je sais du moins que les habiles les confondent avec ceux qu’ils savent
+                        tromper.</p>
+                    <p corresp="#ch8_r85_p2"
+                        source="#Paris_ed1 #Paris_ed3 #Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"/>
+                    <p xml:id="ch8_r85_p3"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >La finesse n’est ni une trop bonne, ni une trop mauvaise qualité ; elle
+                        flotte entre le vice et la vertu : il n’y a point de rencontre où elle ne
+                        puisse, et peut-être, où elle ne doive être suppléée par la prudence.</p>
+                    <p xml:id="ch8_r84_p4"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >La finesse est l’occasion prochaine de la fourberie ; de l’un à l’autre le
+                        pas est glissant ; le mensonge seul en fait la différence ; si on l’ajoute à
+                        la finesse, c’est fourberie.</p>
+                    <p xml:id="ch8_r85_p5"
+                        source="#Paris_1689_ed4 #Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
+                        >Avec les gens qui par finesse écoutent tout, et parlent peu, parlez encore
+                        moins ; ou si vous parlez beaucoup, dites peu de chose.</p>
+                </div2>
+            </div1>
             <div1 n="9" xml:id="ch9">
+                <head>Des Grands</head>
                 <div2 n="40" xml:id="ch5_r81"
                     source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3">
                     <!-- Première occurence de cette remarque. -->
