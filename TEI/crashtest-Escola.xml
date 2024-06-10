@@ -517,6 +517,39 @@
     <text>
         <front/>
         <body>
+            <div1 xml:id="ch1">
+                <head>Des Ouvrages et de l'Esprit</head>
+                <div2 n="7"
+                    source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1">
+                    <!-- Nouvelle forme des deux remarques qui étaient auparavant indépendante l'une de l'autre. On notera que leur "sens" a d'ailleurs été inversé (la 7 est devenu p2 et la 8, p1). -->
+                    <p n="1" corresp="#ch1_r7_p1"
+                        source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
+                    <p n="2" corresp="#ch1_r7_p2"
+                        source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
+                    />
+                </div2>
+                <div2 n="7"
+                    source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2">
+                    <!-- Première apparition de cette remarque sous sa forme indépendante (continue ainsi jusqu'à la 4ème édition). -->
+                    <p n="1" xml:id="ch1_r7_p2"
+                        source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2"
+                            ><g
+                            source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2"
+                        />Quel supplice que celui d’entendre déclamer pompeusement un froid
+                        discours, ou prononcer de médiocres vers avec toute l’emphase d’un mauvais
+                        poète !</p>
+                </div2>
+                <div2 n="8"
+                    source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2">
+                    <!-- Première apparition de cette remarque sous sa forme indépendante (continue ainsi jusqu'à la 4ème édition). -->
+                    <p n="1" xml:id="ch1_r7_p1"
+                        source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2"
+                            ><g
+                            source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
+                        />Il y a de certaines choses dont la médiocrité est insupportable, la
+                        poésie, la musique, la peinture, le discours public.</p>
+                </div2>
+            </div1>
             <div1 xml:id="ch3">
                 <head>Des Femmes</head>
                 <!--Cas de déplacements de la remarque 31 à travers plusieurs éditions-->
