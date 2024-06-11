@@ -446,8 +446,8 @@
                         pour la première édition, ainsi qu'inscription d'exemplaires pour ladite
                         édition. Correction de quelques suppressions superflues dans le teiheader.
                         Ajout d'un pied-de-mouche devant la remarque.</date>
-                    <date when="2024-05-24" resp="#LB">Encodage de la remarque 81 (celle qui change de
-                        chapitre) par Léa Brossat, remarque encodée telle qu'elle apparait la
+                    <date when="2024-05-24" resp="#LB">Encodage de la remarque 81 (celle qui change
+                        de chapitre) par Léa Brossat, remarque encodée telle qu'elle apparait la
                         première fois dans les Caractères. Matérialisation de certains changements
                         au niveau graphie du texte brut.</date>
                     <date when="2024-05-24" resp="#LL">Ajout de variantes en fonction des éditions 1
@@ -457,12 +457,12 @@
                         établie).</date>
                     <date when="2024-05-27" resp="#LL">Ajout de variantes orthographiques et
                         typographiques à travers les balises choice dans la remarque 11.</date>
-                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81 (édition 7 et une
-                        partie des 8). Rajouts d'exemplaires dans la bibliographie (selon la norme
+                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81
+                        (édition 7 et une partie des 8). Rajouts d'exemplaires dans la bibliographie
+                        (selon la norme déjà établie).</date>
+                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81 (fin
+                        édition 8 et 9). Rajouts d'exemplaires dans la bibliographie (selon la norme
                         déjà établie).</date>
-                    <date when="2024-05-28" resp="#LB">Rajouts de variations à la remarque 81 (fin édition 8 et
-                        9). Rajouts d'exemplaires dans la bibliographie (selon la norme déjà
-                        établie).</date>
                     <date when="2024-05-28">Encodage de la remarque 51 du chapitre 9 "Des Grands"
                         par Maxime Broca, remarque encodée telle qu'elle apparait la dans l'édition
                         7 de l'exemplaire #Lyon_1693_ed7.</date>
@@ -470,8 +470,8 @@
                         et les wit des sources (selon mes moyens) dans la remarque 11, et ajout de
                         variantes en fonction des éditions 4 et 5. Ajout de références
                         bibliographiques</date>
-                    <date when="2024-05-29" resp="#LB">Correction de quelques erreurs dans l'encodage des
-                        variations de la remarque 81.</date>
+                    <date when="2024-05-29" resp="#LB">Correction de quelques erreurs dans
+                        l'encodage des variations de la remarque 81.</date>
                     <date when="2024-05-29" resp="#LL">Correction de quelques erreurs d'encodage
                         pour la remarque 11 (remarque 4 dans la première édition). Ajout de balises
                         ref et d'un attribut xml:id pour la remarque et ses différentes versions
@@ -502,28 +502,34 @@
                         et de paragraphes : test pour l'identification des paragraphes avec le
                         xml:id, dans le cas d'une dissociation de paragraphes (chapitre "Des
                         Femmes").</date>
-                    <date when="2024-06-06" resp="#LL">Encodage d'autres itérations de la remarque dont les
-                        paragraphes subordonnés font l'objet d'une dissociation dans le chapitre
-                        "Des Femmes" entre les éditions. Ajout de remarques pour la
+                    <date when="2024-06-06" resp="#LL">Encodage d'autres itérations de la remarque
+                        dont les paragraphes subordonnés font l'objet d'une dissociation dans le
+                        chapitre "Des Femmes" entre les éditions. Ajout de remarques pour la
                         contextualisation de la remarque. Reprise de l'encodage de Marine et Sarah
                         pour des cas de déplacement de remarques. Rangement des remarques en
                         fonction des mises à jour du contexte autour des remarques 37, 38 et
                         39.</date>
                     <date when="2024-06-06" resp="#LB">Encodage des mouvements de la remarque 81
                         (plusieurs déplacements suivis d'une transposition).</date>
-                    date when="2024-06-07" resp="#LL">Création d'un chapitre 0 dédié aux exemples
-                        avec des lorem ipsum. Ajout de "remarques" avec un lorem ipsum dont le texte
-                        est issu des Contes de Perrault, et traitement de cas de reclassement.</date>
                     <date when="2024-06-07" resp="#LL">Création d'un chapitre 0 dédié aux exemples
                         avec des lorem ipsum. Ajout de "remarques" avec un lorem ipsum dont le texte
-                        est issu des Contes de Perrault, et traitement de cas de reclassement.</date>                    
+                        est issu des Contes de Perrault, et traitement de cas de
+                        reclassement.</date>
+                    <date when="2024-06-07" resp="#LL">Création d'un chapitre 0 dédié aux exemples
+                        avec des lorem ipsum. Ajout de "remarques" avec un lorem ipsum dont le texte
+                        est issu des Contes de Perrault, et traitement de cas de
+                        reclassement.</date>
                     <date when="2024-06-10" resp="#LB">Ajout d'un glyphe de signalement de remarque
                         (*). Encodage de l'annexion d'une remarque (Chapitre 1, remarque 7).</date>
                     <date when="2024-06-10" resp="#LL">Ajout de xml:id, corresp et source pour les
                         paragraphes, d'exemples avec des lorem ipsum en écriture automatique, et
                         encodage de cas d'échange, d'embrayage, désembrayage et de greffes. Encodage
                         d'exemples concrets donnés par l'introduction d'Escola, concernant les cas
-                        d'attraction et (r16 dans "Des Ouvrages de l'Esprit" et r85 dans "De la Cour").</date>
+                        d'attraction et (r16 dans "Des Ouvrages de l'Esprit" et r85 dans "De la
+                        Cour").</date>
+                    <date when="2024-06-11" resp="#LB">Ajout d'un exemple de remarque qui en annexe
+                        une autre, puis qui se déplace un peu dans son chapitre (chapitre 11,
+                        remarque 78).</date>
                 </item>
             </list>
         </revisionDesc>
@@ -762,7 +768,7 @@
                         />Il y a de certaines choses dont la médiocrité est insupportable, la
                         poésie, la musique, la peinture, le discours public.</p>
                 </div2>
-<div2 n="15" xml:id="ch1_r15">
+                <div2 n="15" xml:id="ch1_r15">
                     <p xml:id="ch1_r15_p1"
                         source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
                         >On a dû faire du style ce qu’on a fait de l’architecture ; on a entièrement
@@ -857,7 +863,7 @@
                         #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10"
                         >Un esprit médiocre croit écrire divinement ; un bon esprit croit écrire
                         raisonnablement.</p>
-                </div2>                
+                </div2>
             </div1>
             <div1 xml:id="ch3">
                 <head>Des Femmes</head>
@@ -1019,7 +1025,7 @@
                 <head>De la Société et de la Conversation</head>
                 <div2 n="81" corresp="#ch5_r81"
                     source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
-                    <!-- Changement de chapitre pour cette remarque, elle restera dans cette position jusqu'à la fin. -->
+                <!-- Changement de chapitre pour cette remarque, elle restera dans cette position jusqu'à la fin. -->
             </div1>
             <div1 xml:id="ch8">
                 <head>De la Cour</head>
@@ -1082,6 +1088,42 @@
                 <!-- Premier changement de place de la remarque. Il est intéressant de voir qu'elle reste ici pour l'impression lyonnaise des éditions 7 et 8, mais pas pour les exemplaires imprimés à Paris. -->
                 <div2 n="50" corresp="#ch5_r81" source="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"/>
                 <!-- Second changement de place de la remarque. -->
+            </div1>
+            <div1 n="11" xml:id="ch11">
+                <head>De l'Homme</head>
+                <div2 n="29"
+                    source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2">
+                    <!-- Première apparence de cette remarque, sous sa forme indépendante. -->
+                    <p n="1" xml:id="ch11_r78_p2"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1"
+                            /><g ref="#asterisque" source="#Paris_1688_ed3_ex2"/>C’est une chose
+                        monstrueuse que le goût et la facilité qui est en nous de railler,
+                        d’improuver et de mépriser les autres ; et tout ensemble la colère que nous
+                        ressentons contre ceux qui nous raillent, nous improuvent et nous
+                        méprisent.</p>
+                </div2>
+                <div2 n="59" xml:id="ch11_r78"
+                    source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3">
+                    <!-- Remarque à laquelle celle identifiée ch11_r78_p1 va venir se greffer à l'édition 4. -->
+                    <p n="1" xml:id="ch11_r78_p1"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3"
+                            /><g ref="#asterisque" source="#Paris_1688_ed3_ex2"/>Ceux qui nous
+                        ravissent les biens par la violence, ou par l’injustice, et qui nous ôtent
+                        l’honneur par la calomnie, nous marquent assez leur haine pour nous
+                        (...).</p>
+                    <p n="2" corresp="#ch11_r78_p2"
+                        source="#Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3"
+                    />
+                </div2>
+                <div2 n="68" corresp="#ch11_r78"
+                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3"/>
+                <!-- Premier déplacement de la remarque ch11_r78 après qu'elle ait prit sa forme "finale" (2 paragraphes). -->
+                <div2 n="74" corresp="#ch11_r78"
+                    source="#Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"/>
+                <!-- Deuxième déplacement de la remarque ch11_r78. -->
+                <div2 n="78" corresp="#ch11_r78"
+                    source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
+                <!-- Troisième et final déplacement de la remarque ch11_r78, qui prend alors sa position finale dans les Caractères. -->
             </div1>
         </body>
     </text>
