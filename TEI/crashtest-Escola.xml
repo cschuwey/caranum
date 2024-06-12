@@ -530,8 +530,14 @@
                     <date when="2024-06-11" resp="#LB">Ajout d'un exemple de remarque qui en annexe
                         une autre, puis qui se déplace un peu dans son chapitre (chapitre 11,
                         remarque 78).</date>
+                     <date when="2024-06-11" resp="#LL">Ajout des transformations des remarques 76,
+                        77 et 78 dans le chapitre "De l'Homme" en fonction des éditions. Ajout de
+                        quelques balises g et de quelques mentions d'exemplaires regardés.</date>
                     <date when="2024-06-12" resp="#LB">Ajout d'un exemple de dissociation puis de
                         déplacement (attraction ?) de la remarque identifiée ch15_r8.</date>
+                    <date when="2024-06-12" resp="#LL">Ajout du déplacement des remarques solidaires
+                        60 et 61 (numérotation Bury) dans le chapitre "Des Femmes". Ajout de
+                        mentions d'exemplaires et de glyphes.</date>                    
                 </item>
             </list>
         </revisionDesc>
@@ -869,6 +875,63 @@
             </div1>
             <div1 xml:id="ch3">
                 <head>Des Femmes</head>
+                    <!--Cas de dissociation et de déplacement des paragraphes de la remarque 26 dans plusieurs
+                    éditions, pour devenir les remarques 42 et 43 dans la quatrième édition, puis les remarques
+                    60 et 61 dans les éditions ultérieures (voir intro d'Escola, p.29)-->
+                <div2 n="26" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3">
+                    <p xml:id="ch3_r60_p1"><g ref="#Pied_de_mouche_seul"/>Il y a un temps où les
+                        filles les plus riches doivent prendre parti ; elles n’en laissent guère
+                        échapper les premières occasions sans se préparer un long repentir ; il
+                        semble que la réputation des biens diminue en elles avec celle de leur
+                        beauté : tout favorise au contraire une jeune personne, jusques à l’opinion
+                        des hommes, qui aiment à lui accorder tous les avantages qui peuvent la
+                        rendre plus souhaitable.</p>
+                    <p xml:id="ch3_r61_p1"><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_1689_ed4 #Paris_1689_ed4_ex1
+                            #Paris_1690_ed5 #Paris_1690_ed5_ex1 #Paris_1691_ed6 #Paris_1691_ed6_ex1
+                            #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1694_ed8_ex1"
+                        /> Combien de filles à qui une grande beauté n’a jamais servi qu’à leur
+                        faire espérer une grande fortune ?</p>
+                </div2>
+                <div2 n="42" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                <div2 n="43" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1">
+                    <p corresp="#ch3_r61_p1"/>
+                </div2>
+
+                <div2 n="52"
+                    source="#Lyon_1694_ed8 #Lyon_1694_ed8_ex1 #Paris_1691_ed6 #Paris_1691_ed6_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                <div2 n="53"
+                    source="#Lyon_1694_ed8 #Lyon_1694_ed8_ex1 #Paris_1691_ed6 #Paris_1691_ed6_ex1">
+                    <p corresp="#ch3_r61_p1"/>
+                </div2>
+
+                <div2 n="51" source="#Paris_1690_ed5 #Paris_1690_ed5_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                <div2 n="52" source="#Paris_1690_ed5 #Paris_1690_ed5_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                
+                <div2 n="59" source="#Paris_1692_ed7 #Paris_1692_ed7_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                <div2 n="60" source="#Paris_1692_ed7 #Paris_1692_ed7_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+
+                <div2 n="60"
+                    source="#Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1694_ed8_ex1">
+                    <p corresp="#ch3_r60_p1"/>
+                </div2>
+                <div2 n="61"
+                    source="#Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10 #Paris_1694_ed8_ex1">
+                    <p corresp="#ch3_r61_p1"/>
+                </div2>
+                
                 <!--Cas de déplacements de la remarque 31 à travers plusieurs éditions-->
                 <div2 n="31" xml:id="ch3_r31" source="#Paris_1688_ed1 #Paris_1688_ed3">
                     <p xml:id="ch3_r31_p1"><g ref="#Pied_de_mouche_seul"/>A un homme vain,
@@ -1103,7 +1166,8 @@
                         d’improuver et de mépriser les autres ; et tout ensemble la colère que nous
                         ressentons contre ceux qui nous raillent, nous improuvent et nous
                         méprisent.</p>
-                </div2>
+                </div2>               
+                 <!--Encodage de Léa Brossat Lesaffre-->
                 <div2 n="59" xml:id="ch11_r78"
                     source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3">
                     <!-- Remarque à laquelle celle identifiée ch11_r78_p1 va venir se greffer à l'édition 4. -->
@@ -1126,6 +1190,78 @@
                 <div2 n="78" corresp="#ch11_r78"
                     source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
                 <!-- Troisième et final déplacement de la remarque ch11_r78, qui prend alors sa position finale dans les Caractères. -->
+
+                 <!--Encodage de Lisa Lesaffre-->
+                <!--Encodage de déplacement de remarques solidaires qui seront les remarques 76 et 77 de
+                l'édition Bury. Déplacement en lien avec celui de la remarque qui sera le deuxième futur 2e
+                paragraphe de la remarque 78 (voir intro d'Escola p.27 pour de plus amples explications).-->
+                <div2 n="42" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3">
+                    <p xml:id="ch11_r76_p1" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3"><g
+                            ref="#Pied_de_mouche_seul"/>Nous cherchons notre bonheur hors de
+                        nous-mêmes, et dans l’opinion des hommes que nous connaissons flatteurs, peu
+                        sincères, sans équité, pleins d’envie, de caprices et de préventions :
+                        quelle bizarrerie !</p>
+                </div2>
+                <div2 n="43" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3">
+                    <p xml:id="ch11_r77_p1"><g ref="#Pied_de_mouche_seul"/>Il semble que l’on ne
+                        puisse rire que des choses ridicules : l’on voit néanmoins de certaines gens
+                        qui rient également des choses ridicules, et de celles qui ne le sont pas.
+                        Si vous êtes sot et inconsidéré, et qu’il vous échappe devant eux quelque
+                        impertinence, ils rient de vous : si vous êtes sage, et que vous ne disiez
+                        que des choses raisonnables, et du ton qu’il les faut dire, ils rient de
+                        même.</p>
+                </div2>
+                <div2 n="57" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1">
+                    <p corresp="#ch11_r76_p1" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1"/>
+                </div2>
+                <div2 n="58" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1">
+                    <p corresp="#ch11_r77_p1" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1"/>
+                </div2>
+
+                <div2 n="76"
+                    source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch11_r76_p1" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1"/>
+                </div2>
+                <div2 n="77"
+                    source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch11_r77_p1" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1"/>
+                </div2>
+
+                <!--Encodage d'un cas de greffe/attraction/annexion/, puis de déplacement ; les remarques 29
+                    et 59 de la première édition se fusionnent dans la quatrième édition, et cette
+                    fusion / attraction se déplace pour devenir la remarque 78 que nous retrouvons dans la
+                    numérotation définitive. Voir explication page 56 de l'introduction de Marc Escola.-->
+                <div2 n="29" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3">
+                    <p xml:id="ch11_r78_p2" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3"><g
+                            ref="#Pied_de_mouche_seul"/>C’est une chose monstrueuse que le goût et
+                        la facilité qui est en nous de railler, d’improuver et de mépriser les
+                        autres ; et tout ensemble la colère que nous ressentons contre ceux qui nous
+                        raillent, nous improuvent et nous méprisent.</p>
+                </div2>
+                <div2 n="59" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_1688_ed3">
+                    <p xml:id="ch11_r78_p1" source="#Paris_ed1 #Paris_ed1_ex1 #Paris_ed3"><g
+                            ref="#Pied_de_mouche_seul"/>Ceux qui nous ravissent les biens par la
+                        violence, ou par l’injustice, et qui nous ôtent l’honneur par la calomnie,
+                        nous marquent assez leur haine pour nous ; mais ils ne nous prouvent pas
+                        également qu’ils aient perdu à notre égard toute sorte d’estime, aussi ne
+                        sommes-nous pas incapables de quelque retour pour eux, et de leur rendre un
+                        jour notre amitié. La moquerie au contraire est de toutes les injures celle
+                        qui se pardonne le moins ; elle est le langage du mépris, et l’une des
+                        manières dont il se fait le mieux entendre ; elle attaque l’homme dans son
+                        dernier retranchement, qui est l’opinion qu’il a de soi-même ; elle veut le
+                        rendre ridicule à ses propres yeux, et ainsi elle le convainc de la plus
+                        mauvaise disposition où l’on puisse être pour lui, et le rend
+                        irréconciliable.</p>
+                </div2>
+                <div2 n="59" source="#Paris_1689_ed4 #Paris_1689_ed4_ex1">
+                    <p corresp="#ch11_r78_p1"/>
+                    <p corresp="#ch11_r78_p2"/>
+                </div2>
+                <div2 n="78"
+                    source="#Paris_1690_ed5 #Paris_1691_ed6 #Paris_1692_ed7 #Paris_1694_ed8 #Paris_1696_ed9 #Paris_1699_ed10">
+                    <p corresp="#ch11_r78_p1"/>
+                    <p corresp="#ch11_r78_p2"/>
+                </div2>          
             </div1>
             <div1 n="15" xml:id="ch15">
                 <head>De la Chaire</head>
