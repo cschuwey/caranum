@@ -530,6 +530,8 @@
                     <date when="2024-06-11" resp="#LB">Ajout d'un exemple de remarque qui en annexe
                         une autre, puis qui se déplace un peu dans son chapitre (chapitre 11,
                         remarque 78).</date>
+                    <date when="2024-06-12" resp="#LB">Ajout d'un exemple de dissociation puis de
+                        déplacement (attraction ?) de la remarque identifiée ch15_r8.</date>
                 </item>
             </list>
         </revisionDesc>
@@ -1124,6 +1126,36 @@
                 <div2 n="78" corresp="#ch11_r78"
                     source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
                 <!-- Troisième et final déplacement de la remarque ch11_r78, qui prend alors sa position finale dans les Caractères. -->
+            </div1>
+            <div1 n="15" xml:id="ch15">
+                <head>De la Chaire</head>
+                <div2 n="4" xml:id="ch15_r4"
+                    source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1">
+                    <!-- Cette remarque va rester à la même place à chaque édition, mais ce qui nous intéresse est son second paragraphe, identifié ch15_r8, puisqu'il va prendre son indépendance dans des éditions ultérieures. Cela veut aussi dire que nous ne nous sommes pas occupées d'encoder les modifications qui ont pu lui être apportées par la suite (ce qui nous intéresse est uniquement son second paragraphe). -->
+                    <p n="1" xml:id="ch15_r4_p1"
+                        source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1688_ed3_ex2 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
+                            ><g ref="#Pied_de_mouche_seul"
+                            source="#Paris_ed1_ex1 #Paris_ed1_ex2 #Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
+                            /><g ref="#asterisque" source="#Paris_1688_ed3_ex2"/>Les citations
+                        profanes, les froides allusions, le mauvais pathétique, les antithèses, les
+                        figures outrées ont fini (...).</p>
+                    <p n="2" xml:id="ch15_r8"><g ref="#Pied_de_mouche_seul"
+                            source="#Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3 #Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Paris_1694_ed8_ex1 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"
+                        />C’est avoir de l’esprit que de plaire au peuple dans un sermon par un
+                        style fleuri (...).</p>
+                    <!-- Première apparition de la remarque identifiée ch15_r8, sous sa forme encore subordonnée à une autre remarque. -->
+                </div2>
+                <div2 n="5" corresp="#ch15_r8"
+                    source="#Lyon_ed1_ex1 #Paris_1688_ed3_ex1 #Paris_1689_ed4_ex1 #Paris_1689_ed4_ex2 #Lyon_1689_ed4_ex1 #Lyon_1689_ed4_ex2 #Lyon_1689_ed4_ex3"/>
+                <!-- Prise d'indépendance (dissociation) de la remarque ch15_r8. -->
+                <div2 n="6" corresp="#ch15_r8"
+                    source="#Paris_1690_ed5_ex1 #Paris_1690_ed5_ex2 #Paris_1690_ed5_ex3 #Paris_1691_ed6_ex1 #Paris_1691_ed6_ex2 #Paris_1691_ed6_ex3 #Lyon_1693_ed7_ex1 #Lyon_1693_ed7_ex2 #Lyon_1694_ed8_ex1 #Lyon_1694_ed8_ex2"/>
+                <!-- Déplacement de la remarque ch15_r8, en raison d'un ajout de remarque (attraction ?). -->
+                <div2 n="7" corresp="#ch15_r8" source="#Paris_1692_ed7_ex1 #Paris_1692_ed7_ex2"/>
+                <!-- Déplacement de la remarque ch15_r8, en raison d'un ajout de remarque (attraction ?). -->
+                <div2 n="8" corresp="#ch15_r8"
+                    source="#Paris_1694_ed8_ex1 #Paris_1696_ed9_ex1 #Haye_1696_ed9_ex1 #Paris_1699_ed10_ex1"/>
+                <!-- Nouveau déplacement de la remarque ch15_r8 (attraction ?), elle ne quittera plus cette position. -->
             </div1>
         </body>
     </text>
