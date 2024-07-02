@@ -5,10 +5,10 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <xsl:param name="edition">P_ed1_ex1</xsl:param>
+    <xsl:param name="edition">B_ed1_ex1</xsl:param>
     
     <xsl:template match="/">
-        <html><head></head><body><xsl:apply-templates select="//tei:div2[contains(@source,$edition)]"/></body></html>
+        <html><head></head><body><xsl:apply-templates select="//tei:div2[tei:p[contains(@source,$edition) and @xml:id]]"/></body></html>
     </xsl:template>
     
     <xsl:template match="tei:div2">
@@ -20,11 +20,13 @@
     </xsl:template>
     
     <xsl:template match="tei:app">
-        <span style="color:red"><xsl:apply-templates/></span>
+        <span style="color:red"><xsl:apply-templates select="tei:rdg[contains(@source,$edition)]"></xsl:apply-templates></span>
     </xsl:template>
     
-    <xsl:template match="tei:rdg">
-        <xsl:apply-templates select=".[contains(@source,$edition)]"></xsl:apply-templates>
+    <xsl:template match="tei:g">
+        <xsl:variable name="id"><xsl:value-of select="@ref"/></xsl:variable>
+        <xsl:value-of select="//tei:glyph[contains(@xml:id,$id)]/tei:desc"/>
     </xsl:template>
+    
     
 </xsl:stylesheet>

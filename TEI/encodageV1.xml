@@ -99,11 +99,14 @@
             </projectDesc>
             <charDecl>
                 <glyph xml:id="U2761">
+                    <desc>❡</desc>
                     <localProp value="affiche le début d'une nouvelle remarque"
                         name="CURVED_STEM_PARAGRAPH_SIGN_ORNEMENT"/>
+                    
                 </glyph>
 
                 <glyph xml:id="U0x2A">
+                    <desc>*</desc>
                     <localProp value="signe d'une remarque dans certaines éditions"
                         name="ASTERISQUE"/>
                 </glyph>
@@ -151,8 +154,7 @@
 
                 <div2 source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1">
 
-                    <p xml:id="r01_03_01" source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1"><g
-                            ref="U2761"/><g ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"
+                    <p xml:id="r01_03_01" source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1"><g ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"
                             /><g ref="#U0x2A" source="#B_ed1_ex1"/> C'eſt un métier que de faire un
                         livre, comme de faire une pendule ; <app>
                             <rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><c>I</c>l</rdg>
@@ -175,7 +177,7 @@
                 <div2>
 
                     <pb n="82" source="#B_ed1_ex1"/>
-                    <p xml:id="r01_04_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"
+                    <p xml:id="r01_04_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1"><g ref="U2761"
                             source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/><g ref="#U0x2A"
                             source="#B_ed1_ex1"/>Il n'eſt pas ſi <app>
                             <rdg source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1">ai<c>ſ</c>é</rdg>
@@ -185,7 +187,7 @@
                 </div2>
                 <div2>
 
-                    <p xml:id="r01_05_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"
+                    <p xml:id="r01_05_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1"><g ref="U2761"
                             source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/><g ref="#U0x2A"
                             source="#B_ed1_ex1"/>Un ouvrage <app>
                             <rdg source="#P_ed1_ex1 #P_ed1_ex2"><c>ſ</c>atirique</rdg>
@@ -203,7 +205,7 @@
                 </div2>
                 <div2>
 
-                    <p xml:id="r01_06_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"
+                    <p xml:id="r01_06_01" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1"><g ref="U2761"
                         />Si l'on <app>
                             <rdg source="#P_ed1_ex1 #P_ed1_ex2"><c>os</c>te</rdg>
                             <rdg source="#L_ed1_ex1 #B_ed1_ex1"><c>ô</c>te</rdg>
