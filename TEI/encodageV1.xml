@@ -21,7 +21,9 @@
                     <resp>Auteur</resp>
                 </respStmt>
             </editionStmt>
-            <publicationStmt><p></p></publicationStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <monogr xml:id="P_ed1">
@@ -41,7 +43,7 @@
                                 />
                             </pubPlace>
                         </imprint>
-                        
+
                         <imprint xml:id="P_ed1_ex2">
                             <date when="1688">1688</date>
                             <pubPlace ana="#Paris">À Paris</pubPlace>
@@ -50,25 +52,28 @@
                             <pubPlace>
                                 <link target="https://books.google.be/books?vid=GENT900000224061"/>
                             </pubPlace>
-                            <pubPlace ana="#Bruxelles">Se vend à Bruxelles chez Jean Leonard</pubPlace>
+                            <pubPlace ana="#Bruxelles">Se vend à Bruxelles chez Jean
+                                Leonard</pubPlace>
                         </imprint>
-                        
+
                         <imprint xml:id="P_ed1_ex3">
                             <date when="1688">1688</date>
                             <pubPlace ana="#Paris">À Paris</pubPlace>
                             <publisher>chez Estienne Michallet, premier Imprimeur du Roy, ruë S.
                                 Jâques, à l'Image saint Paul</publisher>
                             <pubPlace>
-                                <link target="https://drive.google.com/file/d/1JypEVyr4Odjtcp2sJj-AfjEiZAu2YHhL/view?usp=sharing"/>
+                                <link
+                                    target="https://drive.google.com/file/d/1JypEVyr4Odjtcp2sJj-AfjEiZAu2YHhL/view?usp=sharing"
+                                />
                             </pubPlace>
                             <pubPlace>Se vend à Bruxelles chez Jean Leonard</pubPlace>
                         </imprint>
-                        
+
                     </monogr>
                     <monogr xml:id="L_ed1">
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
-                        
+
                         <title>Les caractères de Théophraste traduits du grec ; avec les caractères
                             ou les moeurs de ce siècle ([Reprod]) / [par Jean de la Bruyère]</title>
                         <edition ana="#L_ed1">Première édition</edition>
@@ -82,7 +87,7 @@
                                 />
                             </pubPlace>
                         </imprint>
-                        
+
                     </monogr>
                 </biblStruct>
             </sourceDesc>
@@ -97,7 +102,7 @@
                     <localProp value="affiche le début d'une nouvelle remarque"
                         name="CURVED_STEM_PARAGRAPH_SIGN_ORNEMENT"/>
                 </glyph>
-                
+
                 <glyph xml:id="U0x2A">
                     <localProp value="signe d'une remarque dans certaines éditions"
                         name="ASTERISQUE"/>
@@ -132,52 +137,65 @@
             <div1 xml:id="OE">
                 <head>Des Ouvrages de l'Esprit</head>
                 <div2 source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1">
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_01">TOut est dit, &amp; l'on vient trop
-                        tard depuis plus de ſept mille ans qu'il y a des hommes, &amp; qui penſent.
-                        Sur ce qui concerne les mœurs le plus beau &amp; le meilleur est enlevé ;
-                        l'on ne fait que glaner aprés les Anciens &amp; les habiles d'entre les
-                        Modernes.</p>
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_01">TOut est
+                        dit, &amp; l'on vient trop tard depuis plus de ſept mille ans qu'il y a des
+                        hommes, &amp; qui penſent. Sur ce qui concerne les mœurs le plus beau &amp;
+                        le meilleur est enlevé ; l'on ne fait que glaner aprés les Anciens &amp; les
+                        habiles d'entre les Modernes.</p>
                 </div2>
                 <div2 source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1">
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_02"><g ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/><g ref="#U0x2A" source="#P_ed1_ex3"/>Il faut chercher ſeulement à penser
-                        &amp; à parler juſte, ſans vouloir amener les autres à <app>
-                            <lem wit="P_ed1_ex1 #P_ed1_ex2">noſtre</lem>
-                            <rdg wit="L_ed1_ex1 #P_ed1_ex3">nôtre</rdg>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_02"><g
+                            ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/><g ref="#U0x2A"
+                            source="#P_ed1_ex3"/>Il faut chercher ſeulement à penser &amp; à parler
+                        juſte, ſans vouloir amener les autres à <app>
+                            <lem wit="#P_ed1_ex1 #P_ed1_ex2">n<c>oſ</c>tre</lem>
+                            <rdg wit="#L_ed1_ex1 #P_ed1_ex3">n<c>ô</c>tre</rdg>
                         </app> goût &amp; à nos sentiments ; c'est une trop grande entreprise.</p>
                 </div2>
-                
+
                 <div2 source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1">
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_03"><g ref="U2761"/><g ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/><g ref="#U0x2A" source="#P_ed1_ex3"/>
-                        C'eſt un métier que de faire un
-                        livre, comme de faire une pendule ; <app><rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1">I</rdg><rdg source="#P_ed1_ex3">i</rdg></app>l faut plus que de l'eſprit pour <app type="orth" subtype="circonflexe"><rdg source="#P_ed1_ex1 #P_ed1_ex2">es</rdg><rdg source="#P_ed1_ex3 #L_ed1_ex1">ê</rdg></app>tre
-                        Auteur. Un Magistrat alloit par ſon merite à la premiere dignité, il <app>
-                            <rdg wit="P_ed1_ex1 P_ed1_ex2">es</rdg>
-                            <rdg wit="L_ed1_ex1">é</rdg>
-                            <rdg wit="P_ed1_ex3">ê</rdg>
-                        </app>toit homme délié, &amp; pratic dans les affai<pb n="159" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/>res, il a fait imprimer un <app type="typo" subtype="capitalize">
-                            <lem wit="P_ed1_ex1 P_ed1_ex2 P_ed1_ex3">o</lem>
-                            <rdg wit="L_ed1_ex1">O</rdg>
-                        </app>uvrage moral, qui est rare par le ridicule.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3 #L_ed1_ex1" xml:id="r01_03"><g
+                            ref="U2761"/><g ref="U2761" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"
+                            /><g ref="#U0x2A" source="#P_ed1_ex3"/> C'eſt un métier que de faire un
+                        livre, comme de faire une pendule ; <app>
+                            <rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><c>I</c>l</rdg>
+                            <rdg source="#P_ed1_ex3"><c>i</c>l</rdg>
+                        </app> faut plus que de l'eſprit pour <app type="orth"
+                            subtype="circonflexe">
+                            <rdg source="#P_ed1_ex1 #P_ed1_ex2"><c>es</c>tre</rdg>
+                            <rdg source="#P_ed1_ex3 #L_ed1_ex1"><c>ê</c>tre</rdg>
+                        </app> Auteur. Un Magistrat alloit par ſon merite à la premiere dignité,
+                        il <app>
+                            <rdg wit="#P_ed1_ex1 #P_ed1_ex2"><c>es</c>toit</rdg>
+                            <rdg wit="#L_ed1_ex1"><c>é</c>toit</rdg>
+                            <rdg wit="#P_ed1_ex3"><c>ê</c>toit</rdg>
+                        </app> homme délié, &amp; pratic dans les affai<pb n="159"
+                            source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/>res, il a fait imprimer un
+                            <app type="typo" subtype="capitalize">
+                                <lem wit="#P_ed1_ex1 #P_ed1_ex2 #P_ed1_ex3"><c>o</c>uvrage</lem>
+                                <rdg wit="#L_ed1_ex1"><c>O</c>uvrage</rdg>
+                        </app> moral, qui est rare par le ridicule.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il n'est pas si aisé de se faire un
-                        nom par un ouvrage parfait, que d'en faire valoir un mediocre par le nom
-                        qu'on s'est déja acquis.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il n'est pas si
+                        aisé de se faire un nom par un ouvrage parfait, que d'en faire valoir un
+                        mediocre par le nom qu'on s'est déja acquis.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un ouvrage satirique ou qui a des
-                        faits, qui est donné en feüilles sous le manteau aux conditions <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un ouvrage
+                        satirique ou qui a des faits, qui est donné en feüilles sous le manteau aux
+                        conditions <app>
                             <lem wit="P_ed1_ex1">d'estre</lem>
                             <rdg wit="L_ed1_ex1">d'être</rdg>
                         </app> rendu de même, s'il est mediocre, passe pour merveilleux;
                         l'impression est l'écüeil.</p>
                 </div2>
                 <div2>
-                    
+
                     <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Si l'on <app>
                             <lem wit="P_ed1_ex1">oste</lem>
                             <rdg wit="L_ed1_ex1">ôte</rdg>
@@ -189,19 +207,21 @@
                         </app>.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Quel supplice que celuy d'entendre
-                        prononcer de mediocres vers avec toute l'emphase d'un mauvais Poëte ?</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Quel supplice que
+                        celuy d'entendre prononcer de mediocres vers avec toute l'emphase d'un
+                        mauvais Poëte ?</p>
                 </div2>
                 <div2>
-                   
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a de certaines choses dont la
-                        mediocrité est insupportable, la Poësie, la Musique, la Peinture, le
-                        Discours public.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a de certaines
+                        choses dont la mediocrité est insupportable, la Poësie, la Musique, la
+                        Peinture, le Discours public.</p>
                 </div2>
                 <div2>
-                   
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"> <g ref="U2761"/>L'on n'a gueres <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1">
+                        <g ref="U2761"/>L'on n'a gueres <app>
                             <lem wit="P_ed1_ex1">veu</lem>
                             <rdg wit="L_ed1_ex1">vû</rdg>
                         </app> jusques à present un <app>
@@ -216,11 +236,11 @@
                         </app>, Tite-Live ses Decades, &amp; l'Orateur Romain ses Oraisons.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a dans l'art un point de
-                        perfection, comme de bonté ou de maturité dans la nature ; celuy qui le
-                        sent, &amp; qui l'aime a le goust parfait ; celuy qui ne le sent pas, &amp;
-                        qui aime en deçà ou au delà, a le <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a dans l'art
+                        un point de perfection, comme de bonté ou de maturité dans la nature ; celuy
+                        qui le sent, &amp; qui l'aime a le goust parfait ; celuy qui ne le sent pas,
+                        &amp; qui aime en deçà ou au delà, a le <app>
                             <lem wit="P_ed1_ex1">goust</lem>
                             <rdg wit="L_ed1_ex1">goût</rdg>
                         </app> défectueux. Il y a donc un bon &amp; un mauvais <app>
@@ -229,9 +249,9 @@
                         </app>, &amp; l'on dispute des goûts avec fondement.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a beaucoup plus de vivacité
-                        que de <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il y a beaucoup
+                        plus de vivacité que de <app>
                             <lem wit="P_ed1_ex1">goust</lem>
                             <rdg wit="L_ed1_ed1">goût</rdg>
                         </app> parmy les hommes ; ou pour mieux dire, il y a peu d'hommes dons
@@ -241,47 +261,48 @@
                         </app> seur, &amp; d'une critique judicieuse.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>La vie des Heros a enrichi
-                        l'histoire, &amp; l'histoire a embelli les actions des Heros : ainsi je ne
-                        sçay qui sont plus redevables, ou ceux qui ont écrit l'histoire à ceux qui
-                        leur en ont fourni une si noble matiere, ou ces grands Hommes à leurs
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>La vie des Heros a
+                        enrichi l'histoire, &amp; l'histoire a embelli les actions des Heros : ainsi
+                        je ne sçay qui sont plus redevables, ou ceux qui ont écrit l'histoire à ceux
+                        qui leur en ont fourni une si noble matiere, ou ces grands Hommes à leurs
                         Historiens.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Amas d'épithetes, mauvaises
-                        loüanges ; ce sont les faits qui loüent, &amp; la maniere de les
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Amas d'épithetes,
+                        mauvaises loüanges ; ce sont les faits qui loüent, &amp; la maniere de les
                         raconter.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Tout l'esprit d'un Auteur consiste
-                        à bien définir &amp; à bien peindre. *Moyse, Homere, Platon, Virgile, Horace
-                        ne sont au dessus des autres Ecrivains que par leurs expressions &amp; leurs
-                        images : Il faut exprimer le vray pour écrire naturellement, fortement,
-                        délicatement.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Tout l'esprit d'un
+                        Auteur consiste à bien définir &amp; à bien peindre. *Moyse, Homere, Platon,
+                        Virgile, Horace ne sont au dessus des autres Ecrivains que par leurs
+                        expressions &amp; leurs images : Il faut exprimer le vray pour écrire
+                        naturellement, fortement, délicatement.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Combien de siecles se sont écoulez
-                        avant que les hommes dans les sciencex &amp; dans les arts ayent pû revenir
-                        au goût des Anciens, &amp; reprendre enfin le simple &amp; le naturel.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Combien de siecles
+                        se sont écoulez avant que les hommes dans les sciencex &amp; dans les arts
+                        ayent pû revenir au goût des Anciens, &amp; reprendre enfin le simple &amp;
+                        le naturel.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Entre toutes les différentex
-                        expressions qui peuvent rendre une seule de nos pensées, il n'y en a qu'une
-                        qui soit la bonne ; on ne la rencontre par toûjours en parlant, ou en
-                        écrivant ; il est vray neanmoins qu'elle existe, que tout ce qui ne l'est
-                        point est foible, &amp; ne satisfait point un homme d'esprit qui veut se
-                        faire entendre.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Entre toutes les
+                        différentex expressions qui peuvent rendre une seule de nos pensées, il n'y
+                        en a qu'une qui soit la bonne ; on ne la rencontre par toûjours en parlant,
+                        ou en écrivant ; il est vray neanmoins qu'elle existe, que tout ce qui ne
+                        l'est point est foible, &amp; ne satisfait point un homme d'esprit qui veut
+                        se faire entendre.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un bon Auteur, &amp; qui écrit avec
-                        soin, éprouve souvent que l'expression qu'il cherchoit depuis long-temps
-                        sans la <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un bon Auteur,
+                        &amp; qui écrit avec soin, éprouve souvent que l'expression qu'il cherchoit
+                        depuis long-temps sans la <app>
                             <lem wit="P_ed1_ex1">connoistre</lem>
                             <rdg wit="L_ed1_ex1">connoître</rdg>
                         </app>, &amp; qu'il a enfin trouvée, est celle qui <app>
@@ -291,23 +312,25 @@
                         d'abord &amp; sans effort.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Ceux qui écrivent par humeur, sont
-                        sujets à retoucher à leurs ouvrages ; comme elle n'est pas toûjours fixe,
-                        &amp; qu'elle varie en eux selon les occasions, ils se refroidissent <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Ceux qui écrivent
+                        par humeur, sont sujets à retoucher à leurs ouvrages ; comme elle n'est pas
+                        toûjours fixe, &amp; qu'elle varie en eux selon les occasions, ils se
+                        refroidissent <app>
                             <lem wit="P_ed1_ex1">bientost</lem>
                             <rdg wit="L_ed1_ex1">bien-tôt</rdg>
                         </app> pour les expressions &amp; les termes qu'ils ont le plus aimez.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on devroit aimer à lire ses <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on devroit aimer
+                        à lire ses <app>
                             <lem wit="P_ed1_ex1">ouvrages</lem>
                             <rdg wit="L_ed1_ex1">Ouvrages</rdg>
                         </app> à ceux qui en sçavent assez puor les corriger &amp; les estimer.</p>
                 </div2>
                 <div2>
-                    
+
                     <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>La <app>
                             <lem wit="P_ed1_ex1">mesme</lem>
                             <rdg wit="L_ed1_ex1">même</rdg>
@@ -318,25 +341,26 @@
                         </app> leuës.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un esprit mediocre croit écrire
-                        divinement ; un bon esprit croit écrire raisonnablement.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un esprit mediocre
+                        croit écrire divinement ; un bon esprit croit écrire raisonnablement.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on m'a engagé, dit Ariste, à lire
-                        mes ouvrages à Zelotes, je l'ay fait ; ils l'ont saisi d'abord, &amp; avant
-                        qu'il ait eu le loisir de les trouver mauvais;il les a loüez modestement en
-                        ma presence, &amp; il ne les a pas loüez depuis devant personne, je
-                        l'excuse, &amp; n'en demande pas davantage à un Autheur ; je le plains <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on m'a engagé,
+                        dit Ariste, à lire mes ouvrages à Zelotes, je l'ay fait ; ils l'ont saisi
+                        d'abord, &amp; avant qu'il ait eu le loisir de les trouver mauvais;il les a
+                        loüez modestement en ma presence, &amp; il ne les a pas loüez depuis devant
+                        personne, je l'excuse, &amp; n'en demande pas davantage à un Autheur ; je le
+                        plains <app>
                             <lem wit="P_ed1_ex1">mesme</lem>
                             <rdg wit="L_ed1_ex1">même</rdg>
                         </app> d'avoir écouté de belles choses qu'il n'a point faites.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Ceux qui par leur condition se
-                        trouvent exempts de la jalousie <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Ceux qui par leur
+                        condition se trouvent exempts de la jalousie <app>
                             <lem wit="P_ed1_ex1">d'Auteur</lem>
                             <rdg wit="L_ed1_ex1">d'Autheur</rdg>
                         </app>, ont ou des passions, ou des besoins qui les <app>
@@ -350,28 +374,28 @@
                         </app>.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Le plaisir de la critique nous ôte
-                        celuy <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Le plaisir de la
+                        critique nous ôte celuy <app>
                             <lem wit="P_ed1_ex1">d'estre</lem>
                             <rdg wit="L_ed1_ex1">d'être</rdg>
                         </app> touchez vivement de tres-belles choses.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Bien des gens vont jusques à sentir
-                        le merite d'un manuscrit que l'on leur lit, qui ne peuvent se declarer en sa
-                        faveur, jusques à ce qu'ils ayent veu le cours qu'il aura dans le monde par
-                        l'impression, ou quel fera son sort parmy les habiles : ils ne hazardent
-                        point leurs suffrages, &amp; ils veulent estre portez par la foule &amp;
-                        entraînez par la multitude ; ils disent alors qu'ils ont les premiers
-                        approuvé cet <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Bien des gens vont
+                        jusques à sentir le merite d'un manuscrit que l'on leur lit, qui ne peuvent
+                        se declarer en sa faveur, jusques à ce qu'ils ayent veu le cours qu'il aura
+                        dans le monde par l'impression, ou quel fera son sort parmy les habiles :
+                        ils ne hazardent point leurs suffrages, &amp; ils veulent estre portez par
+                        la foule &amp; entraînez par la multitude ; ils disent alors qu'ils ont les
+                        premiers approuvé cet <app>
                             <lem wit="P_ed1_ex1">ouvrage</lem>
                             <rdg wit="L_ed1_ex1">Ouvrage</rdg>
                         </app>, &amp; que le public est de leur avis.</p>
                 </div2>
                 <div2>
-                    
+
                     <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Le <app>
                             <lem wit="P_ed1_ex1">E**</lem>
                             <rdg wit="L_ed1_ex1">H**</rdg>
@@ -396,9 +420,9 @@
                         </app> quelquefois de grandes fadaises.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on voit bien que l'Opera est
-                        l'ébauche d'un grand spectacle ; il en donne l'idée.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>L'on voit bien que
+                        l'Opera est l'ébauche d'un grand spectacle ; il en donne l'idée.</p>
                     <p source="P_ed1_ex1">Je ne fçay comment l'Opera avec une Musique si parfaite
                         &amp; une dépense toute Royale a pû réüssir à m'ennuyer.</p>
                     <p source="P_ed1_ex1">Il y a des endroits dans l'Opera qui laissent en desirer
@@ -409,9 +433,9 @@
                         </app>, &amp; de choses qui interessent.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il semble que le Roman &amp; la
-                        Comedie pourroient <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il semble que le
+                        Roman &amp; la Comedie pourroient <app>
                             <lem wit="P_ed1_ex1">estre</lem>
                             <rdg wit="L_ed1_ex1">être</rdg>
                         </app> aussi utiles qu'ils sont nuisibles ; l'on y voit de si grands
@@ -430,8 +454,9 @@
                         foiblesse.</p>
                 </div2>
                 <div2>
-                   
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"> <g ref="U2761"/>Corneille ne peut <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1">
+                        <g ref="U2761"/>Corneille ne peut <app>
                             <lem wit="P_ed1_ex1">estre</lem>
                             <rdg wit="L_ed1_ex1">être</rdg>
                         </app> égalé dans les endroits où il excelle, il a pour lors un caractere
@@ -534,13 +559,13 @@
                         &amp; que l'autre doit plus à Euripide.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Le peuple appelle Eloquence la
-                        facilité que quelques-uns ont de parler seuls &amp; longtemps, jointe à
-                        l'emportement du geste, à l'éclat de la voix, &amp; à la force des poulmons.
-                        Les Pedans ne l'admettent aussi que dans le discours oratoire, &amp; ne la
-                        distinguent pas de l'entassement des figures, de l'usage des grands mots,
-                        &amp; de la rondeur des periodes.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Le peuple appelle
+                        Eloquence la facilité que quelques-uns ont de parler seuls &amp; longtemps,
+                        jointe à l'emportement du geste, à l'éclat de la voix, &amp; à la force des
+                        poulmons. Les Pedans ne l'admettent aussi que dans le discours oratoire,
+                        &amp; ne la distinguent pas de l'entassement des figures, de l'usage des
+                        grands mots, &amp; de la rondeur des periodes.</p>
                     <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1">Il semble que la Logique est l'art
                         de convaincre de quelque vérité<app>
                             <lem wit="P_ed1_ex1"> </lem>
@@ -556,7 +581,7 @@
                         cherche,&amp; elle est quelquefois où on ne la cherche point.</p>
                 </div2>
                 <div2>
-                    
+
                     <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Un homme né <app>
                             <lem wit="P_ed1_ex1">Chrétien</lem>
                             <rdg wit="L_ed1_ex1">Chrêtien</rdg>
@@ -566,10 +591,10 @@
                         style.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il faut éviter le style vain &amp;
-                        puerile, de peur de ressembler à Dorilas &amp; à Handburg ; l'on peut au
-                        contraire en une forte d'écrits <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il faut éviter le
+                        style vain &amp; puerile, de peur de ressembler à Dorilas &amp; à Handburg ;
+                        l'on peut au contraire en une forte d'écrits <app>
                             <lem wit="P_ed1_ex1">hasarder</lem>
                             <rdg wit="L_ed1_ex1">hazarder</rdg>
                         </app> de certaines expressions, user de termes transposez, &amp; qui
@@ -577,9 +602,9 @@
                         a à s'en servir ou à les entendre.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Celuy qui n'a égard en écrivant
-                        qu'au <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Celuy qui n'a égard
+                        en écrivant qu'au <app>
                             <lem wit="P_ed1_ex1">goust</lem>
                             <rdg wit="L_ed1_ex1">goût</rdg>
                         </app> de son siecle, songe plus a sa personne qu'à ses écrits : il faut
@@ -588,17 +613,17 @@
                         rendre.</p>
                 </div2>
                 <div2>
-                    
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il ne faut point mettre un ridicule
-                        où il n'y en a point ; c'est se gâter le goût, c'est corrompre son jugement
-                        &amp; celuy des autres ; mais le ridicule qui est quelque part, il faut l'y
-                        voir, l'en tirer avec grace, &amp; d'une maniere qui plaise &amp; qui
-                        instruise.</p>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Il ne faut point
+                        mettre un ridicule où il n'y en a point ; c'est se gâter le goût, c'est
+                        corrompre son jugement &amp; celuy des autres ; mais le ridicule qui est
+                        quelque part, il faut l'y voir, l'en tirer avec grace, &amp; d'une maniere
+                        qui plaise &amp; qui instruise.</p>
                 </div2>
                 <div2>
-                   
-                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Horace ou Despreaux l'a dit avant
-                        vous ; je le crois sur <app>
+
+                    <p source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"><g ref="U2761"/>Horace ou Despreaux
+                        l'a dit avant vous ; je le crois sur <app>
                             <lem wit="P_ed1_ex1">vostre</lem>
                             <rdg wit="L_ed1_ex1">vôtre</rdg>
                         </app> parole ; mais je l'ay dit comme mien ; ne puis-je pas penser une
