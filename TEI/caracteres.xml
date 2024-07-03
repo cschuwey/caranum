@@ -25,6 +25,12 @@
                 <p/>
             </publicationStmt>
             <sourceDesc>
+                <listPerson>
+                    <person xml:id="Pierre_Poncet">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb10718286m</idno>
+                        <persName><forename>Pierre</forename><surname>Poncet</surname></persName>
+                    </person>
+                </listPerson>
                 <biblStruct>
                     <monogr xml:id="P_ed1">
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
@@ -201,6 +207,7 @@
                             </pubPlace>
                         </imprint>
                     </monogr>
+                    
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
@@ -296,7 +303,7 @@
                             source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
                                     source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
-                                /><g ref="#U0x2A" source="#B_ed1_ex1"/><note source="#P_ed8_ex1" resp="hand" place="right" rend="global" type="key">Il parle de Mr Poncet qui a fait Un livre des <title rend="roman">avantages de la vieillesse<link target="https://catalogue.bnf.fr/ark:/12148/cb31133243v"/></title> qui [1 mot] doit être chancelier</note> 
+                                /><g ref="#U0x2A" source="#B_ed1_ex1"/><note source="#P_ed8_ex1" resp="hand" place="right" rend="global" type="cle">Il parle de <persName type="cle" ref="#Pierre_Poncet">Mr Poncet</persName> qui a fait Un livre des <title rend="roman">avantages de la vieillesse<link target="https://catalogue.bnf.fr/ark:/12148/cb31133243v"/></title> qui [1 mot] doit être chancelier</note> 
                             C'eſt un métier que de faire un livre<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1"
                                         >,</rdg>
