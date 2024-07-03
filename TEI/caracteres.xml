@@ -229,6 +229,13 @@
                     <localProp value="signe d'une remarque dans certaines éditions"
                         name="ASTERISQUE"/>
                 </glyph>
+                
+                <glyph xml:id="U2761-parsimple">
+                    <desc>(❡)</desc>
+                    <localProp value="ajout de la quatrième édition dans la cinquième"
+                        name="CURVED_STEM_PARAGRAPH_SIGN_ORNEMENT"/>
+                    
+                </glyph>
             </charDecl>
         </encodingDesc>
 
