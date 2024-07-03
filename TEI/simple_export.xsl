@@ -22,7 +22,11 @@
     
     <xsl:template match="tei:app">
         <xsl:choose>
-            <xsl:when test="count(tei:rdg[contains(@source,$edition)])&gt;1"><span style="color:red"><xsl:apply-templates select="tei:rdg[contains(@source,$exemplaire)]"/></span></xsl:when>
+            <xsl:when test="count(tei:rdg[contains(@source,$edition)])&gt;1"><span style="color:red">
+                <xsl:apply-templates select="tei:rdg[contains(@source,$exemplaire)]"/>
+                [<xsl:for-each select="tei:rdg[contains(@source,$edition) and not(contains(@source,$exemplaire))]">
+                    <xsl:apply-templates/> 
+                </xsl:for-each>]</span></xsl:when>
             <xsl:otherwise><xsl:apply-templates select="tei:rdg[contains(@source,$exemplaire)]"/></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
