@@ -25,18 +25,109 @@
                 <p/>
             </publicationStmt>
             <sourceDesc>
+
                 <listPerson>
                     <person xml:id="Pierre_Poncet">
                         <idno>http://ark.bnf.fr/ark:/12148/cb10718286m</idno>
                         <persName><forename>Pierre</forename><surname>Poncet</surname></persName>
                     </person>
+                    <person xml:id="Homere">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb11907688f</idno>
+                        <persName>Homère</persName>
+                        <note>Homère est un aède du VIIIe siècle av J.-C. de la Grèce Antique. Il
+                            est l'auteur officiel de l'Iliade l'Odyssée</note>
+                    </person>
+                    <person xml:id="Virgile">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb11887823w</idno>
+                        <persName>Virgile</persName>
+                        <note>Virgile est un poète contemporain de la fin de la République romaine.
+                            Il est l'auteur de l'Eneide, des Bucoliques et des Georgiques.</note>
+                    </person>
+                    <person xml:id="Tite_Live">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb11886799m</idno>
+                        <persName>Tite-Live</persName>
+                        <note>Tite-Live est un historien de la Rome antique, auteur de l'Histoire
+                            romaine.</note>
+                    </person>
+                    <person xml:id="Platon">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb311216000</idno>
+                        <persName>Platon</persName>
+                        <note>Platon est un philosophe de la Grèce antique contemporain de la
+                            démocratie athénienne et des sophistes qu'il critiqua
+                            vigoureusement.</note>
+                    </person>
+                    <person xml:id="Horace">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb11886570b</idno>
+                        <persName>Horace</persName>
+                        <note>Horace est un poète latin.</note>
+                    </person>
+                    <person xml:id="Corneille">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb43873448j</idno>
+                        <persName><forename>Pierre</forename><surname>Corneille</surname></persName>
+                        <note>Corneille est un dramaturge et poète français du XVIIe siècle.</note>
+                        <birth when="1606-06-06"/>
+                        <death when="1684-10-01"/>
+                    </person>
+                    <person xml:id="Racine">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb31168706v</idno>
+                        <persName><forename>Jean</forename><surname>Racine</surname></persName>
+                        <note>Jean Racine est un dramaturge et poète français.</note>
+                        <birth when="1639-12-22"/>
+                        <death when="1699-04-21"/>
+                    </person>
+                    <person xml:id="Andromaque">
+                        <persName>Andromaque</persName>
+                        <note>Andromaque est une héroïne troyenne de la guerre de Trois, femme
+                            d'Hector et modèle de l'épouse fidèle.</note>
+                    </person>
+                    <person xml:id="Phedre">
+                        <persName>Phèdre</persName>
+                        <note>Phèdre est la fille du roi de Crète Minos et de Pasiphaé, ainsi que la
+                            femme de Thésée.</note>
+                    </person>
+                    <person xml:id="Oedipe">
+                        <persName>Œdipe</persName>
+                        <note>Œdipe est un personnage de la mythologie grecque.</note>
+                    </person>
+                    <person xml:id="Sophocle">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb313844400</idno>
+                        <persName>Sophocle</persName>
+                        <note>Sophocle est l'un des trois grands dramaturges grecs, avec Eschyle et
+                            Euripide, dont les œuvres nous sont partiellement parvenus.</note>
+                    </person>
+                    <person xml:id="Euripide">
+                        <idno>http://ark.bnf.fr/ark:/12148/cb304101236</idno>
+                        <persName>Euripide</persName>
+                        <note>Eurpide est l'un des trois grands tragiques de l'Athènes classique,
+                            avec Eschyle et Sophocle.</note>
+                    </person>
+                    <person xml:id="Oreste">
+                        <persName>Oreste</persName>
+                        <note>Oreste, dans la mythologie grecque, est un Atride, fils du roi
+                            Agamemnon et de Clytemnestre.</note>
+                    </person>
+                    <person xml:id="Polieucte">
+                        <persName>Polieucte</persName>
+                        <note>Polyeucte de Mélitène est un saint arménien.</note>
+                    </person>
                 </listPerson>
+
+                <listPlace>
+                    <place xml:id="Handburg">
+                        <placeName>Hambourg</placeName>
+                        <location>
+                            <geo>53°33′N 10°00′E</geo>
+                        </location>
+                        <note>Hambourg est une ville située une nord de l'Allemagne.</note>
+                    </place>
+                </listPlace>
+
                 <biblStruct>
                     <monogr xml:id="P_ed1">
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed1_ex1">
                             <date when="1688">1688</date>
@@ -81,7 +172,7 @@
                             de</author>
 
                         <title>Les caractères de Théophraste traduits du grec ; avec les caractères
-                            ou les moeurs de ce siècle ([Reprod]) / [par Jean de la Bruyère]</title>
+                            ou les mœurs de ce siècle ([Reprod]) / [par Jean de la Bruyère]</title>
                         <edition ana="#L_ed1">Première édition</edition>
                         <imprint xml:id="L_ed1_ex1">
                             <date when="1688">1688</date>
@@ -119,7 +210,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed3_ex1">
                             <date when="1688">1688</date>
@@ -138,7 +229,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed4_ex1">
                             <date when="1688">1689</date>
@@ -157,7 +248,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed5_ex1">
                             <date when="1690">1690</date>
@@ -176,7 +267,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed6_ex1">
                             <date when="1691">1691</date>
@@ -194,7 +285,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed7_ex1">
                             <date when="1692">1692</date>
@@ -212,7 +303,7 @@
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
                             de</author>
                         <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                            Les caractères ou les mœurs de ce siècle [Par J. de La Buryère]</title>
                         <edition>Première édition</edition>
                         <imprint xml:id="P_ed8_ex1">
                             <date when="1693">1693</date>
@@ -230,6 +321,49 @@
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
+
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="Despreaux">
+                        <persName>Despreaux</persName>
+                        <note>Ce nom pourrait correspondre à plusieurs personnes. Il y a tout
+                            d'abord Claude-Jean-François Despréaux (violiniste et révolutionnaire
+                            français), Jean-Etienne Despréaux (auteur dramatique français, et frère
+                            du précédent), Louis Cousin-Despréaux (écrivain français) et Nicolas
+                            Boileau-Despréaux (poète, écrivain et critique littéraire français).
+                            Malgré tout, il faut noter que dans le texte de La Bruyère, Despréaux ne
+                            possède pas d'accent sur le deuxième "e". Peut-être que l'accent n'a pas
+                            été mis à l'impression ou dans les écrits de La Bruyère.</note>
+                    </person>
+                    <person xml:id="Burrhus">
+                        <persName>Burrhus</persName>
+                        <note>Cela pourrait correspondre à Sextus Afranius Burrus, chevalier romain,
+                            administrateur des biens de l'impératrice Livie et nommé préfet du
+                            prétoire par l'empereur Claude en 51.</note>
+                    </person>
+                    <person xml:id="Porus">
+                        <persName>Porus</persName>
+                        <note>Cela pourrait correspondre à Poros, roi du royaume indien des Paurava
+                            au IVe siècle av. J.-C..</note>
+                    </person>
+                    <person xml:id="Zelotes">
+                        <persName>Zelotes</persName>
+                        <note>Pourrait correspondre aux Zélotes, membres d'un mouvement
+                            politico-religieux juif du 1er siècle.</note>
+                    </person>
+                    <person xml:id="Dorilas">
+                        <persName>Dorilas</persName>
+                        <note>Pourrais correspondre à Dorylas, pédagogue d'Oreste.</note>
+                    </person>
+                    <person xml:id="Mitridate">
+                        <persName>Mitridate</persName>
+                        <note>On peut penser qu'il s'agit de Mithridate le Grand, Mithridate VI, est
+                            un roi du Pont et du Bosphore de la dynastie des Mithridatides.</note>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
 
         <encodingDesc>
             <projectDesc>
@@ -269,7 +403,14 @@
                     J'ai pris le texte de base dans l'édition de Paris (exemplaire 1). J'ai encodé
                     les différences entre cette édition et l'édition de Lyon. J'ai indiqué le
                     deuxième exemplaire de Paris (vendu en Belgique) pour les sources des p, je n'ai
-                    pour le moment pas fait les différences (celles-ci seront faites demain).</item>
+                    pour le moment pas fait les différences (celles-ci seront faites demain). <date
+                        when="2024-07-03">3 juillet 2024</date> Réécriture du texte en prenant en
+                    compte les ſ. <date when="2024-07-04">4 juillet 2024</date>Mise en place des
+                    persName, placeName. Les personnes dont je ne suis pas sûr ont été mis dans un
+                    profileDesc. Pour les personnes que l'on connaît bien mais également pour les
+                    endroits, ils sont encodés dans le fileDesc. Encodage pour les italiques et les
+                    petites caps, ainsi que les pb. Encodage des différences entre P_ed1_ex1 et
+                    L_ed1_ex1 pour le reste des remarques du chapitre. </item>
             </list>
         </revisionDesc>
 
@@ -282,11 +423,13 @@
                     <head>Des Ouvrages de l'Esprit</head>
                     <div3>
                         <p xml:id="r01_01_01"
-                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
-                            >TOut eſt dit, &amp; l'on vient trop tard depuis plus de ſept mille ans
-                            qu'il y a des hommes, &amp; qui penſent. Sur ce qui concerne les mœurs
-                            le plus beau &amp; le meilleur eſt enlevé ; l'on ne fait que glaner
-                            aprés les <seg><app>
+
+                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">
+                            <pb n="158" ed="#P_ed1_ex1"/>TOut eſt dit, &amp; l'on vient trop tard
+                            depuis plus de ſept mille ans qu'il y a des hommes, &amp; qui penſent.
+                            Sur ce qui concerne les mœurs le plus beau &amp; le meilleur eſt enlevé
+                            ; l'on ne fait que glaner aprés les <seg><app>
+
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
                                         >A</rdg>
@@ -507,72 +650,114 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_07_01">
+                        <p xml:id="r01_07_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Quel ſupplice que celuy d'entendre prononcer de
-                            mediocres vers avec toute l'emphaſe d'un mauvais Poëte ? </p>
+                            mediocres vers avec toute l'emphaſe <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>d'un
+                            mauvais Poëte ? </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_08_01">
-                            <g ref="U2761"/> Il y a de certaines choſes dont la mediocrité eſt inſupportable, la Poëſie, la Muſique, la Peinture, le Diſcours public.
-
+                        <p xml:id="r01_08_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Il y a de certaines choſes dont la mediocrité eſt
+                            inſupportable, la Poëſie, la Muſique, la Peinture, le Diſcours public.
                         </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_09_01">
-                            <g ref="U2761"/> L'on n'a gueres veu juſques à preſent un chef d'oeuvre
-                            d'eſprit qui ſoit l'ouvrage de pluſieurs ; Homere a fait l'Iliade,
-                            Virgile l Eneide, Tite-Live ſes Decades, &amp; l'Orateur Romain ſes
+                        <p xml:id="r01_09_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> L'on n'a gueres v<seg><app>
+                                    <rdg source="#P_ed1_ex1">eu</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg> juſques à preſent un chef<seg><app>
+                                    <rdg source="#P_ed1_ex1"> </rdg>
+                                    <rdg source="#L_ed1_ex1">-</rdg>
+                                </app></seg>d'œuvre d'eſprit qui ſoit l'<seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrage de pluſieurs ; <persName ref="#Homere"
+                                source="#P_ed1_ex1">Homere</persName> a fait l'Iliade, <persName
+                                ref="#Virgile" source="#P_ed1_ex1">Virgile</persName> l<seg><app>
+                                    <rdg source="#P_ed1_ex1"> </rdg>
+                                    <rdg source="#L_ed1_ex1">'</rdg>
+                                </app></seg>Eneide, <persName ref="#Tite_Live" source="#P_ed1_ex1"
+                                >Tite-Live</persName> ſes Decades, &amp; l'Orateur Romain ſes
                             Oraiſons.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_10_01">
+                        <p xml:id="r01_10_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Il y a dans l'art un point de perfection, comme de
                             bonté ou de maturité dans la nature ; celuy qui le ſent, &amp; qui
-                            l'aime a le gouſt parfait ; celuy qui ne le ſent pas, &amp; qui aime en
-                            deçà ou au delà, a le gouſt défectueux. Il y a donc un bon &amp; un
-                            mauvais gouſt, &amp; l'on diſpute des goûts avec fondement.</p>
+                            l'aime a le go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t parfait ; celuy qui ne le ſent pas, &amp; qui aime en
+                            deçà ou au delà, a le go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t d<seg><app>
+                                    <rdg source="#P_ed1_ex1">é</rdg>
+                                    <rdg source="#L_ed1_ex1">e</rdg>
+                                </app></seg>fectueux. Il y a donc un bon &amp; un mauvais go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t, &amp; l'on diſpute des goûts avec fondement.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_11_01">
-                            <g ref="U2761"/> Il y a beaucoup plus de vivacité que de gouſt parmy les hommes ; ou pour mieux dire, il y a peut d'hommes dont l'eſprit ſoit accompagné d'un gouſt ſeur, &amp; d'une critique judicieuſe.</p>
+                        <p xml:id="r01_11_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Il y a beaucoup plus de vivacité que de go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t parmy les hommes ; ou pour mieux dire, il <pb
+                                ed="#P_ed1_ex1 #L_ed1_ex1"/>y a peut d'hommes dont l'eſprit ſoit
+                            accompagné d'un go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t ſeur, &amp; d'une critique judicieuſe.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_12_01">
+                        <p xml:id="r01_12_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> La vie des Heros a enrichi l'hiſtoire, &amp; l'hiſtoire
-                            a embelli les actions des Heros : ainſi je ne ſçay qui ſont plus redevables , ou ceux qui ont écrit l'hiſtoire à ceux qui leur en ont
+                            a embelli les actions des Heros : ainſi je ne ſçay qui ſont plus
+                            redevables , ou ceux qui ont écrit l'hiſtoire à ceux qui leur en ont
                             fourni une ſi noble matiere, ou ces grands Hommes à leurs Hiſtoriens.
                         </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_13_01">
-                            <g ref="U2761"/> Aman d'épithetes, mauvaiſes loüanges ; ce ſont les
+                        <p xml:id="r01_13_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Amas d'épithetes, mauvaiſes loüanges ; ce ſont les
                             faits qui loüent, &amp; la maniere de les raconter.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_14_01">
+                        <p xml:id="r01_14_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Tout l'eſprit d'un Auteur conſiſte à bien définir &amp;
-                            à bien peindre. Moyse, Homere, Platon, Virgile, Horace ne ſont au deſſus
-                            des autres Ecrivains que par leurs expreſſions &amp; leurs images : Il
-                            faut exprimer le vray pour écrire naturellement, fortement,
-                            délicatement.</p>
+                            à bien peindre. <hi rend="petites_caps" source="#P_ed1_ex1">Moyse</hi>,
+                                <hi rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Homere"
+                                    source="#P_ed1_ex1">Homere</persName></hi>, <hi
+                                rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Platon"
+                                    source="#P_ed1_ex1">Platon</persName></hi>, <hi
+                                rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Virgile"
+                                    source="#P_ed1_ex1">Virgile</persName></hi>, <hi
+                                rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Horace"
+                                    source="#P_ed1_ex1">Horace</persName></hi> ne ſont au deſſus des
+                            autres Ecrivains que par leurs expreſſions &amp; leurs images : Il faut
+                            exprimer le vray pour écrire naturellement, fortement, délicatement.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_15_01">
-                            <g ref="U2761"/> Combien de ſiecles ſe ſont écoulez avant que les hommes
-                            dans les ſciences &amp; dans les arts ayent pû revenir au goût des
-                            Anciens, &amp; reprendre enfin le ſimple &amp; le naturel.</p>
+                        <p xml:id="r01_15_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/>
+                            <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>Combien de ſiecles ſe ſont écoulez avant
+                            que les hommes dans les ſciences &amp; dans les arts ayent pû revenir au
+                            goût des Anciens, &amp; reprendre enfin le ſimple &amp; le naturel.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_16_01">
+                        <p xml:id="r01_16_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Entre toutes les differentes expreſſions qui peuvent
                             rendre une ſeule de nos penſées, il n'y en a qu'une qui ſoit la bonne ;
                             on ne la rencontre par toûjours en parlant, ou en écrivant ; il eſt vray
@@ -582,168 +767,355 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_17_01">
+                        <p xml:id="r01_17_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Un bon Auteur, &amp; qui écrit avec ſoin, éprouve
-                            ſouvent que l'expreſſion qu'il cherchoit depuis long-temps ſans la
-                            connoiſtre, &amp; qu'il a enfin trouvée, eſt celle qui eſtoit la plus
-                            ſimple,la plus naturelle,qui ſembloit devoir ſe preſenter d'abord &amp;
-                            ſans effort.</p>
+                            ſouvent que l'expreſſion qu'il cherchoit depuis long-temps ſans la conno<seg><app>
+                                    <rdg source="#P_ed1_ex1">iſ</rdg>
+                                    <rdg source="#L_ed1_ex1">î</rdg>
+                                </app></seg>tre, &amp; qu'il a enfin trouvée, eſt celle qui <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">é</rdg>
+                                </app></seg>toit la plus ſimple,<seg><app>
+                                    <rdg source="#P_ed1_ex1"/>
+                                    <rdg source="#L_ed1_ex1"> </rdg>
+                                </app></seg>la plus naturelle,<seg><app>
+                                    <rdg source="#P_ed1_ex1"/>
+                                    <rdg source="#L_ed1_ex1"> </rdg>
+                                </app></seg>qui ſembloit devoir ſe preſenter d'abord &amp; ſans
+                            effort.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_18_01">
-                            <g ref="U2761"/> Ceux qui écrivent par humeur, ſont ſujets à retoucher à
-                            leurs ouvrages ; comme elle n'eſt pas toûjours fixe, &amp; qu'elle varie
-                            en eux ſelon les occaſions, ils ſe refroidiſſent bientoſt pour les
-                            expreſſions &amp; les termes qu'ils ont le plus aimez.</p>
+                        <p xml:id="r01_18_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/>
+                            <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>Ceux qui écrivent par humeur, ſont
+                            ſujets à retoucher à leurs ouvrages ; comme elle n'eſt pas toûjours
+                            fixe, &amp; qu'elle varie en eux ſelon les occaſions, ils ſe
+                            refroidiſſent bient<seg><app>
+                                    <rdg source="#P_ed1_ex1">oſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ô</rdg>
+                                </app></seg>t pour les expreſſions &amp; les termes qu'ils ont le
+                            plus aimez.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_19_01">
-                            <g ref="U2761"/> L'on devroit aimer à lire ſes ouvrages à ceux qui en
-                            ſçavent aſſez pour les corriger &amp; les eſtimer.</p>
+                        <p xml:id="r01_19_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> L'on devroit aimer à<seg><app>
+                                    <rdg source="#P_ed1_ex1"> </rdg>
+                                    <rdg source="#L_ed1_ex1"> faire </rdg>
+                                </app></seg>lire ſes <seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrages à ceux qui en ſçavent aſſez pour les corriger
+                            &amp; les eſtimer.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_20_01">
-                            <g ref="U2761"/> La meſme juſteſſe d'eſprit qui nous fait écrire de
-                            bonnes choſes, nous fait apprehender qu'elles ne le ſoient pas aſſez
-                            pour meriter d'eſtre leuës.</p>
+                        <p xml:id="r01_20_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> La m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me juſteſſe d'eſprit qui nous fait écrire de bonnes
+                            choſes, nous fait apprehender qu'elles ne le ſoient pas aſſez pour
+                            meriter d'<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre leuës.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_21_01">
+                        <p xml:id="r01_21_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Un eſprit mediocre criot écrire divinement ; un bon
                             eſprit croit écrire raiſonnablement.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_22_01">
-                            <g ref="U2761"/> L'on m'a engagé, dit Ariſte, à lire mes ouvrages à
-                            Zelotes, je l'ay fait ; ils l'ont ſaiſi d'abord, &amp; avant qu'il ait
-                            eu le loiſir de les trouver mauvais ; il les a loüez modeſtement en ma
-                            preſence, &amp; il ne les a pas loüez depuis devant perſonne, je
-                            l'excuſe, &amp; n'en demande pas davantage à un Autheur ; je le plains
-                            meſme d'avoir écouté de belles choſes qu'il n'a point faites.</p>
+                        <p xml:id="r01_22_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> L'on m'a engagé, dit <emph style="font-style: italic"
+                                source="#P_ed1_ex1">Ariſte</emph>, à lire mes <seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrages à <emph style="font-style: italic"
+                                source="#P_ed1_ex1"><persName ref="#Zelotes" source="#P_ed1_ex1"
+                                    >Zelotes</persName></emph>, je l'ay fait ; ils l'ont ſaiſi
+                            d'abord, &amp; avant qu'il ait eu le loiſir de <pb
+                                ed="#P_ed1_ex1 #L_ed1_ex1"/>les trouver mauvais ; il les a loüez
+                            modeſtement en ma preſence, &amp; il ne les a pas loüez depuis devant
+                            perſonne, je l'excuſe, &amp; n'en demande pas davantage à un Autheur ;
+                            je le plains m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me d'avoir écouté de belles choſes qu'il n'a point
+                            faites.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_23_01">
+                        <p xml:id="r01_23_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Ceux qui par leur condition ſe trouvent exempts de la
-                            jalouſie d'Auteur, ont ou des paſſions, ou des beſoins qui les
-                            diſtraient, &amp; les rendent froids ſur les conceptions d'autruy :
-                            perſonne preſque par la diſpositon de ſon eſprit, de ſon coeur, &amp; de
-                            ſa fortune n'eſt en état de ſe livrer au plaiſir que donne la perfection
-                            d'un ouvrage.</p>
+                            jalouſie d'Aut<seg><app>
+                                    <rdg source="#P_ed1_ex1"/>
+                                    <rdg source="#L_ed1_ex1">h</rdg>
+                                </app></seg>eur, ont ou des paſſions, ou des beſoins qui les diſtra<seg><app>
+                                    <rdg source="#P_ed1_ex1">i</rdg>
+                                    <rdg source="#L_ed1_ex1">y</rdg>
+                                </app></seg>ent, &amp; les rendent froids ſur les conceptions
+                            d'autruy : perſonne preſque par la diſpositon de ſon eſprit, de ſon
+                            cœur, &amp; de ſa fortune n'eſt en état de ſe livrer au plaiſir que
+                            donne la perfection d'un <seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrage.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_24_01">
-                            <g ref="U2761"/> Le plaiſir de la critique nous ôte celuy d'eſtre
-                            touchez vivement de tres-belles choſes.</p>
+                        <p xml:id="r01_24_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Le plaiſir de la critique nous ôte celuy d'<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre touchez vivement de tres-belles choſes.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_25_01">
+                        <p xml:id="r01_25_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Bien des gens vont juſques à ſentir le merite d'un
-                            manuſcrit que l'on leur lit, qui ne peuvent ſe declarer en ſa faveur,
-                            juſques à ce qu'ils ayent veu le cours qu'il aura dans le monde par
-                            l'impreſſion, ou quel ſera ſon ſort parmy les habiles : ils ne hazardent
-                            point leur ſuffrages, &amp; ils veulent eſtre portez par la foule &amp;
-                            entraînez par la multitude ; ils diſent alors qu'ils ont les premiers
-                            approuvé cet ouvrage, &amp; que le public eſt de leur avis.</p>
+                            manuſcrit que l'on leur lit, qui ne peu<pb ed="#P_ed1_ex1 #L_ed1_ex1"
+                            />vent ſe declarer en ſa faveur, juſques à ce qu'ils ayent veu le cours
+                            qu'il aura dans le monde par l'impreſſion, ou quel ſera ſon ſort parmy
+                            les habiles : ils ne hazardent point leur ſuffrages, &amp; ils veulent <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre portez par la foule &amp; entraînez par la multitude
+                            ; ils diſent alors qu'ils ont les premiers approuvé cet <seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrage, &amp; que le public eſt de leur avis.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_26_01">
-                            <g ref="U2761"/> Le E** G** eſt immediatement au deſſous du rien ; il a
-                            bien d'autres livres qui luy reſſemblent : il y a autant d'eſprit à
-                            s'enrichir par un mauvais livre, qu'il y a de ſotiſe à l'acheter; c'eſt
-                            ignorer le gouſt du peuple, que de ne pas haſarder quelquefois de
-                            grandes fadaiſes.</p>
+                        <p xml:id="r01_26_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Le <seg><app>
+                                    <rdg source="#P_ed1_ex1">E</rdg>
+                                    <rdg source="#L_ed1_ex1">H</rdg>
+                                </app></seg>** G** eſt immediatement au deſſous d<seg><app>
+                                    <rdg source="#P_ed1_ex1">u</rdg>
+                                    <rdg source="#L_ed1_ex1">e</rdg>
+                                </app></seg> rien ; il a bien d'autres <seg><app>
+                                    <rdg source="#P_ed1_ex1">livres</rdg>
+                                    <rdg source="#L_ed1_ex1">Ouvrages</rdg>
+                                </app></seg> qui luy reſſemblent : il y a autant d'<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſprit</rdg>
+                                    <rdg source="#L_ed1_ex1">invention</rdg>
+                                </app></seg> à s'enrichir par un <seg><app>
+                                    <rdg source="#P_ed1_ex1">mauvais</rdg>
+                                    <rdg source="#L_ed1_ex1">ſot</rdg>
+                                </app></seg> livre, qu'il y a de ſotiſe à l'acheter; c'eſt ignorer
+                            le go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t du peuple, que de ne pas ha<seg><app>
+                                    <rdg source="#P_ed1_ex1">ſ</rdg>
+                                    <rdg source="#L_ed1_ex1">z</rdg>
+                                </app></seg>arder quelquefois de grandes fadaiſes.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_27_01">
-                            <g ref="U2761"/> L'on voit bien que l'Opera eſt l'ébauche d'un grand
-                            ſpectacle ; il en donne l'idée. </p>
-                        <p xml:id="r01_27_02"> Je ne ſçay pas comment l'Opera avec une Muſique ſi
-                            parfaite &amp; une dépenſe toute Royale a pû réüſſir à m'ennuyer. </p>
-                        <p xml:id="r01_27_03"> Il y a des endroits dans l'Opera qui laiſſent en
-                            deſirer d'autres, il échape quelquefois de ſouhaiter la fin de tout le
-                            ſpectacle ; c'eſt faute d'action, de theatre, &amp; de choſes qui
-                            intereſſent.</p>
+                        <p xml:id="r01_27_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> L'on voit bien que l'<emph style="font-style: italic"
+                                source="#P_ed1_ex1">Opera</emph> eſt l'ébauche d'un grand ſpectacle
+                            ; il en donne l'idée. </p>
+                        <p xml:id="r01_27_02"> Je ne ſçay pas comment l'<emph
+                                style="font-style: italic" source="#P_ed1_ex1">Opera</emph>
+                            <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>avec une Muſique ſi parfaite &amp; une
+                            dépenſe toute Royale a pû réüſſir à m'ennuyer. </p>
+                        <p xml:id="r01_27_03"> Il y a des endroits dans l'<emph
+                                style="font-style: italic" source="#P_ed1_ex1">Opera</emph> qui
+                            laiſſent en deſirer d'autres, il échape quelquefois de ſouhaiter la fin
+                            de tout le ſpectacle ; c'eſt faute <seg><app>
+                                    <rdg source="#P_ed1_ex1">d'action</rdg>
+                                    <rdg source="#L_ed1_ex1">de theatre</rdg>
+                                </app></seg>, <seg><app>
+                                    <rdg source="#P_ed1_ex1">de theatre</rdg>
+                                    <rdg source="#L_ed1_ex1">d'action</rdg>
+                                </app></seg>, &amp; de choſes qui intereſſent.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_28_01">
-                            <g ref="U2761"/> Il ſemble que le Roman &amp; la Comedie pourroient
-                            eſtre auſſi utiles qu'ils ſont nuiſibles : l'on y voit de ſi grands
-                            exemples de conſtance, de vertu, de tendreſſe &amp; de déſintereſſement,
-                            de ſi beaux et de ſi parfaits caracteres ; que quand une jeune perſonne
-                            jette de là ſa veuë ſur tout ce qui l'entoure, ne trouvant que des
-                            ſujets indignes &amp; fort au deſſous de ce qu'elle vient d admirer, je
-                            m'étonne qu'elle ſoit capable pour eux de la moindre foibleſſe. </p>
+                        <p xml:id="r01_28_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Il ſemble que le Roman &amp; la Comedie pourroient <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre auſſi utiles qu'ils ſont nuiſibles : l'on y voit de
+                            ſi grands exemples de conſtance, de vertu, de tendreſſe &amp; de d<seg><app>
+                                    <rdg source="#P_ed1_ex1">é</rdg>
+                                    <rdg source="#L_ed1_ex1">e</rdg>
+                                </app></seg>ſintereſſement<seg><app>
+                                    <rdg source="#P_ed1_ex1">,</rdg>
+                                    <rdg source="#L_ed1_ex1"> ;</rdg>
+                                </app></seg> de ſi beaux et de ſi parfaits <seg><app>
+                                    <rdg source="#P_ed1_ex1">c</rdg>
+                                    <rdg source="#L_ed1_ex1">C</rdg>
+                                </app></seg>aracteres ; que quand une jeune perſonne jette de là ſa
+                            veuë ſur tout ce qui l'entoure, ne trouvant que des ſujets indignes
+                            &amp; fort au deſſous de ce qu'elle vient d admirer, je m'étonne qu'elle
+                            ſoit capable pour eux de la moindre foibleſſe. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_29_01">
-                            <g ref="U2761"/> Corneille ne peut eſtre égalé dans les endroits où il
-                            excelle , il a pour lors un caractere original &amp; inimitable;mais
-                            mais il eſt inégal, ſes premieres Comedies ſont ſeches, languiſſantes,
-                            &amp; ne laiſſoient pas eſperer qu'il dût jamais enſuite aller ſi loin :
-                            dans quelques-unes de ſes meilleures pieces il y a des fautes
-                            inexcusables contre les moeurs ; un ſtyle de declamateur qui arreſte
-                            l'action &amp; la fait languir ; des negligences dans les vers &amp;
-                            dans l'expreſſion qu'on ne peut comprendre en un ſi grand homme. Ce qu
-                            il y a eu en luy de plus éminent c'eſt l'eſprit,qu'il avoit ſublime, à
-                            qui il a eſté redevable de certains vers les plus heureux qu'on ait
+                        <p xml:id="r01_29_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/>
+                            <hi rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Corneille"
+                                    source="#P_ed1_ex1">Corneille</persName></hi> ne peut <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre <pb ed="#L_ed1_ex1"/>é<pb ed="#P_ed1_ex1"/>galé dans
+                            les endroits où il excelle , il a pour lors un caractere original &amp;
+                            inimitable ; mais <seg><app>
+                                    <rdg source="#P_ed1_ex1">mais </rdg>
+                                    <rdg source="#L_ed1_ex1"/>
+                                </app></seg>il eſt inégal, ſes premieres Comedies ſont ſeches,
+                            languiſſantes, &amp; ne laiſſoient pas eſperer qu'il dût jamais enſuite
+                            aller ſi loin : dans quelques-unes de ſes meilleures pieces il y a des
+                            fautes inexcusables contre les mœurs ; un ſtyle de declamateur qui
+                            arreſte l'action &amp; la fait languir ; des negligences dans les vers
+                            &amp; dans l'expreſſion qu'on ne peut comprendre en un ſi grand homme.
+                            Ce qu il y a e<seg><app>
+                                    <rdg source="#P_ed1_ex1">u</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg> en luy de plus éminent c'eſt l'eſprit,qu'il avoit
+                            ſublime, <seg><app>
+                                    <rdg source="#P_ed1_ex1">à qui</rdg>
+                                    <rdg source="#L_ed1_ex1">auquel</rdg>
+                                </app></seg> il a <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">é</rdg>
+                                </app></seg>té redevable de certains vers les plus heureux qu'on ait
                             jamais lû ailleurs, de la conduite de ſon theatre qu'il a quelquefois
                             haſardée &amp; contre les regles des Anciens, &amp; enfin de ſes
-                            dénoüemens ; car il ne s eſt pas toujours aſſujetti au gouſt des Grecs,
-                            &amp; à leur grande ſimplicité ; il a aimé au contraire à charger la
-                            ſcene d'évenemens dont il eſt preſque toûjours ſorti avec ſuccés :
-                            admirable certes par l'extrême varieté &amp; le peu de rapport qui ſe
+                            dénoüemens ; car il ne s eſt <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>pas
+                            toujours aſſujetti au go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t des Grecs, &amp; à leur grande ſimplicité ; il a aimé
+                            au contraire à charger la ſcene d'évenemens dont il eſt preſque toûjours
+                            ſorti avec ſucc<seg><app>
+                                    <rdg source="#P_ed1_ex1">és</rdg>
+                                    <rdg source="#L_ed1_ex1">ez</rdg>
+                                </app></seg> : admirable <seg><app>
+                                    <rdg source="#P_ed1_ex1">certes</rdg>
+                                    <rdg source="#L_ed1_ex1">ſur tout</rdg>
+                                </app></seg> par l'extrême varieté &amp; le peu de rapport qui ſe
                             trouve pour le deſſein entre un ſi grand nombre de Poëmes qu'il a
-                            compoſez. Il ſemble qu'il y ait lpus de reſſemblance dans ceux de
-                            Racine, &amp; qui tendent un peu plus à une meſme choſe ; mais il eſt
-                            égal, ſoûtenu, toûjours le meſme par tout; ſoit pour le deſſein &amp; la
-                            conduite de ſes pieces, qui ſont juſtes, regulieres, priſes dans le bon
-                            ſens &amp; dans la nature ; ſoit pour ſa verſification qui eſt correcte,
-                            riche ſans ſes rimes, élegante, nombreuſe, harmonieuſe ; exact imitateur
-                            des Anciens, dont il a ſuivi ſcrupuleuſement la netteté &amp; la
-                            ſimplcité de l'action; à qui le grand &amp; le merveilleux n'ont pas
-                            même manqué, ainſi qu'à Corneille ny le touchant ny le patetique ;
-                            quelle plus grande tendreſſe que celle qui eſt réponduë dans tout le
-                            Cid, dans Polieucte &amp; dans les Horaces ! quelle grandeur ne ſe
-                            remarque point en Mitridate, en Porus, &amp; en Burrhus ? Ces paſſions
-                            encore favorites des Anciens , que les tragiques aimoient à exciter ſur
-                            les theatres, &amp; qu'on nomme la terreur &amp; la pitié, ont eſté
-                            connuës de ces deux Poëtes ; Oreſte dans l'Andromaque de Racine, &amp;
-                            Phedre du meſme Auteur, comme l'Oedippe &amp; les Horaces de Corneille
+                            compoſez. Il ſemble qu'il y ait lpus de reſſemblance dans ceux de <hi
+                                rend="petites_caps" source="#P_ed1_ex1"><persName ref="#Racine"
+                                    source="#P_ed1_ex1">Racine</persName></hi>, &amp; qui tendent un
+                            peu plus à une m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">é</rdg>
+                                </app></seg>me choſe ; mais il eſt égal, ſoûtenu, toûjours le m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me par tout; ſoit pour le deſſein &amp; la conduite de
+                            ſes pieces, qui ſont juſtes, regulieres, priſes dans le bon ſens &amp;
+                            dans la nature ; ſoit pour ſa verſification qui eſt correcte, riche ſans
+                            ſes rimes, élegante, nombreuſe, harmonieuſe ; exact imitateur des
+                            Anciens, dont il a ſuivi ſcrupuleuſement la netteté &amp; la ſim<pb
+                                ed="#P_ed1_ex1 #L_ed1_ex1"/>plcité de l'action; à qui le grand &amp;
+                            le merveilleux n'ont pas même manqué, ainſi qu'à <persName
+                                ref="#Corneille" source="#P_ed1_ex1">Corneille</persName> ny le
+                            touchant ny le patetique ; quelle plus grande tendreſſe que celle qui
+                            eſt réponduë dans tout le <emph style="font-style: italic"
+                                source="#P_ed1_ex1">Cid</emph>, dans <emph
+                                style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Polieucte" source="#P_ed1_ex1">Polieucte</persName></emph>
+                            &amp; dans les <emph style="font-style: italic" source="#P_ed1_ex1"
+                                >Horaces</emph> ! quelle grandeur ne ſe remarque point en <emph
+                                style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Mitridate" source="#P_ed1_ex1"
+                            >Mitridate</persName></emph>, en <emph style="font-style: italic"
+                                source="#P_ed1_ex1"><persName ref="#Porus" source="#P_ed1_ex1"
+                                    >Porus</persName></emph>, &amp; en <emph
+                                style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Burrhus" source="#P_ed1_ex1">Burrhus</persName></emph>
+                            <seg><app>
+                                    <rdg source="#P_ed1_ex1">?</rdg>
+                                    <rdg source="#L_ed1_ex1">!</rdg>
+                                </app></seg> Ces paſſions encore favorites des Anciens , que les
+                            tragiques aimoient à exciter ſur les theatres, &amp; qu'on nomme la
+                            terreur &amp; la pitié, ont <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">é</rdg>
+                                </app></seg>té connuës de ces deux Poëtes ; <emph
+                                style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Oreste" source="#P_ed1_ex1">Oreſte</persName></emph> dans
+                                l'<emph style="font-style: italic" source="#P_ed1_ex1"
+                                >Andromaque</emph> de <persName ref="#Racine" source="#P_ed1_ex1"
+                                >Racine</persName>, &amp; <emph style="font-style: italic"
+                                source="#P_ed1_ex1"><persName ref="#Phedre" source="#P_ed1_ex1"
+                                    >Phedre</persName></emph> du m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me Auteur, comme l'<emph style="font-style: italic"
+                                source="#P_ed1_ex1"><persName ref="#Oedipe" source="#P_ed1_ex1"
+                                    >Oedippe</persName></emph> &amp; les <emph
+                                style="font-style: italic" source="#P_ed1_ex1">Horaces</emph> de
+                                <persName ref="#Corneille" source="#P_ed1_ex1">Corneille</persName>
                             en ſont la preuve. Si cependant il eſt permis de faire entr'eux quelque
                             comparaiſon, &amp; les marquer l'un &amp; l'autre par ce qu'ils ont eu
-                            de plus propre , &amp; par ce qui éclate le plus ordinairement dans
-                            leurs ouvrages, peut-eſtre qu'on pourroit parler ainſi. Corneille nous
+                            de plus propre , &amp; par <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>ce qui éclate
+                            le plus ordinairement dans leurs <seg><app>
+                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#L_ed1_ex1">O</rdg>
+                                </app></seg>uvrages, peut-<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre qu'on pourroit parler ainſi. <persName
+                                ref="#Corneille" source="#P_ed1_ex1">Corneille</persName> nous
                             aſſujettit à ſes caracteres &amp; à ſes idées ; Racine deſcend juſques
-                            aux noſtres : celuy-là peint les hommes comme ils devroient eſtre ;
-                            celuy-cy les peint tels qu'ils ſont : il y a plus dans le premier de ce
-                            que l'on admire, &amp; de ce que l'on doit meſme imiter ; il y a plus
-                            dans le ſecond de ce que l'on reconnoiſt dans les autres, ou de ce que
-                            l'on épouve dans ſoy-meſme : l'un éleve,étonne,maîtriſe, inſtruit ;
-                            l'autre plaît, remuë, touche, penetre:ce qu'il y a de plus beau, de plus
-                            noble &amp; de plus imperieux dans la raiſon eſt manié par le premier ;
-                            &amp; par l'autre ce qu'il y a de plus flatteur &amp; de plus délicat
-                            dans la paſſion : ce ſont dans celuy-là des maximes, des regles, des
-                            preceptes ; &amp; dans celuy cy du gouſt &amp; des ſentiments : l'on eſt
-                            plus occupé aux pieces de Corneille ; l'on eſt plus ébranlé &amp; plus
-                            attendri à celles de Racine : Corneille eſt plus moral, Racine plus
-                            naturel : il ſemble que l'un imite Sophocle ; &amp; que l'autre doit
-                            plus à Euripide.</p>
+                            aux noſtres : celuy-là peint les hommes comme ils devroient <seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>tre ; celuy-cy les peint tels qu'ils ſont : il y a plus
+                            dans le premier de ce que l'on admire, &amp; de ce que l'on doit m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me imiter ; il y a plus dans le ſecond de ce que l'on reconno<seg><app>
+                                    <rdg source="#P_ed1_ex1">iſ</rdg>
+                                    <rdg source="#L_ed1_ex1">î</rdg>
+                                </app></seg>t dans les autres, ou de ce que l'on épouve dans ſoy-m<seg><app>
+                                    <rdg source="#P_ed1_ex1">eſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ê</rdg>
+                                </app></seg>me : l'un éleve,étonne,maîtriſe, inſtruit<seg><app>
+                                    <rdg source="#P_ed1_ex1"> ;</rdg>
+                                    <rdg source="#L_ed1_ex1">,</rdg>
+                                </app></seg> l'autre plaît, remuë, touche, penetre:ce qu'il y a de
+                            plus beau, de plus noble &amp; de plus imperieux dans la raiſon eſt
+                            manié par le premier ; &amp; par l'autre ce qu'il y a de plus flatteur
+                            &amp; de plus délicat dans la paſſion : ce ſont dans celuy-là des
+                            maximes, <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>des regles, des preceptes ;
+                            &amp; dans celuy<seg><app>
+                                    <rdg source="#P_ed1_ex1"> </rdg>
+                                    <rdg source="#L_ed1_ex1">-</rdg>
+                                </app></seg>cy du go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t &amp; des ſentiments : l'on eſt plus occupé aux pieces
+                            de <persName ref="#Corneille" source="#P_ed1_ex1">Corneille</persName> ;
+                            l'on eſt plus ébranlé &amp; plus attendri à celles de <persName
+                                ref="#Racine" source="#P_ed1_ex1">Racine</persName> : <persName
+                                ref="#Corneille" source="#P_ed1_ex1">Corneille</persName> eſt plus
+                            moral, <persName ref="#Racine" source="#P_ed1_ex1">Racine</persName>
+                            plus naturel : il ſemble que l'un imite <hi rend="petites_caps"
+                                source="#P_ed1_ex1"><persName ref="#Sophocle" source="#P_ed1_ex1"
+                                    >Sophocle</persName></hi><seg><app>
+                                    <rdg source="#P_ed1_ex1"> ;</rdg>
+                                    <rdg source="#L_ed1_ex1">,</rdg>
+                                </app></seg> &amp; que l'autre doit plus à <hi rend="petites_caps"
+                                source="#P_ed1_ex1"><persName ref="#Euripide"
+                                >Euripide</persName></hi>.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_30_01">
+                        <p xml:id="r01_30_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Le peuple appelle Eloquence la facilité que
                             quelques-uns ont de parler ſeuls &amp; longtemps, jointe à l'emportement
                             du geſte, à l'éclat de la voix, &amp; à la force des poulmons. Les
@@ -751,16 +1123,23 @@
                             diſtinguent pas de l'entaſſement des figures, de l'uſage des grands
                             mots, &amp; de la rondeur des periodes.</p>
                         <p xml:id="r01_30_02"> Il ſemble que la Logique eſt l'art de convaincre de
-                            quelque verité &amp; l'Eloquence un don de l'ame, lequel nous rend
-                            maîtres du coeur &amp; de l'eſprit des autres, qui fait que nous leur
-                            inſpirons ou que nous leur perſuadons tout ce qui nous plaiſt.</p>
+                            quelque verité &amp; l'Eloquence un don <pb n="172" ed="#P_ed1_ex1"/>de
+                            l'ame, lequel nous rend maîtres du cœur &amp; de l'eſprit des autres,
+                            qui fait que nous leur inſpirons ou que nous leur perſuadons tout ce qui
+                            nous pla<seg><app>
+                                    <rdg source="#P_ed1_ex1">iſ</rdg>
+                                    <rdg source="#L_ed1_ex1">î</rdg>
+                                </app></seg>t.</p>
                         <p xml:id="r01_30_03"> L'Eloquence peut ſe trouver dans les entretiens &amp;
-                            dans tout genre d'écrire; elle eſt rarement où on la cherche, &amp; elle
-                            eſt quelquefois où on ne la cherche point.</p>
+                            dans tout genre d'écrire<seg><app>
+                                    <rdg source="#P_ed1_ex1">;</rdg>
+                                    <rdg source="#L_ed1_ex1"> ;</rdg>
+                                </app></seg> elle eſt rarement où on la cherche, &amp; elle eſt
+                            quelquefois où on ne la cherche point.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_31_01">
+                        <p xml:id="r01_31_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Un homme né Chrétien &amp; François eſt embaraſſé dans
                             la ſatyre ; les grands ſujets luy ſont défendus, il les entame
                             quelquefois, &amp; ſe détourne enſuite ſur de petites choſes qu'il
@@ -768,25 +1147,34 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_32_01">
+                        <p xml:id="r01_32_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Il faut éviter le ſtyle vain &amp; puerile, de peur de
-                            reſſembler à Dorilas &amp; à Handburg ; l'on peut au contraire en une
-                            forte d'écrits haſarder de certaines expreſſions, uſer de termes
-                            tranſpoſez, &amp; qui peignent vivement &amp; plaindre ceux qui ne
-                            ſentent pas le plaiſir qu'il y a à s'en ſervir ou à les entendre.</p>
+                            reſſembler à <emph style="font-style: italic" source="#P_ed1_ex1"
+                                    ><persName ref="#Dorilas" source="#P_ed1_ex1"
+                                >Dorilas</persName></emph> &amp; à <emph style="font-style: italic"
+                                source="#P_ed1_ex1">Handburg</emph> ; l'on peut au contraire en une
+                            forte d'écrits ha<seg><app>
+                                    <rdg source="#P_ed1_ex1">ſ</rdg>
+                                    <rdg source="#L_ed1_ex1">z</rdg>
+                                </app></seg>arder de certaines expreſſions, uſer de termes <pb
+                                ed="#P_ed1_ex1 #L_ed1_ex1"/>tranſpoſez, &amp; qui peignent vivement
+                            &amp; plaindre ceux qui ne ſentent pas le plaiſir qu'il y a à s'en
+                            ſervir ou à les entendre.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_33_01">
-                            <g ref="U2761"/> Celuy qui n'a égard en écrivant qu'au gouſt de ſon
-                            ſiecle, ſonge plus à ſa perſonne qu'à ſes écrits : il faut toûjours
-                            tendre à la perfection ; &amp; alors cette juſtice qui nous eſt
-                            quelquefois refuſée par nos contemporains, la poſterité ſçait nous la
-                            rendre.</p>
+                        <p xml:id="r01_33_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/> Celuy qui n'a égard en écrivant qu'au go<seg><app>
+                                    <rdg source="#P_ed1_ex1">uſ</rdg>
+                                    <rdg source="#L_ed1_ex1">û</rdg>
+                                </app></seg>t de ſon ſiecle, ſonge plus à ſa perſonne qu'à ſes
+                            écrits : il faut toûjours tendre à la perfection ; &amp; alors cette
+                            juſtice qui nous eſt quelquefois refuſée par nos contemporains, la
+                            poſterité ſçait nous la rendre.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_34_01">
+                        <p xml:id="r01_34_01" source="#P_ed1_ex1">
                             <g ref="U2761"/> Il ne faut point mettre un ridicule où il n'y en a
                             point ; c'eſt ſe gâter le goût, c'eſt corrompre ſon jugement &amp; celuy
                             des autres ; mais le ridicule qui eſt quelque part, il faut l'y voir,
@@ -795,10 +1183,24 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_35_01">
-                            <g ref="U2761"/> Horace ou Despreaux l'a dit avant vous ; je le crois
-                            ſur voſtre parole ; mais je l'ay dit comme mien ; ne puis-je pas penſer
-                            une choſe vraie, &amp; que d'autres encore penſeront après moy ?</p>
+                        <p xml:id="r01_35_01" source="#P_ed1_ex1">
+                            <g ref="U2761"/>
+                            <emph style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Horace" source="#P_ed1_ex1">Horace</persName></emph> ou
+                                <emph style="font-style: italic" source="#P_ed1_ex1"><persName
+                                    ref="#Despreaux" source="#P_ed1_ex1">Despreaux</persName></emph>
+                            l'a dit avant vous ; je le crois ſur v<seg><app>
+                                    <rdg source="#P_ed1_ex1">oſ</rdg>
+                                    <rdg source="#L_ed1_ex1">ô</rdg>
+                                </app></seg>tre parole ; mais je l'ay dit <pb
+                                ed="#P_ed1_ex1 #L_ed1_ex1"/>comme mien ; ne puis-je pas penſer une
+                            choſe vra<seg><app>
+                                    <rdg source="#P_ed1_ex1">i</rdg>
+                                    <rdg source="#L_ed1_ex1">y</rdg>
+                                </app></seg>e, &amp; que d'autres encore penſeront après mo<seg><app>
+                                    <rdg source="#P_ed1_ex1">y</rdg>
+                                    <rdg source="#L_ed1_ex1">i</rdg>
+                                </app></seg> ?</p>
                     </div3>
 
 
