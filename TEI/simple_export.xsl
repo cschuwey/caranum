@@ -5,14 +5,15 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <xsl:param name="edition">B_ed1_ex1</xsl:param>
+    <xsl:param name="exemplaire">P_ed1_ex1</xsl:param>
+    <xsl:param name="edition">ed1</xsl:param>
     
     <xsl:template match="/">
-        <html><head></head><body><xsl:apply-templates select="//tei:div2[tei:p[contains(@source,$edition) and @xml:id]]"/></body></html>
+        <html><head></head><body><xsl:apply-templates select="//tei:div3[tei:p[contains(@source,$exemplaire) and @xml:id]]"/></body></html>
     </xsl:template>
     
-    <xsl:template match="tei:div2">
-        <div style="margin-bottom:12pt"><xsl:apply-templates select="tei:p[contains(@source,$edition) and @xml:id]"/></div>
+    <xsl:template match="tei:div3">
+        <div style="margin-bottom:12pt"><xsl:apply-templates select="tei:p[contains(@source,$exemplaire) and @xml:id]"/></div>
     </xsl:template>
     
     <xsl:template match="tei:p">
@@ -20,13 +21,22 @@
     </xsl:template>
     
     <xsl:template match="tei:app">
-        <span style="color:red"><xsl:apply-templates select="tei:rdg[contains(@source,$edition)]"></xsl:apply-templates></span>
+        <xsl:choose>
+            <xsl:when test="count(tei:rdg[contains(@source,$edition)])&gt;1"><span style="color:red">
+                <xsl:apply-templates select="tei:rdg[contains(@source,$exemplaire)]"/>
+                [<xsl:for-each select="tei:rdg[contains(@source,$edition) and not(contains(@source,$exemplaire))]">
+                    <xsl:apply-templates/> 
+                </xsl:for-each>]</span></xsl:when>
+            <xsl:otherwise><xsl:apply-templates select="tei:rdg[contains(@source,$exemplaire)]"/></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="tei:g">
+    
+    <xsl:template match="tei:g[contains(@source,$exemplaire)]">
         <xsl:variable name="id"><xsl:value-of select="@ref"/></xsl:variable>
         <xsl:value-of select="//tei:glyph[contains(@xml:id,$id)]/tei:desc"/>
     </xsl:template>
+    <xsl:template match="tei:g[not(contains(@source,$exemplaire))]"/>
     
     
 </xsl:stylesheet>
