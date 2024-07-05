@@ -693,28 +693,29 @@
                         <p xml:id="r01_09_01" source="#P_ed1_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on n'a gueres v<seg><app>
-                                    <rdg source="#P_ed1_ex1">eu</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1">eu</rdg>
                                     <rdg source="#L_ed1_ex1">û</rdg>
                                 </app></seg> juſques à preſent un chef<seg><app>
                                     <rdg source="#P_ed1_ex1"> </rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">-</rdg>
                                 </app></seg>d'œuvre d'eſprit qui ſoit l'<seg><app>
-                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1">o</rdg>
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app></seg>uvrage de pluſieurs ; <persName ref="#Homere"
-                                source="#P_ed1_ex1"><hi rend="petites_caps" source="#B_ed1_ex1"
-                                    >Homere</hi></persName> a fait l'Iliade, <persName
-                                ref="#Virgile" source="#P_ed1_ex1"><hi rend="petites_caps"
-                                    source="#B_ed1_ex1">Virgile</hi></persName> l<seg><app>
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><hi rend="petites_caps"
+                                    source="#B_ed1_ex1">Homere</hi></persName> a fait l'Iliade,
+                                <persName ref="#Virgile" source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1"
+                                    ><hi rend="petites_caps" source="#B_ed1_ex1"
+                                >Virgile</hi></persName> l<seg><app>
                                     <rdg source="#P_ed1_ex1"> </rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">'</rdg>
                                 </app></seg>Ene<seg><app>
                                     <rdg source="#P_ed1_ex1 #L_ed1_ex1">i</rdg>
                                     <rdg source="#B_ed1_ex1">ï</rdg>
-                                </app></seg>de, <persName ref="#Tite_Live" source="#P_ed1_ex1"><hi
-                                    rend="petites_caps" source="#B_ed1_ex1"
-                                >Tite-Live</hi></persName> ſes Decades, &amp; l'Orateur Romain ſes
-                            Oraiſons.</p>
+                                </app></seg>de, <persName ref="#Tite_Live"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><hi rend="petites_caps"
+                                    source="#B_ed1_ex1">Tite-Live</hi></persName> ſes Decades, &amp;
+                            l'Orateur Romain ſes Oraiſons.</p>
                     </div3>
 
                     <div3>
@@ -778,18 +779,21 @@
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Tout l'eſprit d'un Auteur conſiſte
                             à bien définir &amp; à bien peindre. <hi rend="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Moyse</hi>, <hi rend="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1"><persName ref="#Homere"
-                                    source="#P_ed1_ex1 #B_ed1_ex1">Homere</persName></hi>, <hi
-                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Platon" source="#P_ed1_ex1 #B_ed1_ex1"
-                                >Platon</persName></hi>, <hi rend="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1"><persName ref="#Virgile"
-                                    source="#P_ed1_ex1 #B_ed1_ex1">Virgile</persName></hi>, <hi
-                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Horace" source="#P_ed1_ex1 #B_ed1_ex1"
-                                >Horace</persName></hi> ne ſont au deſſus des autres Ecrivains que
-                            par leurs expreſſions &amp; leurs images<seg><app>
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Moyse</hi>, <hi
+                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Homere"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                            >Homere</persName></hi>, <hi rend="petites_caps"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Platon"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                            >Platon</persName></hi>, <hi rend="petites_caps"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Virgile"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Virgile</persName></hi>, <hi rend="petites_caps"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Horace"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Horace</persName></hi>
+                            ne ſont au deſſus des autres Ecrivains que par leurs expreſſions &amp;
+                            leurs images<seg><app>
                                     <rdg source="#L_ed1_ex1 #P_ed1_ex1"> :</rdg>
                                     <rdg source="#B_ed1_ex1">.</rdg>
                                 </app></seg> Il faut ex<pb ed="#B_ed1_ex1"/>primer le vray pour
@@ -934,16 +938,16 @@
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Ceux qui par leur condition ſe
                             trouvent exempts de la jalouſie d'Aut<seg><app>
-                                    <rdg source="#P_ed1_ex1"/>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1"/>
                                     <rdg source="#L_ed1_ex1">h</rdg>
                                 </app></seg>eur, ont ou des paſſions, ou des beſoins qui les diſtra<seg><app>
-                                    <rdg source="#P_ed1_ex1">i</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1">i</rdg>
                                     <rdg source="#L_ed1_ex1">y</rdg>
                                 </app></seg>ent, &amp; les rendent froids ſur les conceptions
                             d'autruy : perſonne preſque par la diſpositon de <pb ed="#B_ed1_ex1"
                             />ſon eſprit, de ſon cœur, &amp; de ſa fortune n'eſt en état de ſe
                             livrer au plaiſir que donne la perfection d'un <seg><app>
-                                    <rdg source="#P_ed1_ex1">o</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1">o</rdg>
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app></seg>uvrage.</p>
                     </div3>
@@ -1019,16 +1023,16 @@
                         <p xml:id="r01_27_01" source="#P_ed1_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on voit bien que l'<emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Opera</emph> eſt l'ébauche d'un grand ſpectacle ; il en donne
                             l'idée. </p>
                         <p xml:id="r01_27_02"><pb ed="#B_ed1_ex1"/> Je ne ſçay pas comment l'<emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Opera</emph>
                             <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>avec une Muſique ſi parfaite &amp; une
                             dépenſe toute Royale a pû réüſſir à m'ennuyer. </p>
                         <p xml:id="r01_27_03"> Il y a des endroits dans l'<emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Opera</emph> qui laiſſent en deſirer d'autres, il échape
                             quelquefois de ſouhaiter la fin de tout le ſpectacle ; c'eſt faute <seg><app>
                                     <rdg source="#P_ed1_ex1">d'action</rdg>
@@ -1071,9 +1075,10 @@
                         <p xml:id="r01_29_01" source="#P_ed1_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
-                            <hi rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    >Corneille</persName></hi> ne peut <seg><app>
+                            <hi rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Corneille"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Corneille</persName></hi> ne peut <seg><app>
                                     <rdg source="#P_ed1_ex1">eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app></seg>tre <pb ed="#L_ed1_ex1"/>é<pb ed="#P_ed1_ex1"/>galé dans
@@ -1126,9 +1131,10 @@
                                 </app></seg> par l'extrême varieté &amp; le peu de rapport qui ſe
                             trouve pour le deſſein entre un ſi grand nombre de Poëmes qu'il a
                             compoſez. Il ſemble qu'il y ait lpus de reſſemblance dans ceux de <hi
-                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Racine" source="#P_ed1_ex1 #B_ed1_ex1"
-                                >Racine</persName></hi>, &amp; qui tendent un peu plus à une m<seg><app>
+                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Racine"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                            >Racine</persName></hi>, &amp; qui tendent un peu plus à une m<seg><app>
                                     <rdg source="#P_ed1_ex1">eſ</rdg>
                                     <rdg source="#L_ed1_ex1">é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
@@ -1164,23 +1170,26 @@
                                     <rdg source="#L_ed1_ex1 #P_ed1_ex1"> </rdg>
                                     <rdg source="#B_ed1_ex1"/>
                                 </app></seg>ainſi qu'à <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Corneille</persName> ny le touchant
-                            ny le patetique ; quelle plus grande tendreſſe que celle qui eſt
-                            réponduë dans tout le <emph style="font-style: italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Cid</emph>, dans <emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Polieucte" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    >Polieucte</persName></emph> &amp; dans les <emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Corneille</persName> ny le
+                            touchant ny le patetique ; quelle plus grande tendreſſe que celle qui
+                            eſt réponduë dans tout le <emph style="font-style: italic"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Cid</emph>, dans <emph
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Polieucte"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Polieucte</persName></emph> &amp; dans les <emph
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Horaces</emph> ! quelle grandeur ne ſe remarque point en <emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Mitridate" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    >Mitridate</persName></emph>, en <emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Porus" source="#P_ed1_ex1 #B_ed1_ex1"
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Mitridate"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Mitridate</persName></emph>, en <emph style="font-style: italic"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Porus"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Porus</persName></emph>, &amp; en <emph style="font-style: italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1"><persName ref="#Burrhus"
-                                    source="#P_ed1_ex1 #B_ed1_ex1">Burrhus</persName></emph>
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Burrhus"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Burrhus</persName></emph>
                             <seg><app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1">?</rdg>
                                     <rdg source="#L_ed1_ex1">!</rdg>
@@ -1196,23 +1205,26 @@
                                     <rdg source="#L_ed1_ex1">é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app></seg>té connuës de ces deux Poëtes ; <emph
-                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Oreste" source="#P_ed1_ex1 #B_ed1_ex1"
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                    ><persName ref="#Oreste"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Oreſte</persName></emph> dans l'<emph style="font-style: italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Andromaque</emph> de <persName
-                                ref="#Racine" source="#P_ed1_ex1 #B_ed1_ex1">Racine</persName>,
-                            &amp; <emph style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    ><persName ref="#Phedre" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    >Phedre</persName></emph> du m<seg><app>
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Andromaque</emph> de
+                                <persName ref="#Racine" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Racine</persName>, &amp; <emph style="font-style: italic"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Phedre"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Phedre</persName></emph> du m<seg><app>
                                     <rdg source="#P_ed1_ex1">eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app></seg>me Auteur, comme l'<emph style="font-style: italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1"><persName ref="#Oedipe"
-                                    source="#P_ed1_ex1 #B_ed1_ex1">Oedippe</persName></emph> &amp;
-                            les <emph style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Oedipe"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Oedippe</persName></emph> &amp; les <emph
+                                style="font-style: italic" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Horaces</emph> de <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Corneille</persName> en ſont la
-                            preuve. Si cependant il eſt permis de faire entr'eux quelque
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Corneille</persName> en
+                            ſont la preuve. Si cependant il eſt permis de faire entr'eux quelque
                             comparaiſon, &amp; les marquer l'un &amp; l'autre par ce qu'ils ont eu
                             de plus propre , &amp; par <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>ce qui éclate
                             le plus ordinairement dans leurs <seg><app>
@@ -1222,7 +1234,7 @@
                                     <rdg source="#P_ed1_ex1">eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app></seg>tre <pb ed="#B_ed1_ex1"/>qu'on pourroit parler ainſi.
-                                <persName ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1"
+                                <persName ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Corneille</persName> nous aſſujettit à ſes caracteres &amp; à ſes
                             idées ; <persName ref="#Racine"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1">Racine</persName> deſcend
@@ -1268,20 +1280,21 @@
                                     <rdg source="#P_ed1_ex1">uſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">û</rdg>
                                 </app></seg>t &amp; des ſentiments : l'on eſt plus occupé aux pieces
-                            de <persName ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1"
+                            de <persName ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
                                 >Corneille</persName> ; l'on eſt plus ébranlé &amp; plus attendri à
-                            celles de <persName ref="#Racine" source="#P_ed1_ex1 #B_ed1_ex1"
-                                >Racine</persName> : <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1">Corneille</persName> eſt plus moral,
-                                <persName ref="#Racine" source="#P_ed1_ex1 #B_ed1_ex1"
-                                >Racine</persName> plus naturel : il ſemble que l'un imite <hi
-                                rend="petites_caps" source="#P_ed1_ex1 #B_ed1_ex1"><persName
-                                    ref="#Sophocle" source="#P_ed1_ex1 #B_ed1_ex1"
-                                    >Sophocle</persName></hi><seg><app>
+                            celles de <persName ref="#Racine"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Racine</persName> :
+                                <persName ref="#Corneille" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Corneille</persName> eſt plus moral, <persName ref="#Racine"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1">Racine</persName> plus
+                            naturel : il ſemble que l'un imite <hi rend="petites_caps"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Sophocle"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"
+                                >Sophocle</persName></hi><seg><app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1"> ;</rdg>
                                     <rdg source="#L_ed1_ex1">,</rdg>
                                 </app></seg> &amp; que l'autre doit plus à <hi rend="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1"><persName ref="#Euripide"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1"><persName ref="#Euripide"
                                     source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1"
                                 >Euripide</persName></hi>.</p>
                     </div3>
