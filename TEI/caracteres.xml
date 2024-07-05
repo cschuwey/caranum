@@ -242,7 +242,29 @@
                                 />
                             </pubPlace>
                         </imprint>
+                        
                     </monogr>
+                    <monogr xml:id="L_ed4">
+                        <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
+                            de</author>
+                        <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
+                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
+                        <edition>Première édition</edition>
+                        <imprint xml:id="L_ed4_ex1">
+                            <date when="1688">1689</date>
+                            <pubPlace ana="#Paris">À Paris</pubPlace>
+                            <publisher>Etienne Michallet, premier Imprimeur de Roy, rue S. Jacques,
+                                à l'Image Saint Paul</publisher>
+                            <pubPlace>
+                                <link
+                                    target="https://gallica.bnf.fr/ark:/12148/bpt6k575649/f126.item"
+                                />
+                            </pubPlace>
+                        </imprint>
+                        
+                    </monogr>
+                    
+                    
 
                     <monogr xml:id="P_ed5">
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
@@ -426,7 +448,9 @@
                     <head>Des Ouvrages de l'Esprit</head>
                     <div3>
                         <p xml:id="r01_01_01"
-                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">
+
+                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">
+
                             <pb n="158" ed="#P_ed1_ex1"/>TOut eſt dit, &amp; l'on vient trop tard
                             depuis plus de ſept mille ans qu'il y a des hommes, &amp; qui penſent.
                             Sur ce qui concerne les mœurs le plus beau &amp; le meilleur eſt enlevé
@@ -436,23 +460,26 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
                                         >A</rdg>
                                     <rdg
-                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >a</rdg>
                                 </app>nciens</seg> &amp; les habiles d'entre les <seg><app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
                                         >M</rdg>
                                     <rdg
-                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >m</rdg>
                                 </app>odernes</seg>.</p>
                     </div3>
                     <div3>
 
                         <p xml:id="r01_02_01"
-                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                            source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
-                                source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+
+source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+
+
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Il faut chercher ſeulement à
                             penſer &amp; à parler juſte, ſans vouloir amener les autres à <seg>n<app
                                     type="#orth" subtype="#circonflexe">
@@ -460,16 +487,16 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
                                         >oſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #L_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >ô</rdg>
                                 </app>tre</seg>
                             <seg>go<app>
                                     <rdg source="#P_ed2_ex1 #P_ed3_ex1">uſ</rdg>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >û</rdg>
                                 </app>t</seg> &amp; à nos ſentimens ; c'eſt une trop grande
-                            entrepriſe.</p>
+                            entrepriſe<seg><app><rdg source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">.</rdg><rdg source="#L_ed4_ex1">,</rdg></app></seg></p>
                     </div3>
 
                     <div3>
@@ -490,19 +517,19 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"
                                         >,</rdg>
                                     <rdg
-                                        source="#P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                     />
                                 </app></seg> comme de faire une pendule ; <seg><app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
                                         >I</rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#B_ed1_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >i</rdg>
                                 </app>l</seg> faut plus que de l'eſprit pour <seg><app type="#orth"
                                     subtype="#circonflexe">
-                                    <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+
+                                    <rdg source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #L_ed4_ex1 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg
                                         source="#B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
@@ -513,34 +540,30 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
                                         >A</rdg>
                                     <rdg
-                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >a</rdg>
                                 </app>uteur</seg>. Un Magiſtrat alloit par ſon merite à la premiere
                             dignité, il <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app>toit</seg> homme délié<seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
-                                            ><c>,</c></rdg>
-                                    <rdg source="#P_ed6_ex1"><c/></rdg>
-                                </app></seg> &amp; pratic dans les <pb n="107"
-                                source="#P_ed2_ex1 #P_ed3_ex1"/>affai<pb n="159"
-                                source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/>res <seg><app>
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">,</rdg>
+                                    <rdg source="#L_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"></rdg>
+                                </app></seg> &amp; pratic dans les <pb n="107" source="#P_ed2_ex1 #P_ed3_ex1"
+                                />affai<pb n="159" source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1"/>res <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">,</rdg>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"
-                                        >,</rdg>
-                                    <rdg
-                                        source="#P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         > ;</rdg>
                                 </app></seg> il a fait imprimer un <seg><app type="#typo"
                                     subtype="#capitalize">
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
                                         >o</rdg>
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrage</seg> moral<seg><app type="#ponct">
@@ -562,7 +585,7 @@
                                 source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed3_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Il n'eſt pas ſi <seg>ai<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >ſ</rdg>
                                     <rdg source="#L_ed1_ex1">s</rdg>
                                 </app>é</seg> de ſe faire un nom par un ouvrage parfait, que d'en
@@ -577,7 +600,7 @@
                                 source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Un ouvrage <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >ſ</rdg>
                                     <rdg source="#B_ed1_ex1">S</rdg>
                                 </app> at<app>
@@ -590,9 +613,9 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"
                                         >a</rdg>
                                     <rdg
-                                        source="#P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                             >con<pb n="84" source="#P_ed4_ex1"/><pb n="87"
-                                            source="#P_ed5_ex1"/>tient</rdg>
+                                                source="#P_ed5_ex1"/><pb n="82" source="#L_ed4_ex1"/>tient</rdg>
                                 </app></seg> des faits, qui eſt donné en <seg>f<app type="error">
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed8_ex1"
@@ -600,7 +623,7 @@
                                     <rdg source="#P_ed7_ex1 #P_ed8_ex1">üe</rdg>
                                 </app>illes</seg> ſous le manteau aux conditions <seg>d'<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
@@ -608,28 +631,29 @@
                                 </app>tre</seg>
                             <seg>rendu</seg><app>
                                 <rdg
-                                    source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"/>
+                                    source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"/>
                                 <rdg source="#B_ed1_ex1">s</rdg>
                             </app> de <seg>m<app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >ê</rdg>
-                                    <rdg source="#P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                <rdg source="#P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
                                         >eſ</rdg>
                                 </app>me</seg>, s'il eſt mediocre, paſſe pour merveilleux ;
-                            l'impreſſion eſt l'écüeil.</p>
+                            l'impreſſion eſt l'<seg>éc<app><rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">ü</rdg><rdg source="#L_ed4_ex1">u</rdg></app>eil</seg>.</p>
                     </div3>
                     <div3>
 
                         <p xml:id="r01_06_01"
-                            source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                            source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
-                                source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                    source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Si l'on <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1"
                                         >os</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >ô</rdg>
                                 </app>te</seg> de beaucoup d'ouvrages de <seg><app type="#typo"
                                     subtype="#capitalize">
@@ -637,32 +661,26 @@
                                         source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #L_ed1_ex1 #B_ed1_ex1"
                                         >m</rdg>
                                     <rdg
-                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >M</rdg>
                                 </app>orale</seg> l'Avertiſſement au Lecteur, l'<seg>Ep<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1"
-                                        >iſ</rdg>
-                                    <rdg
-                                        source="#B_ed1_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
-                                        >î</rdg>
+
+
+                                    <rdg source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1">iſ</rdg>
+                                    <rdg source="#B_ed1_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">î</rdg>
                                     <rdg source="#L_ed1_ex1 #P_ed4_ex1">i</rdg>
                                 </app>tre</seg>
                             <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1"
                                         >d</rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#B_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >D</rdg>
                                 </app>edicatoire</seg>, la Preface, la Table, les Approbations, il
-                            reſte à peine aſſez de pages pour <seg>m<app>
-                                    <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
-                                        >e</rdg>
-                                    <rdg source="#P_ed8_ex1">é</rdg>
-                                </app>riter</seg> le nom de <seg><app>
+                            reſte à peine aſſez de pages pour <seg>m<app><rdg source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">e</rdg><rdg source="#P_ed8_ex1">é</rdg></app>riter</seg> le nom de <seg><app>
 
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #L_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >l</rdg>
                                     <rdg source="#L_ed1_ex1">L</rdg>
                                 </app>ivre</seg>.</p>
