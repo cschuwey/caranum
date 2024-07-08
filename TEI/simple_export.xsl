@@ -5,7 +5,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <xsl:param name="exemplaire">P_ed1_ex1</xsl:param>
+    <xsl:param name="exemplaire">L_ed1_ex1</xsl:param>
     <xsl:param name="edition">ed1</xsl:param>
     
     <xsl:template match="/">
