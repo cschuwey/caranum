@@ -239,6 +239,19 @@
                             </pubPlace>
                         </imprint>
 
+                        
+                        <imprint xml:id="P_ed4_ex2">
+                            <date when="1688">1689</date>
+                            <pubPlace ana="#Paris">À Paris</pubPlace>
+                            <publisher>Etienne Michallet, premier Imprimeur de Roy, rue S. Jacques,
+                                à l'Image Saint Paul</publisher>
+                            <distributor>BnF RES 18788</distributor>
+                            <pubPlace>
+                                <link
+                                    target="https://catalogue.bnf.fr/ark:/12148/cb30705983s"
+                                />
+                            </pubPlace>
+                        </imprint>
                     </monogr>
                     <monogr xml:id="L_ed4">
                         <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
