@@ -939,8 +939,9 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_15_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_15_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <pb ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>Combien de ſiecles ſe ſont
                             écoulez avant que les hommes dans les <seg><app>
@@ -1517,11 +1518,16 @@
                             empreſſez, les machines, les ballets, les vers, la muſique, tout le
                             ſpectacle, juſqu'à la ſalle où s'eſt donné le ſpectacle, j'entends le
                             toit &amp; les quatre mus dés leurs fondemens : qui doute que la chaſſe
-                            ſur l'eau, l'enchantement de la table, la merveille du Labyrinthe ne
-                            ſoient encore de leur invention ? j'en juge par le mouvement qu'ils ſe
-                            donnent, &amp; par l'air content dont ils s'applaudiſſent ſur tout le
-                            ſuccez : Si je me trompe, &amp; qu'ils n'ayent contribué en rien à
-                                cet<pb ed="#P_ed4_ex1"/>te fête ſi ſuperbe, ſi galante, ſi longtemps
+                            ſur l'eau, l'enchantement de la table, <note source="#P_ed4_ex1"
+                                resp="imprime" place="right" rend="merveille" type="remarque"
+                                >Rendez-vous de chaſſe dans la foreſt de Chantilly.</note>la
+                            merveille <note source="#P_ed4_ex1" resp="imprime" place="right"
+                                rend="Labyrinthe" type="remarque">Collation tres-ingenieuſe donnée
+                                dans le Labyrinthe de Chantilly.</note>du Labyrinthe ne ſoient
+                            encore de leur invention ? j'en juge par le mouvement qu'ils ſe donnent,
+                            &amp; par l'air content dont ils s'applaudiſſent ſur tout le ſuccez : Si
+                            je me trompe, &amp; qu'ils n'ayent contribué en rien à cet<pb
+                                ed="#P_ed4_ex1"/>te fête ſi ſuperbe, ſi galante, ſi longtemps
                             ſoûtenuë, &amp; où un ſeul a ſuffi pour le projet &amp; pour la dépenſe
                             ; J'admire deux choſes ; la tranquilité &amp; le flegme de celuy qui a
                             tout remué, comme l'embarras &amp; l'action de ceux qui n'ont rien fait.
@@ -2142,47 +2148,64 @@
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Celuy qui n'a égard en écrivant
                             qu'au <seg>go<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">uſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">uſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">û</rdg>
                                 </app>t</seg> de ſon ſiecle, ſonge plus à ſa perſonne qu'à ſes
-                            écrits : il faut toûjours tendre à la perfection ; &amp; alors cette
-                            juſtice qui nous eſt quelquefois refuſée par nos contemporains, la
-                            poſterité ſçait nous la rendre.</p>
+                            écrits : il faut toûjours tendre à la perfection<seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>&amp; alors cette <seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                        >juſtice</rdg>
+                                    <rdg source="#P_ed4_ex1">juſteſſe</rdg>
+                                </app></seg> qui nous eſt quelquefois refuſée par nos contemporains,
+                            la poſterité ſçait nous la rendre.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_34_01" source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_34_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il ne faut point mettre un ridicule
-                            où il n'y en a point ; c'eſt ſe gâter le goût, c'eſt corrompre ſon
-                            jugement &amp; celuy des autres ; mais le ridicule qui eſt quelque part,
-                            il faut l'y voir, l'en tirer avec grace, &amp; d'une maniere qui plaiſe
-                            &amp; qui inſtruiſe.</p>
+                            où il n'y en a point<seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>c'eſt ſe gâter le goût, c'eſt corrompre ſon jugement
+                            &amp; celuy des autres ; mais le ridicule qui eſt quelque part, il faut
+                            l'y voir, l'en tirer avec grace, &amp; d'une maniere qui plaiſe &amp;
+                            qui inſtruiſe.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_35_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_35_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <emph style="font-style: italic"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"><persName
-                                    ref="#Horace"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                    ><persName ref="#Horace"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
                                     >Horace</persName></emph> ou <emph style="font-style: italic"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"><persName
-                                    ref="#Despreaux"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"
-                                    >Despreaux</persName></emph> l'a dit avant vous ; je le crois
-                            ſur <seg>v<app>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                    ><persName ref="#Despreaux"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                    >Despreaux</persName></emph>
+                            <pb ed="#P_ed4_ex1"/>l'a dit avant vous ; je le crois ſur <seg>v<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">oſ</rdg>
-                                    <rdg source="#L_ed1_ex1 #B_ed1_ex1">ô</rdg>
+                                    <rdg source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1">ô</rdg>
                                 </app>tre</seg> parole ; mais je l'ay dit <pb
-                                ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>comme mien ; ne puis-je pas
-                            penſer une choſe <seg>vra<app>
+                                ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>comme mien<seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>ne puis-je pas penſer<seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
+                                    <rdg source="#P_ed4_ex1"> aprés eux </rdg>
+                                </app></seg>une choſe <seg>vra<app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">i</rdg>
-                                    <rdg source="#L_ed1_ex1">y</rdg>
+                                    <rdg source="#L_ed1_ex1 #P_ed4_ex1">y</rdg>
                                 </app>e</seg>, &amp; que d'autres encore penſeront après <seg>mo<app>
-                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">y</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                        >y</rdg>
                                     <rdg source="#L_ed1_ex1">i</rdg>
                                 </app></seg> ?</p>
                     </div3>
