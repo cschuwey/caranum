@@ -734,7 +734,7 @@
                                     <rdg source="#P_ed4_ex1">declamer pompeuſement un froid
                                         discours, ou </rdg>
                                 </app></seg>prononcer de <seg>med<app>
-                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1">i</rdg>
+                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1">i</rdg>
                                     <rdg source="#B_ed1_ex1">í</rdg>
                                 </app>ocres</seg> vers avec toute l'emphaſe <pb
                                 ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>d'un mauvais Poëte<seg><app>
@@ -759,7 +759,7 @@
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on n'a gueres <seg>v<app>
-                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1">eu</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1">eu</rdg>
                                     <rdg source="#L_ed1_ex1">û</rdg>
                                 </app></seg> juſques à preſent un <seg>chef<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1"> </rdg>
@@ -849,7 +849,10 @@
                                     <rdg source="#B_ed1_ex1 #P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"
                                         >eu</rdg>
                                     <rdg source="#P_ed4_ex1">û</rdg>
-                                </app>r</seg>, &amp; d'une critique judicieuſe.</p>
+                                </app>r</seg><seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
+                                    <rdg source="#P_ed4_ex1"> </rdg>
+                                </app></seg>&amp; d'une critique judicieuſe.</p>
                     </div3>
 
                     <div3>
@@ -900,7 +903,7 @@
                             à bien définir &amp; à bien peindre. <note
                                 source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1"
                                 resp="imprime" place="right" rend="Moyse" type="remarque">Quand <seg>m<app>
-                                        <rdg source="#P_ed2_ex1 #P_ed1_ex1">eſ</rdg>
+                                        <rdg source="#P_ed2_ex1 #P_ed1_ex1 #P_ed4_ex1">eſ</rdg>
                                         <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                     </app>me</seg> on ne le conſidere que comme un homme qui a
                                 écrit.</note><hi rend="petites_caps"
@@ -958,7 +961,7 @@
                             des habiles Modernes, on les preſſe, on en tire le plus que l'on peut,
                             on en renfle ſes ouvrages ; &amp; quand enfin l'on eſt auteur, &amp; que
                             l'on croit marcher tout ſeul, on s'éleve contre eux, on les maltraite ;
-                            ſemblables à ces enfants <emph style="font-style: italic"
+                            ſemblables à ces enfans <emph style="font-style: italic"
                                 source="#P_ed4_ex1">drus</emph> &amp; forts d'un bon lait qu'ils ont
                             ſuccé, qui battent leur nourrice.</p>
                         <p xml:id="r01_15_03" source="#P_ed4_ex1">Un Auteur moderne prouve
@@ -1033,17 +1036,18 @@
                         <p xml:id="r01_19_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on devroit aimer à<seg><app>
-                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"> </rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"> </rdg>
                                     <rdg source="#L_ed1_ex1"> faire </rdg>
                                 </app></seg>lire ſes <seg><app>
-                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">o</rdg>
+                                    <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                        >o</rdg>
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrages</seg> à ceux qui en ſçavent aſſez pour les corriger
                             &amp; les eſtimer.</p>
                         <p xml:id="r01_19_02" source="#P_ed4_ex1">Ne vouloir être ni conſeillé, ni
                             corrigé ſur ſon ouvrage, eſt un pedantiſme.</p>
                         <p xml:id="r01_19_03" source="#P_ed4_ex1">Il faut qu'un Auteur reçoive avec
-                            une égale modeſtie les égoles &amp; la critique que l'on fait de ſes
+                            une égale modeſtie les éloges &amp; la critique que l'on fait de ſes
                             ouvrages.</p>
                     </div3>
 
@@ -1260,7 +1264,7 @@
                             &amp; qui d'ailleurs ne ſignifie pas aſſez ce que vous voulez peut-eſtre
                             faire entendre : &amp; c'eſt du même trait &amp; du même mot que ces
                             gens s'expliquent ainſi; &amp; tous ſont connoiſſeurs, &amp; paſſent
-                            pour tels. Quel autre parti pour un Auteur, que d'oſer puor lors être de
+                            pour tels. Quel autre parti pour un Auteur, que d'oſer pour lors être de
                             l'avis de ceux qui l'approuvent ? </p>
                     </div3>
 
@@ -1273,7 +1277,7 @@
                             de ſon ouvrage, &amp; encore moins de le ſupprimer; il eſt convaincu que
                             quelque ſcrupuleuſe exactitude que l'on ait dans ſa maniere d'écrire, la
                             raillerie froide des mauvais plaiſans eſt un mal inévitable, &amp; que
-                            les meilleurs choſes ne leur ſervent ſouvent qu'à leur faire rencontre
+                            les meilleurs choſes ne leur ſervent ſouvent qu'à leur faire rencontrer
                             une ſottiſe. </p>
                     </div3>
 
@@ -1311,6 +1315,7 @@
 
                     <div3>
                         <p source="#P_ed4_ex1">
+                            <pb ed="#P_ed4_ex1"/>
                             <g ref="U2761" source="#P_ed4_ex1"/> Le devoir du Nouvelliſte eſt de
                             dire il y a un tel livre qui court, &amp; qui eſt imprimé chez <emph
                                 style="style-font: italic" source="#P_ed4_ex1">Cramoiſy</emph> en
@@ -1378,7 +1383,7 @@
                             qu'à elles de faire lire dans un ſeul mot tout un ſentiment, &amp; de
                             rendre délicatement une penſée qui eſt délicate ; elles ont ſur tout un
                             enchaînement de diſcours inimitable qui ſe ſuit naturellement, &amp; qui
-                            n'eſt lié que pas le ſent : Si les femmes étoient toûjours correctes,
+                            n'eſt lié que par le ſens : Si les femmes étoient toûjours correctes,
                             j'oſerois dire que les lettres de quelques-unes d'entre elles feroient
                             peut-être ce que nous avons dans nôtre langue de mieux écrit. </p>
                     </div3>
@@ -1503,8 +1508,8 @@
                                 style="font-style: italic" source="#P_ed4_ex1">Marionettes</emph> :
                             elle augmente &amp; embellit la fiction, ſoûtient dans les ſpectateurs
                             cette douce illuſion qui eſt tout le plaiſir du theatre où elle jette
-                            encore encore le merveilleux. Il ne faut point de vols, ni de chars, ni
-                            de changemens aux <emph style="font-style: italic" source="#P_ed4_ex1"
+                            encore le merveilleux. Il ne faut point de vols, ni de chars, ni de
+                            changemens aux <emph style="font-style: italic" source="#P_ed4_ex1"
                                 >Berenices</emph> &amp; aux <emph style="font-style: italic"
                                 source="#P_ed4_ex1">Penelope</emph>, il en faut aux <emph
                                 style="font-style: italic" source="#P_ed4_ex1">Operas</emph>, &amp;
@@ -1544,7 +1549,7 @@
                             muſique, &amp; ſifle tout autre : Ils nuiſent également par cette
                             chaleur à défendre leurs préventions, &amp; à la faction oppoſée, &amp;
                             à leur propre cabale ; Ils découragent par mille contradictions les
-                            Poëtes &amp; les Muſiciens, retardent les progrez des ſciences &amp; des
+                            Poëtes &amp; les Muſiciens, retardent le progrez des ſciences &amp; des
                             arts, en leur ôtant le fruit qu'ils pourroient tirer de l'émulation,
                             &amp; de la liberté qu'auroient pluſieurs excellens Maîtres de faire
                             chacun dans leur genre, &amp; ſelon leur genie de tres beaux ouvrages.
@@ -1564,7 +1569,7 @@
                             &amp; à marquer quelque foibleſſe ; ſur tout en un ſujet faux, &amp;
                             dont il ſemble que l'on ſoit la duppe ? mais ſans citer les perſonnes
                             graves ou les eſprits forts qui trouvent du foible dans un ris exceſſif
-                            comme dans les pleurs, &amp; ſeles défendent également ; Qu'attend-on
+                            comme dans les pleurs, &amp; ſe les défendent également ; Qu'attend-on
                             d'une Scene tragique ? qu'elle faſſe rire ? &amp; d'ailleurs la verité
                             n'y regne-t-elle pas auſſi vivement par ſes Images que dans le Comique ?
                             L'ame ne va-t-elle pas juſques au vray dans l'un &amp; l'autre genre
@@ -2013,7 +2018,7 @@
                             délicateſſe ? ou plûtoſt le naïf &amp; le délicat ne ſont-ils pas le
                             ſublime des ouvrages dont ils font la perfection ? qu'eſt-ce que le
                             ſublime ? où entre le ſublime ? </p>
-                        <p xml:id="r01_30_06" source="#P_ed4_ex1"> Les ſinonumes ſont pluſieurs
+                        <p xml:id="r01_30_06" source="#P_ed4_ex1"> Les ſinonimes ſont pluſieurs
                             dictions, ou pluſieurs phraſes differentes qui ſignifient une même
                             choſe. L'antitheſe eſt une oppoſition de deux veritez qui ſe donnent du
                             jour l'une à l'autre. La metaphore ou la comparaiſon emprunte d'une
@@ -2034,17 +2039,17 @@
 
                     <div3>
                         <p>
-                            <g ref="U2761" source="#P_ed4_ex1"/> L'on écrit que pour être entendu ;
-                            mais il faut du moins en écrivant faire entendre de belles choſes : l'on
-                            doit avoir une diction pure &amp; uſer de termes qui ſoient propres, il
-                            eſt vray, mais il faut que ces termes ſi propres, expriment des penſées
-                            nobles, vives, ſolides, &amp; qui renferment un tres beau ſens ; c'eſt
-                            faire de la pureté &amp; <pb ed="#P_ed4_ex1"/>de la clarté du diſcours
-                            un mauvais uſage que de les faire ſervir à une matiere aride,
-                            infructueuſe, qui eſt ſans ſel, ſans utilité, ſans nouveauté : que ſert
-                            aux lecteurs de comprendre aiſément &amp; ſans peine des choſes frivoles
-                            &amp; pueriles, quelquefois fades &amp; communes, &amp; d'eſtre moins
-                            incertains de la penſée d'un Auteur, qu'ennuyez de ſon ouvrage ? </p>
+                            <g ref="U2761" source="#P_ed4_ex1"/> L'on n'écrit que pour être entendu
+                            ; mais il faut du moins en écrivant faire entendre de belles choſes :
+                            l'on doit avoir une diction pure &amp; uſer de termes qui ſoient
+                            propres, il eſt vray, mais il faut que ces termes ſi propres, expriment
+                            des penſées nobles, vives, ſolides, &amp; qui renferment un tres beau
+                            ſens ; c'eſt faire de la pureté &amp; <pb ed="#P_ed4_ex1"/>de la clarté
+                            du diſcours un mauvais uſage que de les faire ſervir à une matiere
+                            aride, infructueuſe, qui eſt ſans ſel, ſans utilité, ſans nouveauté :
+                            que ſert aux lecteurs de comprendre aiſément &amp; ſans peine des choſes
+                            frivoles &amp; pueriles, quelquefois fades &amp; communes, &amp; d'eſtre
+                            moins incertains de la penſée d'un Auteur, qu'ennuyez de ſon ouvrage ? </p>
                         <p> Si l'on jette quelque profondeur dans certains écrits ; ſi l'on affecte
                             une fineſſe de tour, &amp; quelquefois une trop grande délicateſſe, ce
                             n'eſt que par la bonne opinion qu'on a de ſes lecteurs. </p>
@@ -2085,10 +2090,12 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_31_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_31_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Un homme né <seg>Chr<app>
-                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">é</rdg>
+                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
+                                        >é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app>tien</seg> &amp; François eſt <seg><app>
                                     <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
@@ -2107,13 +2114,19 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_32_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_32_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il faut éviter le <seg>ſt<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >y</rdg>
                                     <rdg source="#P_ed4_ex1">i</rdg>
-                                </app>le</seg> vain &amp; pue<pb ed="#B_ed1_ex1"/>rile<seg><app>
+                                </app>le</seg>
+                            <seg>v<app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                        >a</rdg>
+                                    <rdg source="#P_ed4_ex1">á</rdg>
+                                </app>in</seg> &amp; pue<pb ed="#B_ed1_ex1"/>rile<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
                                     <rdg source="#P_ed4_ex1"> </rdg>
                                 </app></seg>de peur de reſſembler à <note source="#B_ed1_ex1"
@@ -2144,8 +2157,9 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_33_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_33_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Celuy qui n'a égard en écrivant
                             qu'au <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1">uſ</rdg>
@@ -2190,7 +2204,10 @@
                                     ><persName ref="#Despreaux"
                                     source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"
                                     >Despreaux</persName></emph>
-                            <pb ed="#P_ed4_ex1"/>l'a dit avant vous ; je le crois ſur <seg>v<app>
+                            <pb ed="#P_ed4_ex1"/>l'a dit avant vous<seg><app>
+                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>je le crois ſur <seg>v<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">oſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1">ô</rdg>
                                 </app>tre</seg> parole ; mais je l'ay dit <pb
