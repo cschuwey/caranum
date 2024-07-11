@@ -746,8 +746,9 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_08_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
-                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
+                        <p xml:id="r01_08_01"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 ">
+                            <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il y a de certaines choſes dont la
                             mediocrité eſt inſupportable, la Poëſie, la Muſique, la Peinture, le
                             Diſcours public. </p>
