@@ -2277,7 +2277,7 @@
                                     >Oedippe</persName></emph> &amp; les <emph style="italic"
                                 source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                 >Horaces</emph> de <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                 >Corneille</persName> en ſont la preuve. Si cependant il eſt permis
                             de faire entr'eux quelque comparaiſon, &amp; les marquer l'un &amp;
                             l'autre par ce qu'ils ont eu de plus propre, &amp; par <pb
@@ -2640,13 +2640,13 @@
 
                     <div3>
                         <p xml:id="r01_68_01"
-                            source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1$ #P_ed4_ex3">
+                            source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il ne faut point mettre un ridicule
                             où il n'y en a point<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
-                                    <rdg source="#P_ed4_ex1$ #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3">, </rdg>
                                 </app></seg>c'eſt ſe gâter le goût, c'eſt corrompre ſon jugement
                             &amp; celuy des autres ; mais le ridicule qui eſt quelque part, il faut
                             l'y voir, l'en tirer avec grace, &amp; d'une maniere qui plaiſe &amp;
@@ -2655,18 +2655,18 @@
 
                     <div3>
                         <p xml:id="r01_69_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <emph style="petites_caps"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                     ><persName ref="#Horace"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                     >Horace</persName></emph> ou <emph style="petites_caps"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                     ><persName ref="#Despreaux"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1$ #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                     >Despreaux</persName></emph>
                             <pb n="112" ed="#P_ed4_ex1 #P_ed4_ex3"/>l'a dit avant vous<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
