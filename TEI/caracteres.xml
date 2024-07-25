@@ -1580,87 +1580,127 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_33_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_33_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <pb n="94" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Le devoir du
-                            Nouvelliſte eſt de dire il y a un tel livre qui court, &amp; qui eſt
-                            imprimé chez <emph style="italic"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Cramoiſy</emph> en tel
-                            caractere, il eſt bien relié &amp; en beau papier, il ſe vend tant ; il
-                            doit ſçavoir juſqu'à l'enſeigne du Libraire qui le debite, ſa folie eſt
-                            d'en vouloir faire la critique. </p>
-                        <p xml:id="r01_33_02_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Le
-                            ſublime du Nouvelliſte eſt le raiſonnement creux ſur la politique. </p>
-                        <p xml:id="r01_33_03_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Le
-                            Nouvelliſte ſe couche le ſoir tranquillement ſur une nouvelle qui ſe
-                            corrompt la nuit, &amp; qu'il eſt obligé d'abandonner le matin à ſon
-                            réveil. </p>
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Le devoir du Nouvelliſte eſt de dire<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg>il y a un tel livre qui court, &amp; qui eſt imprimé
+                            chez <emph style="italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Cramoiſy</emph>
+                            en tel caractere, il eſt bien relié &amp; en beau papier, il ſe vend
+                            tant ; il doit ſçavoir <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">juſqu'à</rdg>
+                                    <rdg source="#P_ed5_ex1">juſques à</rdg>
+                                </app></seg> l'enſeigne du Libraire qui le debite, ſa folie eſt d'en
+                            vouloir faire la critique. </p>
+                        <p xml:id="r01_33_02_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> Le ſublime du
+                            Nouvelliſte eſt le raiſonnement creux ſur la politique. </p>
+                        <p xml:id="r01_33_03_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> Le Nouvelliſte ſe
+                            couche le ſoir tranquillement ſur une nouvelle qui ſe corrompt la nuit,
+                            &amp; qu'il eſt obligé d'abandonner le matin à ſon réveil. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_34_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Le Philoſophe
-                            conſume ſa vie à obſerver les hommes, &amp; il uſe ſes eſprits à en
-                            démêler les vices &amp; le ridicule ; s'il donne quelque tour à ſes
-                            penſées, c'eſt moins par une vanité d'Auteur, que pour mettre une verité
-                            qu'il a trouvée dans tout le jour neceſſaire pour faire l'impreſſion qui
-                            doit ſervir à ſon deſſein. Quelques Lecteurs neanmoins croient le payer
-                            avec uſure, s'ils diſent magiſtralement qu'ils ont lû ſon livre, &amp;
-                            qu'il y a de l'eſprit:mais il leur renvoie tous leurs éloges qu'il n'a
-                            pas cherché par ſon travail &amp; par ſes veilles : Il porte <pb n="95"
-                                ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>plus haut ſes
-                            projets, &amp; agit pour une fin plus relevée ; il demande des hommes un
-                            plus grand &amp; un plus rare ſuccez que les loüanges, &amp; même que
-                            les recompenſes, qui eſt de les rendre meilleurs. </p>
+                        <p xml:id="r01_34_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Le Philoſophe conſume ſa vie à
+                            obſerver les hommes, &amp; il uſe ſes eſprits à en démêler les vices
+                            &amp; le ridicule ; s'il donne quelque tour à ſes penſées, c'eſt moins
+                            par une vanité d'Auteur, que pour mettre une verité qu'il a trouvée dans
+                            tout le jour neceſſaire pour faire l'impreſſion qui <pb n="99"
+                                ed="#P_ed5_ex1"/>doit ſervir à ſon deſſein. Quelques Lecteurs <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">neanmoins
+                                        croient</rdg>
+                                    <rdg source="#P_ed5_ex1">croyent neanmoins</rdg>
+                                </app></seg> le payer avec uſure, s'ils diſent magiſtralement qu'ils
+                            ont lû ſon livre, &amp; qu'il y a de l'eſprit<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">:</rdg>
+                                    <rdg source="#P_ed5_ex1"> : </rdg>
+                                </app></seg>mais il leur renvoie tous leurs éloges qu'il n'a pas
+                            cherché par ſon travail &amp; par ſes veilles : Il porte <pb n="95"
+                                ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>plus haut ſes projets<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>&amp; agit pour une fin plus relevée ; il demande des
+                            hommes un plus grand &amp; un plus rare ſuccez que les loüanges, &amp;
+                            même que les recompenſes, qui eſt de les rendre meilleurs. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_35_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Les ſots
-                            liſent un livre &amp; ne l'entendent point : Les eſprits mediocres
-                            croient l'entendre parfaitement : Les grands eſprits ne l'entendent
-                            quelquefois pas tout entier ; ils trouvent obſcur ce qui eſt obſcur,
-                            comme ils trouvent clair ce qui eſt clair : Les beaux eſprits veulent
-                            trouver obſcur ce qui ne l'eſt point, &amp; ne pas entendre ce qui eſt
-                            fort intelligible. </p>
+                        <p xml:id="r01_35_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Les ſots liſent un livre &amp;
+                            ne l'entendent point : Les eſprits mediocres croient l'entendre
+                            parfaitement : Les grands eſprits ne l'entendent quelquefois pas tout
+                            entier ; ils trouvent obſcur ce qui eſt obſcur, comme ils trouvent clair
+                            ce qui eſt clair : Les beaux eſprits veulent trouver obſcur ce qui ne
+                            l'eſt point, &amp; ne pas entendre ce qui eſt fort intelligible. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_36_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Un Auteur
-                            cherche vainement à ſe faire admirer par ſon ouvrage. Les ſots admirent
-                            quelquefois, mais ce ſont des ſots : Les perſonnes d'eſprit ont en eux
-                            les ſemences de toutes les veritez &amp; de tous les ſentimens, rien ne
-                            leur eſt nouveau, ils admirent peu, ils approuvent. </p>
+                        <p xml:id="r01_36_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Un Auteur cherche vainement à
+                            ſe faire admirer par ſon ouvrage. Les ſots admirent quelquefois, mais ce
+                            ſont des ſots : Les perſonnes d'eſprit ont en eux les ſemences de toutes
+                            les veritez &amp; de tous les ſenti<pb n="100" ed="#P_ed5_ex1"/>mens,
+                            rien ne leur eſt nouveau, ils admirent peu<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> ; </rdg>
+                                </app></seg>ils approuvent. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_37_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Je ne ſçay ſi
-                            l'on pourra jamais mettre dans des lettres plus d'eſprit, plus de tour,
-                            plus d'agrément &amp; plus de ſtile que l'on n'en voit dans celle de
-                                <emph style="petites_caps" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Balzac</emph> &amp; de <hi style="petites_caps"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Voiture</hi> ; elles ſont
-                                <pb n="96" ed="P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>vuides de
-                            ſentimens qui n'ont regné que depuis leur temps,&amp; qui doivent aux
-                            femmes leur naiſſance : ce ſexe va plus loin que le nôtre dans ce genre
-                            d'écrire ; elles trouvent ſous leur plume des tours &amp; des
-                            expreſſions qui ſouvent en nous ne ſont l'effet que d'un long travail
-                            &amp; d'une penible recherche ; elles ſont heureuſes dans le choix des
-                            termes qu'elles placent ſi juſte, que tous connus qu'ils ſont, ils ont
-                            le charme de la nouveauté, &amp; ſemblent être faits ſeulement pour
-                            l'uſage où elles les mettent ; il n'appartient qu'à elles de faire lire
-                            dans un ſeul mot tout un ſentiment, &amp; de rendre délicatement une
-                            penſée qui eſt délicate ; elles ont ſur tout un enchaînement de diſcours
-                            inimitable qui ſe ſuit naturellement, &amp; qui n'eſt lié que par le
-                            ſens : Si les femmes étoient toûjours correctes, j'oſerois dire que les
-                            lettres de quelques-unes d'entre elles feroient peut-être ce que nous
-                            avons dans nôtre langue de mieux écrit. </p>
+                        <p xml:id="r01_37_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Je ne ſçay ſi l'on pourra
+                            jamais mettre dans des lettres plus d'eſprit, plus de tour, plus
+                            d'agrément &amp; plus de ſtile que l'on n'en voit dans celle de <emph
+                                style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Balzac</emph>
+                            &amp; de <hi style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Voiture</hi> ;
+                            elles ſont <pb n="96" ed="P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"
+                            />vuides de ſentimens qui n'ont regné que depuis leur temps,&amp; qui
+                            doivent aux femmes leur naiſſance : ce ſexe va plus loin que le <seg>n<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ô</rdg>
+                                    <rdg source="#P_ed5_ex1">oſ</rdg>
+                                </app>tre</seg> dans ce genre d'écrire ; elles trouvent ſous leur
+                            plume des tours &amp; des expreſſions qui ſouvent en nous ne ſont
+                            l'effet que d'un long travail &amp; d'une penible recherche ; elles ſont
+                            heureuſes dans le choix des termes qu'elles placent ſi juſte, que tous
+                            connus qu'ils ſont, ils ont le charme de la nouveauté, &amp; ſemblent <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tre</seg> faits ſeulement pour l'uſage où elles les mettent ;
+                            il n'appartient qu'à elles de faire lire dans un ſeul mot tout un
+                            ſentiment, &amp; de rendre délicatement une penſée qui eſt délicate ;
+                            elles ont ſur tout un enchaînement de diſcours inimitable qui ſe ſuit
+                            naturellement, &amp; qui n'eſt lié que par le ſens : Si les femmes <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>toient</seg> toûjours correctes, j'oſerois <pb n="101"
+                                ed="#P_ed5_ex1"/>dire que les lettres de quelques-unes d'entre elles
+                            feroient peut-<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tre</seg> ce que nous avons dans <seg>n<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ô</rdg>
+                                    <rdg source="#P_ed5_ex1">oſ</rdg>
+                                </app>tre</seg> langue de mieux écrit. </p>
                     </div3>
 
                     <div3>
-                        <p source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_58_01_ed5" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on a cette
                             incommodité à eſſuyer dans la lecture des Livres faits par des gens de
                             parti &amp; de cabale, <pb n="97" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb
@@ -1677,18 +1717,57 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_38_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Il n'a manqué
-                            à <emph style="petites_caps" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Terence</emph> que d'être moins froid : quelle pureté ? quelle
-                            exactitude ? quelle politeſſe ? quelle élegance ? quels caracteres ? Il
-                            n'a manqué à <emph style="petites_caps"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Moliere</emph> que
-                            d'éviter le jargon &amp; d'écrire purement : quel feu ? quelle naïveté ?
-                            quelle ſource de la bonne plaiſanterie ? quelle imitation des moeurs ?
-                            quelles images ? &amp; quel fleau du ridicule ? mais quel homme on
-                            auroit pû <pb n="98" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>
-                            faire de ces deux Comiques ? </p>
+                        <p xml:id="r01_38_01_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Il n'a manqué à <emph
+                                style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Terence</emph>
+                            que <seg>d'<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tre</seg> moins froid : quelle pureté ? quelle exactitude ?
+                            quelle politeſſe ? quelle élegance ? quels caracteres ? Il n'a manqué à
+                                <emph style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Moliere</emph>
+                            que d'éviter le jargon &amp; d'écrire purement : quel feu ? quelle
+                            naïveté ? quelle ſource de la bonne plaiſanterie ? quelle imitation des
+                            moeurs ? quelles images ? &amp; quel fleau du ridicule ? mais quel homme
+                            on auroit pû <pb n="98" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"
+                            /> faire de ces deux Comiques ? </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_39_01_ed5" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> J'ay lû <emph
+                                style="petites_caps" source="#P_ed5_ex1">Malherbe</emph> &amp; <emph
+                                style="petites_caps" source="#P_ed5_ex1">Theophile</emph>, ils ont
+                            tous deux connu la nature, avec cette difference, que le premier d'un
+                            ſtile plein &amp; uniforme montre tout à le fois ce qu'elle a de plus
+                            beau &amp; de plus noble, de plus naïf &amp; de plus ſimple ; il en fait
+                            la peinture ou l'hiſtoire. L'autre ſans choix, ſans exactitude, d'une
+                            plume libre &amp; inégale, tantoſt charge ſes deſcriptions, s'appeſantit
+                            ſur les détails ; il fait une anatomie ; tantoſt il feint, il exagere,
+                            il paſſe le vray <pb n="102" ed="#P_ed5_ex1"/> dans la nature ; il en
+                            fait le roman. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_40_01_ed5" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/>
+                            <emph style="petites_caps" source="#P_ed5_ex1">Ronsard</emph> &amp;
+                                <emph style="petites_caps" source="#P_ed5_ex1">Balzac</emph> ont eu
+                            chacun dans leur genre aſſez de bon &amp; de mauvais pour former aprés
+                            eux de tres-grands hommes en vers &amp; en proſe </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_41_01_ed5" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/>
+                            <emph style="petites_caps" source="#P_ed5_ex1">Marot</emph> par ſon tour
+                            &amp; par ſon ſtile ſemble avoir écrit depuis <emph style="petites_caps"
+                                source="#P_ed5_ex1">Ronsard</emph> : il n'y a gueres entre ce
+                            premier &amp; nous, que la difference de quelques mots. </p>
                     </div3>
 
                     <div3>
