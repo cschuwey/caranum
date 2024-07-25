@@ -266,25 +266,6 @@
 
 
                     </monogr>
-                    <monogr xml:id="L_ed4">
-                        <author ref="https://data.bnf.fr/ark:/12148/cb11910249z">La Bruyère, Jean
-                            de</author>
-                        <title>Les caractères de Théophraste [Texte imprimé], traduits du grec, avec
-                            Les caractères ou les moeurs de ce siècle [Par J. de La Buryère]</title>
-                        <edition>Première édition</edition>
-                        <imprint xml:id="L_ed4_ex1">
-                            <date when="1688">1689</date>
-                            <pubPlace ana="#Paris">À Paris</pubPlace>
-                            <publisher>Etienne Michallet, premier Imprimeur de Roy, rue S. Jacques,
-                                à l'Image Saint Paul</publisher>
-                            <pubPlace>
-                                <link
-                                    target="https://gallica.bnf.fr/ark:/12148/bpt6k575649/f126.item"
-                                />
-                            </pubPlace>
-                        </imprint>
-
-                    </monogr>
 
 
 
