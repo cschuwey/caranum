@@ -715,7 +715,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_07_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_07_02" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Quel ſupplice que celuy d'entendre <seg><app>
                                     <rdg source="#B_ed1_ex1 #P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
@@ -737,19 +737,19 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_08_01"
+                        <p xml:id="r01_07_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il y a de certaines choſes dont la
                             mediocrité eſt inſupportable, la Poëſie, la Muſique, la Peinture, le
                             Diſcours public. </p>
-                        <p corresp="#r01_07_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        <p corresp="#r01_07_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                         />
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_08_01_ed5">
+                        <p xml:id="r01_08_01">
                             <g ref="#Pardouble" source="#P_ed5_ex1"/> Certains Poëtes ſont ſujets
                             dans le Dramatique à de longues ſuites de vers pompeux, qui ſemblent
                             forts, élevez &amp; remplis de grands ſentimens ; le peuple écoute
@@ -1006,7 +1006,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_15_01_ed5">
+                        <p xml:id="r01_15_01" source="#P_ed5_ex1">
                             <g ref="#Pardouble" source="#Pardouble"/> On a dû faire du ſtile ce
                             qu'on a fait de l'Architecture ; on a entierement abandonné l'ordre
                             Gothique que la Barbarie avoit introduit pour les Palais &amp; pour les
@@ -1016,15 +1016,15 @@
                             éclate dans nos Portiques &amp; dans nos Periſtiles. De meſme on ne
                             ſçauroit en écrivant rencontrer le parfait, &amp; s'il ſe peut, ſur
                             paſſer les Anciens que par leur imitation. </p>
-                        <p corresp="#r01_15_01" source="#P_ed5_ex1"/>
                         <p corresp="#r01_15_02" source="#P_ed5_ex1"/>
                         <p corresp="#r01_15_03" source="#P_ed5_ex1"/>
                         <p corresp="#r01_15_04" source="#P_ed5_ex1"/>
                         <p corresp="#r01_15_05" source="#P_ed5_ex1"/>
+                        <p corresp="#r01_15_06" source="#P_ed5_ex1"/>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_15_01"
+                        <p xml:id="r01_15_02"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -1042,7 +1042,7 @@
                                     <rdg source="#B_ed1_ex1">A</rdg>
                                 </app>rts</seg> ayent pû revenir au goût des Anciens, &amp;
                             reprendre enfin le ſimple &amp; le naturel.</p>
-                        <p xml:id="r01_15_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">On ſe
+                        <p xml:id="r01_15_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">On ſe
                             nourrit des Anciens &amp; des habiles Modernes, on les preſſe, on en
                             tire le plus que l'on peut, on en renfle ſes ouvrages ; &amp; quand
                             enfin l'on eſt auteur, &amp; que l'on croit marcher tout ſeul, on
@@ -1051,15 +1051,15 @@
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">drus</emph>
                             &amp; forts d'un bon lait qu'ils ont ſuccé, qui battent leur
                             nourrice.</p>
-                        <p xml:id="r01_15_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Un Auteur
+                        <p xml:id="r01_15_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Un Auteur
                             moderne prouve ordinairement que les Anciens nous ſont inferieurs en
                             deux manieres, par raiſon &amp; par exemple ; il tire la raiſon de ſon
                             goût particulier, &amp; l'exemple de ſes ouvrages.</p>
-                        <p xml:id="r01_15_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Il avouë que
+                        <p xml:id="r01_15_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Il avouë que
                             les Anciens, quelque inégaux &amp; peu corrects qu'ils ſoient, <pb
                                 n="91" ed="#P_ed5_ex1"/>ont de beaux traits;ils les cite,&amp;ils
                             ſont ſi beaux qu'ils font lire ſa critique.</p>
-                        <p xml:id="r01_15_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Quelques
+                        <p xml:id="r01_15_06" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Quelques
                             habiles prononcent en faveur des Anciens contre les Modernes, mais ils
                             ſont ſuſpects, &amp; ſem<pb ed="#P_ed4_ex1"/><pb n="87" ed="#P_ed4_ex2"
                                 /><pb n="87" ed="P_ed4_ex3"/>blent juger en leur propre cauſe ; tant
@@ -1068,12 +1068,14 @@
                     </div3>
 
                     <div3>
-                        <p corresp="#r01_19_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        <p corresp="#r01_16_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
+                        <p corresp="#r01_16_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
+                        <p corresp="#r01_16_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                         />
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_16_01"
+                        <p xml:id="r01_17_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
@@ -1087,13 +1089,13 @@
                                 </app></seg>il eſt vray neanmoins qu'elle exiſte, que tout ce qui ne
                             l'eſt point eſt foible, &amp; ne ſatisfait point un homme d'eſprit qui
                             veut ſe faire entendre. </p>
-                        <p corresp="#r01_17_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
-                        <p corresp="#r01_18_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        <p corresp="#r01_17_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
+                        <p corresp="#r01_17_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                         />
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_17_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_17_02" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Un bon Auteur, &amp; qui écrit avec
                             ſoin, éprouve ſouvent que l'expreſ<pb n="92" ed="#P_ed5_ex1"/>ſion qu'il
@@ -1113,7 +1115,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_18_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_17_03" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <pb ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1"/><pb n="88"
@@ -1135,7 +1137,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_19_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_16_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on devroit aimer à<seg><app>
@@ -1149,18 +1151,19 @@
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrages</seg> à ceux qui en ſçavent aſſez pour les corriger
                             &amp; les eſtimer.</p>
-                        <p xml:id="r01_19_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Ne vouloir <seg><app>
+                        <p xml:id="r01_16_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                            >Ne vouloir <seg><app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
                                     <rdg source="#P_ed5_ex1">eſ</rdg>
                                 </app>tre</seg> ni conſeillé, ni corrigé ſur ſon ouvrage, eſt un
                             pedantiſme.</p>
-                        <p xml:id="r01_19_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Il faut
-                            qu'un Auteur reçoive avec une égale modeſtie les éloges &amp; la
-                            critique que l'on fait de ſes ouvrages.</p>
+                        <p xml:id="r01_16_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                            >Il faut qu'un Auteur reçoive avec une égale modeſtie les éloges &amp;
+                            la critique que l'on fait de ſes ouvrages.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_20_01"
+                        <p xml:id="r01_18_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
@@ -1177,19 +1180,19 @@
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ê</rdg>
                                 </app>tre</seg> leuës.</p>
-                        <p corresp="#r01_21_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        <p corresp="#r01_18_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                         />
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_21_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_18_02" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Un eſprit mediocre croit écrire
                             divinement ; un bon eſprit croit écrire raiſonnablement.</p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_22_01"
+                        <p xml:id="r01_19_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
@@ -1256,12 +1259,12 @@
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app>me</seg> d'avoir écouté de <pb n="93" ed="#P_ed5_ex1"/>belles
                             choſes qu'il n'a point faites.</p>
-                        <p corresp="#r01_23_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        <p corresp="#r01_19_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                         />
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_23_01" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
+                        <p xml:id="r01_19_02" source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">
                             <g ref="U2761" source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Ceux qui par leur condition ſe
                             trouvent exempts de la jalouſie <seg>d'Aut<app>
@@ -1290,7 +1293,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_24_01"
+                        <p xml:id="r01_20_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
@@ -1314,7 +1317,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_25_01"
+                        <p xml:id="r01_21_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
@@ -1358,8 +1361,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_22_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_22_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Quelques-uns de ceux qui ont lû
                             un ouvrage en rapportent certains traits dont ils n'ont pas compris le
@@ -1374,7 +1376,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_23_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_23_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Que dites-vous du livre d'<emph
                                 style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
@@ -1399,8 +1401,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_24_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_24_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>
                             <emph style="italic"
@@ -1430,8 +1431,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_26_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_26_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Il n'y a point d'ouvrage ſi
                             accompli qui ne fondît tout entier au milieu de la critique, ſi ſon
@@ -1445,8 +1445,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_27_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_27_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>C'eſt une experience faite, que
                             s'il ſe trouve dix perſonnes qui effacent d'un livre une expreſſion ou
@@ -1479,8 +1478,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_28_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_28_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Un Auteur ſerieux n'eſt pas
                             obligé de remplir ſon eſprit de toutes les extravagances, de toutes les
@@ -1494,8 +1492,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_30_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_30_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/><pb n="93"
                                 ed="#P_ed4_ex2 #P_ed4_ex1 #P_ed4_ex3"/> Quelle prodigieuſe diſtance
@@ -1533,8 +1530,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_32_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_32_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>
                             <emph style="italic"
@@ -1561,8 +1557,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_33_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_33_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <pb n="94" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Le devoir du Nouvelliſte eſt de dire<seg><app>
@@ -1587,8 +1582,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_34_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_34_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Le Philoſophe conſume ſa vie à
                             obſerver les hommes, &amp; il uſe ſes eſprits à en démêler les vices
@@ -1614,8 +1608,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_35_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_35_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Les ſots liſent un livre &amp;
                             ne l'entendent point : Les eſprits mediocres croient l'entendre
@@ -1626,8 +1619,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_36_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_36_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Un Auteur cherche vainement à
                             ſe faire admirer par ſon ouvrage. Les ſots admirent quelquefois, mais ce
@@ -1640,8 +1632,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_37_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_37_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Je ne ſçay ſi l'on pourra
                             jamais mettre dans des lettres plus d'eſprit, plus de tour, plus
@@ -1681,7 +1672,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_58_01_ed5" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_58_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on a cette
                             incommodité à eſſuyer dans la lecture des Livres faits par des gens de
                             parti &amp; de cabale, <pb n="97" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb
@@ -1698,8 +1689,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_38_01_ed4"
-                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                        <p xml:id="r01_38_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Il n'a manqué à <emph
                                 style="petites_caps"
@@ -1719,7 +1709,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_39_01_ed5" source="#P_ed5_ex1">
+                        <p xml:id="r01_39_01" source="#P_ed5_ex1">
                             <g ref="#Pardouble" source="#P_ed5_ex1"/> J'ay lû <emph
                                 style="petites_caps" source="#P_ed5_ex1">Malherbe</emph> &amp; <emph
                                 style="petites_caps" source="#P_ed5_ex1">Theophile</emph>, ils ont
@@ -1734,7 +1724,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_40_01_ed5" source="#P_ed5_ex1">
+                        <p xml:id="r01_40_01" source="#P_ed5_ex1">
                             <g ref="#Pardouble" source="#P_ed5_ex1"/>
                             <emph style="petites_caps" source="#P_ed5_ex1">Ronsard</emph> &amp;
                                 <emph style="petites_caps" source="#P_ed5_ex1">Balzac</emph> ont eu
@@ -1743,7 +1733,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_41_01_ed5" source="#P_ed5_ex1">
+                        <p xml:id="r01_41_01" source="#P_ed5_ex1">
                             <g ref="#Pardouble" source="#P_ed5_ex1"/>
                             <emph style="petites_caps" source="#P_ed5_ex1">Marot</emph> par ſon tour
                             &amp; par ſon ſtile ſemble avoir écrit depuis <emph style="petites_caps"
@@ -1752,7 +1742,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_26_01"
+                        <p xml:id="r01_46_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -1807,7 +1797,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_27_01"
+                        <p xml:id="r01_47_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -1816,7 +1806,7 @@
                                 source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                 >Opera</emph> eſt l'ébauche d'un grand ſpectacle ; il en donne
                             l'idée. </p>
-                        <p xml:id="r01_27_02"
+                        <p xml:id="r01_47_02"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                 ><pb ed="#B_ed1_ex1"/> Je ne ſçay pas comment l'<emph style="italic"
                                 source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
@@ -1829,7 +1819,7 @@
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
                                 </app></seg>&amp; une dépenſe toute Royale a pû réüſſir à m'ennuyer. </p>
-                        <p xml:id="r01_27_03"
+                        <p xml:id="r01_47_03"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                             > Il y a des endroits dans l'<emph style="italic"
                                 source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
@@ -1845,7 +1835,7 @@
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed4_ex2"
                                         >d'action</rdg>
                                 </app></seg>, &amp; de choſes qui intereſſent.</p>
-                        <p xml:id="r01_27_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'<emph
+                        <p xml:id="r01_47_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'<emph
                                 style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                 >Opera</emph> juſques à ce jour n'eſt pas un Poëme, ce ſont des vers
                             ; ni un ſpectacle depuis que les machines ont diſparu par le bon ménage
@@ -1869,7 +1859,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_48_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_48_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Ils ont fait
                             le theatre, ces empreſſez, les machines, les ballets, les vers, la
                             muſique, tout le ſpectacle, juſqu'à la ſalle où s'eſt donné le
@@ -1893,7 +1883,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_49_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_49_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Les
                             connoiſſeurs ou ceux qui ſe croiant tels, ſe donnent voix déliberative
                             &amp; deciſive ſur les ſpectacles, ſe cantonnent auſſi, &amp; ſe
@@ -1910,7 +1900,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_50_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_50_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> D'où vient
                             que l'on rit ſi libre<pb n="101" ed="#P_ed4_ex2 #P_ed4_ex3"/><pb
                                 ed="#P_ed4_ex1"/>ment au theatre, &amp; que l'on a honte d'y pleurer
@@ -1943,7 +1933,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_28_01"
+                        <p xml:id="r01_53_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -1988,7 +1978,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_29_01"
+                        <p xml:id="r01_54_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2377,7 +2367,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_30_01"
+                        <p xml:id="r01_55_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2397,7 +2387,7 @@
                                 </app>ratoire</seg>, &amp; ne la diſtinguent pas de l'entaſſement
                             des figures, de l'uſage des grands mots, &amp; de la rondeur des
                             periodes.</p>
-                        <p xml:id="r01_30_02"
+                        <p xml:id="r01_55_02"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                             > Il ſemble que la Logique eſt l'art de convaincre<seg><app>
                                     <rdg
@@ -2423,7 +2413,7 @@
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >î</rdg>
                                 </app>t</seg>.</p>
-                        <p xml:id="r01_30_03"
+                        <p xml:id="r01_55_03"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                             > L'Eloquence peut ſe trouver dans les entretiens &amp; dans tout genre d'écrire<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex2">;</rdg>
@@ -2432,9 +2422,9 @@
                                 </app></seg> elle eſt rarement où on la <pb n="107"
                                 ed="#P_ed4_ex2 #P_ed4_ex3"/><pb ed="#P_ed4_ex1"/>cherche, &amp; elle
                             eſt quelquefois où on ne la cherche point.</p>
-                        <p xml:id="r01_30_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'Eloquence
+                        <p xml:id="r01_55_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'Eloquence
                             eſt au ſublime ce que le tout eſt à ſa partie. </p>
-                        <p xml:id="r01_30_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Qu'eſt-ce
+                        <p xml:id="r01_55_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Qu'eſt-ce
                             que le ſublime ? Il ne paroît pas qu'on l'ait défini ; eſt-ce une figure
                             ? naiſt-il des figures, ou du moins de quelques figures ? tout genre
                             d'écrire reçoit-il le ſublime ? ou s'il n'y a que les grands ſujets qui
@@ -2443,7 +2433,7 @@
                             converſations qu'une grande délicateſſe ? ou plûtoſt le naïf &amp; le
                             délicat ne ſont-ils pas le ſublime des ouvrages dont ils font la
                             perfection ? qu'eſt-ce que le ſublime ? où entre le ſublime ? </p>
-                        <p xml:id="r01_30_06" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Les
+                        <p xml:id="r01_55_06" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Les
                             ſinonimes ſont pluſieurs dictions, ou pluſieurs phraſes differentes qui
                             ſignifient une même choſe. L'antitheſe eſt une oppoſition de deux
                             veritez qui ſe donnent du jour l'une à l'autre. La metaphore ou la
@@ -2464,7 +2454,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_57_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_57_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on n'écrit
                             que pour être entendu ; mais il faut du moins en écrivant faire entendre
                             de belles choſes : l'on doit avoir une diction pure &amp; uſer de termes
@@ -2484,7 +2474,12 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_60_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p corresp="#r01_58_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                        />
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_60_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on écrit
                             regulierement depuis vingt années, l'on eſt eſclave de la conſtruction ;
                             l'on a enrichi la langue de nouveaux mots, ſecoüé le joug du Latiniſme,
@@ -2499,7 +2494,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_61_01_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_61_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <pb n="110" ed="#P_ed4_ex3"/>
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Il y a des
                             artiſans ou des habiles dont l'eſprit eſt auſſi vaſte que l'art ou la
@@ -2520,7 +2515,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_31_01"
+                        <p xml:id="r01_65_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2550,7 +2545,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_32_01"
+                        <p xml:id="r01_66_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2596,7 +2591,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_33_01"
+                        <p xml:id="r01_67_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2619,7 +2614,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_34_01"
+                        <p xml:id="r01_68_01"
                             source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
@@ -2634,7 +2629,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_35_01"
+                        <p xml:id="r01_69_01"
                             source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
