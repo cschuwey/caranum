@@ -720,7 +720,7 @@
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Quel ſupplice que celuy d'entendre <seg><app>
                                     <rdg source="#B_ed1_ex1 #P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
-                                        >declamer pompeuſement un froid discours, ou </rdg>
+                                        >declamer pompeuſement un froid diſcours, ou </rdg>
                                 </app></seg>prononcer de <seg>med<app>
                                     <rdg
                                         source="#P_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
@@ -750,6 +750,9 @@
 
                     <div3>
                         <p xml:id="r01_08_01">
+                            <note source="#P_ed5_ex1" resp="imprime" place="right"
+                                rend="glyphe_pardouble" type="remarque">Marque qui deſigne la
+                                ſeconde &amp; derniere augmentation.</note>
                             <g ref="#Pardouble" source="#P_ed5_ex1"/> Certains Poëtes ſont ſujets
                             dans le Dramatique à de longues ſuites de vers pompeux, qui ſemblent
                             forts, élevez &amp; remplis de grands ſentimens ; le peuple écoute
@@ -800,7 +803,7 @@
                                     ><emph style="petites_caps" source="#B_ed1_ex1"
                                 >Virgile</emph></persName>
                             <title rend="roman"
-                                source="#B_ed1_ex1 #P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed4_ex2 #P_ed5_ex1"><seg>l<app>
+                                source="#B_ed1_ex1 #P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"><seg>l<app>
                                         <rdg source="#P_ed1_ex1"> </rdg>
                                         <rdg
                                             source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
@@ -1009,8 +1012,8 @@
 
                     <div3>
                         <p xml:id="r01_15_01" source="#P_ed5_ex1">
-                            <g ref="#Pardouble" source="#Pardouble"/> On a dû faire du ſtile ce
-                            qu'on a fait de l'Architecture ; on a entierement abandonné l'ordre
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> On a dû faire du ſtile ce
+                            qu'on a fait de l'Architecture ; on a entie+rement abandonné l'ordre
                             Gothique que la Barbarie avoit introduit pour les Palais &amp; pour les
                             Temples ; on a rappellé le Dorique, l'Ionique &amp; le Corinthien : ce
                             qu'on ne voyoit plus que dans les ruines de l'ancien<pb n="90"
@@ -1152,17 +1155,17 @@
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrages</seg> à ceux qui en ſçavent aſſez pour les corriger
                             &amp; les eſtimer.</p>
-                        <p xml:id="r01_16_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
-                            >Ne vouloir <seg><app>
+                        <p xml:id="r01_16_02">Ne vouloir <seg><app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
                                     <rdg source="#P_ed5_ex1">eſ</rdg>
-                                </app>tre</seg> ni conſeillé, ni corrigé ſur ſon ouvrage, eſt un
-                            pedantiſme.</p>
-                        <p xml:id="r01_16_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
-                            >Il faut qu'un Auteur reçoive avec une égale modeſtie les éloges &amp;
-                            la critique que l'on fait de ſes ouvrages.<seg><app>
-                                    <rdg source="#P_ed4_ex1"/>
-                                    <rdg source="#P_ed4_ex2">i</rdg>
+                                </app>tre</seg> ni conſeillé<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>ni corrigé ſur ſon ouvrage, eſt un pedantiſme.</p>
+                        <p xml:id="r01_16_03">Il faut qu'un Auteur reçoive avec une égale modeſtie
+                            les éloges &amp; la critique que l'on fait de ſes ouvrages.<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
                                 </app></seg></p>
                     </div3>
 
@@ -1236,7 +1239,12 @@
                                         source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >,</rdg>
                                     <rdg source="#B_ed1_ex1"> ;</rdg>
-                                </app></seg> &amp; il ne les a pas loüez depuis devant perſonne, je l'excuſe<seg><app>
+                                </app></seg> &amp; il ne les a pas loüez depuis devant perſonne<seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        >, </rdg>
+                                    <rdg source="#P_ed5_ex1"> : </rdg>
+                                </app></seg>je l'excuſe<seg><app>
                                     <rdg source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1">, </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     > </rdg>
@@ -1380,12 +1388,15 @@
                     <div3>
                         <p xml:id="r01_22_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
-                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Quelques-uns de ceux qui ont lû
-                            un ouvrage en rapportent certains traits dont ils n'ont pas compris le
-                                <pb n="94" ed="#P_ed5_ex1"/>ſens, &amp; qu'ils alterent encore par
-                            tout ce qu'ils y mettent du leur ; &amp; ces traits ainſi corrompus
-                            &amp; défigurez, qui ne ſont autre choſe que leurs propres penſées &amp;
-                            leurs expreſſions, ils les expoſent à la cenſure, ſoûtien<pb n="90"
+                            <note source="#P_ed5_ex1" resp="imprime" place="right"
+                                rend="glyphe_parsimple" type="remarque">Marque qui deſigne la
+                                premiere augmentation de l'année 1689.</note><g ref="#Parsimple"
+                                source="#P_ed5_ex1"/>Quelques-uns de ceux qui ont lû un ouvrage en
+                            rapportent certains traits dont ils n'ont pas compris le <pb n="94"
+                                ed="#P_ed5_ex1"/>ſens, &amp; qu'ils alterent encore par tout ce
+                            qu'ils y mettent du leur ; &amp; ces traits ainſi corrompus &amp;
+                            défigurez, qui ne ſont autre choſe que leurs propres penſées &amp; leurs
+                            expreſſions, ils les expoſent à la cenſure, ſoûtien<pb n="90"
                                 ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>nent qu'ils ſont mauvais,
                             &amp; tout le monde convient qu'ils ſont mauvais : mais l'endroit de
                             l'ouvrage que ces critiques croient citer, &amp; qu'en effet ils ne
@@ -1393,17 +1404,22 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_23_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                        <p xml:id="r01_23_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Que dites-vous du livre d'<emph
                                 style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Hermodore</emph> ? qu'il eſt mauvais, répond <emph style="italic"
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Anthime</emph>
                             ; qu'il eſt mauvais ; qu'il eſt tel, continuë-t'il, que ce n'eſt pas un
-                            livre, ou qui merite du moins que le monde en parle; Mais l'avez-vous lû
-                            ? Non, dit <emph style="font-style: italic"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Antime</emph> :
-                            que n'ajoûte-t'il que <emph style="italic"
+                            livre, ou qui merite du moins que le monde en parle<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">; </rdg>
+                                    <rdg source="#P_ed5_ex1"> ; </rdg>
+                                </app></seg>Mais l'avez-vous lû ? Non, dit <emph
+                                style="font-style: italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"><seg><app>
+                                        <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Antime</rdg>
+                                        <rdg source="#P_ed5_ex1">Anthime</rdg>
+                                    </app></seg></emph> : que n'ajoûte-t'il que <emph style="italic"
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Fulvie</emph>
                             &amp; <emph style="font-style: italic"
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Melanie</emph>
@@ -1425,11 +1441,12 @@
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Arſene</emph>
                             du plus haut de ſon eſprit contemple les hommes, &amp; dans
                             l'éloignement <seg type="manuscrit">d<app>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2"
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         ana="ajouté à la plume après impression">'</rdg>
                                 </app>o <app>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2"
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         ana="ajouté à la plume après impression">ù</rdg>
+                                    <rdg source="#P_ed5_ex1" ana="imprimé">ù</rdg>
                                 </app></seg> il les voit, il eſt comme effrayé de leur petiteſſe :
                             loüé, exalté, &amp; porté juſques aux Cieux par de certaines gens qui ſe
                             ſont promis de s'admirer reciproquement, il croit avec quelque merite
@@ -1444,8 +1461,8 @@
                                     <rdg source="#P_ed5_ex1">a</rdg>
                                 </app></seg> ce cercle d'amis qui les idolâtrent <seg
                                 type="manuscrit"><app>
-                                    <rdg source="#P_ed4_ex1">;</rdg>
-                                    <rdg source="#P_ed4_ex1"
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">;</rdg>
+                                    <rdg source="#P_ed4_ex2"
                                         ana="la virgule a été modifié ou faite à la plume après impression"
                                         >;</rdg>
                                 </app></seg> eux ſeuls ſçavent juger, ſçavent penſer, ſçavent
@@ -1482,7 +1499,10 @@
                             cette penſée ? elle eſt neuve, elle eſt belle, &amp; le tour en eſt
                             admirable ; &amp; ceux-là affirment au contraire, ou <pb n="92"
                                 ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>qu'ils auroient negligé cette
-                            penſée, on qu'ils luy auroient donné un autre tour<seg><app>
+                            penſée, <seg>o<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">n</rdg>
+                                    <rdg source="#P_ed5_ex1">u</rdg>
+                                </app></seg> qu'ils luy auroient donné un autre tour<seg><app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> : </rdg>
                                     <rdg source="#P_ed5_ex1">. </rdg>
                                 </app></seg>Il y a un terme, diſent les uns, dans <seg>v<app>
@@ -1497,9 +1517,11 @@
                                 </app>me</seg> trait &amp; du <seg>m<app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
                                     <rdg source="#P_ed5_ex1">eſ</rdg>
-                                </app>me</seg> mot que ces gens s'expliquent ainſi; &amp; tous ſont
-                            connoiſſeurs, &amp; paſſent pour tels. Quel autre parti pour un Auteur,
-                            que d'oſer pour lors <seg><app>
+                                </app>me</seg> mot que ces gens s'expliquent ainſi<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">; </rdg>
+                                    <rdg source="#P_ed5_ex1"> ; </rdg>
+                                </app></seg>&amp; tous ſont connoiſſeurs, &amp; paſſent pour tels.
+                            Quel autre parti pour un Auteur, que d'oſer pour lors <seg><app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
                                     <rdg source="#P_ed5_ex1">eſ</rdg>
                                 </app>tre</seg> de l'avis de ceux qui l'approuvent ? </p>
@@ -1515,8 +1537,11 @@
                             de ſon ouvrage, &amp; encore moins de le ſupprimer; il eſt convaincu que
                             quelque ſcrupuleuſe <pb n="97" ed="#P_ed5_ex1"/>exactitude que l'on ait
                             dans ſa maniere d'écrire, la raillerie froide des mauvais plaiſans eſt
-                            un mal inévitable, &amp; que les meilleurs choſes ne leur ſervent
-                            ſouvent qu'à leur faire rencontrer une ſottiſe. </p>
+                            un mal inévitable, &amp; que les <seg>meilleur<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                    <rdg source="#P_ed5_ex1">e</rdg>
+                                </app>s</seg> choſes ne leur ſervent ſouvent qu'à leur faire
+                            rencontrer une ſottiſe. </p>
                     </div3>
 
                     <div3>
@@ -1578,7 +1603,10 @@
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Damis</emph>
                             cede à la multitude, &amp; dit ingenuëment avec le public que <emph
                                 style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
-                                >Capys</emph> eſt un froid <seg><app>
+                                >Capys</emph> eſt<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> un </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>froid <seg><app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Auteur</rdg>
                                     <rdg source="#P_ed5_ex1">Ecrivain</rdg>
                                 </app></seg>. </p>
@@ -1605,8 +1633,13 @@
                             Nouvelliſte eſt le raiſonnement creux ſur la politique. </p>
                         <p xml:id="r01_33_03_ed4"
                             source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> Le Nouvelliſte ſe
-                            couche le ſoir tranquillement ſur une nouvelle qu ſe corrompt la nuit,
-                            &amp; qu'il eſt oblig d'abandonner le matin à ſon réveil. </p>
+                            couche le ſoir tranquillement ſur une nouvelle <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">qu</rdg>
+                                    <rdg source="#P_ed5_ex1">qui</rdg>
+                                </app></seg> ſe corrompt la nuit, &amp; qu'il eſt <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">oblig</rdg>
+                                    <rdg source="#P_ed5_ex1">obligé</rdg>
+                                </app></seg> d'abandonner le matin à ſon réveil. </p>
                     </div3>
 
                     <div3>
@@ -1668,10 +1701,16 @@
                                 style="petites_caps"
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Balzac</emph>
                             &amp; de <hi style="petites_caps"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Voiture</hi> ;
-                            elles ſont <pb n="96" ed="#P_ed4_ex1 P_ed4_ex2 #P_ed4_ex3"/>vuides de
-                            ſentimens qui n'ont regné que depuis leur temps,&amp; qui doivent aux
-                            femmes leur naiſſance : ce ſexe va plus loin que le <seg>n<app>
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Voiture</hi><seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ; </rdg>
+                                    <rdg source="#P_ed5_ex1"> : </rdg>
+                                </app></seg>elles ſont <pb n="96"
+                                ed="#P_ed4_ex1 P_ed4_ex2 #P_ed4_ex3"/>vuides de ſentimens qui n'ont
+                            regné que depuis leur temps,<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>&amp; qui doivent aux femmes leur naiſſance : ce ſexe va
+                            plus loin que le <seg>n<app>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ô</rdg>
                                     <rdg source="#P_ed5_ex1">oſ</rdg>
                                 </app>tre</seg> dans ce genre d'écrire ; elles trouvent ſous leur
@@ -1701,19 +1740,23 @@
 
                     <div3>
                         <p xml:id="r01_58_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on a cette
-                            incommodité à eſſuyer dans la lecture des Livres faits par des gens de
-                            parti &amp; de cabale, <pb n="97" ed="P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                            />que l'on n'y voit pas toûjours la verité ; les faits y ſont déguiſez,
-                            les objections reciproques n'y ſont point rapportées dans toute leur
-                            force, ni avec une entiere exactitude ; &amp; ce qui uſe la plus longue
-                            patience, il faut lire un grand nombre de termes durs &amp; injurieux
-                            que ſe diſent des hommes graves, qui d'un point de doctrine, ou d'un
-                            fait conteſté ſe ſont fait une querelle perſonnelle. Ces ouvrages ont
-                            cela de particulier qu'ils ne meritent ni le cours prodigieux qu'ils ont
-                            pendant un certain temps, ni le profond oubli où ils tombent, lorſque le
-                            feu &amp; la diviſion venant à s'éteindre, ils deviennent des Almanachs
-                            de l'autre année. </p>
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>L'on a cette incommodité à
+                            eſſuyer dans la lecture des <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">L</rdg>
+                                    <rdg source="#P_ed5_ex1">l</rdg>
+                                </app>ivres</seg> faits par des gens de parti &amp; de cabale, <pb
+                                n="97" ed="P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>que l'on n'y voit pas
+                            toûjours la verité ; les faits y ſont déguiſez, les objections
+                            reciproques n'y ſont point rapportées dans toute leur force, ni avec une
+                            entiere exactitude ; &amp; ce qui uſe la plus longue patience, il faut
+                            lire un grand nombre de termes durs &amp; injurieux que ſe diſent des
+                            hommes graves, qui d'un point de doctrine, ou d'un fait conteſté ſe ſont
+                            fait une querelle perſonnelle. Ces ouvrages ont cela de particulier
+                            qu'ils ne meritent ni le cours prodigieux qu'ils ont pendant un certain
+                            temps, ni le profond oubli où ils tombent, lorſque le feu &amp; la
+                            diviſion venant à s'éteindre, ils deviennent des Almanachs de l'autre
+                            année. </p>
                     </div3>
 
                     <div3>
@@ -1742,7 +1785,7 @@
                                 style="petites_caps" source="#P_ed5_ex1">Malherbe</emph> &amp; <emph
                                 style="petites_caps" source="#P_ed5_ex1">Theophile</emph>, ils ont
                             tous deux connu la nature, avec cette difference, que le premier d'un
-                            ſtile plein &amp; uniforme montre tout à le fois ce qu'elle a de plus
+                            ſtile plein &amp; uniforme montre tout à la fois ce qu'elle a de plus
                             beau &amp; de plus noble, de plus naïf &amp; de plus ſimple ; il en fait
                             la peinture ou l'hiſtoire. L'autre ſans choix, ſans exactitude, d'une
                             plume libre &amp; inégale, tantoſt charge ſes deſcriptions, s'appeſantit
@@ -1770,132 +1813,216 @@
                     </div3>
 
                     <div3>
+                        <p xml:id="r01_42_01" source="#P_ed5_ex1">
+                            <g ref="Pardouble" source="#P_ed5_ex1"/>
+                            <emph style="petites_caps" source="#P_ed5_ex1">Ronsard</emph> &amp; les
+                            Auteurs ſes contemporains ont plus nui au ſtile qu'ils ne luy ont ſervi
+                            : ils l'ont retardé dans le chemin dans la perfection, ils l'ont expoſé
+                            à la manquer pour toûjours &amp; à n'y plus revenir. Il eſt étonnant que
+                            les ouvrages de <emph style="petites_caps" source="#P_ed5_ex1"
+                                >Marot</emph> ſi naturels &amp; ſi facules n'ayent ſçû faire de
+                            Ronſard d'ailleurs plain de verve &amp; d'enthouſiaſme un plus grand
+                            Poëte que Ronſard &amp; que Marot ; &amp; au contraire que <emph
+                                style="italic" source="#P_ed5_ex1">Belleau</emph>, <emph
+                                style="italic" source="#P_ed5_ex1">Jodelle</emph> &amp; <emph
+                                style="italic" source="#P_ed5_ex1">Saint Gelais</emph> ayent eſté
+                            ſitoſt ſuivis d'un <emph style="petites_caps" source="#P_ed5_ex1"
+                                >Racan</emph> &amp; d'un <emph style="petites_caps"
+                                source="#P_ed5_ex1">Malherbe</emph>, &amp; que noſtre langue à peine
+                            corrompuë ſe ſoit veuë reparée. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_43_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/>
+                            <emph style="petites_caps">Marot</emph> &amp; <emph style="petites_caps"
+                                source="#P_ed5_ex1">Rabelais</emph> ſont inexcuſables d'avoir ſemé
+                            l'ordure dans <pb n="103" ed="#P_ed5_ex1"/>leurs écrits : tous deux
+                            avoient aſſez de genie &amp; de naturel pour pouvoir s'en paſſer, meſme
+                            à l'égard de ceux qui cherchent moins à admirer qu'à rire dans un
+                            auteur. Rabelais ſur tout eſt incomprehenſible; ſon livre eſt une enigme
+                            quoy qu'on veüille dire inexplicable ; c'eſt une chimere, c'eſt le
+                            viſage d'une belle femme avec des pieds &amp; une queuë de ſerpent, ou
+                            de quelque autre beſte plus difforme ; c'eſt un monſtrueux aſſemblage
+                            d'une morale fine &amp; ingenieuſe &amp; d'une ſale corruption : ou il
+                            eſt mauvais, il paſſe bien loin au delà du pire, c'eſt le charme de la
+                            canaille : ou il eſt bon, il va juſques à l'exquis &amp; à l'excellent,
+                            il peut eſtre le mets des plus délicats. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_44_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Deux Ecrivains dans leurs
+                            ouvrages ont blâmé <emph style="petites_caps" source="#P_ed5_ex1"
+                                >Montagne</emph>, que je ne crois pas auſſi-bien qu'eux, exempt de
+                            toute ſorte de blâme : il paroiſt que tous deux ne l'ont eſtimé en nulle
+                            maniere. L'un ne penſoit pas aſſez pour goûter un Auteur qui penſe
+                            beaucoup ; l'autre penſe trop ſubtilement pour s'accommoder de penſées
+                            qui ſont naturelles. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_45_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Un ſtile grave, ſerieux,
+                                ſcru<pb n="104" ed="#P_ed5_ex1"/>puleux va fort loin : on lit <emph
+                                style="petites_caps" source="#P_ed5_ex1">Amyot</emph> &amp; <emph
+                                style="petites_caps" source="#P_ed5_ex1">Coeffeteau</emph> : lequel
+                            lit-on de leurs contemporains ? <emph style="petites_caps"
+                                source="#P_ed5_ex1">Balzac</emph> pour les termes &amp; pour
+                            l'expreſſion eſt moins vieux que <emph style="petites_caps"
+                                source="#P_ed5_ex1">Voiture</emph> ; mais ſi ce dernier pour le
+                            tour, l'eſprit&amp; le naturel n'eſt pas moderne,&amp; ne reſſemble en
+                            rien à nos Ecrivains, c'eſt qu'il leur a eſté plus facile de le negliger
+                            que de l'imiter, &amp; que le petit nombre de ceux qui courent aprés luy
+                            ne peut l'atteindre. </p>
+                    </div3>
+
+                    <div3>
                         <p xml:id="r01_46_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/><note source="#B_ed1_ex1"
                                 resp="imprime" place="left" rend="H** M**" type="remarque">Hermes ou
                                 Mercure Galant.</note> Le <seg><app>
                                     <rdg source="#P_ed1_ex1">E</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >H</rdg>
                                 </app></seg>** G** eſt immediatement au deſſous <seg>d<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >u</rdg>
                                     <rdg source="#L_ed1_ex1">e</rdg>
                                 </app></seg> rien ; il a bien d'autres <seg><app>
                                     <rdg source="#P_ed1_ex1">livres</rdg>
                                     <rdg source="#L_ed1_ex1">Ouvrages</rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ouvrages</rdg>
                                 </app></seg> qui luy reſſemblent : il y a autant <seg>d'<app>
                                     <rdg source="#P_ed1_ex1">eſprit</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >invention</rdg>
                                 </app></seg> à s'enrichir par un <seg><app>
                                     <rdg source="#P_ed1_ex1">mauvais</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ſot</rdg>
                                 </app></seg> livre, qu'il y a de <seg>ſo<app>
                                     <rdg
-                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                                     <rdg source="#B_ed1_ex1 #P_ed2_ex1">t</rdg>
                                 </app>tiſe</seg> à l'acheter<seg><app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> ;
+                                    </rdg>
                                 </app></seg>c'eſt ignorer le <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">uſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >û</rdg>
                                 </app>t</seg> du <seg><app>
                                     <rdg
-                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >p</rdg>
                                     <rdg source="#B_ed1_ex1">P</rdg>
                                 </app>euple</seg>, que de ne pas <seg>ha<app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1">ſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >z</rdg>
                                 </app>arder</seg> quelquefois de grandes fadaiſes.</p>
                     </div3>
 
                     <div3>
                         <p xml:id="r01_47_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> L'on voit bien que l'<emph
                                 style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Opera</emph> eſt l'ébauche d'un grand ſpectacle ; il en donne
                             l'idée. </p>
                         <p xml:id="r01_47_02"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 ><pb ed="#B_ed1_ex1"/> Je ne ſçay pas comment l'<emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Opera</emph>
                             <pb ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>avec une <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >M</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">m</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >m</rdg>
                                 </app>uſique</seg> ſi parfaite<seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"> </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
                                 </app></seg>&amp; une dépenſe toute Royale a pû réüſſir à m'ennuyer. </p>
                         <p xml:id="r01_47_03"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                             > Il y a des endroits dans l'<emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Opera</emph> qui laiſſent en deſirer d'autres, il échape
-                            quelquefois de ſouhaiter la fin de tout le ſpectacle ; c'eſt faute <seg><app>
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                >Opera</emph> qui laiſſent en deſirer d'autres, il échape <pb
+                                n="105" ed="#P_ed5_ex1"/>quelquefois de ſouhaiter la fin de tout le
+                            ſpectacle ; c'eſt faute <seg><app>
                                     <rdg source="#P_ed1_ex1">d'action</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >de theatre</rdg>
                                 </app></seg>, <seg><app>
                                     <rdg source="#P_ed1_ex1">de theatre</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >d'action</rdg>
-                                </app></seg>, &amp; de choſes qui intereſſent.</p>
-                        <p xml:id="r01_47_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'<emph
-                                style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Opera</emph> juſques à ce jour n'eſt pas un Poëme, ce ſont des vers
-                            ; ni un ſpectacle depuis que les machines ont diſparu par le bon ménage
-                                d'<emph style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                </app></seg><seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        >, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>&amp; de choſes qui intereſſent.</p>
+                        <p xml:id="r01_47_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                                L'<emph style="italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Opera</emph>
+                            juſques à ce jour n'eſt pas un Poëme, ce ſont des vers ; ni un ſpectacle
+                            depuis que les machines ont diſparu par le bon ménage d'<emph
+                                style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Amphion</emph> &amp; de ſa race ; c'eſt un concert, où ce ſont des
                             voix ſoûtenuës par des inſtrumens : c'eſt prendre le change, <pb n="99"
                                 ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>&amp; cultiver un mauvais
                             goût que de dire, comme l'on fait, que la machine n'eſt qu'un amuſement
                             d'enfans, &amp; qui ne convient qu'aux <emph style="italic"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Marionettes</emph> : elle
-                            augmente &amp; embellit la fiction, ſoûtient dans les ſpectateurs cette
-                            douce illuſion qui eſt tout le plaiſir du theatre où elle jette encore
-                            le merveilleux. Il ne faut point de vols, ni de chars, ni de changemens
-                            aux <emph style="font-style: italic"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Berenices</emph> &amp; à
-                                <emph style="italic" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Penelope</emph>, il en faut aux <emph style="italic"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Operas</emph>, &amp; le
-                            propre de ce ſpectacle eſt de tenir les eſprits, les yeux &amp; les
-                            oreilles dans un égal enchantement. </p>
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                >Marionettes</emph> : elle augmente &amp; embellit la fiction,
+                            ſoûtient dans les ſpectateurs cette douce illuſion qui eſt tout le
+                            plaiſir du theatre où elle jette encore le merveilleux. Il ne faut point
+                            de vols, ni de chars, ni de changemens aux <emph
+                                style="font-style: italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                >Berenices</emph> &amp; à <emph style="italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                            >Penelope</emph>, il en faut aux <emph style="italic"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Operas</emph>,
+                            &amp; le propre de ce ſpectacle eſt de tenir les eſprits, les yeux &amp;
+                            les oreilles dans un égal enchantement. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_48_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Ils ont fait
-                            le theatre, ces empreſſez, les machines, les ballets, les vers, la
-                            muſique, tout le ſpectacle, juſqu'à la ſalle où s'eſt donné le
-                            ſpectacle, j'entends le toit &amp; les quatre murs dés leurs fondemens :
-                            qui doute que la chaſſe ſur l'eau, l'enchantement de la table, <note
+                        <p xml:id="r01_48_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
+                            Ils ont fait le theatre<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>ces empreſſez, les machines, les ballets, les vers, la
+                            muſique, tout le ſpectacle, juſqu'à la ſalle où s'eſt donné le ſpe<pb
+                                n="106" ed="#P_ed5_ex1"/>ctacle, j'entends le toit &amp; les quatre
+                            murs <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">dés</rdg>
+                                    <rdg source="#P_ed5_ex1">des</rdg>
+                                </app></seg> leurs fondemens : qui doute que la chaſſe ſur l'eau,
+                            l'enchantement de la table, <note
                                 source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3" resp="imprime"
                                 place="right" rend="merveille" type="remarque">Rendez-vous de chaſſe
                                 dans la foreſt de Chantilly.</note>la merveille <note
@@ -1904,104 +2031,193 @@
                                 tres-ingenieuſe donnée dans le Labyrinthe de Chantilly.</note>du
                             Labyrinthe ne ſoient encore de leur invention ? j'en juge par le
                             mouvement qu'ils ſe donnent, &amp; par l'air content dont ils
-                            s'applaudiſſent ſur tout le ſuccez : Si je me trompe, &amp; qu'ils
-                            n'ayent contribué en rien à cet<pb n="100"
-                                ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>te fête ſi ſuperbe, ſi
-                            galante, ſi longtemps ſoûtenuë, &amp; où un ſeul a ſuffi pour le projet
-                            &amp; pour la dépenſe ; J'admire deux choſes ; la tranquilité &amp; le
-                            flegme de celuy qui a tout remué, comme l'embarras &amp; l'action de
-                            ceux qui n'ont rien fait. </p>
+                            s'applaudiſſent ſur tout le <seg>ſucc<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ez</rdg>
+                                    <rdg source="#P_ed5_ex1">és</rdg>
+                                </app></seg> : Si je me trompe, &amp; qu'ils n'ayent contribué en
+                            rien à cet<pb n="100" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>te <seg>f<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>te</seg> ſi ſuperbe, ſi galante, ſi long-temps ſoûtenuë, &amp;
+                            où un ſeul a ſuffi pour le projet &amp; pour la dépenſe ; <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">J</rdg>
+                                    <rdg source="#P_ed5_ex1">j</rdg>
+                                </app>'admire</seg> deux choſes<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ; </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg>la tranquilité &amp; le flegme de celuy qui a tout
+                            remué, comme l'embarras &amp; l'action de ceux qui n'ont rien fait. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_49_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> Les
-                            connoiſſeurs ou ceux qui ſe croiant tels, ſe donnent voix déliberative
-                            &amp; deciſive ſur les ſpectacles, ſe cantonnent auſſi, &amp; ſe
-                            diviſent en des partis contraires, dont chacun pouſſé par un tout autre
-                            interêt que par celuy du public ou de l'équité admire un certain Poëme
-                            ou une certaine muſique, &amp; ſifle tout autre : Ils nuiſent également
-                            par cette chaleur à défendre leurs préventions, &amp; à la faction
-                            oppoſée, &amp; à leur propre cabale ; Ils découragent par mille
-                            contradictions les Poëtes &amp; les Muſiciens, retardent le progrez des
-                            ſciences &amp; des arts, en leur ôtant le fruit qu'ils pourroient tirer
-                            de l'émulation, &amp; de la liberté qu'auroient pluſieurs excellens
-                            Maîtres de faire chacun dans leur genre, &amp; ſelon leur genie de tres
-                            beaux ouvrages. </p>
+                        <p xml:id="r01_49_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Les connoiſſeurs ou ceux qui ſe
+                            croiant tels, ſe donnent voix déliberative &amp; deciſive ſur les
+                            ſpectacles, ſe cantonnent auſſi, &amp; ſe diviſent en des partis
+                            contraires, dont chacun pouſſé par un tout autre <seg>inter<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>t</seg> que par celuy du public ou de l'équité admire un
+                            certain Poëme ou une certaine muſique, &amp; ſifle tout autre : Ils
+                            nuiſent également par cette chaleur à défendre leurs préventions, &amp;
+                            à la faction oppoſée, &amp; à leur propre ca<pb n="107" ed="#P_ed5_ex1"
+                            />bale ; <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">I</rdg>
+                                    <rdg source="#P_ed5_ex1">i</rdg>
+                                </app>ls</seg> découragent par mille contradictions les Poëtes &amp;
+                            les Muſiciens, retardent le progrez des ſciences &amp; des arts, en leur
+                            ôtant le fruit qu'ils pourroient tirer de l'émulation<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>&amp; de la liberté qu'auroient pluſieurs excellens <seg>Ma<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">î</rdg>
+                                    <rdg source="#P_ed5_ex1">iſ</rdg>
+                                </app>tres</seg> de faire chacun dans leur genre, &amp; ſelon leur
+                            genie de tres<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed5_ex1">-</rdg>
+                                </app></seg>beaux ouvrages. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_50_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> D'où vient
-                            que l'on rit ſi libre<pb n="101" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                            />ment au theatre, &amp; que l'on a honte d'y pleurer ; Eſt-il moins
-                            dans la nature de s'attendrir ſur le pitoyable que d'éclater ſur le
-                            ridicule ? Eſt-ce l'alteration des traits qui nous retient ? Elle eſt
-                            plus grande dans un ris immoderé que dans la plus amere douleur, &amp;
-                            l'on détourne ſon viſage pour rire comme pour pleurer en la preſence des
-                            grands, &amp; de tous ceux que l'on reſpecte : Eſt-ce une peine que l'on
-                            ſent à laiſſer voir que l'on eſt tendre, &amp; à marquer quelque
-                            foibleſſe ; ſur tout en un ſujet faux, &amp; dont il ſemble que l'on
-                            ſoit la duppe ? mais ſans citer les perſonnes graves ou les eſprits
+                        <p xml:id="r01_50_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>D'où vient que l'on rit ſi
+                                libre<pb n="101" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>ment au
+                            theatre, &amp; que l'on a honte d'y pleurer <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">;</rdg>
+                                    <rdg source="#P_ed5_ex1">?</rdg>
+                                </app></seg> Eſt-il moins dans la nature de s'attendrir ſur le
+                            pitoyable que d'éclater ſur le ridicule ? Eſt-ce l'alteration des traits
+                            qui nous retient ? Elle eſt plus grande dans un ris immoderé que dans la
+                            plus amere douleur, &amp; l'on détourne ſon viſage pour rire comme pour
+                            pleurer en la preſence des <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">g</rdg>
+                                    <rdg source="#P_ed5_ex1">G</rdg>
+                                </app>rands</seg>, &amp; de tous ceux que l'on reſpecte : Eſt-ce une
+                            peine que l'on ſent à laiſſer voir que l'on eſt tendre, &amp; à marquer
+                            quelque foibleſſe<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ;</rdg>
+                                    <rdg source="#P_ed5_ex1">,</rdg>
+                                </app></seg> ſur tout en un ſujet faux, &amp; dont il ſemble que
+                            l'on ſoit la duppe ? mais ſans citer les perſonnes graves ou les eſprits
                             forts qui trouvent du foible dans un ris exceſſif comme dans les pleurs,
-                            &amp; ſe les défendent également ; Qu'attend-on d'une Scene tragique ?
-                            qu'elle faſſe rire ? &amp; d'ailleurs la verité n'y regne-t-elle pas
-                            auſſi vivement par ſes Images que dans le Comique ? L'ame ne va-t-elle
-                            pas juſques au vray dans l'un &amp; l'autre genre avant que de
-                            s'émouvoir ? Eſt-elle même ſi aiſée à contenter ? Ne luy faut-il pas
-                            encore le vray ſemblable ? Comme donc ce n'eſt point une choſe bizare
+                            &amp; ſe les dé<pb n="108" ed="#P_ed5_ex1"/>fendent également ; <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Q</rdg>
+                                    <rdg source="#P_ed5_ex1">q</rdg>
+                                </app>u'attend-on</seg> d'une Scene tragique ? qu'elle faſſe rire ?
+                            &amp; d'ailleurs la verité n'y regne-t-elle pas auſſi vivement par ſes <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">I</rdg>
+                                    <rdg source="#P_ed5_ex1">i</rdg>
+                                </app>mages</seg> que dans le <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">C</rdg>
+                                    <rdg source="#P_ed5_ex1">c</rdg>
+                                </app>omique</seg>
+                            <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">?</rdg>
+                                    <rdg source="#P_ed5_ex1">;</rdg>
+                                </app></seg> L'ame ne va-t-elle pas juſques au vray dans l'un &amp;
+                            l'autre genre avant que de s'émouvoir ? <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">E</rdg>
+                                    <rdg source="#P_ed5_ex1">e</rdg>
+                                </app>ſt-elle</seg>
+                            <seg>m<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>me</seg> ſi aiſée à contenter ? <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">N</rdg>
+                                    <rdg source="#P_ed5_ex1">n</rdg>
+                                </app>e</seg> luy faut-il pas encore le <seg>vray<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed5_ex1">-</rdg>
+                                </app>ſemblable</seg> ? Comme donc ce n'eſt point une choſe bizare
                             d'entendre <pb n="102" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>s'élever
                             de tout un Amphitheatre un ris univerſel ſur quelque endroit d'une
                             Comedie, &amp; que cela ſuppoſe au contraire qu'il eſt plaiſant &amp;
-                            tres naïvement executé ; auſſi l'extréme violence que chacun ſe fait à
-                            contraindre ſes larmes, &amp; le mauvais ris dont on veut les couvrir
-                            prouvent clairement que l'effet naturel du grand tragique ſeroit de
-                            pleurer tous franchement &amp; de concert à la veuë l'un de l'autre,
-                            &amp; ſans autre embarras que d'eſſuyer ſes larmes ; outre qu'aprés
-                            eſtre convenu de s'y abandonner, on éprouveroit encore qu'il y a ſouvent
-                            moins lieu de craindre de pleurer au theatre, que de s'y morfondre ?
+                            tres naïvement executé ; auſſi <seg>l'extr<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">é</rdg>
+                                    <rdg source="#P_ed5_ex1">ê</rdg>
+                                </app>me</seg> violence que chacun ſe fait à contraindre ſes larmes,
+                            &amp; le mauvais ris dont on veut les couvrir prouvent clairement que
+                            l'effet naturel du grand tragique ſeroit de pleurer tous franchement
+                            &amp; de concert à la veuë l'un de l'autre, &amp; ſans autre embarras
+                            que d'eſſuyer ſes larmes ; outre qu'aprés eſtre convenu de s'y
+                            abandonner, on <seg>éprouve<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">roit</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app></seg> encore qu'il y a ſouvent moins lieu de craindre de
+                            pleurer au theatre, que de s'y morfondre<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ?</rdg>
+                                    <rdg source="#P_ed5_ex1">.</rdg>
+                                </app></seg>
                         </p>
                     </div3>
 
                     <div3>
+                        <p xml:id="r01_52_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Ce n'eſt point aſſez que les
+                            mœurs du theatre ne ſoient point mauvaiſes, il faut encore qu'elles
+                            ſoient decentes &amp; inſtructives : il peut y avoir un ridicule ſi bas
+                            &amp; ſi groſſier, ou meſme ſi fade, &amp; ſi indifferent, qu'il n'eſt
+                            ni permis au Poëte d'y faire attention, ni poſſible aux ſpectateurs de
+                            s'en divertir. Le païſan ou l'yvrogne fournit quelques ſcenes à un
+                            farceur, il n'entre qu'à peine dans le vray comique ; comment
+                            pourrois-il faire le fond ou l'action principale de la comedie ? Ces
+                            caracteres, dit-on, ſont naturels : ainſi par cette régle on occupera
+                            bien-toſt tout l'amphitheatre d'un laquais qui ſifle, d'un malade dans
+                            ſa garde-robbe, d'un homme yvre qui dort ou qui vomit ; y a-t-il rien de
+                            plus naturel ? C'eſt le propre effeminé de ſe lever tard, de paſſer une
+                            partie du jour à ſa toilette, de ſe voir au miroir, de ſe parfumer, de
+                            ſe mettre des mouches, de recevoir des <seg>billet<app>
+                                    <rdg source="#P_ed5_ex1" ana="point ou s ?">s</rdg>
+                                </app></seg> &amp; d'y faire réponſe : mettez ce rôle ſur la ſcene,
+                            plus long-temps vous le ferez durer, un acte, deux actes, plus il fera
+                            naturel &amp; conforme à ſon <pb n="110" ed="#P_ed5_ex1"/>original ;
+                            mais plus auſſi il ſera froid &amp; inſipide. </p>
+                    </div3>
+
+                    <div3>
                         <p xml:id="r01_53_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il ſemble que le Roman &amp; la
                             Comedie pourroient <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app>tre</seg> auſſi utiles qu'ils ſont nuiſibles ; l'on y voit de
                             ſi grands exemples de conſtance, de vertu, de tendreſſe &amp; de <seg><app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1">déſintereſſement</rdg>
                                     <rdg source="#L_ed1_ex1 #P_ed2_ex1">deſintereſſement</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >des-intereſſemens</rdg>
                                 </app></seg><seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >,</rdg>
                                     <rdg source="#L_ed1_ex1"> ;</rdg>
-                                </app></seg> de ſi beaux et de ſi parfaits <seg><app>
+                                </app></seg> de ſi beaux &amp; de ſi parfaits <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >c</rdg>
                                     <rdg source="#L_ed1_ex1">C</rdg>
                                 </app>aracteres</seg> ; que quand une jeune perſonne jette de<seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"> </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">-</rdg>
                                 </app></seg>là ſa <seg>v<app>
-                                    <rdg source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">euë</rdg>
+                                    <rdg source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
+                                        >euë</rdg>
                                     <rdg source="#B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ûë</rdg>
                                 </app></seg> ſur tout ce qui l'entoure, ne trouvant que des ſujets
                             indignes &amp; fort au deſſous de ce qu'elle vient <seg>d<app>
                                     <rdg source="#P_ed1_ex1 #L_ed1_ex1"> </rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >'</rdg>
                                 </app>admirer</seg>, je m'étonne qu'elle ſoit capable pour eux de
                                 <pb n="103" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>la moindre
@@ -2010,18 +2226,18 @@
 
                     <div3>
                         <p xml:id="r01_54_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <emph style="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Corneille"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Corneille</persName></emph> ne peut <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">eſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ê</rdg>
                                 </app>tre</seg>
                             <pb ed="#L_ed1_ex1"/>é<pb ed="#P_ed1_ex1 #P_ed2_ex1"/>galé dans les
@@ -2029,266 +2245,303 @@
                             inimitable ; mais <seg><app>
                                     <rdg source="#P_ed1_ex1">mais </rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     > </rdg>
                                 </app></seg>il eſt inégal<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ; </rdg>
+                                    <rdg source="#P_ed5_ex1">; </rdg>
                                 </app></seg>ſes premieres <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >C</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">c</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >c</rdg>
                                 </app>omedies</seg> ſont <seg>ſ<app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
                                         >e</rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">é</rdg>
                                 </app>ches</seg>, languiſſantes, &amp; ne laiſſoient pas eſperer
                             qu'il dût<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">
                                         jamais </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                    > </rdg>
                                 </app></seg> enſuite aller ſi loin<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">
                                         :</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ;</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                                        ;</rdg>
                                 </app></seg><seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">
                                         d</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> comme ſes
-                                        dernieres ſont qu'on s'étonne qu'il ait pû tomber de ſi
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> comme
+                                        ſes dernieres ſont qu'on s'étonne qu'il ait pû tomber de ſi
                                         haut. D</rdg>
                                 </app>ans</seg> quelques-unes de ſes meilleures pieces il y <pb
                                 ed="#B_ed1_ex1"/>a des fautes inexcusables contre les mœurs ; <seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
                                         >u</rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">U</rdg>
                                 </app>n</seg>
                             <seg>ſt<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >y</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >i</rdg>
                                 </app>le</seg> de <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >d</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">D</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >D</rdg>
                                 </app>eclamateur</seg> qui <seg>arr<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >ê</rdg>
                                 </app>te</seg> l'action<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                    > </rdg>
                                 </app></seg>&amp; la fait languir ; <seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
                                         >d</rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">D</rdg>
-                                </app>es</seg> negligences dans les vers &amp; dans l'expreſſion
-                            qu'on ne peut comprendre en un ſi grand homme. Ce <seg>qu<app>
+                                </app>es</seg> negligences dans les vers <pb n="111" ed="#P_ed5_ex1"
+                            />&amp; dans l'expreſſion qu'on ne peut comprendre en un ſi grand homme.
+                            Ce <seg>qu<app>
                                     <rdg source="#L_ed1_ex1 #P_ed1_ex1"> </rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >'</rdg>
                                 </app></seg>il y a <seg>e<app>
                                     <rdg source="#P_ed1_ex1">u</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >û</rdg>
                                 </app></seg> en luy de plus éminent c'eſt l'eſprit, qu'il avoit
                             ſublime, <seg><app>
                                     <rdg source="#P_ed1_ex1">à qui</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >auquel</rdg>
                                 </app></seg> il a <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1">é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app>té</seg> redevable de certains vers les plus heureux qu'on ait
                             jamais lû ailleurs, de la conduite de ſon <seg><app>
                                     <rdg
-                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >t</rdg>
                                     <rdg source="#B_ed1_ex1">T</rdg>
                                 </app>heatre</seg> qu'il a quelquefois <seg>ha<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >ſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">z</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >z</rdg>
                                 </app>ardée</seg><seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> &amp; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
-                                </app></seg>contre les regles des Anciens, &amp; enfin de ſes
-                            dénoüemens ; car il ne <seg>s<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                    > </rdg>
+                                </app></seg>contre les <seg>r<app>
+                                    <rdg
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #B_ed1_ex1"
+                                        >e</rdg>
+                                    <rdg source="#P_ed5_ex1">é</rdg>
+                                </app>gles</seg> des Anciens, &amp; enfin de ſes dénoüemens ; car il
+                            ne <seg>s<app>
                                     <rdg source="#L_ed1_ex1 #P_ed1_ex1"> </rdg>
                                     <rdg
-                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >'</rdg>
                                 </app>eſt</seg>
                             <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>pas toûjours aſſujetti au <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">uſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >û</rdg>
                                 </app>t</seg> des Grecs, &amp; à leur grande ſimplicité ; il a aimé
-                            au contraire à charger la ſcene d'évenemens dont il eſt preſque toûjours
-                            ſorti avec <pb n="104" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/><seg>ſucc<app>
+                            au contraire à charger la ſcene <seg>d'<app>
+                                    <rdg
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #B_ed1_ex1"
+                                        >é</rdg>
+                                    <rdg source="#P_ed5_ex1">e</rdg>
+                                </app>venemens</seg> dont il eſt preſque toûjours ſorti avec <pb
+                                n="104" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/><seg>ſucc<app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">és</rdg>
-                                    <rdg source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    <rdg
+                                        source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ez</rdg>
                                 </app></seg> : admirable <seg><app>
                                     <rdg source="#P_ed1_ex1">certes</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ſur tout</rdg>
                                 </app></seg> par l'extrême varieté &amp; le peu de rapport qui ſe
                             trouve pour le deſſein entre un ſi grand nombre de Poëmes qu'il a
                             compoſez. Il ſemble qu'il y ait plus de reſſemblance dans ceux de <emph
                                 style="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Racine"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Racine</persName></emph>, &amp; qui tendent un peu plus à une <seg>m<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">eſ</rdg>
                                     <rdg source="#L_ed1_ex1">é</rdg>
                                     <rdg source="#B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ê</rdg>
                                 </app>me</seg> choſe ; mais il eſt égal, <seg>ſo<app>
                                     <rdg
-                                        source="#L_ed1_ex1 #P_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #P_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >û</rdg>
                                     <rdg source="#P_ed2_ex1">u</rdg>
                                 </app>tenu</seg>, toûjours le <seg>m<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">eſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ê</rdg>
                                 </app>me</seg> par tout<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">,
+                                    </rdg>
                                 </app></seg>ſoit pour le deſſein &amp; la conduite de ſes pieces,
                             qui ſont <pb ed="#B_ed1_ex1"/>juſtes, regulieres, priſes dans le bon
                             ſens &amp; dans la nature ; ſoit pour <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >ſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">l</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >l</rdg>
                                 </app>a</seg> verſification qui eſt correcte, riche <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >ſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">d</rdg>
-                                </app>ans</seg> ſes rimes, élegante, nombreuſe, harmonieuſe ; exact
-                            imitateur des Anciens<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >d</rdg>
+                                </app>ans</seg> ſes rimes, élegante, nombreuſe, <pb n="112"
+                                ed="#P_ed5_ex1"/>harmonieuſe ; exact imitateur des Anciens<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                    > </rdg>
                                 </app></seg>dont il a ſuivi ſcrupuleuſement la netteté &amp; la
                                 ſim<pb ed="#P_ed1_ex1 #L_ed1_ex1 P_ed2_ex1"/>plicité de l'action ; à
                             qui le grand &amp; le merveilleux n'ont pas même manqué, ainſi qu'à
                                 <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Corneille</persName>
                             <seg>n<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >y</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >i</rdg>
                                 </app></seg> le touchant <seg>n<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >y</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >i</rdg>
                                 </app></seg> le patetique ; quelle plus grande tendreſſe que celle
-                            qui eſt réponduë dans tout le <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                            qui eſt répanduë dans tout le <emph style="italic"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><title rend="italic"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >Cid<link target="http://ark.bnf.fr/ark:/12148/cb302712379"
                                     /></title></emph>, dans <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><title rend="italic"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >Polieucte<link
                                         target="http://ark.bnf.fr/ark:/12148/cb302712379"
                                 /></title></emph> &amp; dans les <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Horaces</emph>
                             <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >!</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">?</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                                        >?</rdg>
                                 </app></seg> quelle grandeur ne ſe remarque point en <emph
                                 style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Mitridate"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Mitridate</persName></emph>, en <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Porus"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Porus</persName></emph>, &amp; en <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Burrhus"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Burrhus</persName></emph>
                             <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >?</rdg>
                                     <rdg source="#L_ed1_ex1">!</rdg>
-                                </app></seg> Ces paſſions encore favorites des Anciens , que les <seg><app>
+                                </app></seg> Ces paſſions encore favorites des Anciens<seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #L_ed1_ex1"
+                                        > , </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg>que les <seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >t</rdg>
                                     <rdg source="#B_ed1_ex1">T</rdg>
                                 </app>ragiques</seg> aimoient à exciter ſur les <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >t</rdg>
                                     <rdg source="#B_ed1_ex1">T</rdg>
                                 </app>heatres</seg>, &amp; qu'on nomme la terreur &amp; la pitié,<pb
                                 n="105" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> ont <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1">é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app>té</seg> connuës de ces deux Poëtes ; <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Oreste"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Oreſte</persName></emph> dans l'<emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><title rend="italic"
-                                    source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >Andromaque<link
                                         target="http://ark.bnf.fr/ark:/12148/cb311688660"
                                 /></title></emph> de <persName ref="#Racine"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Racine</persName>, &amp; <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Phedre"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Phedre</persName></emph> du <seg>m<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">eſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ê</rdg>
                                 </app>me</seg> Auteur, comme l'<emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Oedipe"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Oedippe</persName></emph> &amp; les <emph style="italic"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Horaces</emph> de <persName ref="#Corneille"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Corneille</persName> en ſont la preuve. Si cependant il eſt permis
                             de faire entr'eux quelque comparaiſon, &amp; les marquer l'un &amp;
                             l'autre par ce qu'ils ont eu de plus propre, &amp; par <pb
                                 ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>ce qui éclate le plus
                             ordinairement dans leurs <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >o</rdg>
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrages</seg>, <seg>peut-<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">eſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >ê</rdg>
@@ -2296,51 +2549,55 @@
                             <pb ed="#B_ed1_ex1"/>qu'on pourroit parler ainſi<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >.</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> :</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                                        :</rdg>
                                 </app></seg>
                             <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Corneille</persName> nous aſſujettit à ſes caracteres &amp; à ſes
                             idées ; <persName ref="#Racine"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Racine</persName>
                             <seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >deſcend juſques</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ſe conforme</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">ſe
+                                        conforme</rdg>
                                 </app></seg> aux <seg>n<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >oſ</rdg>
                                     <rdg source="#B_ed1_ex1">ô</rdg>
-                                </app>tres</seg> : celuy-là peint les hommes comme ils devroient <seg><app>
+                                </app>tres</seg> : ce<pb n="113" ed="#P_ed5_ex1"/>luy-là peint les
+                            hommes comme ils devroient <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app>tre</seg> ; celuy-cy les peint tels qu'ils ſont : il y a plus
                             dans le premier de ce que l'on admire, &amp; de ce que l'on doit <seg>m<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app>me</seg> imiter ; il y a plus dans le ſecond de ce que l'on <seg>reconno<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">iſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">iſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >î</rdg>
                                 </app>t</seg> dans les autres, ou de ce que l'on épouve dans <seg>ſoy-m<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >eſ</rdg>
                                     <rdg source="#L_ed1_ex1 #B_ed1_ex1">ê</rdg>
                                 </app>me</seg> : l'un éleve, étonne, maîtriſe, inſtruit<seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         > ;</rdg>
                                     <rdg source="#L_ed1_ex1">,</rdg>
                                 </app></seg> l'autre plaît, remuë, touche, penetre<seg><app>
-                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">:</rdg>
+                                    <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
+                                        >:</rdg>
                                     <rdg source="#B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> :
                                     </rdg>
                                 </app></seg>ce qu'il y a de plus beau, de plus noble &amp; de plus
@@ -2349,158 +2606,191 @@
                             ſont dans <pb n="106" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>celuy-là
                             des maximes, <pb ed="#P_ed1_ex1 #L_ed1_ex1"/>des regles, des preceptes<seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         > ; </rdg>
                                     <rdg source="#B_ed1_ex1">;</rdg>
                                 </app></seg>&amp; dans <seg>celuy<app>
                                     <rdg source="#P_ed1_ex1"> </rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >-</rdg>
                                 </app>cy</seg> du <seg>go<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">uſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">uſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >û</rdg>
                                 </app>t</seg> &amp; des ſentimens : l'on eſt plus occupé aux pieces
                             de <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Corneille</persName> ; l'on eſt plus ébranlé &amp; plus attendri à
                             celles de <persName ref="#Racine"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Racine</persName> : <persName ref="#Corneille"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Corneille</persName> eſt plus moral<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >,</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ;</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                                        ;</rdg>
                                 </app></seg>
                             <persName ref="#Racine"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                 >Racine</persName> plus naturel : il ſemble que l'un imite <emph
                                 style="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Sophocle"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Sophocle</persName></emph><seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         > ;</rdg>
                                     <rdg source="#L_ed1_ex1">,</rdg>
                                 </app></seg> &amp; que l'autre doit plus à <emph
                                 style="petites_caps"
-                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Euripide"
-                                    source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                     >Euripide</persName></emph>.</p>
                     </div3>
 
                     <div3>
                         <p xml:id="r01_55_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Le <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >p</rdg>
                                     <rdg source="#B_ed1_ex1">P</rdg>
                                 </app>euple</seg> appelle Eloquence la <pb ed="#B_ed1_ex1"/>facilité
                             que quelques-uns ont de parler ſeuls &amp; long-temps, jointe à
                             l'emportement du geſte, à l'éclat de la voix, &amp; à la force des
-                            poulmons. Les Pedans ne l'admettent auſſi que dans le diſcours <seg><app>
+                            poulmons. Les <pb n="114" ed="#P_ed5_ex1"/>Pedans ne l'admettent auſſi
+                            que dans le diſcours <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >o</rdg>
                                     <rdg source="#B_ed1_ex1">O</rdg>
                                 </app>ratoire</seg>, &amp; ne la diſtinguent pas de l'entaſſement
                             des figures, de l'uſage des grands mots, &amp; de la rondeur des
                             periodes.</p>
                         <p xml:id="r01_55_02"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                             > Il ſemble que la Logique eſt l'art de convaincre<seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         > de quelque verité</rdg>
                                     <rdg source="#B_ed1_ex1">,</rdg>
                                 </app></seg><seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> ;
+                                    </rdg>
                                 </app></seg>&amp; l'Eloquence un don <pb n="172"
                                 ed="#P_ed1_ex1 #P_ed2_ex1"/>de l'ame, lequel nous rend <seg>maître<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >s</rdg>
                                     <rdg source="#B_ed1_ex1"/>
                                 </app></seg> du cœur &amp; de l'eſprit des autres<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> ;
+                                    </rdg>
                                 </app></seg>qui fait que nous leur inſpirons ou que nous leur
                             perſuadons tout ce qui nous <seg>pla<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1">iſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1">iſ</rdg>
                                     <rdg
                                         source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
                                         >î</rdg>
                                 </app>t</seg>.</p>
                         <p xml:id="r01_55_03"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                             > L'Eloquence peut ſe trouver dans les entretiens &amp; dans tout genre d'écrire<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">;</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         > ;</rdg>
                                 </app></seg> elle eſt rarement où on la <pb n="107"
                                 ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>cherche, &amp; elle eſt
                             quelquefois où on ne la cherche point.</p>
-                        <p xml:id="r01_55_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> L'Eloquence
-                            eſt au ſublime ce que le tout eſt à ſa partie. </p>
-                        <p xml:id="r01_55_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Qu'eſt-ce
-                            que le ſublime ? Il ne paroît pas qu'on l'ait défini ; eſt-ce une figure
-                            ? naiſt-il des figures, ou du moins de quelques figures ? tout genre
-                            d'écrire reçoit-il le ſublime ? ou s'il n'y a que les grands ſujets qui
-                            en ſoient capables ? peut-il briller autre choſe dans l'Eglogue qu'un
-                            beau naturel, &amp; dans les lettres familieres comme dans les
-                            converſations qu'une grande délicateſſe ? ou plûtoſt le naïf &amp; le
-                            délicat ne ſont-ils pas le ſublime des ouvrages dont ils font la
-                            perfection ? qu'eſt-ce que le ſublime ? où entre le ſublime ? </p>
-                        <p xml:id="r01_55_06" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Les
-                            ſinonimes ſont pluſieurs dictions, ou pluſieurs phraſes differentes qui
-                            ſignifient une même choſe. L'antitheſe eſt une oppoſition de deux
-                            veritez qui ſe donnent du jour l'une à l'autre. La metaphore ou la
-                            comparaiſon emprunte d'une choſe étrangere une image ſenſible &amp;
-                            naturelle d'une verité. L'hiperbole exprime au delà de la verité pour
-                                rame<pb n="108" ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>ner l'eſprit
-                            à la mieux connoiſtre. Le ſublime ne peint que la verité, mais en un
-                            ſujet noble, il la peint toute entiere, dans ſa cauſe &amp; dans ſon
-                            effet ; il eſt l'expreſſion, ou l'image la plus digne de cette verité.
-                            Les eſprits mediocres ne trouvent point l'unique expreſſion, &amp; uſent
-                            de ſynonimes. Les Jeunes gens ſont ébloüis de l'éclat de l'antitheſe,
-                            &amp; s'en ſervent. Les eſprits juſtes, &amp; qui aiment à faire des
-                            images qui ſoient préciſes donnent naturellement dans la comparaiſon
-                            &amp; la metaphore. Les eſprits vifs, pleins de feu, &amp; qu'une vaſte
-                            imagination emporte hors des regles, &amp; de la juſteſſe ne peuvent
-                            s'aſſouvir de l'hyperbole. Pour le ſublime, il n'y a même entre les
-                            grands genies que les plus élevez qui en ſoient capables. </p>
+                        <p xml:id="r01_55_04" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            L'Eloquence eſt au ſublime ce que le tout eſt à ſa partie. </p>
+                        <p xml:id="r01_55_05" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            Qu'eſt-ce que le ſublime ? Il ne <seg>paro<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">î</rdg>
+                                    <rdg source="#P_ed5_ex1">iſ</rdg>
+                                </app>t</seg> pas qu'on l'ait défini ; eſt-ce une figure ? naiſt-il
+                            des figures, ou du moins de quelques figures ? tout genre d'écrire
+                            reçoit-il le ſublime ? ou s'il n'y a que les grands ſujets qui en ſoient
+                            capables ? peut-il briller autre choſe dans l'Eglogue qu'un beau
+                            naturel, &amp; dans les lettres familieres comme dans les converſations
+                                qu'u<pb n="115" ed="#P_ed5_ex1"/>ne grande délicateſſe ? ou plûtoſt
+                            le naïf &amp; le délicat ne ſont-ils pas le ſublime des ouvrages dont
+                            ils font la perfection ? qu'eſt-ce que le ſublime ? où entre le ſublime
+                            ? </p>
+                        <p xml:id="r01_55_06" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            Les ſinonimes ſont pluſieurs dictions, ou pluſieurs phraſes differentes
+                            qui ſignifient une <seg>m<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>me</seg> choſe. L'antitheſe eſt une oppoſition de deux veritez
+                            qui ſe donnent du jour l'une à l'autre. La metaphore ou la comparaiſon
+                            emprunte d'une choſe étrangere une image ſenſible &amp; naturelle d'une
+                            verité. L'hiperbole exprime au delà de la verité pour rame<pb n="108"
+                                ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>ner l'eſprit à la mieux
+                            connoiſtre. Le ſublime ne peint que la verité, mais en un ſujet noble,
+                            il la peint toute entiere, dans ſa cauſe &amp; dans ſon effet ; il eſt
+                            l'expreſſion, ou l'image la plus digne de cette verité. Les eſprits
+                            mediocres ne trouvent point l'unique expreſſion, &amp; uſent de
+                            ſynonimes. Les Jeunes gens ſont ébloüis de l'éclat de l'antitheſe, &amp;
+                            s'en ſervent. Les eſprits juſtes, &amp; qui aiment à faire des images
+                            qui ſoient préciſes<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg>donnent naturellement dans la comparaiſon &amp; la
+                            metaphore. Les eſprits vifs, pleins de <pb n="116" ed="#P_ed5_ex1"/>feu,
+                            &amp; qu'une vaſte imagination emporte hors des regles<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>&amp; de la juſteſſe ne peuvent s'aſſouvir de
+                            l'hyperbole. Pour le ſublime, il n'y a <seg>m<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>me</seg> entre les grands genies que les plus élevez qui en
+                            ſoient capables. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_57_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on n'écrit
-                            que pour être entendu ; mais il faut du moins en écrivant faire entendre
-                            de belles choſes : l'on doit avoir une diction pure &amp; uſer de termes
-                            qui ſoient propres, il eſt vray, mais il faut que ces termes ſi propres,
-                            expriment des penſées nobles, vives, ſolides, &amp; qui renferment un
-                            tres beau ſens ; c'eſt faire de la pureté &amp; <pb n="109"
+                        <p xml:id="r01_57_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>L'on n'écrit que pour <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tre</seg> entendu ; mais il faut du moins en écrivant faire
+                            entendre de belles choſes : l'on doit avoir une diction pure &amp; uſer
+                            de termes qui ſoient propres, il eſt vray, mais il faut que ces termes
+                            ſi propres, expriment des penſées nobles, vives, ſolides, &amp; qui
+                            renferment un tres<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed5_ex1">-</rdg>
+                                </app></seg>beau ſens ; c'eſt faire de la pureté &amp; <pb n="109"
                                 ed="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>de la clarté du diſcours un
                             mauvais uſage que de les faire ſervir à une matiere aride, infructueuſe,
                             qui eſt ſans ſel, ſans utilité, ſans nouveauté : que ſert aux lecteurs
                             de comprendre aiſément &amp; ſans peine des choſes frivoles &amp;
                             pueriles, quelquefois fades &amp; communes, &amp; d'eſtre moins
-                            incertains de la penſée d'un Auteur, qu'ennuyez de ſon ouvrage ? </p>
-                        <p xml:id="r01_57_02_ed4" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> Si l'on
-                            jette quelque profondeur dans certains écrits ; ſi l'on affecte une
-                            fineſſe de tour, &amp; quelquefois une trop grande délicateſſe, ce n'eſt
-                            que par la bonne opinion qu'on a de ſes lecteurs. </p>
+                            incertains de la penſée d'un Auteur, <seg>qu'ennu<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">y</rdg>
+                                    <rdg source="#P_ed5_ex1">i</rdg>
+                                </app>ez</seg> de ſon ouvrage ? </p>
+                        <p xml:id="r01_57_02_ed4"
+                            source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> Si l'on jette
+                            quelque profondeur dans certains écrits ; ſi l'on affecte une fineſſe de
+                            tour, &amp; quelquefois une trop grande délicateſſe, ce n'eſt <seg><pb
+                                    n="117" ed="#P_ed5_ex1"/>qu<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2"/>
+                                    <rdg source="#P_ed4_ex3">‵</rdg>
+                                </app>e</seg> par la bonne opinion qu'on a de ſes lecteurs. </p>
                     </div3>
 
                     <div3>
@@ -2508,130 +2798,188 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_60_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/> L'on écrit
-                            regulierement depuis vingt années, l'on eſt eſclave de la conſtruction ;
-                            l'on a enrichi la langue de nouveaux mots, ſecoüé le joug du Latiniſme,
-                            &amp; reduit le ſtyle à la phraſe purement Françoiſe ; l'on a preſque
-                            retrouvé le nombre que <emph style="petites_caps"
-                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">Malherbe</emph> &amp;
-                                <emph style="petites_caps" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
-                                >Balzac</emph> avoient les premiers rencontré, &amp; que tant
-                            d'auteurs depuis eux ont laiſſé perdre ; l'on a mis enfin dans le
-                            diſcours tout l'ordre &amp; toute la netteté dont il eſt capable : cela
-                            conduit inſenſiblement à y mettre de l'eſprit. </p>
+                        <p xml:id="r01_60_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>L'on écrit regulierement depuis
+                            vingt années, l'on eſt eſclave de la conſtruction ; l'on a enrichi la
+                            langue de nouveaux mots, ſecoüé le joug du Latiniſme, &amp; reduit le
+                            ſtyle à la phraſe purement Françoiſe ; l'on <pb n="118" ed="#P_ed5_ex1"
+                            />a preſque retrouvé le nombre que <emph style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Malherbe</emph>
+                            &amp; <emph style="petites_caps"
+                                source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">Balzac</emph>
+                            avoient les premiers rencontré, &amp; que tant d'auteurs depuis eux ont
+                            laiſſé perdre ; l'on a mis enfin dans le diſcours tout l'ordre &amp;
+                            toute la netteté dont il eſt capable : cela conduit inſenſiblement à y
+                            mettre de l'eſprit. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r01_61_01" source="#P_ed4_ex1 #P_ed4_ex3">
+                        <p xml:id="r01_61_01" source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <pb n="110" ed="#P_ed4_ex1 #P_ed4_ex3"/>
-                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex3"/> Il y a des artiſans ou
-                            des habiles dont l'eſprit eſt auſſi vaſte que l'art ou la ſcience qu'ils
+                            <g ref="U2761" source="#P_ed4_ex1 #P_ed4_ex3"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Il y a des artiſans ou des
+                            habiles dont l'eſprit eſt auſſi vaſte que l'art ou la ſcience qu'ils
                             profeſſent ; ils luy rendent avec avantage par le genie &amp; par
                             l'invention ce qu'ils tiennent d'elle &amp; de ſes principes ; ils
                             ſortent de l'art pour l'ennoblir, s'écartent des regles, ſi elles ne les
                             conduiſent pas au grand &amp; au ſublime ; ils marchent ſeuls &amp; ſans
-                            compagnie, mais ils vont fort haut &amp; pènetrent fort loin, toûjours
-                            ſeurs &amp; confirmez par le ſuccés, des avantages que l'on tire
-                            quelquefois de l'irregularité. Les eſprits juſtes, doux, moderez, non
-                            ſeulement ne les atteignent pas, ne les admirent pas, mais ils ne les
-                            comprennent point, &amp; voudroient encore moins les imiter ; ils
-                            demeurent tranquilles dans l'étenduë de leur ſphere, vont juſques à un
-                            certain point qui fait les bornes de leur capacité &amp; de leurs
-                            lumieres, ils ne vont pas plus loin, parce qu'ils ne voient rien au delà
-                            ; il ne peuvent au plus qu'eſtre les premiers d'une ſeconde claſſe,
-                            &amp; exceller dans le mediocre. </p>
+                            compagnie, mais ils vont fort haut &amp; <seg>p<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">è</rdg>
+                                    <rdg source="#P_ed5_ex1">é</rdg>
+                                </app>netrent</seg> fort loin, toûjours ſeurs &amp; confirmez par le
+                            ſuccés, des avantages que l'on tire quelquefois de l'irregularité. Les
+                            eſprits juſtes, doux, moderez, non ſeulement ne les atteignent pas, ne
+                            les admirent pas, mais ils ne les comprennent point, &amp; voudroient
+                            encore moins les imiter ; ils demeurent tranquilles dans l'étenduë de
+                            leur ſphere, vont juſques à un certain <pb n="118" ed="#P_ed5_ex1"
+                            />point qui fait les bornes de leur capacité &amp; de leurs lumieres,
+                            ils ne vont pas plus loin, parce qu'ils ne voient rien au delà ; il ne
+                            peuvent au plus qu'eſtre les premiers d'une ſeconde claſſe, &amp;
+                            exceller dans le mediocre. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r01_62_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Il y a des eſprits, ſi je
+                            l'oſe dire, inferieurs &amp; ſubalternes, qui ne ſemblent faits que pour
+                            eſtre le recüeil, le regiſtre ou le magazin de toutes les productions
+                            des autres genies ; ils ſont plagiaires, traducteurs, compilateurs ;
+                            &amp; comme le choix des penſées eſt invention, ils l'ont mauvais, peu
+                            juſte, &amp; qui les détermine plûtoſt à rapporter beaucoup de choſes
+                            que d'excellentes choſes : ils n'ont rien d'original &amp; qui ſoit à
+                            eux ; ils ne ſçavent que ce qu'ils ont appris, &amp; ils n'apprennent
+                            que ce que tout le monde veut bien ignorer, une ſcience vaine, aride,
+                            dénuée d'agrément &amp; d'utilité, qui ne tombe point dans la
+                            converſation, qui eſt hort de commerce, ſemblable à une monnoye qui n'a
+                            point de cours : on eſt tout à la fois étonné de leur lecture &amp;
+                            ennuyé de leur entretien ou de leurs ouvra<pb n="120" ed="#P_ed5_ex1"
+                            />ges. Ce ſont eux que les Grands &amp; le vulgaire confondent avec les
+                            ſçavans, &amp; que les ſages renvoyent au pedantiſme. </p>
                     </div3>
 
                     <div3>
                         <p xml:id="r01_65_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
                                 source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
-                            <g ref="U0x2A" source="#B_ed1_ex1"/> Un homme né <seg>Chr<app>
+                            <g ref="U0x2A" source="#B_ed1_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Un homme né <seg>Chr<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1= #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1= #P_ed4_ex3 #P_ed5_ex1"
                                         >é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
-                                </app>tien</seg> &amp; François eſt <seg><app>
+                                </app>tien</seg> &amp; François <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1= #P_ed4_ex3"
-                                        >e</rdg>
-                                    <rdg source="#B_ed1_ex1">a</rdg>
-                                </app>mbaraſſé</seg> dans la <seg><app>
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #B_ed1_ex1"
+                                        >eſt <seg><app>
+                                                <rdg
+                                                  source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1= #P_ed4_ex3"
+                                                  >e</rdg>
+                                                <rdg source="#B_ed1_ex1">a</rdg>
+                                            </app>mbaraſſé</seg></rdg>
+                                    <rdg source="#P_ed5_ex1">ſe trouve contraint</rdg>
+                                </app></seg> dans la <seg><app>
                                     <rdg
-                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1= #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                         >ſ</rdg>
                                     <rdg source="#B_ed1_ex1">S</rdg>
-                                </app>atyre</seg> ; les <pb n="111" ed="#P_ed4_ex1 #P_ed4_ex3"
-                            />grands ſujets luy ſont défendus, il les entame quelquefois, &amp; ſe
-                            détourne enſuite ſur de petites choſes qu'il releve par la beauté de ſon
-                            genie &amp; de ſon <seg>ſt<app>
+                                </app>atyre</seg><seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #B_ed1_ex1"
+                                        > ;</rdg>
+                                    <rdg source="#P_ed5_ex1">,</rdg>
+                                </app></seg> les <pb n="111" ed="#P_ed4_ex1 #P_ed4_ex3"/>grands
+                            ſujets luy ſont défendus<seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #B_ed1_ex1"
+                                        >,</rdg>
+                                    <rdg source="#P_ed5_ex1">;</rdg>
+                                </app></seg> il les entame quelquefois, &amp; ſe détourne enſuite
+                            ſur de petites choſes qu'il releve par la beauté de ſon genie &amp; de
+                            ſon <seg>ſt<app>
                                     <rdg source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1">y</rdg>
-                                    <rdg source="#B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
+                                        >i</rdg>
                                 </app>le</seg>.</p>
                     </div3>
 
                     <div3>
                         <p xml:id="r01_66_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Il faut éviter le <seg>ſt<app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
                                         >y</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">i</rdg>
                                 </app>le</seg>
                             <seg>v<app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed4_ex3"
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                         >a</rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2">á</rdg>
                                 </app>in</seg> &amp; pue<pb ed="#B_ed1_ex1"/>rile<seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
+                                        >, </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex3"> </rdg>
                                 </app></seg>de peur de reſſembler à <note source="#B_ed1_ex1"
                                 resp="imprime" place="left" rend="Dorilas" type="remarque"
                                 >Varillas.</note><emph style="italic"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Dorilas"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     >Dorilas</persName></emph> &amp;<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> à </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex3"> </rdg>
                                 </app></seg><note source="#B_ed1_ex1" resp="imprime" place="left"
                                 rend="Handburg" type="remarque">Maimbourg.</note><emph
                                 style="italic"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
-                                >Handburg</emph> ; l'on peut au contraire en une forte d'écrits <seg>ha<app>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
+                                >Handburg</emph>
+                            <seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #B_ed1_ex1"
+                                        >;</rdg>
+                                    <rdg source="#P_ed5_ex1">:</rdg>
+                                </app></seg> l'on peut au contraire en une ſorte d'écrits <seg>ha<app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">ſ</rdg>
-                                    <rdg source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3">z</rdg>
+                                    <rdg source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
+                                        >z</rdg>
                                 </app>arder</seg> de certaines expreſſions, uſer de termes <pb
                                 ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>tranſpoſez<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1">, </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3"> </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"> </rdg>
                                 </app></seg>&amp; qui peignent vivement<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1">; </rdg>
                                 </app></seg>&amp; plaindre ceux qui ne ſentent pas le plaiſir qu'il
-                            y a à s'en ſervir ou à les entendre.</p>
+                            y a à s'en ſervir<seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #B_ed1_ex1"> </rdg>
+                                    <rdg source="#P_ed5_ex1">,</rdg>
+                                </app></seg>ou à les entendre.</p>
                     </div3>
 
                     <div3>
                         <p xml:id="r01_67_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/> Celuy qui n'a égard en écrivant
                             qu'au <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                         >uſ</rdg>
-                                    <rdg source="#L_ed1_ex1 #B_ed1_ex1">û</rdg>
+                                    <rdg source="#L_ed1_ex1 #B_ed1_ex1 #P_ed5_ex1">û</rdg>
                                 </app>t</seg> de ſon ſiecle, ſonge plus à ſa perſonne qu'à ſes
                             écrits : il faut toûjours tendre à la perfection<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">, </rdg>
                                 </app></seg>&amp; alors cette <seg><app>
-                                    <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"
+                                    <rdg
+                                        source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1 #P_ed5_ex1"
                                         >juſtice</rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex3">juſteſſe</rdg>
                                 </app></seg> qui nous eſt quelquefois refuſée par nos contemporains,
@@ -2640,13 +2988,13 @@
 
                     <div3>
                         <p xml:id="r01_68_01"
-                            source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #P_ed2_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
-                            <g ref="U0x2A" source="#B_ed1_ex1"/> Il ne faut point mettre un ridicule
-                            où il n'y en a point<seg><app>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"/>
+                            <g ref="U0x2A" source="#B_ed1_ex1"/> Il ne faut point mettre un
+                                ridicu<pb n="121" ed="#P_ed5_ex1"/>le où il n'y en a point<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">, </rdg>
                                 </app></seg>c'eſt ſe gâter le goût, c'eſt corrompre ſon jugement
                             &amp; celuy des autres ; mais le ridicule qui eſt quelque part, il faut
                             l'y voir, l'en tirer avec grace, &amp; d'une maniere qui plaiſe &amp;
@@ -2655,44 +3003,53 @@
 
                     <div3>
                         <p xml:id="r01_69_01"
-                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3">
+                            source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1">
                             <g ref="U2761"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"/>
+                                source="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"/>
                             <g ref="U0x2A" source="#B_ed1_ex1"/>
                             <emph style="petites_caps"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Horace"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     >Horace</persName></emph> ou <emph style="petites_caps"
-                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     ><persName ref="#Despreaux"
-                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
+                                    source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1"
                                     >Despreaux</persName></emph>
                             <pb n="112" ed="#P_ed4_ex1 #P_ed4_ex3"/>l'a dit avant vous<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> ,</rdg>
                                 </app></seg>je le crois ſur <seg>v<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">oſ</rdg>
                                     <rdg
-                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#L_ed1_ex1 #B_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >ô</rdg>
                                 </app>tre</seg> parole ; mais je l'ay dit <pb
                                 ed="#P_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1"/>comme mien<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> ; </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1">,
+                                    </rdg>
                                 </app></seg>ne puis-je pas penſer<seg><app>
                                     <rdg source="#B_ed1_ex1 #L_ed1_ex1 #P_ed1_ex1 #P_ed2_ex1"> </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"> aprés eux </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"> aprés
+                                        eux </rdg>
                                 </app></seg>une choſe <seg>vra<app>
                                     <rdg source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1">i</rdg>
-                                    <rdg source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                    <rdg
+                                        source="#L_ed1_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >y</rdg>
                                 </app>e</seg>, &amp; que d'autres encore penſeront aprés <seg>mo<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
                                         >y</rdg>
                                     <rdg source="#L_ed1_ex1">i</rdg>
-                                </app></seg> ?</p>
+                                </app></seg><seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3"
+                                        > ?</rdg>
+                                    <rdg source="P_ed5_ex1">.</rdg>
+                                </app></seg></p>
                     </div3>
 
 
