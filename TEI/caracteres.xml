@@ -1073,9 +1073,20 @@
 
                     <div3>
                         <p corresp="#r01_16_01" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
-                        <p corresp="#r01_16_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"/>
-                        <p corresp="#r01_16_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
-                        />
+                        <p xml:id="r01_16_02" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                            >Ne vouloir <seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tre</seg> ni conſeillé<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>ni corrigé ſur ſon ouvrage, eſt un pedantiſme.</p>
+                        <p xml:id="r01_16_03" source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3 #P_ed5_ex1"
+                            >Il faut qu'un Auteur reçoive avec une égale modeſtie les éloges &amp;
+                            la critique que l'on fait de ſes ouvrages.<seg><app>
+                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app></seg></p>
                     </div3>
 
                     <div3>
@@ -1155,18 +1166,6 @@
                                     <rdg source="#L_ed1_ex1">O</rdg>
                                 </app>uvrages</seg> à ceux qui en ſçavent aſſez pour les corriger
                             &amp; les eſtimer.</p>
-                        <p xml:id="r01_16_02">Ne vouloir <seg><app>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">ê</rdg>
-                                    <rdg source="#P_ed5_ex1">eſ</rdg>
-                                </app>tre</seg> ni conſeillé<seg><app>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">, </rdg>
-                                    <rdg source="#P_ed5_ex1"> </rdg>
-                                </app></seg>ni corrigé ſur ſon ouvrage, eſt un pedantiſme.</p>
-                        <p xml:id="r01_16_03">Il faut qu'un Auteur reçoive avec une égale modeſtie
-                            les éloges &amp; la critique que l'on fait de ſes ouvrages.<seg><app>
-                                    <rdg source="#P_ed4_ex1 #P_ed4_ex2 #P_ed4_ex3">i</rdg>
-                                    <rdg source="#P_ed5_ex1"/>
-                                </app></seg></p>
                     </div3>
 
                     <div3>
