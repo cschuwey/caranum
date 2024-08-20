@@ -3045,64 +3045,170 @@
                     <head>De la Mode</head>
 
                     <div3>
-                        <p xml:id="r13_01_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> Une choſe
-                            folle &amp; qui découvre bien noſtre petiteſſe, c'eſt l'aſſujettiſſement
-                            aux modes quand on l'étend à ce qui concerne le gouſt, le vivre, la
-                            ſanté &amp; la conſcience. La viande noire eſt hors de mode &amp; par
-                            cette raiſon inſipide : ce ſeroit pecher contre la mode que de guerir de
-                            la fiévre par la ſaignée : de meſme l'on ne mourroit plus depuis <seg>long<app>
+                        <p xml:id="r13_01_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
+                            Une choſe folle &amp; qui <seg>dé<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">c</rdg>
+                                    <rdg source="#P_ed4_ex1">ç</rdg>
+                                </app>ouvre</seg> bien <seg>n<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">oſ</rdg>
+                                    <rdg source="#P_ed4_ex1">ô</rdg>
+                                </app>tre</seg> petiteſſe, c'eſt l'aſſujettiſſement aux modes quand
+                            on l'étend à ce qui concerne le <seg>go<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">uſ</rdg>
+                                    <rdg source="#P_ed4_ex1">û</rdg>
+                                </app>t</seg>, le vivre, la ſanté &amp; la conſcience. La viande
+                            noire eſt hors de mode<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>&amp; par cette raiſon inſipide : ce ſeroit pecher
+                            contre la mode que de guerir de la fiévre par la ſaignée : de <seg>m<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                </app>me</seg> l'on ne mourroit plus depuis <seg>long<app>
                                     <rdg source="#P_ed1_ex1 #P_ed3_ex1"> </rdg>
-                                    <rdg source="#P_ed2_ex1">-</rdg>
+                                    <rdg source="#P_ed2_ex1 #P_ed4_ex1">-</rdg>
                                 </app>temps</seg> par <emph style="italic"
-                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">Theotime</emph> ; ſes
-                            tendres exhortations ne ſauvoient plus que le peuple, &amp; <emph
-                                style="italic" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"
-                                >Theot</emph>. a veu ſon ſucceſſeur. </p>
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">Theotime</emph>
+                            ; ſes tendres exhortations ne ſauvoient plus que le peuple, &amp; <emph
+                                style="italic" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"><seg><app>
+                                        <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">Theot</rdg>
+                                        <rdg source="#P_ed4_ex1">Theotime</rdg>
+                                    </app></seg></emph>. a veu ſon ſucceſſeur. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_03_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> Le duel eſt
-                            le triomphe de la mode, &amp; l'endroit où elle a exercé ſa tyrannie
-                            avec plus <pb n="320" source="#P_ed1_ex1"/>d'éclat ; cet uſage n'a pas
-                            laiſſé au <pb n="268" source="#P_ed2_ex1 #P_ed3_ex1"/>poltron la liberté
-                            de vivre, il l'a mené ſe faire tuer par un plus brave que ſoy, &amp; l'a
-                            confondu avec un homme de cœur ; il a attaché de l'honneur<seg><app>
+                        <p xml:id="r13_03_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
+                            Le duel eſt le triomphe de la mode, &amp; l'endroit où elle a exercé ſa
+                            tyrannie avec plus <pb n="320" source="#P_ed1_ex1"/>d'éclat ; cet uſage
+                            n'a <seg>p<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">a</rdg>
+                                    <rdg source="#P_ed4_ex1">à</rdg>
+                                </app>s</seg> laiſſé au <pb n="268" source="#P_ed2_ex1 #P_ed3_ex1"
+                            />poltron la liberté de vivre, il l'a mené ſe faire <seg>tu<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed4_ex1">ë</rdg>
+                                </app>r</seg> par un plus brave que ſoy, &amp; l'a confondu avec un
+                            homme de cœur ; il a attaché de l'honneur<seg><app>
                                     <rdg source="#P_ed1_ex1">, </rdg>
-                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1"> </rdg>
+                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> </rdg>
                                 </app></seg>&amp; de la gloire à une action folle &amp; extravagante
-                            ; il a eſté approuvé par la preſence des Rois ; il y a eu quelquefois
-                            une eſpece de religion à le pratiquer ; il a decidé de l'innocence des
-                            hommes, des accuſations fauſſes ou veritables ſur des crimes capitaux ;
-                            il s'eſtoit enfin ſi profondement enraciné dans l'opinion des peuples,
-                            &amp; s'eſtoit ſi fort ſaiſi de leur cœur &amp; de leur eſprit, qu'un
-                            des plus beaux endroits de la vie d'un <seg>tres<app>
+                            ; il a eſté approuvé par la <seg>pr<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>ſence</seg> des Rois ; il y a eu quelquefois une eſ<pb n="373"
+                                source="#P_ed4_ex1"/>pece de <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">r</rdg>
+                                    <rdg source="#P_ed4_ex1">R</rdg>
+                                </app>eligion</seg> à le pratiquer ; il a <seg>d<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>cidé</seg> de l'innocence des hommes, des accuſations fauſſes
+                            ou veritables ſur des crimes capitaux ; il <seg>s'<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>toit</seg> enfin ſi <seg>profond<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>ment</seg> enraciné dans l'opinion des peuples, &amp; <seg>s'<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>toit</seg> ſi fort ſaiſi de leur cœur &amp; de leur eſprit,
+                            qu'un des plus beaux endroits de la vie d'un <seg>tres<app>
                                     <rdg source="#P_ed1_ex1"> </rdg>
-                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1">-</rdg>
-                                </app>grand</seg> Roy a eſté de les guerir de cette folie. </p>
+                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">-</rdg>
+                                </app>grand</seg> Roy a <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>té</seg> de les guerir de cette folie. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_04_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> Tel a eſté à
-                            la mode ou pour le commandement des armées &amp; la negociation, ou pour
-                            l'éloquence de la <pb n="321" source="#P_ed1_ex1"/><pb n="269"
-                                source="#P_ed2_ex1 #P_ed3_ex1"/>Chaire, ou pour les vers, qui n'y
-                            eſt plus. Y a-t'il des hommes qui degenerent de ce qu'ils furent
-                            autrefois ; eſt-ce leur merite qui <seg><app>
+                        <p xml:id="r13_04_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
+                            Tel a <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>té</seg> à la mode ou pour le commandement des armées &amp; la
+                            negociation, ou pour l'éloquence de la <pb n="321" source="#P_ed1_ex1"
+                                /><pb n="269" source="#P_ed2_ex1 #P_ed3_ex1"/>Chaire, ou pour les
+                            vers, qui n'y eſt plus. Y a-t'il des hommes qui <seg>d<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>generent</seg> de ce qu'ils furent autrefois<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> ; </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>eſt-ce leur merite qui <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">ſoit</rdg>
-                                    <rdg source="#P_ed3_ex1">eſt</rdg>
+                                    <rdg source="#P_ed3_ex1 #P_ed4_ex1">eſt</rdg>
                                 </app></seg> uſé, ou le goût que l'on avoit pour eux ? </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_11_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> Un homme fat
-                            &amp; ridicule porte un long chapeau, un pourpoint à aîlerons, des
-                            chauſſes à éguillettes &amp; des bottines ; il réve la veille par où
-                            &amp; comment il pourra ſe faire remarquer le jour qui ſuit. Un
-                            Philoſophe ſe laiſſe habiller par ſon Tailleur ; il y autant de
-                            foibleſſe à fuir la mode qu'à l'affecter. </p>
+                        <p xml:id="r13_05_01" source="#P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/> Un homme à la mode dure peu, car
+                            les modes paſſent ; s'il eſt par hazard homme de merite, il n'eſt pas
+                            aneanti, &amp; il ſubſiſte encore par quelque endroit ; également
+                            eſtimable, il eſt ſeulement moins eſtimé. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13_10_01" source="#P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <emph style="petites_caps" source="#P_ed4_ex1">Voiture</emph> &amp;
+                                <emph style="petites_caps" source="#P_ed4_ex1">Sarrasin</emph>
+                            étoient nez pour leur ſiecle, &amp; ils ont paru dans un temps, où il
+                            ſemble qu'ils étoient attendus ; s'ils étoient moins preſſez de venir,
+                            ils arrivoient <pb n="374" source="#P_ed4_ex1"/>trop tard, &amp; j'oſe
+                            douter qu'ils fuſſent tels aujourd'huy qu'ils ont été alors : les
+                            converſations legeres, les cercles, la fine plaiſanterie, les lettres
+                            enjoüées &amp; familieres, les petites parties où l'on étois admis
+                            ſeulement avec de l'eſprit, tout a diſparu ; &amp; qu'on ne diſe point
+                            qu'ils les feroient revivre, ce que je puis faire en faveur de leur
+                            eſprit eſt de convenir que peut être ils excelleroient dans un autre
+                            genre ; mais les femmes ſont de nos jours ou devotes ou coquettes, les
+                            galans ou les directeurs ont pris la place, &amp; la défendent contre
+                            les beaux eſprits. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13_11_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
+                            Un homme fat &amp; ridicule porte un long chapeau, un pourpoint à
+                            aîlerons, des chauſſes à éguillettes &amp; des bottines ; il réve la
+                            veille par où &amp; comment il pourra ſe faire remarquer le jour qui
+                            ſuit. Un Philoſophe ſe laiſſe habiller par ſon <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">T</rdg>
+                                    <rdg source="#P_ed4_ex1">t</rdg>
+                                </app>ailleur</seg> ; il y autant de foibleſſe à <seg>fu<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">i</rdg>
+                                    <rdg source="#P_ed4_ex1">ï</rdg>
+                                </app>r</seg> la mode<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> </rdg>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                </app></seg>qu'à l'affecter. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13_12_01" source="#P_ed4_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/> L'on blâme une mode qui diviſant
+                            la taille des hommes en deux parties égales, en prend une toute entiere
+                            pour le buſte, &amp; laiſſe l'autre pour <pb n="375" source="#P_ed4_ex1"
+                            />le reſte du corps : l'on condamne celle qui fait de la tête des femmes
+                            la baze d'un édifice à pluſieurs étages, dont l'ordre &amp; la ſtructure
+                            change ſelon leurs caprices ; qui éloigne les cheveux du viſage, bien
+                            qu'ils ne croiſſent que pour l'accompagner, qui les releve, &amp; les
+                            heriſſe à la maniere des Bacchantes, et ſemble avoir pourveu à ce que
+                            les femmes changeur leur phiſionomie douche &amp; modeſte, en une autre
+                            qui ſoit fiere &amp; audacieuſe : on ſe recrie enfin contre une telle ou
+                            une telle mode, qui cependant toute bizarre qu'elle eſt, pare &amp;
+                            embellit pendant qu'elle dure, &amp; dont l'on tire tout l'avantage
+                            qu'on en peut eſperer, qui eſt de plaire. Il me ſemble qu'on devroient
+                            ſeulement admirer l'inconſtance &amp; la legereté des hommes, qui
+                            attachent ſucceſſivement les agréemens &amp; la bienſeance à des choſes
+                            tout oppoſées ; qui employent pour le comique &amp; pour la maſcarade,
+                            ce qui leur a ſervi de parure grave, &amp; d'ornemens les plus ſerieux ;
+                            &amp; que ſi peu de temps faſſe la difference. </p>
                     </div3>
 
                     <div3>
