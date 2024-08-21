@@ -3045,229 +3045,484 @@
                     <head>De la Mode</head>
 
                     <div3>
-                        <p xml:id="r13_01_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
-                            Une choſe folle &amp; qui <seg>dé<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">c</rdg>
+                        <p xml:id="r13_01_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"> Une
+                            choſe folle &amp; qui <seg>dé<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >c</rdg>
                                     <rdg source="#P_ed4_ex1">ç</rdg>
                                 </app>ouvre</seg> bien <seg>n<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">oſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >oſ</rdg>
                                     <rdg source="#P_ed4_ex1">ô</rdg>
                                 </app>tre</seg> petiteſſe, c'eſt l'aſſujettiſſement aux modes quand
                             on l'étend à ce qui concerne le <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">uſ</rdg>
-                                    <rdg source="#P_ed4_ex1">û</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">û</rdg>
                                 </app>t</seg>, le vivre, la ſanté &amp; la conſcience. La viande
                             noire eſt hors de mode<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> </rdg>
-                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">, </rdg>
                                 </app></seg>&amp; par cette raiſon inſipide : ce ſeroit pecher
                             contre la mode que de guerir de la fiévre par la ſaignée : de <seg>m<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
                                     <rdg source="#P_ed4_ex1">ê</rdg>
-                                </app>me</seg> l'on ne mourroit plus depuis <seg>long<app>
+                                </app>me</seg> l'on ne <seg>mou<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
+                                        >rr</rdg>
+                                    <rdg source="#P_ed5_ex1">r</rdg>
+                                </app>oit</seg> plus depuis <seg>long<app>
                                     <rdg source="#P_ed1_ex1 #P_ed3_ex1"> </rdg>
-                                    <rdg source="#P_ed2_ex1 #P_ed4_ex1">-</rdg>
+                                    <rdg source="#P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1">-</rdg>
                                 </app>temps</seg> par <emph style="italic"
-                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">Theotime</emph>
-                            ; ſes tendres exhortations ne ſauvoient plus que le peuple, &amp; <emph
-                                style="italic" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"><seg><app>
-                                        <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">Theot</rdg>
-                                        <rdg source="#P_ed4_ex1">Theotime</rdg>
-                                    </app></seg></emph>. a veu ſon ſucceſſeur. </p>
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
+                                >Theotime</emph> ; ſes tendres exhortations ne ſauvoient plus que le
+                            peuple, &amp; <emph style="italic"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"><seg><app>
+                                        <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">Theot.</rdg>
+                                        <rdg source="#P_ed4_ex1 #P_ed5_ex1">Theotime</rdg>
+                                    </app></seg></emph> a veu ſon ſucceſſeur. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_03_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
-                            Le duel eſt le triomphe de la mode, &amp; l'endroit où elle a exercé ſa
+                        <p xml:id="r13_03_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/> Le
+                            duel eſt le triomphe de la mode, &amp; l'endroit où elle a exercé ſa
                             tyrannie avec plus <pb n="320" source="#P_ed1_ex1"/>d'éclat ; cet uſage
                             n'a <seg>p<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">a</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >a</rdg>
                                     <rdg source="#P_ed4_ex1">à</rdg>
                                 </app>s</seg> laiſſé au <pb n="268" source="#P_ed2_ex1 #P_ed3_ex1"
                             />poltron la liberté de vivre, il l'a mené ſe faire <seg>tu<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >e</rdg>
                                     <rdg source="#P_ed4_ex1">ë</rdg>
                                 </app>r</seg> par un plus brave que ſoy, &amp; l'a confondu avec un
                             homme de cœur ; il a attaché de l'honneur<seg><app>
                                     <rdg source="#P_ed1_ex1">, </rdg>
-                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> </rdg>
+                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
+                                    > </rdg>
                                 </app></seg>&amp; de la gloire à une action folle &amp; extravagante
                             ; il a eſté approuvé par la <seg>pr<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >e</rdg>
                                     <rdg source="#P_ed4_ex1">é</rdg>
                                 </app>ſence</seg> des Rois ; il y a eu quelquefois une eſ<pb n="373"
-                                source="#P_ed4_ex1"/>pece de <seg><app>
+                                source="#P_ed4_ex1"/>pe<pb n="434" source="#P_ed5_ex1"/>ce de <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">r</rdg>
-                                    <rdg source="#P_ed4_ex1">R</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">R</rdg>
                                 </app>eligion</seg> à le pratiquer ; il a <seg>d<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">é</rdg>
                                 </app>cidé</seg> de l'innocence des hommes, des accuſations fauſſes
                             ou veritables ſur des crimes capitaux ; il <seg>s'<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
                                     <rdg source="#P_ed4_ex1">é</rdg>
                                 </app>toit</seg> enfin ſi <seg>profond<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">é</rdg>
                                 </app>ment</seg> enraciné dans l'opinion des peuples, &amp; <seg>s'<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
                                     <rdg source="#P_ed4_ex1">é</rdg>
                                 </app>toit</seg> ſi fort ſaiſi de leur cœur &amp; de leur eſprit,
                             qu'un des plus beaux endroits de la vie d'un <seg>tres<app>
                                     <rdg source="#P_ed1_ex1"> </rdg>
-                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">-</rdg>
+                                    <rdg source="#P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"
+                                        >-</rdg>
                                 </app>grand</seg> Roy a <seg><app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
                                     <rdg source="#P_ed4_ex1">é</rdg>
                                 </app>té</seg> de les guerir de cette folie. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_04_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
+                        <p xml:id="r13_04_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/>
                             Tel a <seg><app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">eſ</rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
                                     <rdg source="#P_ed4_ex1">é</rdg>
                                 </app>té</seg> à la mode ou pour le commandement des armées &amp; la
                             negociation, ou pour l'éloquence de la <pb n="321" source="#P_ed1_ex1"
                                 /><pb n="269" source="#P_ed2_ex1 #P_ed3_ex1"/>Chaire, ou pour les
-                            vers, qui n'y eſt plus. Y a-t'il des hommes qui <seg>d<app>
+                            vers, qui n'y eſt plus<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">. </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>Y <seg>a-t<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
+                                        >'</rdg>
+                                    <rdg source="#P_ed5_ex1">-</rdg>
+                                </app>il</seg> des hommes qui <seg>d<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">e</rdg>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">é</rdg>
                                 </app>generent</seg> de ce qu'ils furent autrefois<seg><app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> ; </rdg>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"> ; </rdg>
                                     <rdg source="#P_ed4_ex1">, </rdg>
                                 </app></seg>eſt-ce leur merite qui <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1">ſoit</rdg>
-                                    <rdg source="#P_ed3_ex1 #P_ed4_ex1">eſt</rdg>
+                                    <rdg source="#P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">eſt</rdg>
                                 </app></seg> uſé, ou le goût que l'on avoit pour eux ? </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_05_01" source="#P_ed4_ex1">
-                            <g ref="#U2761" source="#P_ed4_ex1"/> Un homme à la mode dure peu, car
-                            les modes paſſent ; s'il eſt par hazard homme de merite, il n'eſt pas
-                            aneanti, &amp; il ſubſiſte encore par quelque endroit ; également
+                        <p xml:id="r13_05_01" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Un homme à la mode dure peu,
+                            car les modes paſſent ; s'il eſt par hazard homme de merite, il n'eſt
+                            pas aneanti, &amp; il ſubſiſte encore par quelque endroit ; également
                             eſtimable, il eſt ſeulement moins eſtimé. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_10_01" source="#P_ed4_ex1">
+                        <p xml:id="r13_10_01" source="#P_ed4_ex1 #P_ed5_ex1">
                             <g ref="#U2761" source="#P_ed4_ex1"/>
-                            <emph style="petites_caps" source="#P_ed4_ex1">Voiture</emph> &amp;
-                                <emph style="petites_caps" source="#P_ed4_ex1">Sarrasin</emph>
-                            étoient nez pour leur ſiecle, &amp; ils ont paru dans un temps, où il
-                            ſemble qu'ils étoient attendus ; s'ils étoient moins preſſez de venir,
-                            ils arrivoient <pb n="374" source="#P_ed4_ex1"/>trop tard, &amp; j'oſe
-                            douter qu'ils fuſſent tels aujourd'huy qu'ils ont été alors : les
-                            converſations legeres, les cercles, la fine plaiſanterie, les lettres
-                            enjoüées &amp; familieres, les petites parties où l'on étois admis
-                            ſeulement avec de l'eſprit, tout a diſparu ; &amp; qu'on ne diſe point
-                            qu'ils les feroient revivre, ce que je puis faire en faveur de leur
-                            eſprit eſt de convenir que peut être ils excelleroient dans un autre
-                            genre ; mais les femmes ſont de nos jours ou devotes ou coquettes, les
-                            galans ou les directeurs ont pris la place, &amp; la défendent contre
-                            les beaux eſprits. </p>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>
+                            <emph style="petites_caps" source="#P_ed4_ex1 #P_ed5_ex1">Voiture</emph>
+                            &amp; <emph style="petites_caps" source="#P_ed4_ex1 #P_ed5_ex1"
+                                >Sarrasin</emph>
+                            <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>toient</seg> nez pour leur ſiecle, &amp; ils ont paru dans un
+                            temps, où il ſemble qu'ils <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>toient</seg> attendus<seg><app>
+                                    <rdg source="#P_ed4_ex1"> ;</rdg>
+                                    <rdg source="#P_ed5_ex1">;</rdg>
+                                </app></seg> s'ils <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>toient</seg> moins preſſez de venir, ils arrivoient <pb
+                                n="374" source="#P_ed4_ex1"/><pb n="435" source="#P_ed5_ex1"/>trop
+                            tard, &amp; j'oſe douter qu'ils fuſſent tels aujourd'huy qu'ils ont <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>té</seg> alors : les converſations legeres, les cercles, la
+                            fine plaiſanterie, les lettres enjoüées &amp; familieres, les petites
+                            parties où l'on <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>tois</seg> admis ſeulement avec de l'eſprit, tout a diſparu ;
+                            &amp; qu'on ne diſe point qu'ils les feroient revivre, ce que je puis
+                            faire en faveur de leur eſprit<seg><app>
+                                    <rdg source="#P_ed4_ex1"> </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg>eſt de convenir que <seg>peut<app>
+                                    <rdg source="#P_ed4_ex1"> ê</rdg>
+                                    <rdg source="#P_ed5_ex1">-eſ</rdg>
+                                </app>tre</seg> ils excelleroient dans un autre genre ; mais les
+                            femmes ſont de nos jours ou devotes ou coquettes, les galans ou les
+                            directeurs ont pris la place, &amp; la défendent contre les beaux
+                            eſprits. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_11_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
-                            Un homme fat &amp; ridicule porte un long chapeau, un pourpoint à
-                            aîlerons, des chauſſes à éguillettes &amp; des bottines ; il réve la
-                            veille par où &amp; comment il pourra ſe faire remarquer le jour qui
-                            ſuit. Un Philoſophe ſe laiſſe habiller par ſon <seg><app>
+                        <p xml:id="r13_11_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/> Un
+                            homme fat &amp; ridicule porte un long chapeau, un pourpoint à aîlerons,
+                            des chauſſes à éguillettes &amp; des bottines ; il réve la veille par où
+                            &amp; comment il pourra ſe faire remarquer le jour qui ſuit. Un
+                            Philoſophe ſe laiſſe habiller par ſon <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">T</rdg>
-                                    <rdg source="#P_ed4_ex1">t</rdg>
-                                </app>ailleur</seg> ; il y autant de foibleſſe à <seg>fu<app>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">t</rdg>
+                                </app>ailleur</seg> ; il y a autant de foibleſſe à <seg>fu<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">i</rdg>
-                                    <rdg source="#P_ed4_ex1">ï</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">ï</rdg>
                                 </app>r</seg> la mode<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> </rdg>
-                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">, </rdg>
                                 </app></seg>qu'à l'affecter. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_12_01" source="#P_ed4_ex1">
-                            <g ref="#U2761" source="#P_ed4_ex1"/> L'on blâme une mode qui diviſant
-                            la taille des hommes en deux parties égales, en prend une toute entiere
-                            pour le buſte, &amp; laiſſe l'autre pour <pb n="375" source="#P_ed4_ex1"
-                            />le reſte du corps : l'on condamne celle qui fait de la tête des femmes
-                            la baze d'un édifice à pluſieurs étages, dont l'ordre &amp; la ſtructure
-                            change ſelon leurs caprices ; qui éloigne les cheveux du viſage, bien
-                            qu'ils ne croiſſent que pour l'accompagner, qui les releve, &amp; les
-                            heriſſe à la maniere des Bacchantes, et ſemble avoir pourveu à ce que
-                            les femmes changeur leur phiſionomie douche &amp; modeſte, en une autre
-                            qui ſoit fiere &amp; audacieuſe : on ſe recrie enfin contre une telle ou
-                            une telle mode, qui cependant toute bizarre qu'elle eſt, pare &amp;
-                            embellit pendant qu'elle dure, &amp; dont l'on tire tout l'avantage
-                            qu'on en peut eſperer, qui eſt de plaire. Il me ſemble qu'on devroient
-                            ſeulement admirer l'inconſtance &amp; la legereté des hommes, qui
-                            attachent ſucceſſivement les agréemens &amp; la bienſeance à des choſes
-                            tout oppoſées ; qui employent pour le comique &amp; pour la maſcarade,
-                            ce qui leur a ſervi de parure grave, &amp; d'ornemens les plus ſerieux ;
-                            &amp; que ſi peu de temps faſſe la difference. </p>
+                        <p xml:id="r13_12_01" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>L'on blâme une mode qui
+                            diviſant la taille des hommes en deux parties égales, en prend une toute
+                            entiere pour le buſte, &amp; laiſſe l'autre <pb n="436"
+                                source="#P_ed5_ex1"/>pour <pb n="375" source="#P_ed4_ex1"/>le reſte
+                            du corps : l'on condamne celle qui fait de la <seg>t<app>
+                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>te</seg> des femmes la <seg>ba<app>
+                                    <rdg source="#P_ed4_ex1">z</rdg>
+                                    <rdg source="#P_ed5_ex1">ſ</rdg>
+                                </app>e</seg> d'un édifice à pluſieurs étages, dont l'ordre &amp; la
+                            ſtructure change ſelon leurs caprices ; qui éloigne les cheveux du
+                            viſage, bien qu'ils ne croiſſent que pour l'accompagner, qui les releve,
+                            &amp; les heriſſe à la maniere des Bacchantes, &amp; ſemble avoir
+                            pourveu à ce que les femmes changent leur phiſionomie douce &amp;
+                            modeſte, en <seg>un<app>
+                                    <rdg source="#P_ed4_ex1">e</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app></seg> autre qui ſoit fiere &amp; audacieuſe : on ſe <seg>r<app>
+                                    <rdg source="#P_ed4_ex1">e</rdg>
+                                    <rdg source="#P_ed5_ex1">é</rdg>
+                                </app>crie</seg> enfin contre une telle ou une telle mode, qui
+                            cependant toute bizarre qu'elle eſt, pare &amp; embellit pendant qu'elle
+                            dure, &amp; dont l'on tire tout l'avantage qu'on en peut eſperer, qui
+                            eſt de plaire. Il me <seg><app>
+                                    <rdg source="#P_ed4_ex1">ſemble</rdg>
+                                    <rdg source="#P_ed5_ex1">paroît</rdg>
+                                </app></seg> qu'on devroit ſeulement admirer l'inconſtance &amp; la
+                            legereté des hommes, qui attachent ſucceſſivement les agréemens &amp; la
+                            bienſeance à des choſes tout oppoſées ; qui employent pour le comique
+                            &amp; pour la maſcarade, ce qui leur a ſervi de parure grave, &amp;
+                            d'ornemens les plus ſerieux ; &amp; que ſi peu de temps faſſe la
+                            difference. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_16_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> Le Courtiſan
-                            autrefois avoit ſes cheveux, eſtoit en chauſſes &amp; en pourpoint,
-                            portoit de larges canons, &amp; il eſtoit libertin ; cela ne ſied plus :
-                            il porte une perruque, l'habit ſerré, le bas uni, &amp; il eſt devot :
-                            tout ſe regle par la mode. </p>
+                        <p xml:id="r13_16_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/>
+                            <pb n="437" source="#P_ed5_ex1"/> Le Courtiſan autrefois avoit ſes <pb
+                                n="376" source="#P_ed4_ex1"/>cheveux, <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>toit</seg> en chauſſes &amp; en pourpoint, portoit de larges
+                            canons, &amp; il <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>toit</seg> libertin ; cela ne ſied plus : il porte une
+                            perruque, l'habit ſerré, le bas uni, &amp; il eſt devot<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> : </rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1"> ; </rdg>
+                                </app></seg>tout ſe regle par la mode. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_17_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
+                        <p xml:id="r13_17_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
                             <pb n="322" source="#P_ed1_ex1"/>
                             <pb n="270" source="#P_ed2_ex1 #P_ed3_ex1"/>
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1"/> Celuy qui depuis
-                            quelque temps à la Cour eſtoit devot, &amp; par là contre toute raiſon
-                            peu éloigné du ridicule, pouvoit-il eſperer de devenir à la mode ? </p>
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/>
+                            Celuy qui depuis quelque temps à la Cour <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>toit</seg> devot, &amp; par là contre toute raiſon peu éloigné
+                            du ridicule, pouvoit-il eſperer de devenir à la mode ? </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_18_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> De quoy
-                            n'eſt point capable un Courtiſan dans la veuë de ſa fortune, ſi pour ne
-                            la pas manquer il devient devot. </p>
+                        <p xml:id="r13_18_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/> De
+                            quoy n'eſt point capable un Courtiſan dans la veuë de ſa fortune, ſi
+                            pour ne la pas manquer il devient devot<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
+                                        >.</rdg>
+                                    <rdg source="#P_ed5_ex1"> ¿</rdg>
+                                </app></seg></p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_23_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> Quand le
-                            Courtiſan ſera humble, gueri du faſte &amp; de l'ambition ; qu'il
-                            n'établira point ſa fortune ſur la ruine de ſes concurrens, qu'il ſera
-                            équitable, ſoulagera ſes vaſſaux, payera ſes creanciers ; qu'il ne ſera
-                            ny fourbe ny médiſant ; qu'il renoncera aux grands repas &amp; aux
-                            amours illegitimes ; qu'il priera autrement que des lévres, &amp; meſme
-                            hors de la preſence du Prince : alors il me perſuadera qu'il eſt devot.
-                        </p>
+                        <p xml:id="r13_19_01" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Les couleurs ſont preparées,
+                            &amp; la <seg>toil<app>
+                                    <rdg source="#P_ed4_ex1">l</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app>e</seg> eſt toute prête ; mais comment le fixer cet homme
+                            inquiet, leger, inconſtant, qui change de mille &amp; mille figures <seg><app>
+                                    <rdg source="#P_ed4_ex1">;</rdg>
+                                    <rdg source="#P_ed5_ex1">:</rdg>
+                                </app></seg> je le peins devot, &amp; je crois l'avoir <seg>attrap<app>
+                                    <rdg source="#P_ed4_ex1">p</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app>é</seg>, mais il m'échappe, &amp; déja il eſt libertin ; qu'il
+                            demeure du moins dans cette mauvaiſe ſituation, &amp; je ſçauray le
+                            prendre dans un point de déreglement de coeur &amp; d'eſprit où il ſera
+                            reconnoiſſable ; mais la mode preſſe, il eſt devot. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_29_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> L'on croit
-                            que la devo<pb n="323" source="#P_ed1_ex1"/><pb n="271"
+                        <p xml:id="r13_23_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"/>
+                            <pb n="438" source="#P_ed5_ex1"/>
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Quand le Courtiſan ſera
+                            humble, <pb n="377" source="#P_ed4_ex1"/>gueri du faſte &amp; de
+                            l'ambition ; qu'il n'établira point ſa fortune ſur la ruine de ſes
+                            concurrens, qu'il ſera équitable, ſoulagera ſes vaſſaux, payera ſes
+                            creanciers ; qu'il ne ſera <seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">ny</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">ni</rdg>
+                                </app></seg> fourbe<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> </rdg>
+                                    <rdg source="#P_ed5_ex1">, </rdg>
+                                </app></seg><seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">ny</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1">ni</rdg>
+                                </app></seg> médiſant ; qu'il renoncera aux grands repas &amp; aux
+                            amours illegitimes ; qu'il priera autrement que des lévres, &amp; <seg>m<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >eſ</rdg>
+                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                </app>me</seg> hors de la <seg>pr<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >e</rdg>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                </app>ſence</seg> du Prince<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> :
+                                        alors il me perſuadera qu'il eſt devot. </rdg>
+                                    <rdg source="#P_ed5_ex1">: quand d'ailleurs il ne ſera point
+                                        d'un abord farouche &amp; difficile ; qu'il n'aura point le
+                                        viſage auſtere &amp; la mine triſte ; qu'il ne ſera point
+                                        pareſſeux &amp; contemplatif, qu'il ſçaura rendre par une
+                                        ſcrupuleuſe attention divers emplois tres-compatibles;qu'il
+                                        pourra &amp; qu'il voudra même tourner ſon eſprit &amp; ſes
+                                        ſoins aux grandes &amp; laborieuſes affaires, à celles ſur
+                                        tout d'une ſuite la plus étenduë pour les peuples &amp; pour
+                                        tout l'Etat ; quand ſon caractere me fera craindre de le
+                                        nommer en cet endroit,&amp; que ſa modeſtie l'empeſchera, ſi
+                                        je ne le nomme pas, de s'y reconnoiſtre ; alors je diray de
+                                        ce perſonnage, il eſt devot ; ou plûtoſt, c'eſt un homme
+                                        donné à ſon ſiecle pour le modele d'u<pb n="439"
+                                            source="#P_ed5_ex1"/>ne vertu ſincere &amp; pour le
+                                        diſcernement de l'hypocrite.</rdg>
+                                </app></seg></p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/>Un homme devot entre dans un
+                            lieu ſaint, perce modeſtement la foule, choiſit un coin pour ſe <seg>rec<app>
+                                    <rdg source="#P_ed4_ex1">u</rdg>
+                                    <rdg source="#P_ed5_ex1">ü</rdg>
+                                </app>eillir</seg>, &amp; où perſonne ne voit qu'il s'humilie ; s'il
+                            entend des Courtiſans qui parlent, qui rient, &amp; qui ſont à la
+                            Chapelle avec moins de ſilence que l'antichambre, quelque comparaiſon
+                            qu'il faſſe de ces perſonnes avec <seg>luy-m<app>
+                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>me</seg>, il ne les mépriſe pas, il ne s'en plaint pas ; il
+                            prie pour eux. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13_29_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/>
+                            L'on croit que la devo<pb n="323" source="#P_ed1_ex1"/><pb n="271"
                                 source="#P_ed2_ex1 #P_ed3_ex1"/>tion de la Cour inſpirera enfin la
                             reſidence. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_27_01" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">
-                            <g ref="#U2761" source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"/> C'eſt une
-                            choſe délicate à un <seg>Prince<app>
-                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1"> </rdg>
+                        <p xml:id="r13_27_01"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1"/>
+                            C'eſt une choſe délicate à un <seg>Prince<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1"> </rdg>
                                     <rdg source="#P_ed3_ex1"/>
-                                </app>Religieux</seg> de reformer la Cour &amp; la rendre pieuſe :
+                                </app></seg><seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
+                                        >R</rdg>
+                                    <rdg source="#P_ed5_ex1">r</rdg>
+                                </app>eligieux</seg> de reformer la Cour &amp; de la rendre pieuſe :
                             inſtruit juſques où le Courtiſan veut luy plaire, &amp; aux dépens de
-                            quoy il feroit ſa fortune, il le ménage avec prudence, il tolere, il
-                            diſſimule de peur de le jetter dans l'hypocriſie ou le ſacrilege ; il
-                            attend plus de Dieu &amp; du temps, que de ſon zele &amp; de ſon
-                            induſtrie. </p>
+                            quoy il feroit ſa fortune, il le ménage avec prudence, il tolere, il <pb
+                                n="378" source="#P_ed4_ex1"/>diſſimule, de peur de le jetter dans <seg>l'h<app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
+                                        >y</rdg>
+                                    <rdg source="#P_ed4_ex1">i</rdg>
+                                </app>pocriſie</seg> ou le ſacrilege<seg><app>
+                                    <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> ; </rdg>
+                                    <rdg source="#P_ed5_ex1">: </rdg>
+                                </app></seg>il attend plus de Dieu &amp; du temps, que de ſon zele
+                            &amp; de ſon induſtrie. </p>
+                    </div3>
+
+                    <div3>
+                        <p xml:id="r13_26_01" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed5_ex1"/><seg>L<app>
+                                    <rdg source="#P_ed4_ex1">'</rdg>
+                                    <rdg source="#P_ed5_ex1"/>
+                                </app>on</seg> a <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>té</seg> loin depuis un ſiecle dans les arts &amp; dans les
+                            ſciences, qui <pb n="440" source="#P_ed5_ex1"/>toutes ont <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>té</seg> pouſſées à un grand point de raffinement, juſques à
+                            celle du ſalut que l'on a reduite en regle &amp; en methode, &amp;
+                            augmentée de tout ce que l'eſprit des hommes pouvoit inventer de plus
+                            beau &amp; de plus ſublime : <note source="#P_ed4_ex1 #P_ed5_ex1"
+                                resp="impr" place="right" rend="devotion" type="precision">Fausse
+                                devotion</note>la devotion &amp; la <seg><app>
+                                    <rdg source="#P_ed4_ex1">g</rdg>
+                                    <rdg source="#P_ed5_ex1">G</rdg>
+                                </app>eometrie</seg> ont leurs façons de parler, ou ce qu'on appelle
+                            les termes de l'art ; celuy qui ne les ſçait pas, n'eſt ni devot ni <seg><app>
+                                    <rdg source="#P_ed4_ex1">g</rdg>
+                                    <rdg source="#P_ed5_ex1">G</rdg>
+                                </app>eometre</seg> : les premiers devots, ceux <seg>m<app>
+                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>mes</seg> qui ont <seg><app>
+                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed5_ex1">eſ</rdg>
+                                </app>té</seg> dirigez par les <seg>Ap<app>
+                                    <rdg source="#P_ed4_ex1">ô</rdg>
+                                    <rdg source="#P_ed5_ex1">oſ</rdg>
+                                </app>tres</seg>, ignoroient ces termes, ſimples gens<seg><app>
+                                    <rdg source="#P_ed4_ex1">, </rdg>
+                                    <rdg source="#P_ed5_ex1"> </rdg>
+                                </app></seg>qui n'avoient que la foy &amp; les oeuvres, &amp; qui ſe
+                            reduiſoient à croire &amp; à bien vivre. </p>
+                    </div3>
+
+
+                    <div3>
+                        <p xml:id="r13_30_01" source="#P_ed4_ex1 #P_ed5_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1"/>
+                            <g ref="#Parsimple" source="#P_ed4_ex1"/>Je ne doute point que la vraye
+                            devotion ne ſoit la ſource du repos ; elle fait ſupporter la vie &amp;
+                            rend la mort douce, on n'en titre pas tant de <seg>l'h<app>
+                                    <rdg source="#P_ed4_ex1">i</rdg>
+                                    <rdg source="#P_ed5_ex1">y</rdg>
+                                </app>pocriſie</seg>. </p>
+                    </div3>
+
+
+                    <div3>
+                        <p xml:id="r13_31_01" source="#P_ed5_ex1">
+                            <g ref="#Pardouble" source="#P_ed5_ex1"/> Chaque heure en ſoy, comme à
+                            noſtre égard eſt unique ; eſt elle écoulée une fois ; elle a peri
+                            entierement, les millions de ſiecles ne la rameneront pas : les jours,
+                            les mois, les années s'enfoncent, &amp; ſe perdent ſans retour dans
+                            l'abyſme des temps ; le temps meſme ſera détruit ; ce n'eſt <pb n="441"
+                                source="#P_ed5_ex1"/>qu'un point dans les eſpaces immenſes de
+                            l'éternité, &amp; il ſera effacé : il y a de legeres &amp; frivoles
+                            circonſtances du temps, qui ne ſont point ſtables, qui paſſent, &amp;
+                            que j'appelle des modes, la grandeur, la faveur, les richeſſes, la
+                            puiſſance, l'aurorité, l'indépendance, le plaiſir, les joyes, la
+                            ſuperfluité. Que deviendront ces modes, quand le temps meſme aura
+                            diſparu ? La vertu ſeule ſi peu à la mode va au delà des temps. </p>
                     </div3>
 
 
