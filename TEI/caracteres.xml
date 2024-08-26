@@ -3046,43 +3046,56 @@
 
                     <div3>
                         <p xml:id="r13_01_01"
-                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                             > Une choſe folle &amp; qui <seg>dé<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >c</rdg>
                                     <rdg source="#P_ed4_ex1">ç</rdg>
                                 </app>ouvre</seg> bien <seg>n<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1"
                                         >oſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1">ô</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        >ô</rdg>
                                 </app>tre</seg> petiteſſe, c'eſt l'aſſujettiſſement aux modes quand
                             on l'étend à ce qui concerne le <seg>go<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1">uſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                    <rdg
+                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >û</rdg>
                                 </app>t</seg>, le vivre, la ſanté &amp; la conſcience. La viande
                             noire eſt hors de mode<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"> </rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">,
-                                    </rdg>
-                                </app></seg>&amp; par cette raiſon inſipide : ce ſeroit pecher
-                            contre la mode que de guerir de la fiévre par la ſaignée : de <seg>m<app>
+                                    <rdg
+                                        source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        >, </rdg>
+                                </app></seg>&amp; par cette raiſon inſipide : ce ſeroit <seg>p<app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        >e</rdg>
+                                    <rdg source="#P_ed8_ex1">é</rdg>
+                                </app>cher</seg> contre la mode que de <seg>gu<app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        >e</rdg>
+                                    <rdg source="#P_ed8_ex1">é</rdg>
+                                </app>rir</seg> de la fiévre par la ſaignée : de <seg>m<app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1 #P_ed6_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">ê</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1 #P_ed8_ex1">ê</rdg>
                                 </app>me</seg> l'on ne <seg>mou<app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
                                         >rr</rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">r</rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
+                                        >r</rdg>
                                 </app>oit</seg> plus depuis <seg>long<app>
                                     <rdg source="#P_ed1_ex1 #P_ed3_ex1"> </rdg>
                                     <rdg
-                                        source="#P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        source="#P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                         >-</rdg>
                                 </app>temps</seg> par <emph style="italic"
-                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"
                                 >Theotime</emph> ; ſes tendres exhortations ne ſauvoient plus que le
                             peuple, &amp; <seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1"><emph
@@ -3091,13 +3104,18 @@
                                     <rdg source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"><emph
                                             style="italic" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
                                             >Theotime</emph></rdg>
-                                    <rdg source="#P_ed7_ex1">Theotime</rdg>
-                                </app></seg> a veu ſon ſucceſſeur. </p>
+                                    <rdg source="#P_ed7_ex1 #P_ed8_ex1">Theotime</rdg>
+                                </app></seg> a <seg>v<app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
+                                        >eu</rdg>
+                                    <rdg source="#P_ed8_ex1">û</rdg>
+                                </app></seg> ſon ſucceſſeur. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_02_01" source="#P_ed6_ex1 #P_ed7_ex1">
-                            <g ref="#U2761" source="#P_ed6_ex1 #P_ed7_ex1"/> La curioſité n'eſt pas
+                        <p xml:id="r13_02_01" source="#P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1">
+                            <g ref="#U2761" source="#P_ed6_ex1 #P_ed7_ex1 #P_ed8_ex1"/> La curioſité n'eſt pas
                             un goût pour ce qui eſt bon ou ce qui eſt beau, mais pour ce qui eſt
                             rare, unique, pour ce qu'on a, &amp; ce que les autres n'ont point. Ce
                             n'eſt pas un attachement à ce qui eſt parfait, mais à ce qui eſt couru,
@@ -3220,7 +3238,7 @@
                                 </app></seg>au contraire c'eſt un des moindres, mais qui
                             m'acheveroit Calot, je travaille depuis vingt ans à recouvrer cette
                             eſtampe, &amp; je deſeſpere enfin d'y réüſſir : cela eſt bien rude. </p>
-                        <p xml:id="r13_02_06" source="#P_ed6_ex1">
+                        <p xml:id="r13_02_06" source="#P_ed6_ex1 #P_ed7_ex1">
                             <pb n="540" source="#P_ed7_ex1"/>Tel autre fait la ſatyre de ces gens
                                 <pb n="487" source="#P_ed6_ex1"/>qui s'engagent par inquietude ou
                             par curioſité dans de longs voyages, qui ne font ny memoires ny
@@ -4158,8 +4176,19 @@
                             verra &amp; qui peut l'enten<pb n="559" source="#P_ed7_ex1"/>dre, non
                                 <pb n="505" source="#P_ed6_ex1"/>ſeulement il prie, mais il medite,
                             il pouſſe des élans &amp; des ſoûpirs ; ſi l'homme de bien ſe retire,
-                            celuy-cy qui le voit partir s'appaiſe &amp; ne ſouffle pas. Il évite une
-                            Egliſe deſerte &amp; ſolitaire<seg><app>
+                            celuy-cy qui le voit partir s'appaiſe &amp; ne ſouffle pas.<seg
+                                ana="r13_d"><app>
+                                    <rdg source="#P_ed6_ex1"> </rdg>
+                                    <rdg source="#P_ed7_ex1">Il entre une autre fois dans un lieu
+                                        ſaint, perce la foule, choiſit un endroit pour ſe recüellir,
+                                        &amp; où tout le monde voit qu'il s'humilie ; s'il entend
+                                        des Courtiſans qui parlent, qui rient, &amp; qui ſont à la
+                                        Chappelle avec moins de ſilence que dans l'antichambre, il
+                                        fait plus de bruit qu'eux pour les faire taire, il reprend
+                                        ſa meditation, qui eſt toûjours la comparaiſon qu'il fait de
+                                        ces perſonnes avec luy-même, &amp; où il trouve ſon
+                                        compte.</rdg>
+                                </app></seg>Il évite une Egliſe deſerte &amp; ſolitaire<seg><app>
                                     <rdg source="#P_ed6_ex1">,</rdg>
                                     <rdg source="#P_ed7_ex1">, </rdg>
                                 </app></seg>où il pourroit entendre deux Meſſes de ſuite, le Sermon,
@@ -4296,12 +4325,36 @@
                                 </app>interroge</seg>, on inſiſte, il ne répond rien, &amp; il a
                             raiſon, il en a aſſez dit. </p>
                     </div3>
-                    
+
                     <div3>
                         <p xml:id="r13_25_01">
-                            <g ref="#U2761" source="#P_ed7_ex1"/>
-                            Riez, <emph style="italic" source="#P_ed7_ex1">Zelie</emph>, ſoyez badine &amp; folâtre à vôtre ordinaire, qu'eſt devenuë vôtre joye ? Je ſuis riche, dites-vous, me voilà au large, &amp; je commence à reſpirer ; riez plus haut, Zelie, éclatez, que ſert une meilleure fortune, ſi elle amene avec ſoy le ſerieux &amp; la triſteſſe ? 
-                        </p>
+                            <g ref="#U2761" source="#P_ed7_ex1"/> Riez, <emph style="italic"
+                                source="#P_ed7_ex1">Zelie</emph>, ſoyez badine &amp; folâtre à vôtre
+                            ordinaire, qu'eſt devenuë vôtre joye ? Je ſuis riche, dites-vous, me
+                            voilà au large, &amp; je commence à reſpirer ; riez plus haut, Zelie,
+                            éclatez, que ſert une meilleure fortune, ſi elle amene avec ſoy le
+                            ſerieux &amp; la triſteſſe ? Imitez les Grands qui ſont nez dans le ſein
+                            de l'opulence, ils rient quelquefois, ils cedent à leur temperament,
+                            ſuives le vôtre ; ne faites pas dire de vous qu'une nouvelle place ou
+                            que quelque mille livres de <seg><app>
+                                    <rdg source="#P_ed7_ex1"
+                                        ana="non lisible, mot trouvé dans l'édition de Bury"
+                                        >rente</rdg>
+                                </app></seg> de plus ou de moins vous font paſſer d'une extremité à
+                            l'autre : je tiens, dites-vous, à la faveur par un endroit, je m'en
+                            doutois, Zelie, mais croyez-moy, ne laiſſez pas de rire, &amp; même de
+                            me ſourire en paſſant comme autrefois ; ne craignez rien, je n'en ſeray
+                            ny plus libre ny plus familiere avec vous, je n'auray pas une moindre
+                            opinion de vous &amp; de vôtre poſte je croiray également que vous êtes
+                                <pb n="565" source="#P_ed7_ex1"/>riche &amp; en faveur : je ſuis
+                            devote, ajoûtez-vous ; c'eſt aſſez, Zelie, &amp; je dois me ſouvenir que
+                            ce n'eſt plus la ſerenité &amp; la joye que le ſentiment d'une bonne
+                            conſcience étale ſur le viſage, les paſſions triſtes &amp; auſteres ont
+                            pris le deſſus &amp; ſe répandent ſur les dehors ; elles menent plus
+                            loin, &amp; l'on ne s'étonne plus de voir que la <note
+                                source="#P_ed7_ex1" place="right" resp="devotion" type="precision"
+                                >Fausse devotion.</note>devotion ſçache encore mieux que la beauté
+                            &amp; la jeuneſſe rendre une femme,fiere &amp; dédaigneuſe.</p>
                     </div3>
 
                     <div3>
@@ -4338,7 +4391,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r13" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
+                        <p xml:id="r13_d" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
                             <g ref="#U2761" source="#P_ed4_ex1 #P_ed6_ex1"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Un homme devot entre dans un
                             lieu ſaint, perce modeſtement la foule, choiſit un coin pour ſe <seg>rec<app>
@@ -4356,9 +4409,9 @@
 
                     <div3>
                         <p xml:id="r13_29_01"
-                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">
                             <g ref="#U2761"
-                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
                             /> L'on croit que la devo<pb n="323" source="#P_ed1_ex1"/><pb n="271"
                                 source="#P_ed2_ex1 #P_ed3_ex1"/>tion de la Cour inſpirera enfin la
                             reſidence. </p>
@@ -4366,108 +4419,134 @@
 
                     <div3>
                         <p xml:id="r13_27_01"
-                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
+                            source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">
                             <g ref="#U2761"
-                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
                             /> C'eſt une choſe délicate à un <seg>Prince<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"> </rdg>
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"> </rdg>
                                     <rdg source="#P_ed3_ex1"/>
                                 </app></seg><seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"
                                         >R</rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">r</rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">r</rdg>
                                 </app>eligieux</seg> de reformer la Cour &amp; de la rendre pieuſe :
                             inſtruit juſques où le Courtiſan veut luy plaire, &amp; aux dépens de
-                            quoy il feroit ſa fortune, il le menage avec prudence, il tolere, il <pb
-                                n="378" source="#P_ed4_ex1"/>diſſimule, de peur de le jetter dans <seg>l'h<app>
+                            quoy il feroit ſa fortune, il le <seg>m<app>
                                     <rdg
-                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                        >e</rdg>
+                                    <rdg source="#P_ed7_ex1">é</rdg>
+                                </app>nage</seg> avec prudence, il tolere, il <pb n="378"
+                                source="#P_ed4_ex1"/>diſſimule, de peur de le jetter dans <seg>l'h<app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"
                                         >y</rdg>
                                     <rdg source="#P_ed4_ex1">i</rdg>
                                 </app>pocriſie</seg> ou le ſacrilege<seg><app>
                                     <rdg source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1"> ; </rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">: </rdg>
-                                </app></seg>il attend plus de Dieu &amp; du temps, que de ſon zele
-                            &amp; de ſon induſtrie. </p>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 ">: </rdg>
+                                    <rdg source="#P_ed7_ex1"> : </rdg>
+                                </app></seg>il attend plus de Dieu &amp; du temps<seg><app>
+                                    <rdg
+                                        source="#P_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1"
+                                        >, </rdg>
+                                    <rdg source="#P_ed7_ex1"> </rdg>
+                                </app></seg>que de ſon zele &amp; de ſon induſtrie. </p>
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_26_01" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
-                            <g ref="#U2761" source="#P_ed4_ex1 #P_ed6_ex1"/>
+                        <p xml:id="r13_26_01" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/><seg>L<app>
-                                    <rdg source="#P_ed4_ex1">'</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">'</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1"/>
                                 </app>on</seg> a <seg><app>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">é</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
                                 </app>té</seg> loin depuis un ſiecle dans les arts &amp; dans les
                             ſciences, qui <pb n="440" source="#P_ed5_ex1"/>toutes ont <seg><app>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">é</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
-                                </app>té</seg> pouſſées à un grand point de raffinement, juſques à
-                            celle du ſalut que l'on a reduite en regle &amp; en methode, &amp;
-                            augmentée de tout ce que l'eſprit des hommes pouvoit inventer de plus
-                            beau &amp; de plus ſu<pb n="511" source="#P_ed6_ex1"/>blime : <note
-                                source="#P_ed4_ex1 #P_ed5_ex1" resp="impr" place="right"
-                                rend="devotion" type="precision">Fausse devotion</note>la devotion
-                            &amp; la <seg><app>
+                                </app>té</seg> pouſſées à un <pb n="566" source="#P_ed7_ex1"/>grand
+                            point de raffinement, juſques à celle du ſalut que l'on a reduite en
+                            regle &amp; en methode, &amp; augmentée de tout ce que l'eſprit des
+                            hommes pouvoit inventer de plus beau &amp; de plus ſu<pb n="511"
+                                source="#P_ed6_ex1"/>blime : <note
+                                source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1" resp="impr"
+                                place="right" rend="devotion" type="precision">Fausse
+                                devotion</note>la devotion &amp; la <seg><app>
                                     <rdg source="#P_ed4_ex1">g</rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">G</rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">G</rdg>
                                 </app>eometrie</seg> ont leurs façons de parler, ou ce qu'on appelle
                             les termes de l'art ; celuy qui ne les ſçait pas, n'eſt ni devot ni <seg><app>
                                     <rdg source="#P_ed4_ex1">g</rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">G</rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">G</rdg>
                                 </app>eometre</seg> : les premiers devots, ceux <seg>m<app>
-                                    <rdg source="#P_ed4_ex1">ê</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">ê</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
                                 </app>mes</seg> qui ont <seg><app>
-                                    <rdg source="#P_ed4_ex1">é</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">é</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
                                 </app>té</seg> dirigez par les <seg>Ap<app>
-                                    <rdg source="#P_ed4_ex1">ô</rdg>
+                                    <rdg source="#P_ed4_ex1 #P_ed7_ex1">ô</rdg>
                                     <rdg source="#P_ed5_ex1 #P_ed6_ex1">oſ</rdg>
                                 </app>tres</seg>, ignoroient ces termes, ſimples gens<seg><app>
                                     <rdg source="#P_ed4_ex1">, </rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1"> </rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1"> </rdg>
                                 </app></seg>qui n'avoient que la foy &amp; les oeuvres, &amp; qui ſe
                             reduiſoient à croire &amp; à bien vivre. </p>
                     </div3>
 
 
                     <div3>
-                        <p xml:id="r13_30_01" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1">
-                            <g ref="#U2761" source="#P_ed4_ex1 #P_ed6_ex1"/>
+                        <p xml:id="r13_30_01" source="#P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">
+                            <g ref="#U2761" source="#P_ed4_ex1 #P_ed6_ex1 #P_ed7_ex1"/>
                             <g ref="#Parsimple" source="#P_ed5_ex1"/>Je ne doute point que la vraye
                             devotion ne ſoit la ſource du repos ; elle fait ſupporter la vie &amp;
-                            rend la mort douce, on n'en titre pas tant de <seg>l'h<app>
+                            rend la mort douce, on n'en tire pas tant de <seg>l'h<app>
                                     <rdg source="#P_ed4_ex1">i</rdg>
-                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">y</rdg>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">y</rdg>
                                 </app>pocriſie</seg>. </p>
                     </div3>
 
 
                     <div3>
-                        <p xml:id="r13_31_01" source="#P_ed5_ex1 #P_ed6_ex1">
+                        <p xml:id="r13_31_01" source="#P_ed5_ex1 #P_ed6_ex1 #P_ed7_ex1">
                             <g ref="#Pardouble" source="#P_ed5_ex1"/>
-                            <g ref="#U2761" source="#P_ed6_ex1"/>Chaque heure en ſoy, comme à noſtre
-                            égard eſt unique ; <seg>eſt<app>
+                            <g ref="#U2761" source="#P_ed6_ex1 #P_ed7_ex1"/>Chaque heure en ſoy,
+                            comme à <seg>n<app>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">oſ</rdg>
+                                    <rdg source="#P_ed7_ex1">ô</rdg>
+                                </app>tre</seg> égard eſt unique ; <seg>eſt<app>
                                     <rdg source="#P_ed5_ex1"> </rdg>
-                                    <rdg source="#P_ed6_ex1">-</rdg>
-                                </app>elle</seg> écoulée une fois ; elle a peri entierement, les
-                            millions de ſiecles ne la rameneront pas : les jours, les mois, les
-                            années s'enfoncent, &amp; ſe perdent ſans retour dans <seg>l'ab<app>
+                                    <rdg source="#P_ed6_ex1 #P_ed7_ex1">-</rdg>
+                                </app>elle</seg> écoulée une fois<seg><app>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1"> ; </rdg>
+                                    <rdg source="#P_ed7_ex1">, </rdg>
+                                </app></seg>elle a peri entierement, les millions de ſiecles ne la
+                            rameneront pas : les jours, les mois, les années s'enfoncent, &amp; ſe
+                            perdent ſans retour dans <seg>l'ab<app>
                                     <rdg source="#P_ed5_ex1">yſ</rdg>
-                                    <rdg source="#P_ed6_ex1">î</rdg>
-                                </app>me</seg> des temps ; le temps meſme ſera détruit ; ce n'eſt
-                                <pb n="441" source="#P_ed5_ex1"/>qu'un point dans les eſpaces
-                            immenſes de l'éternité, &amp; il ſera effacé : il y a de legeres &amp;
-                            frivoles circonſtances du temps, qui ne ſont point ſtables, qui paſſent,
-                            &amp; que j'appelle des modes, la grandeur, la faveur, <pb n="512"
+                                    <rdg source="#P_ed6_ex1 #P_ed7_ex1">î</rdg>
+                                </app>me</seg> des temps ; le temps <seg>m<app>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
+                                    <rdg source="#P_ed7_ex1">ê</rdg>
+                                </app>me</seg> ſera détruit ; ce n'eſt <pb n="441"
+                                source="#P_ed5_ex1"/><pb n="567" source="#P_ed7_ex1"/>qu'un point
+                            dans les eſpaces immenſes de l'éternité, &amp; il ſera effacé : il y a
+                            de legeres &amp; frivoles circonſtances du temps<seg><app>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">, </rdg>
+                                    <rdg source="#P_ed7_ex1"> </rdg>
+                                </app></seg>qui ne ſont point ſtables, qui paſſent, &amp; que
+                            j'appelle des modes, la grandeur, la faveur, <pb n="512"
                                 source="#P_ed6_ex1"/>les richeſſes, la puiſſance, l'aurorité,
                             l'indépendance, le plaiſir, les joyes, la ſuperfluité. Que deviendront
-                            ces modes, quand le temps meſme aura diſparu ? La vertu ſeule ſi peu à
-                            la mode va au delà des temps. </p>
+                            ces modes, quand le temps <seg>m<app>
+                                    <rdg source="#P_ed5_ex1 #P_ed6_ex1">eſ</rdg>
+                                    <rdg source="#P_ed7_ex1">ê</rdg>
+                                </app>me</seg> aura diſparu ? La vertu ſeule ſi peu à la mode va au
+                            delà des temps. </p>
                     </div3>
 
 
