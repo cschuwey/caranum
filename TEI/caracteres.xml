@@ -568,7 +568,9 @@
                         <p xml:id="r01_03_01"
                             source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
+
                                 source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
+
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>C'eſt un métier que de faire
                             un livre<seg><app>
                                     <rdg
@@ -613,8 +615,10 @@
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #L_ed4_ex1 #P_ed5_ex1 #P_ed5_ex2"
                                         >eſ</rdg>
+
                                     <rdg
                                         source="#L_ed1_ex1 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
+
                                         >é</rdg>
                                     <rdg source="#B_ed1_ex1">ê</rdg>
                                 </app>toit</seg> homme délié<seg><app>
@@ -657,6 +661,7 @@
                             source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
                                 source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed3_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
+
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Il n'eſt pas ſi <seg>ai<app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #L_ed4_ex1 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
@@ -672,6 +677,7 @@
                             source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
                                 ><g ref="U2761"
                                 source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed5_ex1 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
+
                                 /><g ref="#U0x2A" source="#B_ed1_ex1"/>Un ouvrage <seg><app>
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #L_ed4_ex1 #P_ed5_ex1 #P_ed5_ex2 #P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
@@ -681,8 +687,10 @@
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #B_ed1_ex1 #L_ed1_ex1 #P_ed2_ex1 #P_ed3_ex1 #P_ed4_ex1 #P_ed4_ex3 #P_ed5_ex1 #P_ed5_ex2"
                                         >i</rdg>
+
                                     <rdg source="#P_ed6_ex1 #P_ed6_ex2 #P_ed7_ex1 #P_ed8_ex1"
                                         >y</rdg>
+
                                 </app>rique</seg> ou qui <seg><app type="word">
                                     <rdg
                                         source="#P_ed1_ex1 #P_ed1_ex2 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1"
@@ -1908,6 +1916,7 @@
                     </div3>
 
                     <div3>
+
                         <p xml:id="r01_42_01" source="#P_ed5_ex1 #P_ed5_ex2">
                             <g ref="#Pardouble" source="#P_ed5_ex1 #P_ed5_ex2"/>
                             <persName type="real" style="smallcaps">Ronsard</persName> &amp; ſes
@@ -2855,6 +2864,7 @@
                             leurs lumieres, ils ne vont pas plus loin, parce qu'ils ne voient rien
                             au delà ; ils ne peuvent au plus qu'eſtre les premiers d'une ſeconde
                             claſſe, &amp; exceller dans le mediocre. </p>
+
                     </div3>
 
                     <div3>
@@ -2875,7 +2885,9 @@
                             vulgaire confondent avec les ſçavans, &amp; que les ſages renvoyent au
                             pedantisme. </p>
 
+
                     </div3>
+
 
 
                     <div3>
@@ -5810,6 +5822,7 @@
                                         >ps</rdg>
                                     <rdg source="#P_ed9_ex1">s</rdg>
                                 </app></seg>. </p>
+
                     </div3>
 
 
