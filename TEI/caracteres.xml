@@ -483,6 +483,11 @@
                         name="CURVED_STEM_PARAGRAPH_SIGN_ORNEMENT"/>
                 </glyph>
 
+                <glyph xml:id="manicule_droite">
+                    <desc>☞</desc>
+                    <desc>☜</desc>
+                </glyph>
+
             </charDecl>
         </encodingDesc>
 
@@ -4836,7 +4841,7 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_21_01" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1">
+                        <p xml:id="r13_21_01" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1"><g ref="#manicule_droite" source="#P_ed8_ex1"/>
                             <g ref="#U2761" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1"/> Negliger
                             Vêpres comme une choſe antique &amp; hors de mode, garder ſa place
                             ſoy-même pour le Salut, ſçavoir les <seg><app>
