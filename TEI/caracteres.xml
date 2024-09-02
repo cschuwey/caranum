@@ -515,7 +515,7 @@
     <text>
         <body>
             <div1>
-                <div2 xml:id="OE">
+                <div2 xml:id="ch01">
                     <head>Des Ouvrages de l'Esprit</head>
                     <div3>
                         <p xml:id="r01_01_01"
@@ -3088,7 +3088,7 @@
 
                 </div2>
 
-                <div2 xml:id="M">
+                <div2 xml:id="ch13">
                     <head>De la Mode</head>
 
                     <div3>
