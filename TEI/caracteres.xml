@@ -2962,7 +2962,7 @@
                                         >, </rdg>
                                     <rdg source="#P_ed4_ex1 #P_ed4_ex3"> </rdg>
                                 </app></seg>de peur de reſſembler à <seg><note source="#B_ed1_ex1"
-                                    resp="imprime" place="left" rend="Dorilas" type="remarque"
+                                    resp="imprime" place="left" rend="Dorilas" type="cle"
                                     >Varillas.</note><emph style="italic"
                                     source="#P_ed1_ex1 #L_ed1_ex1 #B_ed1_ex1 #P_ed2_ex1 #P_ed4_ex1 #P_ed4_ex3"
                                         ><persName ref="#Dorilas" type="pseudo"
@@ -3092,9 +3092,318 @@
 
 
                 </div2>
+                
+                <div2 xml:id="ch12">
+                    <head>Des Jugemens.</head>
+
+                    <div3>
+                        <p source="#P_ed1_ex1">RIen ne reſſemble mieux à la vive perſuaſion que le
+                            mauvais entêtement : de là les partis, les cabales, les hereſies.</p>
+                    </div3>
+                    <div3>
+                        <p source="#P_ed1_ex1"><g ref="" source="#P_ed1_ex1"/>L'on ne penſe pas
+                            toûjours conſtamment d'un meſme sujet : l'entêtement &amp; le dégoût ſe
+                            ſuivent de prés.</p>
+                    </div3>
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Les grandes choses étonnent &amp; les petites
+                            rebutent ; nous nous apprivoiſons avec les unes &amp; les autres par
+                            l'habitude.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Il n'y a rien de plus bas &amp; qui convienne
+                            mieux au peuple, que de parler en des termes magnifiques de ceux-meſme
+                            dont l'on penſoit tres-modesſtement avant leur élevation.</p>
+                    </div3>
+
+                    <div3>
+                        <pb n="304" source="#P_ed1_ex1"/>
+                        <p source="#P_ed1_ex1"><g/>La faveur des Princes n'exclut pas le merite,
+                            &amp; ne le ſuppoſe pas auſſi. </p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Il eſt étonnant qu'avec tout l'orgüeil dont nous
+                            ſommes gonflez, &amp; la haute opinion que nous avons de nous-meſmes
+                            &amp; de la bonté de nôtre jugement, nous negligions de nous en ſervir
+                            pour prononcer ſur le merite des autres ; la vogue, la faveur populaire,
+                            celle du Prince nous entraînent comme un torrent : nous loüons ce qui
+                            eſt loüé, bien plus que ce qui eſt loüable.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Le commun des hommes eſt ſi enclin au déreglement
+                            &amp; à la bagatelle ; &amp; le monde eſt ſi plein d'exemples ou
+                            pernicieux ou ridicules, que je croirois aſſez que l'eſprit de
+                            ſingularité, s'il pouvoit avoir ſes bornes &amp; ne pas aller trop loin,
+                                <pb n="305" source="#P_ed1_ex1"/>approcheront fort de la droite
+                            raiſon, &amp; d'une conduite reguliere.</p>
+                        <p source="#P_ed1_ex1">Il faut faire comme les autres ; maxime ſuſpecte, qui
+                            ſignifie preſque toûjours, il faut mal faire, dés qu'on l'étend au delà
+                            de ces choſes purement exterieures, qui n'ont point de ſuites, qui
+                            dépendent de l'uſage, de la mode ou des bienſeances.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Tel à un Sermon, à une Muſique, ou dans une
+                            Gallerie de Peintures a entendu à ſa droite &amp; à ſa gauche, ſur une
+                            choſe préciſément la meſme, des ſentimens préciſément oppoſez : cela me
+                            ſeroit dire volontiers que l'on peut hazarder dans tout genre d'ouvrages
+                            d'y mettre le bon &amp; le mauvais ; le bon plaiſt aux uns &amp; le
+                            mauvais aux autres ; l'on ne riſque gueres davantages d'y <pb n="306"
+                                source="#P_ed1_ex1"/>mettre le pire, il a ſes partiſans.</p>
+                    </div3>
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Tel connu dans le monde par de grands talens,
+                            honoré &amp; cheri par tout où il ſe trouve, eſt petit dans ſon
+                            domeſtique &amp; aux yeux de ſes proches qu'il n'a pû reduire à
+                            l'eſtimer : Tel autre au contraire, prophete dans ſon païs joüit d'une
+                            vogue qu'il a parmi les ſiens, &amp; qui eſt reſſerrée dans l'enceinte
+                            de sa maiſon ; s'applaudit d'un merite rare &amp; ſingulier, qui luy eſt
+                            accordé par ſa famille dont il eſt l'idole, mais qu'il laiſſe chez ſoy
+                            toutes les fois qu'il ſort, &amp; qu'il ne porte nulle part.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Quel bonheur surprenant a accompagné ce favori
+                            pendant tout le cours de sa vie ? quelle autre fortune mieux ſoûtenuë,
+                            ſans intrruption, ſans la moindre diſgrace ? Les <pb n="306"
+                                source="#P_ed1_ex1"/>premiers poſtes, l'oreille du Prince,
+                            d'immenſes treſors, une ſanté parfaite, &amp; une mort douce : mais quel
+                            étrange compte à rendre d'une vie paſſée dans la faveur ; des conſeils
+                            que l'on a donnez, de ceux qu'on a negligé de donner ou de ſuivre ; des
+                            biens que l'on n'a point fait, des maux au contraire que l'on a fait ou
+                            par ſoy-meſme ou par les autres : en un mot de toute ſa proſperité.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/><persName ref="#Jules-Cesar">Ceſar</persName>
+                            n'eſtoit point trop vieux pour penſer à la conqueſte de l'Univers<note
+                                resp="#LaBruyere" rend="*" place="right">V. les penſées de M. Paſcal
+                                ch. 13 où il dit le contraire.</note> ; il n'avoit point d'autre
+                            beatitude à ſe faire que le cours d'une belle vie, &amp; un grand nom
+                            aprés ſa mort ; né fier, ambitieux, &amp; ſe portant bin comme il
+                            faiſoit, il n pouvoit mieux employer ſon temps qu'à conquerir le monde.
+                                <persName ref="#alexandre-le-grand">Alexandre</persName>
+                            <pb n="308" source="#P_ed1_ex1"/>eſtoit bien jeune pour un deſſein ſi
+                            ſerieux ; il eſt étonnant que dans ce premier âge les femmes ou le vin
+                            n'ayent pas plûtoſt rompu ſon entrepriſe.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Un jeune Prince, d'une race auguſte. L'Amour
+                            &amp; l'Eſperance des peuples. Donné du Ciel pour prolonger la Felicité
+                            de la terre. Plus grand que ſes Ayeux. Fils d'un Heros qui eſt ſon
+                            modele, a déja montré à l'Univers par ſes Divines qualitez, &amp; par
+                            une Vertu anticipée, que les enfans des Heros ſont plus proches de
+                            l'eſtre que les autres hommes<note place="left" rend="*"
+                                resp="#labruyere">Contre la maxime Latine &amp; triviale</note>.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Aprés l'eſprit de diſcernement ce qu'il y a au
+                            monde de plus rare, ce ſont les diamans &amp; les parles.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Un homme eſt fidelle à de certaines pratiques de
+                            religion, on le voit s'en acquiter avec exactitude, personne ne le<pb
+                                n="309" source="#P_ed1_ex1"/>loüe, ny ne le deſapprouve, on n'y
+                            pense pas ; tel autre y revient aprés les avoir negligées dix années
+                            entieres, on ſe récrie, on l'exalte ; cela eſt libre : moy je le blâme
+                            d'un ſi long oubly de ſes devoirs, &amp; je le trouve heureux d'y eſtre
+                            rentré.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Il y a de petites regles, des devoirs, des
+                            bienſeances attachées aux lieux, aux temps, aux peſonnes, qui ne ſe
+                            devinent point à force d'eſprit, &amp; que l'uſage apprend ſans nulle
+                            peine ; juger des hommes par les fautes qui leur échapent en ce genre,
+                            avant qu'ils ſoient aſſez inſtruits, c'eſt en juger par leurs ongles ou
+                            par la pointe de leurs cheveux ; c'est vouloir un jour eſtre
+                            détrompé.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Ceux qui ſans nous connoiſtre assez, penſent mal
+                                de<pb n="310" source="#P_ed1_ex1"/>nous, ne nous font pas de tort :
+                            ce n'eſt pas nous qu'ils attaquent, c'eſt le phantôme de leur
+                            imagination.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>La regle de <persName ref="#descartes"><emph
+                                    rend="smallcaps">Descartes</emph></persName>, qui ne veut pas
+                            qu'on decide ſur les moindres veritez avant qu'elles ſoient connuës
+                            clairement &amp; diſtinctement eſt aſſez belle &amp; aſſez juste, pour
+                            devoir s'étendre au jugement que l'on fait des perſonnes</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Rien ne nous vange mieux des mauvais jugemens que
+                            les hommes font de noſtre eſprit &amp; de nos manieres, que l'indignité
+                            &amp; le mauvais caractere de ceux qu'ils approuvent.</p>
+                        <p source="#P_ed1_ex1">Du meſme fond dont on neglige un homme de merite,
+                            l'on ſçait encore admirer un ſot.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Un ſot eſt celuy qui n'a pas meſme ce qu'il faut
+                            d'eſprit pour eſtre fat.</p>
+                        <pb n="311" source="#P_ed1_ex1"/>
+                        <p source="#P_ed1_ex1">Un fat est celuy que les ſots coirent un homme de
+                            merite.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1">Nous n'approuvons les autres que par les rapports que
+                            nous ſentons qu'ils ont avec nous-meſmes ; &amp; il ſemble qu'eſtimer
+                            quelqu'un, c'eſt l'égaler à ſoy.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1">C'eſt un excés de confiance dans les parens d'eſperer
+                            tout de la bonne éducation de leurs enfans, &amp; une grande erreur d'en
+                            attendre tout &amp; de la negliger.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1">Rien ne découvre mieux quel goût ont les hommes pour
+                            les ſciences &amp; pour les belles lettres, &amp; de quelle utilité ils
+                            les croient dans la Republique, que le prix qu'ils y ont mis, &amp;
+                            l'idée qu'ils ſe forment de ceux qui ont pris le parti de les cultiver.
+                            Il n'y a point d'art ſi mécanique ny de ſi vile condition<pb n="312"
+                                source="#P_ed1_ex1"/>où les avantages ne ſoient plus ſeurs, plus
+                            prompts &amp; plus ſolides. Le Comedien couché dans ſon carroſſe jette
+                            de la bouë au viſage de <persName ref="#Corneille"><emph
+                                    rend="smallcaps">Corneille</emph></persName> qui eſt à pied.
+                            Chez pluſieurs Sçavant &amp; Pedant ſont ſynonimes.</p>
+                        <p source="#P_ed1_ex1">Souvent où le riche parle &amp; parle de doctrine,
+                            c'eſt aux doctes à ſe taire, à écouter, à applaudir s'ils veulent du
+                            moins ne paſſer que pour doctes.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1">Il y a une ſorte de hardieſſe à ſoûtenir devant
+                            certains eſprits la honte de l'érudition : l'on trouve chez eux une
+                            prévention toute établie contre les Sçavans, à qui ils oſtent les
+                            manieres du monde, le ſçavoir vivre, l'eſprit de ſocieté, &amp; qu'ils
+                            renvoyent ainſi dépoüillez à leur cabinet &amp; à leurs livres. Comme
+                            l'ignorance eſt un état paisible, &amp; qui ne coû<pb n="313"
+                                source="#P_ed1_ex1" ana="O"/>te aucune peine, l'on s'y range en
+                            foule, &amp; elle forme à la Cour &amp; à la Ville un nombreux parti qui
+                            l'emporte ſur celuy des Sçavans. S'ils alleguent en leur faveur les noms
+                            de <emph rend="smallcaps"><persName>Harlay</persName></emph>, <emph
+                                rend="smallcaps"><persName>Bossuet</persName></emph>, <emph
+                                rend="smallcaps"><persName>Seguier</persName></emph>, &amp; de tant
+                            d'autres Perſonnages également doctes &amp; polis ; s'ils oſent meſme
+                            citer les grands noms de <emph rend="smallcaps"
+                                    ><persName>Condé</persName></emph>, d'<emph rend="smallcaps"
+                                    ><persName>Enguien</persName></emph>, &amp; de <emph
+                                rend="smallcaps"><persName>Conti</persName></emph>, comme de Princes
+                            qui ont ſçû joindre aux plus belles &amp; aux plus hautes connoiſſances
+                            &amp; l'atticiſme des Grecs &amp; l'ubanité des Romains, l'on ne feint
+                            point de leur dire que ce ſont des exemples ſinguliers ; &amp; s'ils ont
+                            recours à de ſolides raiſons, elles ſont foibles contre la voix de la
+                            multitude. Ilſemble neanmoins que l'on devroit decider ſur cela avec
+                            plus de précaution, &amp; ſe donner<pb n="314" source="#P_ed1_ex1"
+                            />ſeulement la peine de douter, ſi le meſme eſprit qui fait faire de ſi
+                            grands progrez dans des ſciences raiſonnables ; qui fait bien penſer,
+                            bien juger, bien parler &amp; bien écrire, ne pourroit point encore
+                            ſervir à être poli.</p>
+                        <p source="#P_ed1_ex1">Il faut tres-peu de fonds pour la politeſſe dans les
+                            manieres ; il en faut beaucoup pour celle de l'eſprit</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Si les Ambaſſadeurs des Rois étrangers eſtoient
+                            des Singes inſtruits à marcher ſur leurs pieds de derriere, &amp; à ſe
+                            faire entendre par interprete ; nous ne pourrions pas marquer un plus
+                            grand étonnement que celuy que nous donne la juſteſſe de leurs réponſes
+                            &amp; le bon ſens qui paroiſt qulquefois dans leurs diſcours. La
+                            prévention du païs, jointe à l'orgüeil de la nation nous fait oublier
+                            que la raiſon eſt de tous<pb n="315" source="#P_ed1_ex1"/>les climats,
+                            &amp; que l'on penſe juſte par tout où il y a des hommes : nous
+                            n'aimerions pas à eſtre traitez ainſi de ceux que nous appellons
+                            barbares ; &amp; s'il y a en nous quelque barbarie, elle conſiſte à
+                            eſtre épouventez de voir d'autres peuples raiſonner comme nous.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Tous les étrangers ne ſont pas Barbares, &amp;
+                            tous nos compatriotes ne ſont pas civiliſez: de meſme toute Campagne
+                            n'eſt pas agreſte<note resp="#labruyere" place="bottom" type="explain"
+                                rend="*">Ce terme s'entend icy metaphoriquement.</note>, &amp; toute
+                            ville n'eſt pas polie : il y a dans l'Europe un endroit d'une Province
+                            maritime d'un grand Royaume, où le Villageois eſt doux &amp; insinuant,
+                            le Magiſtrat au contraire groſſier, &amp; dont la ruſticité peut paſſer
+                            en proverbe.</p>
+                        <p source="#P_ed1_ex1">Avec un langage ſi pur, une ſi grande recherche dans
+                                nos<pb n="316" source="#P_ed1_ex1"/>habits, des mœurs ſi cultivées,
+                            de ſi belles loix, &amp; un viſsage blanc, nous ſommes barbares pour
+                            quelques peuples.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Si nous entendions dire des Orientaux qu'ils
+                            boivent ordinairement d'une liqueur qui leur monte à la teſte, leur fait
+                            perdre la raiſon, &amp; les fait vomir ; nous dirions, cela eſt bien
+                            barbare.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Il eſt ordinaire &amp; comme naturel de juger du
+                            travail d'autruy ſeulement par rapport à celuy qui nous occupe. Ainſi le
+                            Poëte rempli de grandes &amp; ſublimes idées eſtime peu le diſcours de
+                            l'Orateur qui ne s'exerce ſouvent que ſur de ſimples faits : &amp; celuy
+                            qui écrit l'hiſtoire de ſon païs ne peut comprendre qu'un eſprit
+                            raiſonnable employe ſa vie à imaginer des fictions &amp; à trouver une
+                                rime.<pb n="317" source="#P_ed1_ex1"/>de meſme le Bachelier plongé
+                            dans les quatre premiers ſiecles traite toute autre doctrine de ſcience
+                            triſte, vaine &amp; inutile ; pendant qu'il eſt peut-eſtre mépriſé du
+                            Geometre.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Ce Prelat ne ſe montre point à la Cour, il n'eſt
+                            de nul commerce, on ne le voit point avec des femmes, il ne joë ny à
+                            grande ny à petite prime, il n'aſſiſte ny aux feſtes ni aux ſpctacles,
+                            il n'eſt point homme de caballe, &amp; il n'a point l'eſprit
+                            d'intrigue ; toüjours dans ſon Eveſché, où il fait une reſidence
+                            continuelle, il ne songe qu'à inſtruire ſon peuple par la parole &amp; à
+                            l'édifier par ſon exemple ; il conſume ſon bien en des aumônes, &amp;
+                            ſon corps par la penitence ; il n'a que l'eſprit de regularité, &amp; il
+                            est imitateur<pb n="318" source="#P_ed1_ex1"/>du zele &amp; de la pieté
+                            des Apôtres : comment luy eſt venuë, dit le peuple, cette nouvelle
+                            dignité ?</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Tout le monde s'éleve contre un homme qui entre
+                            en reputation ; à peine ceux qu'il croit ſes amis luy pardonnent-ils un
+                            merite naiſſant, &amp; une premiere vogue qui ſemble l'aſſocier à la
+                            gloire dont ils ſont déja en poſſeſſion : l'on ne ſe rend qu'à
+                            l'extremité, &amp; aprés que le Prince s'eſt declaré par les
+                            recompenſes. Tous alors ſe rapprochent de luy ; &amp; de ce jour-là
+                            ſeulement il prend son rang d'homme de merite.</p>
+                    </div3>
+
+                    <div3>
+                        <p source="#P_ed1_ex1"><g/>Les enfans des Dieux,<note resp="labruyere"
+                                source="#P_ed1_ex1" rend="*">Fils, Petit-fils, Iſſus de Rois.</note>
+                            pour ainſi dire, ſe tirent des regles de la nature, &amp; en ſont comme
+                            l'exception. Ils n'attendent preſque rien du temps &amp; des années
+                            <!--point manquant ed.1-->Le merite chez eux devance l'âge. Ils naiſſent<pb
+                                n="319" source="#P_ed1_ex1"/>inſtruits, &amp; ils ſont plûtoſt des
+                            hommes parfaits que le commun des hommes ne ſort de l'enfance.</p>
+                    </div3>
+
+                </div2>
 
                 <div2 xml:id="ch13">
-                    <head>De la Mode</head>
+                    <head>De la Mode.</head>
 
                     <div3>
                         <p xml:id="r13_01_01"
@@ -4841,7 +5150,8 @@
                     </div3>
 
                     <div3>
-                        <p xml:id="r13_21_01" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1"><g ref="#manicule_droite" source="#P_ed8_ex1"/>
+                        <p xml:id="r13_21_01" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1"><g
+                                ref="#manicule_droite" source="#P_ed8_ex1"/>
                             <g ref="#U2761" source="#P_ed8_ex1 #P_ed9_ex1 #P_ed10_ex1"/> Negliger
                             Vêpres comme une choſe antique &amp; hors de mode, garder ſa place
                             ſoy-même pour le Salut, ſçavoir les <seg><app>
@@ -5832,7 +6142,14 @@
                     </div3>
 
 
+
+
+
+
                 </div2>
+
+
+                
             </div1>
 
         </body>
