@@ -3169,10 +3169,17 @@
                     <head>Du souverain, ou de la République.</head>
 
                     <div3>
-                        <p source="#P_ed09_ex1">
-                            <g ref="#U2761" source="#P_ed09_ex1"/> Rien ne fait plus d'honneur au
-                            Prince, que la modeſtie de ſon favori.</p>
+                        <p source="#P_ed09_ex1 #B_ed01_ex1">
+                            <g ref="#U2761" source="#P_ed09_ex1"/>
+                            <g ref="#U0x2A" source="#B_ed01_ex1"/> Rien ne fait plus d'honneur au
+                            Prince, que la modeſtie de ſon <seg><app>
+                                    <rdg source="#P_ed09_ex1">favori</rdg>
+                                    <rdg source="#B_ed01_ex1">favory</rdg>
+                                </app></seg>.</p>
                     </div3>
+
+                    <!-- Ici se place la remarque notée plus tard comme la n°2 de la 9e édition/voir avec Ambre pour <corresp>-->
+
                     <div3>
                         <p source="#P_ed09_ex1">
                             <g ref="#U2761" source="#P_ed09_ex1"/> Le favori n'a point de fuite ; il
@@ -3362,23 +3369,45 @@
                             ?</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed09_ex1">
-                            <g ref="#U2761" source="#P_ed09_ex1"/>Il y a peu de regles generales
-                            &amp; de meſures certaines pour bien gouverner ; l'on ſuit le temps
-                            &amp; les conjonctures , &amp; cela roule ſur la prudence &amp; ſur les
-                            vûës de ceux qui regnent ; auſſi le chef d'œuvre de l'eſprit, c'eſt le
-                            parfait gouvernement; &amp; ce ne ſeroit peut être pas une choſe
-                            poſſible, ſi les peuples par l'habitude où ils ſont de la dépendance
-                            &amp; de la ſoûmiſſion , ne faiſoient la moitié de l'ouvrage.</p>
+                        <p source="#P_ed09_ex1 #B_ed01_ex1">
+                            <g ref="#U2761" source="#P_ed09_ex1"/>
+                            <g ref="#U0x2A" source="#B_ed01_ex1"/><seg><app>
+                                    <rdg source="#P_ed09_ex1">Il y </rdg>
+                                    <rdg source="#B_ed01_ex1">Ily </rdg>
+                                </app></seg>a peu <seg><app>
+                                    <rdg source="#P_ed09_ex1">de</rdg>
+                                    <rdg source="#B_ed01_ex1">des</rdg>
+                                </app></seg> regles generales &amp; de meſures certaines pour bien
+                            gouverner ; l'on ſuit le temps &amp; les conjonctures , &amp; cela roule
+                            ſur la prudence &amp; ſur les vûës de ceux qui regnent ; auſſi le <seg><app>
+                                    <rdg source="#P_ed09_ex1">chef d'œuvre</rdg>
+                                    <rdg source="#B_ed01_ex1">chef-d'œuvre</rdg>
+                                </app></seg> de l'eſprit<seg><app>
+                                    <rdg source="#P_ed09_ex1">, </rdg>
+                                    <rdg source="#B_ed01_ex1"/>
+                                </app></seg>c'eſt le parfait gouvernement; &amp; ce ne ſeroit <seg><app>
+                                    <rdg source="#P_ed09_ex1">peut être</rdg>
+                                    <rdg source="#B_ed01_ex1">peut-être</rdg>
+                                </app></seg> pas une choſe poſſible, ſi les<seg><app>
+                                    <rdg source="#P_ed09_ex1">p</rdg>
+                                    <rdg source="#B_ed01_ex1">P</rdg>
+                                </app></seg>euples par l'habitude où ils ſont de la dépendance &amp;
+                            de la ſoûmiſſion , ne faiſoient la moitié de l'ouvrage.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed09_ex1">
-                            <g ref="#U2761" source="#P_ed09_ex1"/>Sous un tres grand Roi ceux qui
-                            tiennent les premieres places n'ont que des devoirs faciles , &amp; que
-                            l'on remplit ſans nulle peine: tout coule de ſource ; l'autorité &amp;
-                            le genie du Prince<pb n="275" source="#P_ed09_ex1"/> leur applaniſſent
-                            les chemins, leur épargnent les difficultez , &amp; font tout proſperer
-                            au delà de leur attente : ils ont le mérite de ſubalternes.</p>
+                        <p source="#P_ed09_ex1 #B_ed01_ex1">
+                            <g ref="#U2761" source="#P_ed09_ex1"/>Sous un <seg><app>
+                                    <rdg source="#P_ed09_ex1">tres grand</rdg>
+                                    <rdg source="#B_ed01_ex1">tres-grand</rdg>
+                                </app></seg><seg><app>
+                                    <rdg source="#P_ed09_ex1"> Roi </rdg>
+                                    <rdg source="#B_ed01_ex1"> Roy</rdg>
+                                </app></seg>ceux qui tiennent les premieres places n'ont <pb n="158"
+                                source="#B_ed01_ex1"/>que des devoirs faciles , &amp; que l'on
+                            remplit ſans nulle peine: tout coule de ſource ; l'autorité &amp; le
+                            genie du Prince<pb n="275" source="#P_ed09_ex1"/> leur applaniſſent les
+                            chemins, leur épargnent les difficultez , &amp; font tout proſperer au
+                            delà de leur attente : ils ont le mérite de ſubalternes.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed09_ex1">
@@ -3399,76 +3428,230 @@
                             d'être né Roi ?</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed09_ex1">
-                            <g ref="#U2761" source="#P_ed09_ex1"/>Que de dons du Ciel ne faut il pas
-                            pour bien regner ? Une naiſſance auguſte , un air d'empire &amp;
-                            d'autorité,un viſage qui rempliſſe la curioſité des peuples empreſſez de
-                            voir le Prince, &amp; qui conſerve le reſpect dans le Courtiſan. Une
-                            parfaite égalité d'humeur,un grand éloignement pour la raillerie
-                            piquante , ou aſſez de raiſon pour ne ſe la permettre point ; ne faire
-                            jamais ni menaces,ni reproches,ne point ceder à la colere, &amp; être
-                            toujours obéï. L'eſprit facile, inſinuant ; le cœur ouvert, ſincere,
-                            &amp; dont on croit voir le fond,&amp; ainſi tres-propre à ſe faire des
-                            amis, des creatures , &amp; des alliez ; être ſecret toutefois, profond
-                            &amp; impenetrable dans ſes motifs &amp; dans ſes projets. Du ſerieux
-                            &amp; de la gravité dans le <pb n="276" source="#P_ed09_ex1"/>public :
-                            de la briéveté,jointe à beaucoup de juſſteſſe &amp; de dignité,ſoit dans
-                            les réponſes aux Ambaſſadeurs des Princes,ſoit dans les Conſeils.Une
-                            maniere de faire des graces, qui eſt comme un ſecond bienfait , le choix
-                            des perſonnes que l'on gratifie ; le diſcernement des eſprits,des talens
+                        <p source="#P_ed09_ex1 #B_ed01_ex1">
+                            <g ref="#U2761" source="#P_ed09_ex1"/>
+                            <g ref="#U0x2A" source="#B_ed01_ex1"/>Que de dons du Ciel ne <seg><app>
+                                    <rdg source="#P_ed09_ex1">faut il</rdg>
+                                    <rdg source="#B_ed01_ex1">faut-il</rdg>
+                                </app></seg> pas pour bien regner<seg><app>
+                                    <rdg source="#P_ed09_ex1"> ? </rdg>
+                                    <rdg source="#B_ed01_ex1">. </rdg>
+                                </app></seg>Une naiſſance auguſte , un air d'empire &amp; d'autorité<seg><app>
+                                    <rdg source="#P_ed09_ex1">,</rdg>
+                                    <rdg source="#B_ed01_ex1"> , </rdg>
+                                </app></seg>un viſage qui rempliſſe la curioſité des <seg><app>
+                                    <rdg source="#P_ed09_ex1">peuples</rdg>
+                                    <rdg source="#B_ed01_ex1">Peuples</rdg>
+                                </app></seg> empreſſez de voir le Prince, &amp; qui conſerve le
+                            reſpect dans le Courtiſan. Une parfaite égalité d'humeur<seg><app>
+                                    <rdg source="#P_ed09_ex1">,</rdg>
+                                    <rdg source="#B_ed01_ex1"> , </rdg>
+                                </app></seg>un grand éloignement pour la raillerie piquante , ou
+                            aſſez de raiſon pour ne ſe la permettre point ; ne faire jamais <seg><app>
+                                    <rdg source="#P_ed09_ex1">ni</rdg>
+                                    <rdg source="#B_ed01_ex1">ny</rdg>
+                                </app></seg> menaces<seg><app>
+                                    <rdg source="#P_ed09_ex1">,</rdg>
+                                    <rdg source="#B_ed01_ex1"> </rdg>
+                                </app></seg><seg><app>
+                                    <rdg source="#P_ed09_ex1">ni</rdg>
+                                    <rdg source="#B_ed01_ex1">ny</rdg>
+                                </app></seg> reproches,ne point ceder à la colere, &amp; être <seg><app>
+                                    <rdg source="#P_ed09_ex1">toujours</rdg>
+                                    <rdg source="#B_ed01_ex1">toûjours</rdg>
+                                </app></seg> obéï. L'eſprit facile, inſinuant ; le cœur ouvert,
+                            ſincere, &amp; dont on croit voir le fond,&amp; ainſi tres-propre à ſe
+                            faire des amis, des creatures , &amp; des alliez ; être ſecret toutefois<seg><app>
+                                    <rdg source="#P_ed09_ex1">, </rdg>
+                                    <rdg source="#B_ed01_ex1"> </rdg>
+                                </app></seg>profond &amp; impenetrable dans ſes motifs &amp; dans
+                            ſes projets. Du ſerieux &amp; de la gravité dans le <pb n="276"
+                                source="#P_ed09_ex1"/>public<seg><app>
+                                    <rdg source="#P_ed09_ex1"> : </rdg>
+                                    <rdg source="#B_ed01_ex1">; </rdg>
+                                </app></seg>de la briéveté,jointe à beaucoup de juſſteſſe <pb
+                                n="159" source="#B_ed01_ex1"/>&amp; de dignité,ſoit dans les
+                            réponſes aux Ambaſſadeurs des Princes,ſoit dans les Conſeils.Une maniere
+                            de faire des graces, qui eſt comme un ſecond bienfait , le choix des
+                            perſonnes que l'on gratifie ; le diſcernement des eſprits,des talens
                             &amp; des complexions pour la diſtribution des poſtes &amp; des emplois
                             ; le choix des Generaux &amp; des Miniſtres.Un jugement
-                            ferme,ſolide,déciſif dans les affaires, qui fait que l'on connoit le
-                            meilleur parti &amp; le plus jute ; un eſprit de droiture &amp; d'équité
-                            qui fait qu'on le fuit,juſques à prononcer quelquefois contre ſoi·même
-                            en faveur du peuple , des alliez , des ennemis ; une memoire heureuſe
-                            &amp; tres preſente qui rappelle le bien des ſujets, leurs viſages,
-                            leurs noms, leurs requeſtes. Une vaſte capacité qui s'étende non
-                            ſeulement aux affaires de dehors, au commerce, aux maximes d'Etat, aux
-                            vûës de la politique, au reculement des frontieres par la conqueſte de
-                            nouvelles provinces &amp; à leur ſeureté par un grand nombre de
-                            fortereſſes inacceſſibles ; mais qui ſçache auſſi ſe renfermer au
-                            dedans,&amp; comme dans les détails de tout un Roiaume , qui en baniſſe
-                            un culte faux,ſuſpect &amp; ennemi de la Souveraineté,s'il s'y rencontre
-                            ; qui aboliſſe des uſages cruels &amp; impies , s'ils y regnent; qui
-                            reforme les loix &amp; les coûtumes, ſi elles étoient remplies d'abus ;
-                            qui donne aux Villes plus de ſeureté &amp; plus de commoditez par le
-                            renouvellement d'une exacte police , plus d'éclat &amp; plus de majeſté
-                            par des ediſices ſomptueux. Punit ſeverement les vices ſcandaleux ;
-                            donner par ſon autoritéé &amp; par ſon exemple du credit à la pieté
-                            &amp; à la vertu : proteger l'Egliſe, ſes Miniſtres, ſes droits, ſes
-                            libertez : ménager ſes peuples comme ſes enfans ; être toujours occupé
-                            de la penſée de les ſoulager, de rendre les ſubſides legers &amp; tels
-                            qu'ils ſe <pb n="277" source="#P_ed09_ex1"/>levent ſur les provinces
-                            ſans les appauvrir. De grands talens pour la guerre ; être vigilant,
-                            appliqué,laborieux : avoir des armées nombreuſes, les commander en
-                            perſonne ; être froid dans le peril, ne ménager ſa vie que pour le bien
-                            de ſon Etat , aimer le bien de ſon Etat &amp; ſa gloire plus que ſa vie.
-                            Une puiſſance tres-abſoluë , qui ne laiſſe point d'occaſion aux brigues
-                            , à l'intrique &amp; à la cabale; qui ôte cette diſtance infinie qui eſt
-                            quelquefois entre les grands &amp; les petits, qui les rapproche , &amp;
-                            ſous laquelle tous plient également. Une étenduë de connoiſſance qui
-                            fait que le Prince voit tout par ſes yeux , qu'il agit immediatement
-                            &amp; par lui·même ; que ſes Generaux ne ſont quoi qu'éloignez de lui
-                            que ſes Lieutenans , &amp; les Miniſtres que ſes Miniſtres. Une profonde
-                            ſageſſe qui ſçait declarer la guerre , qui ſçait vaincre &amp; uſer de
-                            la victoire ; qui ſçait faire la paix , qui ſçait la rompre , qui ſçait
-                            quelquefois &amp; ſelon les divers interêts contraindre les ennemis à la
-                            recevoir ; qui donne des regles à une vaſte ambition,&amp; ſçait juſques
-                            où l'on doit conquerir. Au milieu d'ennemis couverts ou declarez ſe
-                            procurer le loiſir des jeux, des fêtes, des ſpectacles ; cultiver les
-                            arts &amp; les ſciences ; former &amp; executer des projets d'édifices
-                            ſurprenans. Un genie enfin ſuperieur &amp; puiſſant qui ſe fait aimer
-                            &amp; reverer des ſiens,craindre des étrangers ; qui fait d'une Cour ,
-                            &amp; même de tout un Roiaume comme une ſeule famille,unie parfaitement
-                            ſous un même chef,dont l'union &amp; la bonne intelligence eſt
-                            redoutable au reſte du monde. Ces admirables vertus me ſemblent
-                            renfermées dans l'idée du Souverain ; il eſt vrai qu'il eſt rare de les
-                            voir réünies dans un même ſujet ; il faut que trop de choſes concourent
-                            à la fois,l'eſprit,le cœur,les dehors,le temperament ; &amp; il me
-                            paroît qu'un Monarque qui les raſſemble <pb n="278" source="#P_ed09_ex1"
-                            />toutes en ſa perſonne, eſt bien digne du nom de <!--  -->Grand
-                            <!--  -->.</p>
+                            ferme,ſolide,déciſif dans les affaires, qui fait que l'on <seg><app>
+                                    <rdg source="#P_ed09_ex1">connoit</rdg>
+                                    <rdg source="#B_ed01_ex1">connoît</rdg>
+                                </app></seg> le meilleur <seg><app>
+                                    <rdg source="#P_ed09_ex1">parti</rdg>
+                                    <rdg source="#B_ed01_ex1">party</rdg>
+                                </app></seg> &amp; le plus juſte<seg><app>
+                                    <rdg source="#P_ed09_ex1"> ; </rdg>
+                                    <rdg source="#B_ed01_ex1">. </rdg>
+                                </app></seg>
+                            <seg><app>
+                                    <rdg source="#P_ed09_ex1">u</rdg>
+                                    <rdg source="#B_ed01_ex1">U</rdg>
+                                </app></seg>n eſprit de droiture &amp; d'équité qui fait qu'on le
+                            fuit,juſques à prononcer quelquefois contre <seg><app>
+                                    <rdg source="#P_ed09_ex1">ſoi·même</rdg>
+                                    <rdg source="#B_ed01_ex1">ſoy-même</rdg>
+                                </app></seg> en faveur du <seg><app>
+                                    <rdg source="#P_ed09_ex1">p</rdg>
+                                    <rdg source="#B_ed01_ex1">P</rdg>
+                                </app></seg>euple , des alliez , des ennemis<seg><app>
+                                    <rdg source="#P_ed09_ex1"> ; </rdg>
+                                    <rdg source="#B_ed01_ex1"> : </rdg>
+                                </app></seg>une memoire heureuſe &amp; <seg><app>
+                                    <rdg source="#P_ed09_ex1">tres preſente</rdg>
+                                    <rdg source="#B_ed01_ex1">tres-preſente</rdg>
+                                </app></seg>
+                            <seg><app>
+                                    <rdg source="#P_ed09_ex1"> </rdg>
+                                    <rdg source="#B_ed01_ex1"> , </rdg>
+                                </app></seg> qui rappelle <seg><app>
+                                    <rdg source="#P_ed09_ex1">le bien</rdg>
+                                    <rdg source="#B_ed01_ex1">les beſoins</rdg>
+                                </app></seg> des ſujets, <seg><app>
+                                    <rdg source="#P_ed09_ex1">leurs viſages,</rdg>
+                                    <rdg source="#B_ed01_ex1"/>
+                                </app></seg> leurs noms, leurs requeſtes. Une vaſte capacité qui
+                            s'étende non ſeulement aux affaires de dehors, au commerce, aux maximes
+                            d'Etat, aux <seg><app>
+                                    <rdg source="#P_ed09_ex1">vûës</rdg>
+                                    <rdg source="#B_ed01_ex1">vûĕs</rdg>
+                                </app></seg> de la politique, au reculement des <seg><app>
+                                    <rdg source="#P_ed09_ex1">frontieres</rdg>
+                                    <rdg source="#B_ed01_ex1">Frontieres</rdg>
+                                </app></seg> par la conqueſte de nouvelles <seg><app>
+                                    <rdg source="#P_ed09_ex1">provinces</rdg>
+                                    <rdg source="#B_ed01_ex1">Provinces ,</rdg>
+                                </app></seg> &amp; à leur <seg><app>
+                                    <rdg source="#P_ed09_ex1">ſeureté</rdg>
+                                    <rdg source="#B_ed01_ex1">ſûreté</rdg>
+                                </app></seg> par un grand nombre de <seg><app>
+                                    <rdg source="#P_ed09_ex1">fortereſſes</rdg>
+                                    <rdg source="#B_ed01_ex1">Fortereſſes</rdg>
+                                </app></seg> inacceſſibles ; mais qui ſçache auſſi ſe renfermer au
+                            dedans,&amp; <pb n="160" source="#B_ed01_ex1"/>comme dans les détails de
+                            tout un <seg><app>
+                                    <rdg source="#P_ed09_ex1">Roiaume</rdg>
+                                    <rdg source="#B_ed01_ex1">Royaume</rdg>
+                                </app></seg><seg><app>
+                                    <rdg source="#P_ed09_ex1"> , </rdg>
+                                    <rdg source="#B_ed01_ex1"> ; </rdg>
+                                </app></seg>qui en baniſſe un culte faux,ſuſpect &amp; <seg><app>
+                                    <rdg source="#P_ed09_ex1">ennemi</rdg>
+                                    <rdg source="#B_ed01_ex1">ennemy</rdg>
+                                </app></seg> de la Souveraineté,s'il s'y rencontre ; qui aboliſſe
+                            des uſages cruels &amp; impies , s'ils y regnent; qui reforme les <seg><app>
+                                    <rdg source="#P_ed09_ex1">loix</rdg>
+                                    <rdg source="#B_ed01_ex1">Loix</rdg>
+                                </app></seg> &amp; les coûtumes, ſi elles <seg><app>
+                                    <rdg source="#P_ed09_ex1">étoient</rdg>
+                                    <rdg source="#B_ed01_ex1">êtoient</rdg>
+                                </app></seg> remplies d'abus ; qui donne aux Villes plus de ſeureté
+                            &amp; plus de commoditez par le renouvellement d'une exacte police ,
+                            plus d'éclat &amp; plus de <seg><app>
+                                    <rdg source="#P_ed09_ex1">majeſté</rdg>
+                                    <rdg source="#B_ed01_ex1">Majeſté</rdg>
+                                </app></seg> par des <!-- vérifier le "e" dans Bruxelles -->ediſices
+                            ſomptueux. Punir ſeverement les vices ſcandaleux ; donner par ſon
+                            autorité &amp; par ſon exemple du credit à la pieté &amp; à la vertu :
+                            proteger l'Egliſe, ſes Miniſtres, ſes droits, ſes libertez : ménager ſes <seg><app>
+                                    <rdg source="#P_ed09_ex1">p</rdg>
+                                    <rdg source="#B_ed01_ex1">P</rdg>
+                                </app></seg>euples comme ſes enfans ; être <seg><app>
+                                    <rdg source="#P_ed09_ex1">toujours</rdg>
+                                    <rdg source="#B_ed01_ex1">toûjours</rdg>
+                                </app></seg> occupé de la penſée de les ſoulager, de rendre les
+                            ſubſides legers &amp; tels qu'ils ſe <pb n="277" source="#P_ed09_ex1"
+                            />levent ſur les <seg><app>
+                                    <rdg source="#P_ed09_ex1">p</rdg>
+                                    <rdg source="#B_ed01_ex1">P</rdg>
+                                </app></seg>rovinces ſans les appauvrir. De grands talens pour la
+                            guerre ; être vigilant, appliqué,laborieux<seg><app>
+                                    <rdg source="#P_ed09_ex1"> : </rdg>
+                                    <rdg source="#B_ed01_ex1"> ;</rdg>
+                                </app></seg>avoir des armées nombreuſes, les commander en perſonne<seg><app>
+                                    <rdg source="#P_ed09_ex1"> ; </rdg>
+                                    <rdg source="#B_ed01_ex1"> ,</rdg>
+                                </app></seg>être froid dans le peril, ne ménager ſa vie que pour le
+                            bien de ſon Etat , aimer le bien de ſon Etat &amp; ſa gloire plus que ſa
+                            vie. Une puiſſance tres-abſo<pb n="161" source="#B_ed01_ex1"/>luë , <seg><app>
+                                    <rdg source="#P_ed09_ex1">qui ne laiſſe point d'occaſion aux
+                                        brigues , à l'intrique &amp; à la cabale;</rdg>
+                                    <rdg source="#B_ed01_ex1"/>
+                                </app></seg> qui ôte cette diſtance infinie qui eſt quelquefois
+                            entre les <seg><app>
+                                    <rdg source="#P_ed09_ex1">g</rdg>
+                                    <rdg source="#B_ed01_ex1">G</rdg>
+                                </app></seg>rands &amp; les petits, qui les rapproche , &amp; ſous
+                            laquelle tous plient également<seg><app>
+                                    <rdg source="#P_ed09_ex1">. </rdg>
+                                    <rdg source="#B_ed01_ex1">; </rdg>
+                                </app></seg>
+                            <seg><app>
+                                    <rdg source="#P_ed09_ex1"/>
+                                    <rdg source="#B_ed01_ex1">qui ne laiſſe point d'occaſion aux
+                                        brigues , à l'intrique &amp; à la caballe; </rdg>
+                                </app></seg>
+                            <seg><app>
+                                    <rdg source="#P_ed09_ex1">Une étenduë de connoiſſance</rdg>
+                                    <rdg source="#B_ed01_ex1"/>
+                                </app></seg> qui fait que le Prince voit tout par ſes yeux , qu'il
+                            agit immediatement &amp; par <seg><app>
+                                    <rdg source="#P_ed09_ex1">lui·même </rdg>
+                                    <rdg source="#B_ed01_ex1">luy-même</rdg>
+                                </app></seg>; que ſes Generaux ne ſont <seg><app>
+                                    <rdg source="#P_ed09_ex1">quoi</rdg>
+                                    <rdg source="#B_ed01_ex1">quoy</rdg>
+                                </app></seg> qu'éloignez de <seg><app>
+                                    <rdg source="#P_ed09_ex1">lui</rdg>
+                                    <rdg source="#B_ed01_ex1">luy</rdg>
+                                </app></seg> que ſes Lieutenans , &amp; les Miniſtres que ſes
+                            Miniſtres. Une profonde ſageſſe qui ſçait declarer la guerre , qui ſçait
+                            vaincre &amp; uſer de la victoire ; qui ſçait faire la paix , qui ſçait
+                            la rompre , qui ſçait quelquefois &amp; ſelon les divers interêts
+                            contraindre les ennemis à la recevoir ; qui donne des regles à une vaſte
+                            ambition,&amp; ſçait juſques où l'on doit conquerir. Au milieu d'ennemis
+                            couverts ou declarez ſe procurer le loiſir des jeux, des fêtes, des
+                            ſpectacles ; cultiver les arts &amp; les ſciences ; former &amp;
+                            executer des <seg><app>
+                                    <rdg source="#P_ed09_ex1">projets</rdg>
+                                    <rdg source="#B_ed01_ex1">projéts</rdg>
+                                </app></seg> d'édifices ſurprenans. Un genie enfin ſuperieur &amp;
+                            puiſſant qui ſe fait aimer &amp; reverer des ſiens,craindre des
+                            étrangers ; qui fait d'une Cour<seg><app>
+                                    <rdg source="#P_ed09_ex1"> , </rdg>
+                                    <rdg source="#B_ed01_ex1"> </rdg>
+                                </app></seg>&amp; même de tout un <seg><app>
+                                    <rdg source="#P_ed09_ex1">Roiaume</rdg>
+                                    <rdg source="#B_ed01_ex1">Royaume</rdg>
+                                </app></seg>
+                            <pb n="162" source="#B_ed01_ex1"/>comme une ſeule famille<seg><app>
+                                    <rdg source="#P_ed09_ex1">,</rdg>
+                                    <rdg source="#B_ed01_ex1"> </rdg>
+                                </app></seg>unie parfaitement ſous un même <seg><app>
+                                    <rdg source="#P_ed09_ex1">chef</rdg>
+                                    <rdg source="#B_ed01_ex1">Chef</rdg>
+                                </app></seg>,dont l'union &amp; la bonne intelligence eſt redoutable
+                            au reſte du monde. Ces admirables vertus me ſemblent renfermées dans
+                            l'idée <seg><app>
+                                    <rdg source="#P_ed09_ex1">du</rdg>
+                                    <rdg source="#B_ed01_ex1">d'un</rdg>
+                                </app></seg> Souverain ; il eſt <seg><app>
+                                    <rdg source="#P_ed09_ex1">vrai</rdg>
+                                    <rdg source="#B_ed01_ex1">vray</rdg>
+                                </app></seg> qu'il eſt rare de les voir <seg><app>
+                                    <rdg source="#P_ed09_ex1">réünies </rdg>
+                                    <rdg source="#B_ed01_ex1"/>
+                                </app></seg>dans un même ſujet ; il faut que trop de choſes
+                            concourent à la fois,l'eſprit,le cœur,les dehors,le temperament<seg><app>
+                                    <rdg source="#P_ed09_ex1"> ; il me paroît qu'un Monarque</rdg>
+                                    <rdg source="#B_ed01_ex1"> : delà vient que le Monarque</rdg>
+                                </app></seg>&amp; qui les raſſemble <pb n="278" source="#P_ed09_ex1"
+                            />toutes en ſa perſonne, <seg><app>
+                                    <rdg source="#P_ed09_ex1">eſt bien digne du</rdg>
+                                    <rdg source="#B_ed01_ex1">ne merite rien de moins que le</rdg>
+                                </app></seg> nom de <!--  -->Grand <!--  -->.</p>
                     </div3>
 
                 </div2>
