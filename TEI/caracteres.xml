@@ -4522,21 +4522,21 @@
 
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_105_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/><persName
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="#Pdm"/><persName
                                 ref="#Jules-Cesar">Ceſar</persName> n'<seg><app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed04_ex3">é</rdg>
-                                </app>toit</seg> point trop vieux pour penſer à la conqu<app
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">é</rdg>
+                                </app>toit</seg> point trop vieux<pb source="#P_ed05_ex1" n="405"/> pour penſer à la conqu<app
                                 type="#spell">
 
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >eſ</rdg>
-                                <rdg source="#P_ed04_ex3">ê</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                             </app>te de l'Univers<note resp="#LaBruyere" rend="*" place="right"
-                                >V. les penſées de M. Paſcal, <seg>ch. <app>
+                                >V. les <seg><app type="#caps"><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed02_ex1"></rdg><rdg source="#P_ed04_ex3 #P_ed05_ex1">P</rdg></app>enſées</seg> de M. Paſcal, <seg>ch. <app>
                                         <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1">13</rdg>
-                                        <rdg source="#P_ed02_ex1 #P_ed04_ex3">31</rdg>
+                                    <rdg source="#P_ed02_ex1 #P_ed04_ex3 #P_ed05_ex1">31</rdg>
                                     </app></seg> où il dit le contraire.</note> ; il n'avoit point
                             d'autre beatitude à ſe faire que le cours d'une belle vie, &amp; un
                             grand nom aprés ſa mort ; né fier, ambitieux, &amp; ſe portant bien
@@ -4546,7 +4546,7 @@
                                 source="#P_ed02_ex1 #P_ed03_ex1"/><seg><app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed04_ex3">é</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">é</rdg>
                                 </app>toit</seg> bien jeune pour un deſſein ſi ſerieux ; il eſt
                             étonnant que dans ce premier âge les femmes ou le vin n'ayent pas
                             plûtoſt rompu ſon entrepriſe.</p>
@@ -4555,58 +4555,58 @@
 
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_106_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
-                                /><emph style="smallcaps" source="#P_ed04_ex3">Un jeune Prince,
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="#Pdm"
+                            /><emph style="smallcaps" source="#P_ed04_ex3">Un <app type="#ms"><rdg source="#P_ed05_ex1" resp="#hand">j</rdg><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">j</rdg></app>eune Prince,
                                 d'une race auguſte. L'<seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >A</rdg>
-                                        <rdg source="#P_ed04_ex3">a</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">a</rdg>
                                     </app>mour</seg> &amp; l'<seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >Eſ</rdg>
-                                        <rdg source="#P_ed04_ex3">es</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">es</rdg>
                                     </app>perance</seg> des peuples. Donné du Ciel pour prolonger la <app>
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >F</rdg>
-                                    <rdg source="#P_ed04_ex3">f</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">f</rdg>
                                 </app>elicité de la terre. Plus grand que ſes Ayeux. Fils d'un Heros
                                 qui <seg>e<app type="#spell">
 
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >ſ</rdg>
-                                        <rdg source="#P_ed04_ex3">s</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">s</rdg>
                                     </app>t</seg> ſon modele, a déja montré à l'Univers par ſes <seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >D</rdg>
 
 
-                                        <rdg source="#P_ed04_ex3">d</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">d</rdg>
                                     </app>ivines</seg> qualitez, &amp; par une <seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >V</rdg>
-                                        <rdg source="#P_ed04_ex3">v</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">v</rdg>
                                     </app>ertu</seg> anticipée, que les <seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >e</rdg>
-                                        <rdg source="#P_ed04_ex3">E</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">E</rdg>
                                     </app>nfans</seg> des Heros <seg><app type="#spell">
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >ſ</rdg>
-                                        <rdg source="#P_ed04_ex3">s</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">s</rdg>
                                     </app>ont</seg> plus proches de l'<seg>e<app type="#spell">
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >ſ</rdg>
-                                        <rdg source="#P_ed04_ex3">s</rdg>
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">s</rdg>
                                     </app>tre</seg> que les autres hommes</emph><note place="left"
-                                resp="#labruyere"><g ref="*" source="#P_ed01_ex1 #P_ed01_ex2"/><g
+                                        resp="#labruyere"><g ref="*" source="#P_ed01_ex1 #P_ed01_ex2 #P_ed05_ex1"/><g
                                     ref="✝" source="#P_ed02_ed1 #P_ed03_ex1"/>Contre la maxime
                                 Latine &amp; triviale.</note>.</p>
                     </div3>
@@ -4829,22 +4829,23 @@
                             prévention toute établie contre les <seg><app>
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2">S</rdg>
                                     <rdg source="#P_ed02_ex1 #P_ed03_ex1">s</rdg>
+                                <rdg source="#P_ed05_ex1">ſ</rdg>
                                 </app>çavans</seg>, à qui ils <seg><app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2">oſ</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">ô</rdg>
-                                </app></seg>tent les manieres du monde, le ſçavoir vivre, l'eſprit
-                            de ſocieté, &amp; qu'ils renvoyent ainſi dépoüillez à leur cabinet &amp;
+                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1">ô</rdg>
+                                </app>tent</seg> les manieres du monde, le ſçavoir vivre, l'eſprit
+                            de ſocieté, &amp; qu'ils renvoyent ainſi <seg>dépo<app><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">ü</rdg><rdg source="#P_ed05_ex1">u</rdg></app>illez</seg> à leur cabi<pb source="#P_ed05_ex1" n="399"/>net &amp;
                             à leurs livres. Comme l'ignorance eſt un état paisible, &amp; qui ne
                                 coû<pb n="313" source="#P_ed01_ex1" ana="O"/><pb n="261"
                                 source="#P_ed02_ex1 #P_ed03_ex1"/>te au<pb n="349"
                                 source="#P_ed04_ex3"/>cune peine, l'on s'y range en foule, &amp;
                             elle forme à la <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3"
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >C</rdg>
                                     <rdg source="#P_ed02_ex1">c</rdg>
                                 </app>our</seg> &amp; à la Ville un nombreux parti qui l'emporte ſur
                             celuy des <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">S</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed05_ex1">S</rdg>
                                     <rdg source="#P_ed02_ex1 #P_ed03_ex1">s</rdg>
 
                                 </app>çavans</seg>. S'ils alleguent en leur faveur les noms de
@@ -4853,7 +4854,7 @@
                                     <emph rend="smallcaps"><persName>Seguier</persName></emph>, <app
                                     type="#names">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
-                                    <rdg source="#P_ed04_ex3"><emph rend="smallcaps"
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1"><emph rend="smallcaps"
                                                 ><persName>Montausier</persName></emph>, <emph
                                             rend="smallcaps"><persName>VVardes</persName></emph>,
                                             <emph rend="smallcaps"
@@ -4867,7 +4868,7 @@
                                         ><persName>Pelisson</persName></emph></rdg>
                                 </app></seg>, &amp; de tant d'autres Perſonnages également doctes
                             &amp; polis ; s'ils oſent <seg>m<app type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3"
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >eſ</rdg>
                                     <rdg source="#P_ed02_ex1">ê</rdg>
                                 </app>me</seg> citer les grands noms de <seg><emph rend="smallcaps"
@@ -4875,98 +4876,119 @@
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                             >d'<emph rend="smallcaps"
                                             ><persName>Enguien</persName></emph>, &amp; </rdg>
-                                    <rdg source="#P_ed04_ex3"/>
+                                            <rdg source="#P_ed04_ex3 #P_ed05_ex1"/>
                                 </app>de <emph rend="smallcaps"><persName>Conti</persName></emph>,
                                     <app type="#names">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
-                                    <rdg source="#P_ed04_ex3">de <emph rend="smallcaps"
+                                        <rdg source="#P_ed04_ex3 #P_ed05_ex1">de <emph rend="smallcaps"
                                                 ><persName>Bourbon</persName></emph>, du <emph
                                             rend="smallcaps"><persName>Maine</persName></emph>, de
                                             <emph rend="smallcaps"
                                             ><persName>Vendôme</persName></emph>,</rdg>
                                 </app></seg> comme de Princes qui ont ſçû joindre aux plus belles
                             &amp; aux plus hautes connoiſſances &amp; l'atticiſme des Grecs &amp;
-                            l'urbanité des Romains, l'on ne feint point de leur dire que ce ſont des
-                            exemples ſinguliers ; &amp; s'ils ont recours à de ſolides raiſons,
+                            l'urbanité des Romains<app type="#punct"><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">,</rdg><rdg source="#P_ed05_ex1"> ;</rdg></app> l'on ne feint point de leur dire que ce ſont des
+                            exemples ſinguliers <app type="#punct"><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"> ;</rdg><rdg source="#P_ed05_ex1"> :</rdg></app> &amp; s'ils ont recours à de ſolides raiſons,
                             elles ſont foibles contre la voix de la multitude. Il ſemble neanmoins
                             que l'on devroit decider ſur cela avec plus de précaution, &amp; ſe
                                 donner<pb n="314" source="#P_ed01_ex1"/><pb n="262"
                                 source="#P_ed02_ex1 #P_ed03_ex1"/>ſeulement la peine de douter, ſi
                             le m<app type="#spell">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2">eſ</rdg>
-                                <rdg source="#P_ed02_ex1 #P_ed03_ex1">ê</rdg>
-                            </app>me eſprit qui fait faire de ſi grands progrez dans des ſciences
-                            raiſonnables ; qui fait bien penſer, bien juger, bien parler &amp; bien
-                            écrire, ne pourroit point encore ſervir à être poli.</p>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1">eſ</rdg>
+                                <rdg source="#P_ed04_ex3">ê</rdg>
+                            </app>me eſprit qui fait faire de ſi grands progrez<pb source="P_ed05_ex1" n="400"/>dans <seg><app><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">des ſciences
+                                raiſonnables</rdg><rdg source="#P_ed05_ex1">les ſciences</rdg></app></seg> ; qui fait bien penſer, bien juger, bien parler &amp; bien
+                            écrire, ne pourroit point encore ſervir à <seg><app type="#spell" cert="low">
+                                <rdg source="#P_ed05_ex1">eſ</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">ê</rdg>
+                            </app>tre</seg> poli.</p>
                         <pb source="#P_ed04_ex3" n="350"/>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                             xml:id="r12_18_02">Il faut tres-peu de fonds pour la politeſſe dans les
                             manieres ; il en faut beaucoup pour celle de l'eſprit.</p>
                     </div3>
+                    
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Si les
+                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/>
+                            Il eſt ſçavant, dit un politique ; il eſt donc incapable d'affaires, je ne luy confierois l'état de ma garderobe ; &amp; il a raiſon. <emph><persName>Ossat</persName></emph>, <emph><persName>Ximenes</persName></emph>, <emph><persName>Richelieu</persName></emph> eſtoient ſçavants, eſtoient-ils habiles ? ont-ils paſſé pour de bons Miniſtres ? Il ſçait le Grec, continuë l'homme d'Etat, c'eſt un Grimaud, c'eſt un Philoſophe. Et en effet, une Fruitiere à Athenes ſelon les apparences parloit Grec, &amp; par cette raiſon eſtoit Philoſophe : les <emph><persName>Bignons</persName></emph>, les <emph><persName>Lamoignons</persName></emph> eſtoient de purs grimauds, qui en peut douter ? ils ſçavoient le Grec. Quelle viſion, quel delire au grand, au ſage, au judicieux Antonin ! de dire qu'<emph rend="italic">alors les peuples ſeroient heureux, ſi l'Empereur philoſophoit, ou ſi le Philoſophe, ou le grimaud venoit à l'Empire.</emph></p>
+                        <pb source="#P_ed05_ex1" n="401"/>
+                        <p source="#P_ed05_ex1">Les langues ſont la clef ou l'entrée des ſciences, &amp; rien davantage ; le mépris des unes tombe ſur les autres : il ne s'agit point ſi les langues ſont anciennes ou nouvelles, mortes ou vivantes ; mais ſi elles ſont grossieres ou polies ; ſi les livres qu'elles ont formez, ſont d'un bon ou d'un mauvais goût. Suppoſons que noſtre langue pût un jour avoir le ſort de la Grecque &amp; de la Latine, ſeroit-on pedant quelques ſiecles aprés qu'on ne la perleroit plus, pour lire <emph><persName>Moliere</persName></emph> ou <emph><persName>la Fontaine</persName></emph> ?</p>
+                    </div3>
+                    
+                    
+                    
+                    <div3>
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"><g
+                            source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="#Parsimple"/>Si les
                             Ambaſſadeurs des <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">Rois</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">Princes</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">Rois</rdg>
+                                <rdg source="#P_ed04_ex1 #P_ed05_ex1">Princes</rdg>
                                 </app></seg> étrangers eſtoient des Singes inſtruits à marcher ſur
                             leurs pieds de derriere, &amp; à ſe faire entendre par
                                     interprete<seg><app type="#punct">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2"> ;</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">,</rdg>
-                                </app></seg> nous ne pourrions pas marquer un plus grand étonnement
-                            que celuy que nous donne la juſteſſe de leurs réponſes &amp; le bon ſens
+                                        <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"> ;</rdg>
+                                        <rdg source="#P_ed04_ex1 #P_ed05_ex1">,</rdg>
+                                    </app></seg> nous ne pourrions pas marquer un plus grand étonnement<seg><app type="#punct">
+                                        <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1"/>
+                                        <rdg source="#P_ed05_ex1">,</rdg>
+                                    </app></seg> que celuy que nous donne la juſteſſe de leurs réponſes<seg><app type="#punct">
+                                        <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1"/>
+                                        <rdg source="#P_ed05_ex1">,</rdg>
+                                    </app></seg> &amp; le bon ſens
                             qui <seg>paro<app type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">iſ</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">î</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1">iſ</rdg>
+                                    <rdg source="#P_ed04_ex1">î</rdg>
                                 </app>t</seg> qulquefois dans leurs diſcours. La prévention du païs,
                             jointe à l'orgüeil de la nation nous fait oublier que la raiſon eſt de
                                 tous<pb n="315" source="#P_ed01_ex1"/><pb n="263"
                                 source="#P_ed02_ex1 #P_ed03_ex1"/>les climats, &amp; que l'on penſe
                             juſte par tout où il y a des hommes : nous n'aimerions pas <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed04_ex3"
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >à</rdg>
                                     <rdg source="#P_ed03_ex1"/>
-                                </app></seg> eſtre traitez ainſi de ceux que nous appellons
+                            </app></seg> eſtre traitez ainſi de ceux que nous<pb source="#P_ed05_ex1" n="401"/> appellons
                             barbares ; &amp; s'il y a en nous quelque barbarie, elle conſiſte à
                                     <seg><app type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">eſ</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">ê</rdg>
-                                </app></seg>tre épouventez de voir d'autres peuples raiſonner comme
+                                        <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1">eſ</rdg>
+                                        <rdg source="#P_ed04_ex3">ê</rdg>
+                                    </app></seg>tre <seg>épouv<app type="#spell">
+                                        <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">e</rdg>
+                                        <rdg source="#P_ed05_ex1">a</rdg>
+                                    </app>ntez</seg> de voir d'autres peuples raiſonner comme
                             nous.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Tous les
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"><g
+                            source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="#Pdm"/>Tous les
                             étrangers ne ſont pas <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">B</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">b</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">B</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">b</rdg>
                                 </app>arbares</seg>, &amp; tous nos compatriotes ne ſont pas
                             civiliſez : de meſme toute <app>
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2">C</rdg>
-                                <rdg source="#P_ed02_ex1 #P_ed03_ex1">c</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">C</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">c</rdg>
                             </app>ampagne n'eſt pas agreſte<note resp="#labruyere" place="bottom"
-                                type="explain"><g ref="*"/>Ce terme s'entend icy
+                                type="explain"><g rend="*" source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"/><g rend="✝" source="#P_ed05_ex1"/>Ce terme s'entend icy
                                 metaphoriquement.</note>, &amp; toute ville n'eſt pas polie <app>
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2">:</rdg>
-                                <rdg source="#P_ed02_ex1 #P_ed03_ex1"> ;</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1">:</rdg>
+                                    <rdg source="#P_ed04_ex3"> ;</rdg>
                             </app> il y a dans l'Eu<pb n="351" source="#P_ed04_ex3"/>rope un endroit
                             d'une Province maritime d'un grand Royaume, où le Villageois eſt doux
                             &amp; insinuant, le <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2">Magiſtrat</rdg>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1"> Bourgeois</rdg>
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">Magiſtrat</rdg>
+                                <rdg source="#P_ed04_ex1 #P_ed05_ex1"> Bourgeois</rdg>
                                 </app> au contraire <app type="#words">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2"/>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">et le Magiſtrat</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
+                                    <rdg source="#P_ed04_ex1 #P_ed05_ex1">et le Magiſtrat</rdg>
                                 </app> groſſier<app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2"/>
-                                    <rdg source="#P_ed02_ex1 #P_ed03_ex1">s</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
+                                    <rdg source="#P_ed04_ex1 #P_ed05_ex1">s</rdg>
                                 </app></seg>, &amp; dont la ruſticité <app type="#words">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2">peut paſſer en proverbe</rdg>
-                                <rdg source="#P_ed02_ex1 #P_ed03_ex1">eſt hereditaire</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">peut paſſer en proverbe</rdg>
+                                    <rdg source="#P_ed04_ex1 #P_ed05_ex1">eſt hereditaire</rdg>
                             </app>.</p>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2" xml:id="r12_23_01"><g
-                                source="#P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"/>Avec un langage ſi
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed05_ex1" xml:id="r12_23_01"><g
+                            source="#P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="Pdm"/>Avec un langage ſi
                             pur, une ſi grande recherche dans nos<pb n="316" source="#P_ed01_ex1"
                                 /><pb n="264" source="#P_ed02_ex1 #P_ed03_ex1"/>habits, des mœurs ſi
                             cultivées, de ſi belles loix, &amp; un viſage blanc, nous ſommes
@@ -4977,17 +4999,17 @@
                         <p source="#P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3" corresp="#r12_23_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Si nous
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"><g
+                            source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1" ref="#Pdm"/>Si nous
                             entendions dire des Orientaux qu'ils boivent ordinairement d'une liqueur
                             qui leur monte à la teſte, leur fait perdre la raiſon, &amp; les fait
                                 vomir<app type="#punct">
 
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     > ;</rdg>
-                                <rdg source="#P_ed04_ex3">,</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">,</rdg>
                             </app> nous dirions<app type="#punct">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                     >,</rdg>
                                 <rdg source="#P_ed04_ex3"> ; </rdg>
                             </app> cela eſt bien barbare.</p>
@@ -5024,41 +5046,41 @@
                             mépriſé du Geometre.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"><g
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"><g
                                 source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
                             />Ce Prelat <seg><app>
                                     <rdg source="#P_ed01_ex1">ne ſe</rdg>
-                                    <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >se</rdg>
                                 </app> montre<app>
                                     <rdg source="#P_ed01_ex1">point</rdg>
-                                    <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                    <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >peu</rdg>
                                 </app></seg> à la Cour, il n'eſt de nul commerce, on ne le voit
-                            point avec des femmes, il ne joüe ny à grande ny à petite prime, il
+                            point avec des femmes, il ne<pb source="#P_ed05_ex1" n="403"/> joüe <seg>n<app><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">y</rdg><rdg source="#P_ed05_ex1">i</rdg></app></seg> à grande <seg>n<app><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">y</rdg><rdg source="#P_ed05_ex1">i</rdg></app></seg> à petite prime, il
                             n'aſſiſte ny aux feſtes ni aux ſpctacles, il n'eſt point homme de
                             caballe, &amp; il n'a point l'eſprit d'intrigue ; toûjours dans ſon
                                 Ev<app type="#spell">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2">eſ</rdg>
-                                <rdg source="#P_ed02_ex1 #P_ed03_ex1">ê</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">eſ</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                             </app>ché, où il fait une reſidence continuelle, il ne songe qu'à
                             inſtruire ſon peuple par la parole &amp; à l'édifier par ſon exemple ;
                             il conſu<pb n="352" source="#P_ed04_ex3"/>me ſon bien en des aumônes,
                             &amp; ſon corps par la penitence ; il n'a que l'eſprit de regularité,
                             &amp; il est imitateur<pb n="318" source="#P_ed01_ex1"/>du <seg>z<app
                                     type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                    <rdg source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >e</rdg>
                                     <rdg source="#P_ed01_ex2">ê</rdg>
                                 </app>le</seg> &amp; de la pieté<pb n="317" source="#P_ed01_ex2"/>
                             des <seg>Ap<app type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed04_ex3">ô</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed04_ex3 #P_ed05_ex1">ô</rdg>
                                     <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">oſ</rdg>
                                 </app>tres</seg> <seg><app type="#words">
 
                                     <rdg source="#P_ed01_ex1">: comment luy eſt venuë, dit le
                                         peuple, cette nouvelle dignité ?</rdg>
-                                    <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">.
+                                    <rdg source="#P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1">.
                                         Les temps ſont<pb n="266" source="#P_ed02_ex1"/> changez,
                                         &amp; il eſt menacé ſous ce <app type="#caps">
                                             <rdg
@@ -5069,28 +5091,28 @@
                                 </app></seg></p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Ne pourroit-on point faire
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Ne pourroit-on point faire
                             comprendre aux perſonnes d'un certain caractere &amp; d'une profeſſion
                             ſerieuſe, pour ne rien dire de plus, qu'ils ne ſont point obligez à
-                            faire dire d'eux qu'ils joüent, qu'ils chantent, &amp; qu'ils badinent
+                            faire dire d'eux<seg><app type="#punct"><rdg source="#P_ed04_ex3"/><rdg source="#P_ed05_ex1">,</rdg></app></seg> qu'ils joüent, qu'ils chantent, &amp; qu'ils badinent
                             comme les autres hommes, &amp; qu'à les voir ſi plaiſans &amp; ſi
-                            agrables, on ne croiroit point qu'ils fuſſent d'ailleurs ſi reguliers
-                            &amp; ſi ſeveres ; oſeroit-on même leur insinuer qu'ils s'éloignent par
-                            de telles manieres de la politeſſe dont ils ſe piquent ; qu'elle
+                            agreables, on ne croiroit point qu'ils fuſſent d'ailleurs ſi reguliers
+                            &amp; ſi ſeveres ; oſeroit-on <seg>m<app type="#punct"><rdg source="#P_ed04_ex3">ê</rdg><rdg source="#P_ed05_ex1">eſ</rdg></app>me</seg> leur insinuer qu'ils s'éloignent par
+                            de telles manieres de la politeſſe dont<pb source="#P_ed05_ex1" n="404"/> ils ſe piquent ; qu'elle
                             aſſortit au contraire &amp; conforme les dehors aux conditions, qu'elle
-                            évite le contraſte, &amp; de montrer le même homme ſous des figures ſi
+                            évite le contraſte, &amp; de montrer le <seg>m<app type="#punct"><rdg source="#P_ed04_ex3">ê</rdg><rdg source="#P_ed05_ex1">eſ</rdg></app>me</seg> homme ſous des figures ſi
                             differentes, &amp; qui font de luy un compoſé bizarre, ou un
                             groteſque.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Ceux qui employent mal leur
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Ceux qui employent mal leur
                             temps ſont les premiers à ſe plaindre de ſa briéveté ; comme ils le
                             conſument à s'habiller, à manger, à dormir, à de ſots discours, à ſe
                             reſoudre ſur ce qu'ils doivent faire, &amp; ſouvent à ne rien faire, ils
                             en manquent pour leurs affaires ou pour leurs plaisirs ; ceux au
-                            contraire qui en font un meilleur uſage en ont de reſte.</p>
+                            contraire qui en font un meilleur uſage<seg><app type="#punct"><rdg source="#P_ed04_ex3"/><rdg source="#P_ed05_ex1">,</rdg></app></seg> en ont de reſte.</p>
 
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Il n'y a point de Miniſtre
+                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3 #P_ed05_ex1"/>Il n'y a point de Miniſtre
                             ſi occupé qui ne ſçache perdre chaque jour deux heures de temps, cela va
                             loin à la fin d'une longue vie ; &amp; ſi le mal eſt encore plus grand
                             dans les autres conditions des hommes, quelle perte infinie ne ſe fait
@@ -5098,12 +5120,13 @@
                             qu'on n'a point aſſez.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_105_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_105_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_106_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_106_01"/>
                     </div3>
                     <div3>
+                        <!-- suite de l'encodage -->
                         <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Il ne faut pas juger des
                             hommes comme d'un tableau ou d'une figure ſur une ſeule &amp; premiere
                             vûë ; il y a un interieur, &amp; un coœur qu'il faut approfondir : le
