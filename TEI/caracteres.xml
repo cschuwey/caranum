@@ -4381,17 +4381,23 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_058_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Tel connu
-                            dans le monde par de grands talens, honoré &amp; cheri par tout où il ſe
-                            trouve, eſt petit dans ſon domeſtique &amp; aux yeux de ſes proches
-                            qu'il n'a pû reduire à l'eſtimer : <app>
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Tel connu dans le monde par de grands talens, honoré
+                            &amp; <seg>cher<app>
+                                    <rdg source="#P_ed05_ex1">y</rdg>
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                        >i</rdg>
+                                </app></seg> par tout où il ſe trouve, eſt petit dans ſon domeſtique
+                            &amp; aux yeux de ſes proches qu'il n'a pû reduire à l'eſtimer : <app>
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >T</rdg>
-                                <rdg source="#P_ed04_ex3">t</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">t</rdg>
                             </app>el autre au contraire, prophete dans ſon païs joüit d'une vogue
                             qu'il a parmi les ſiens, &amp; qui eſt reſſerrée dans l'enceinte de ſa
                                     maiſon <seg><app type="#punct">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1">;</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed05_ex1"
+                                        >;</rdg>
                                     <rdg source="#P_ed03_ex1"/>
                                     <rdg source="#P_ed04_ex3">,</rdg>
                                 </app></seg> s'applaudit d'un merite rare &amp; ſingulier, qui luy
@@ -4534,9 +4540,13 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_057_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Aprés
-                            l'eſprit de diſcernement ce qu'il y a au monde de plus rare, ce ſont les
-                            diamans &amp; les perles.</p>
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1"
+                                ref="#Pdm"/>Aprés l'eſprit de diſcernement<app type="#punct">
+                                <rdg
+                                    source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1"/>
+                                <rdg source="#P_ed05_ex1">,</rdg>
+                            </app> ce qu'il y a au monde de plus rare, ce ſont les diamans &amp; les
+                            perles.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
@@ -4567,46 +4577,51 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_036_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Il y a de
-                            petites regles, des devoirs, des bienſeances <seg>attaché<app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3"
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Il y a de petites regles, des devoirs, des bienſeances <seg>attaché<app>
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >e</rdg>
-                                    <rdg source="#P_ed02_ex1"> </rdg>
+                                    <rdg source="#P_ed02_ex1"/>
                                 </app>s</seg> aux lieux, aux temps, aux peſonnes, qui ne ſe devinent
                             point à force d'eſprit, &amp; que l'uſage apprend ſans nulle peine ;
                             juger des hommes par les fautes qui leur échapent en ce genre, avant
                             qu'ils ſoient aſſez inſtruits, c'eſt en juger par leurs ongles ou par la
-                            pointe de leurs cheveux ; c'est vouloir un jour <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3"
+                                pointe<pb source="#P_ed05_ex1" n="408"/> de leurs cheveux ; c'est
+                            vouloir un jour <seg><app>
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed02_ex1"> ê</rdg>
+                                    <rdg source="#P_ed02_ex1">ê</rdg>
                                 </app>tre</seg> détrompé.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_035_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Ceux qui
-                            ſans nous <seg>conno<app type="#spell">
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Ceux qui ſans nous <seg>conno<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >iſ</rdg>
-                                    <rdg source="#P_ed04_ex3">î</rdg>
-                                </app>tre</seg> assez, penſent mal de<pb n="310"
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">î</rdg>
+                                </app>tre</seg> aſſez, penſent mal de<pb n="310"
                                 source="#P_ed01_ex1"/><pb n="258" source="#P_ed02_ex1"/>nous, ne
                             nous font pas de tort <seg><app type="#punct">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >:</rdg>
-                                    <rdg source="#P_ed04_ex3">;</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">;</rdg>
                                 </app></seg> ce n'eſt pas nous qu'ils attaquent, c'eſt le <app>
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >ph</rdg>
-                                <rdg source="#P_ed04_ex3">f</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">f</rdg>
                             </app>antôme de leur imagination.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_042_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>La <seg><app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed04_ex3">r</rdg>
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1"
+                                ref="#Pdm"/>La <seg><app>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed04_ex3 #P_ed05_ex1"
+                                        >r</rdg>
                                     <rdg source="#P_ed02_ex1 #P_ed03_ex1">R</rdg>
                                 </app>egle</seg> de <persName ref="#descartes"><emph
                                     rend="smallcaps">Descartes</emph></persName>, qui ne veut pas
@@ -4614,50 +4629,56 @@
                             avant qu'elles ſoient connuës clairement &amp; diſtinctement<app
                                 type="#punct">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
-                                <rdg source="#P_ed04_ex3">,</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">,</rdg>
                             </app> eſt aſſez belle &amp; aſſez juste, pour devoir s'étendre au
                             jugement que l'on fait des perſonnes.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_043_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Rien ne
-                            nous vange mieux des mauvais jugemens que les hommes font de <seg>n<app
-                                    type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Rien ne nous vange mieux des mauvais jugemens que les
+                            hommes font de <seg>n<app type="#spell">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                         >oſ</rdg>
                                     <rdg source="#P_ed04_ex3">ô</rdg>
                                 </app>tre</seg> eſprit<app type="#words">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
-                                <rdg source="#P_ed04_ex3">, de nos mœurs</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">, de nos mœurs</rdg>
                             </app> &amp; de nos manieres, que l'indignité &amp; le mauvais caractere
                             de ceux qu'ils approuvent.</p>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
-                            xml:id="r12_043_02"><g source="#P_ed04_ex3"/>Du m<app type="#spell">
+                            xml:id="r12_043_02"><g source="#P_ed04_ex3 #P_ed05_ex1" ref="#Pdm"/>Du
+                                m<app type="#spell">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >eſ</rdg>
-                                <rdg source="#P_ed04_ex3">ê</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                             </app>me fond dont on neglige un homme de merite, l'on ſçait encore
                             admirer un ſot.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_044_01"><g
                                 source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
-                            />Un ſot eſt celuy qui n'a pas <seg>m<app type="#spell">
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                                /><g source="#P_ed05_ex1" ref="#Parsimple"/>Un ſot eſt celuy qui n'a
+                            pas <seg>m<app type="#spell">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                         >eſ</rdg>
                                     <rdg source="#P_ed04_ex3">ê</rdg>
                                 </app>me</seg> ce qu'il faut d'eſprit pour <app type="#spell">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                                <rdg
+                                    source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                     >eſ</rdg>
                                 <rdg source="#P_ed04_ex3">ê</rdg>
                             </app>tre fat.</p>
                         <pb n="311" source="#P_ed01_ex1"/>
                         <pb n="259" source="#P_ed02_ex1 #P_ed03_ex1"/>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
-                            xml:id="r12_045_01"><g source="#P_ed04_ex3"/>Un fat est celuy que les
-                            ſots coirent un homme de merite.</p>
+                            xml:id="r12_045_01"><g source="#P_ed04_ex3" ref="#Pdm"/><g
+                                source="#P_ed05_ex1" ref="#Parsimple"/>Un fat est celuy que les ſots
+                            croient un homme de merite.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">Nous
@@ -5008,33 +5029,49 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_062_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
-                            />Il eſt ordinaire &amp; comme naturel de juger du travail d'autruy
-                            ſeulement par rapport à celu<app type="#spell">
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Il eſt ordinaire &amp; comme naturel de juger du travail
+                                    d'autruy<seg><app type="#punct">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"/>
+                                    <rdg source="#P_ed05_ex1">,</rdg>
+                                </app></seg> ſeulement par rapport à celu<app type="#spell">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >i</rdg>
-                                <rdg source="#P_ed04_ex3">y</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">y</rdg>
                             </app> qui nous occupe.<pb n="360" source="#P_ed04_ex3"/> Ainſi le Poëte
                                     <seg>rempl<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >i</rdg>
-                                    <rdg source="#P_ed04_ex3">y</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">y</rdg>
                                 </app></seg> de grandes &amp; ſublimes idées eſtime peu le diſcours
-                            de l'Orateur qui ne s'exerce ſouvent que <app>
+                            de l'Orateur<seg><app type="#punct">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"/>
+                                    <rdg source="#P_ed05_ex1">,</rdg>
+                                </app></seg> qui ne s'exerce ſouvent que <app>
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
                                 <rdg source="#P_ed04_ex3">  </rdg>
                             </app>ſur de ſimples faits : &amp; celuy qui écrit l'hiſtoire de ſon
-                            païs ne peut comprendre qu'un eſprit raiſonnable employe ſa vie à
-                            imaginer des fictions &amp; à trouver une rime :<pb n="317"
-                                source="#P_ed01_ex1"/>de <seg>m<app type="#spell">
+                            païs ne peut comprendre<seg><app type="#punct">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"/>
+                                    <rdg source="#P_ed05_ex1">,</rdg>
+                                </app></seg> qu'un eſprit raiſonnable employe ſa vie à imaginer des
+                            fictions &amp; à trouver une rime :<pb n="317" source="#P_ed01_ex1"/>de
+                                    <seg>m<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed04_ex3">ê</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                                 </app>me</seg>
                             <pb n="265" source="#P_ed02_ex1 #P_ed03_ex1" ana="M"/>le Bachelier
                             plongé dans les quatre premiers ſiecles traite toute autre doctrine de
-                            ſcience triſte, vaine &amp; inutile ; pendant qu'il eſt peut-eſtre
-                            mépriſé du Geometre.</p>
+                            ſcience triſte, vaine &amp; inutile ; pendant qu'il eſt peut-<seg><app
+                                    type="#spell">
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                                        >eſ</rdg>
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
+                                </app>tre</seg> mépriſé du Geometre.</p>
                     </div3>
                     <div3>
                         <p
@@ -5146,160 +5183,252 @@
                     </div3>
                     <div3>
                         <!-- suite de l'encodage -->
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Il ne faut pas juger des
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g
+                                source="#P_ed05_ex1" ref="#Parsimple"/>Il ne faut pas juger des
                             hommes comme d'un tableau ou d'une figure ſur une ſeule &amp; premiere
-                            vûë ; il y a un interieur, &amp; un coœur qu'il faut approfondir : le
-                            voile de la modestie couvre le merite, &amp; le maſque de l'hipocriſie
-                            cache la malignité ; il n'y a qu'un tres-petit nombre de connoiſſeurs
-                            qui diſcerne, &amp; qui ſoit en droit de prononcer ; &amp; ce n'eſt que
-                            peu à peu, &amp; forcez même par le temps &amp; les occasſions que la
-                            vertu parfaite, ou le vice conſommé viennent enfir à ſe déclarer</p>
+                                    <seg>vû<app type="#spell">
+                                    <rdg source="#P_ed04_ex3">ë</rdg>
+                                    <rdg source="#P_ed05_ex1">e</rdg>
+                                </app></seg> ; il y a un interieur, &amp; un coœur qu'il faut
+                            approfondir : le voile de la modestie<pb n="406" source="#P_ed05_ex1"/>
+                            couvre le merite, &amp; le maſque de l'hipocriſie cache la malignité ;
+                            il n'y a qu'un tres-petit nombre de connoiſſeurs qui diſcerne, &amp; qui
+                            ſoit en droit de prononcer ; &amp; ce n'eſt que peu à peu, &amp; forcez
+                            même par le temps &amp; les occasſions que la vertu parfaite, ou le vice
+                            conſommé viennent enfir à ſe déclarer</p>
                     </div3>
+
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>La phiſionomie n'eſt pas
-                            une regle qui nous ſoit donnée pour juger des hommes : elle peut nous
-                            ſervir de conjecture.</p>
+                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/> Une belle
+                            femme eſt aimable dans ſon naturel, elle ne perd rien à eſtre negligée,
+                            &amp; ſans autre parure que celle qu'elle tire de ſa beauté &amp; de ſa
+                            jeunesse : une grace naïve éclate ſur ſon viſage, anime ſes moindres
+                            actions ; il y auroit moins de peril à la voir avec tout l'attirail de
+                            l'ajuſtement &amp; de la mode. De même un homme de bien eſt reſpectable
+                            par luy même, &amp; independamment de tous les dehors dont il voudroit
+                            s'aider pour rendre ſa perſonne plus grave, &amp; ſa vertu plus
+                            ſpecieuſe : un air reformé, une modestie outrée, la ſingularité de
+                            l'habit, une ample calotte, n'ajoûtent rien à la probité, ne relevent
+                            pas le merite, ils le fardent, &amp; font peut-eſtre qu'il eſt moins
+                            pur, &amp; moins ingenu.</p>
+                    </div3>
+
+                    <pb source="#P_ed05_ex1" n="407"/>
+
+                    <div3>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3"/>La phiſionomie
+                            n'eſt pas une regle qui nous ſoit donnée pour juger des hommes : elle
+                            peut nous ſervir de conjecture.</p>
                     </div3>
                     <pb n="355" source="#P_ed04_ex3"/>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>L'air ſpirituel eſt dans
-                            les hommes ce que la regularité des traits eſt dans les gemmes : c'eſt
-                            le genre de beauté où les plus vains puiſſent aspirer.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3"/>L'air ſpirituel
+                            eſt dans les hommes<seg><app type="#punct">
+                                    <rdg source="#P_ed04_ex1"/>
+                                    <rdg source="#P_ed05_ex1">,</rdg>
+                                </app></seg> ce que la regularité des traits eſt dans les femmes :
+                            c'eſt le genre de beauté où les plus vains puiſſent aspirer.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Un homme qui a beaucoup de
-                            merite &amp; d'eſprit, &amp; qui eſt connu pour tel, n'eſt pas laid,
-                            même avec des traits qui ſont difformes ; ou s'il a de la laideur, lle
-                            ne fait point son impreſſion.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3"/>Un homme qui a
+                            beaucoup de merite &amp; d'eſprit, &amp; qui eſt connu pour tel, n'eſt
+                            pas laid, même avec des traits qui ſont difformes ; ou s'il a de la
+                            laideur, elle ne fait <seg><app>
+                                    <rdg source="#P_ed04_ex1">point</rdg>
+                                    <rdg source="#P_ed05_ex1">pas</rdg>
+                                </app></seg> son impreſſion.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_035_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_035_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_036_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_036_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_042_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_042_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>Un homme ſujet à ſe laiſſer
-                            prévenir, s'il oſe rmplir&#x2028; une dignité ou ſeculiere ou
-                            Eccleſiaſtique, eſt un aveugle qui veut&#x2028; peindre, un müet qui
-                            s'eſt chargé d'une harangue, un ſourd qui juge&#x2028; d'une ſyphonie ;
-                            foibles images, &amp; qui n'expriment qu'imparfaitement&#x2028; la
-                            miſere de la prévention : il faut ajoûter qu'elle eſt un mal&#x2028;
-                            déſeſperé, incurable, qui infecte tous ceux qui s'approchent du
-                            malade,&#x2028; qui fait deſerter les égaux, les inferieurs, les parens,
-                            les amis&#x2028; jusques aux medecins ; ils ſont bien éloignez de le
-                            guerer, s'ils ne&#x2028; peuvent même le faire convenir de ſa maladie,
-                            ni des remedes, qui&#x2028; ſeroient d'écouter, de douter, de s'informer
-                            &amp; de s'éclaircir : les&#x2028; flatteurs, les fourbes, les
-                            calomniateurs, ceux qui ne délient leur&#x2028; langue que pour le
-                            menſonge &amp; l'interêt, ſont les charlatans en qui&#x2028; il ſe
-                            confie, &amp; qui luy font avaler tout ce qui leur plaît ; ce
-                            ſont&#x2028; eur auſſi qui l'empoiſonnent &amp; qui le tuënt. </p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g
+                                source="#P_ed05_ex1" ref="#Parsimple"/>Un homme ſujet à ſe laiſſer
+                            prévenir, s'il oſe remplir une dignité ou ſeculiere ou Eccleſiaſtique,
+                            eſt un aveugle qui veut peindre, un müet qui s'eſt chargé d'une
+                            harangue, un ſourd qui juge d'une ſyphonie ; foibles images, &amp; qui
+                            n'expriment qu'imparfaitement la miſere de la prévention : il faut
+                            ajoûter qu'elle eſt un mal déſeſperé, incurable, qui infecte tous ceux
+                            qui s'approchent du malade, qui fait deſerter les égaux, les inferieurs,
+                            les parens, les amis jusques aux medecins ; ils ſont bien éloignez de le
+                            guerir, s'ils ne peuvent même le faire convenir de ſa maladie,
+                                    <seg>n<app type="#spell">
+                                    <rdg source="#P_ed04_ex3">i</rdg>
+                                    <rdg source="#P_ed05_ex1">y</rdg>
+                                </app></seg> des remedes, qui ſeroient d'écouter, de douter, de
+                            s'informer &amp; de s'éclaircir : les flatteurs, les fourbes, les
+                            calomniateurs, ceux qui ne dé<pb n="409" source="#P_ed05_ex1"/>lient
+                            leur langue que pour le menſonge &amp; l'interêt, ſont les charlatans en
+                            qui il ſe confie, &amp; qui luy font avaler tout ce <seg>qu<app>
+                                    <rdg source="#P_ed04_ex3">i</rdg>
+                                    <rdg source="#P_ed05_ex1">'il</rdg>
+                                </app></seg> leur plaît ; ce ſont eux auſſi qui l'empoiſonnent &amp;
+                            qui le tuënt. </p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_043_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_043_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_043_02"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_043_02"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_044_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_044_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_045_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_045_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g/>L'impertinent eſt un fat outré ; le fat lasse,
-                            ennuye, dégoûte, rebutte ; l'impertinent rebutte, aigrit, irrite,
-                            offenſe ; il commence où l'autre finit.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex1" ref="#Pdm"/><g
+                                source="#P_ed05_ex1" ref="#Parsimple"/>L'impertinent eſt un fat
+                            outré ; le fat lasse, ennuye, dégoûte, rebutte ; l'impertinent rebutte,
+                            aigrit, irrite, offenſe ; il commence où l'autre finit.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g/>Le fat eſt entre l'imprtinent &amp; le ſot, il
-                            eſt composé de l'un &amp; de l'autre <!--pas de point dans 4 --></p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Le fat eſt entre l'imprtinent
+                            &amp; le ſot, il eſt composé de l'un &amp; de l'autre<seg><app
+                                    type="#punct">
+                                    <rdg source="#P_ed04_ex3"/>
+                                    <rdg source="#P_ed05_ex1">.</rdg>
+                                </app></seg></p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">L'homme ridicule eſt celuy qui tant qu'il demeure
-                            tel, a les apparences du ſot.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>L'homme ridicule eſt celuy
+                                qui<pb source="#P_ed05_ex1" n="410"/> tant qu'il demeure tel, a les
+                            apparences du ſot.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Le ſot ne tire jamais du ridicule, c'eſt ſon
-                            caractere ; l'on y entre quelquefois avec de l'eſprit, mais l'on en
-                            ſort.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Le ſot ne ſe tire jamais du
+                            ridicule, c'eſt ſon caractere ; l'on y entre quelquefois avec de
+                            l'eſprit, mais l'on en ſort.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">La ſottiſe eſt dans le ſot ; la fatuité das le fat,
-                            &amp; l'impertinence dans<pb n="358" source="#P_ed04_ex3"/>
-                            l'impertinent : il semble que le ridicule reſide tantôt dans celuy qui
-                            en effet est ridicule, &amp; tantôt dans l'imagination de ceux qui
-                            croyent voir le ridicule où il n'eſt point, &amp; ne peut être.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>La ſottiſe eſt dans le ſot ;
+                            la fatuité das le fat, &amp; l'impertinence dans<pb n="358"
+                                source="#P_ed04_ex3"/> l'impertinent : il semble que le ridicule
+                            reſide <seg>tant<app type="#spell">
+                                    <rdg source="#P_ed04_ex3">ô</rdg>
+                                    <rdg source="#P_ed05_ex1">oſ</rdg>
+                                </app>t</seg> dans celuy qui en effet est ridicule, &amp;
+                                    <seg>tant<app type="#spell">
+                                    <rdg source="#P_ed04_ex3">ô</rdg>
+                                    <rdg source="#P_ed05_ex1">oſ</rdg>
+                                </app>t</seg> dans l'imagination de ceux qui croyent voir le
+                            ridicule où il n'eſt point, &amp; ne peut <seg><app type="#spell">
+                                    <rdg source="#P_ed04_ex3">ê</rdg>
+                                    <rdg source="#P_ed05_ex1">eſ</rdg>
+                                </app>tre</seg>.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">La groſſierté, la ruſticité, la brutalité peuvent
-                            être les vices d'un homme d'eſprit.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>La groſſiereté, la ruſticité,
+                            la brutalité peuvent être les vices d'un homme d'eſprit.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Le ſtupide eſt un ſot qui ne parle point, en cela
-                            plus ſupportable que le ſot qui parle.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Le ſtupide eſt un ſot qui ne
+                            parle point, en cela plus ſupportable que le ſot qui parle.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Si le fait pouvoit craindre de mal parler, il
-                            ſortiroit de ſon caractere.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Si le fat pouvoit craindre de
+                            mal parler, il ſortiroit de ſon caractere.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">L'une des marques de la mediocrité de l'eſprit, eſt
-                            de toûjours conter.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>L'une des marques de la
+                            mediocrité de l'eſprit, eſt de toûjours conter.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Le ſot eſt embaraſſé de ſa perſonne ; le fait a
-                            l'air libre &amp; aſſeuré ; l'impertinent paſſe à l'effronterie : le
-                            merite a de la pudeur.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Le ſot eſt <seg>emba<app>
+                                    <rdg source="#P_ed04_ex3">r</rdg>
+                                    <rdg source="#P_ed05_ex1">rr</rdg>
+                                </app>aſſé</seg> de ſa <seg>perſonn<app>
+                                    <rdg source="#P_ed04_ex3">e</rdg>
+                                    <rdg source="#P_ed05_ex1">é</rdg>
+                                </app></seg> ; le fat a l'air libre &amp; aſſeuré ; l'impertinent
+                            paſſe à l'effronterie : le<pb n="411" source="#P_ed05_ex1"/> merite a de
+                            la pudeur.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Talent, goût, eſprit, bon ſens, choſes differentes,
-                            non incompatibles.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Talent, goût, eſprit, bon
+                            ſens, choſes differentes, non incompatibles.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Entre le bon ſens &amp; le bon goût il y a la
-                            difference de la cauſe à ſon effet.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Entre le bon ſens &amp; le bon
+                            goût il y a la difference de la cauſe à ſon effet.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_057_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_057_01"/>
                     </div3>
                     <pb n="359" source="#P_ed04_ex3"/>
                     <div3>
-                        <p source="#r12_043_01" corresp="#r12_058_01"/>
+                        <p source="#P_ed04_ex1 #P_ed05_ex1" corresp="#r12_058_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
-                            />Tout le monde s'éleve contre un homme qui entre en reputation ; à
-                            peine ceux qu'il croit ſes amis lu<app type="#spell">
-                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
+                        <p
+                            source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ><g
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
+                                ref="#Pdm"/>Tout le monde s'éleve contre un homme qui entre en
+                            reputation ; à peine ceux qu'il croit ſes amis lu<app type="#spell">
+                                <rdg
+                                    source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                     >y</rdg>
                                 <rdg source="#P_ed04_ex3">i</rdg>
                             </app> pardonnent-ils un merite naiſſant, &amp; une premiere vogue qui
-                            ſemble l'aſſocier à la gloire dont ils ſont déja en poſſeſſion : l'on ne
-                            ſe rend qu'à l'extremité, &amp; aprés que le Prince s'eſt declaré par
-                            les r<app type="#spell">
+                                ſemble<pb n="412" source="#P_ed05_ex1"/> l'aſſocier à la gloire dont
+                            ils ſont déja en poſſeſſion : l'on ne ſe rend qu'à l'extremité, &amp;
+                            aprés que le Prince s'eſt <seg>d<app type="#spell">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                        >e</rdg>
+                                    <rdg source="#P_ed05_ex1">é</rdg>
+                                </app>claré</seg> par les r<app type="#spell">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                     >e</rdg>
-                                <rdg source="#P_ed04_ex3">é</rdg>
-                            </app>compenſes. Tous alors ſe rapprochent de luy ; &amp; de ce jour-là
-                            ſeulement il prend son rang d'homme de merite.</p>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">é</rdg>
+                            </app>compenſes<seg><app type="#punct">
+                                    <rdg
+                                        source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                        >. T</rdg>
+                                    <rdg source="#P_ed05_ex1">, t</rdg>
+                                </app></seg>ous alors ſe rapprochent de luy <app type="#punct">
+                                <rdg
+                                    source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                    >;</rdg>
+                                <rdg source="#P_ed05_ex1">,</rdg>
+                            </app> &amp; de ce jour-là ſeulement il prend son rang d'homme de
+                            merite.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_062_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_062_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Tel a aſſez d'eſprit pour exceller dans une certaine
-                            matiere &amp; en faire des leçons, qui en manque pour voir qu'il doit ſe
-                            taire ſur quelqu'autre dont il n'a qu'une foible connoiſſance ; il ſort
-                            hardîment des limites de son genie, mais il s'égare, &amp; fait que
-                            l'homme illuſtre parle comme un ſot.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g ref="#Parsimple" source="#P_ed05_ex1"
+                                /><g source="#P_ed04_ex3" ref="#Pdm"/>Tel a aſſez d'eſprit pour
+                            exceller dans une certaine matiere &amp; en faire des leçons, qui en
+                            manque pour voir qu'il doit ſe taire ſur quelqu'autre dont il n'a qu'une
+                            foible connoiſſance ; il ſort hardîment des limites<pb source="#P_ed05_ex1" n="413"/> de son genie, mais
+                            il s'égare, &amp; fait que l'homme illuſtre parle comme un ſot.</p>
                     </div3>
+                    <div3>
+                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/><emph rend="italic"><persName>Herille</persName></emph> ſoit qu'il parle, qu'il harangue ou qu'il écrive veut citer : il fait dire au <emph rend="italic">Prince des Philoſophes</emph>, que le vin enyvre, &amp; à <emph rend="italic">l'Orateur Romain</emph> que l'eau le tempere, s'il ſe jette dans la morale, ce n'eſt pas luy, c'eſt <emph rend="italic">le divin Platon</emph> qui aſſure que la vertu eſt aimable, le vice odieux, ou que l'un &amp; l'autre ſe tournent en habitude : les choſes les plus communes, les plus triviales, &amp; qu'il eſt meſme capable de penſer, il veut les devoir aux anciens, aux Latins, aux Grecs : ce n'eſt ny pour donner plus d'autorité à ce qu'il dit, ny peut-eſtre pour ſe faire honneur de ce qu'il ſçait. Il veut citer.
+                        </p>
+                    </div3>
+                    
                     <div3>
                         <p source="#P_ed04_ex3">On a dit de <emph style="smallcaps"
                                     ><persName>Socrate</persName></emph> qu'il étoit en délire,
