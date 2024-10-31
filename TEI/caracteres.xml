@@ -4407,15 +4407,15 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_077_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Quel <seg>bon<app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Quel <seg>bon<app>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"/>
                                     <rdg source="#P_ed04_ex3"> </rdg>
-                                </app>heur</seg> surprenant a accompagné ce favori pendant tout le
+                                </app>heur</seg> ſurprenant a accompagné ce <seg>favor<app type="#spell"><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3">i</rdg><rdg source="#P_ed05_ex1">y</rdg></app></seg> pendant tout le
                             cours de sa vie ? quelle autre fortune mieux ſoûtenuë, ſans
                             interruption, ſans la moindre diſgrace ? <seg><app>
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >L</rdg>
-                                    <rdg source="#P_ed04_ex3">l</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">l</rdg>
                                 </app>es</seg>
                             <pb n="306" source="#P_ed01_ex1"/><pb n="255" source="#P_ed02_ex1"
                             />premiers poſtes, l'oreille du Prince, d'immenſes treſors, une ſanté
@@ -4424,19 +4424,19 @@
                             qu'on a <seg>n<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >e</rdg>
-                                    <rdg source="#P_ed04_ex3">é</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">é</rdg>
                                 </app>gligé</seg> de donner ou de ſuivre ; des biens que l'on n'a
                             point fait, des<pb n="363" source="#P_ed04_ex3"/> maux au contraire que
                             l'on a fait<app type="#punct">
                                 <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>
-                                <rdg source="#P_ed04_ex3">,</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">,</rdg>
                             </app> ou par ſoy-<seg>m<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >eſ</rdg>
-                                    <rdg source="#P_ed04_ex3">ê</rdg>
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                                 </app>me</seg><seg><app type="#punct">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1"/>
-                                    <rdg source="#P_ed03_ex1">,</rdg>
+                                    <rdg source="#P_ed03_ex1 #P_ed05_ex1">,</rdg>
                                 </app></seg> ou par les autres : en un mot de toute ſa
                             proſperité.</p>
                     </div3>
@@ -4681,13 +4681,13 @@
                             croient un homme de merite.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">Nous
-                            n'approuvons les autres que par les rapports que nous ſentons qu'ils ont
+                        <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1" xml:id="r12_071_01"><g source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1"/>Nous
+                            n'approuvons les autres<pb n="415" source="#P_ed05_ex1"/> que par les rapports que nous ſentons qu'ils ont
                             avec <seg>nous<app>
-                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3"
+                                <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >-</rdg>
                                     <rdg source="#P_ed02_ex1"> </rdg>
-                                </app>meſmes</seg> ; &amp; il ſemble qu'eſtimer quelqu'un, c'eſt
+                            </app>m<app type="#spell"><rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1">eſ</rdg><rdg source="#P_ed04_ex1 #P_ed05_ex1">ê</rdg></app>mes</seg> ; &amp; il ſemble qu'eſtimer quelqu'un, c'eſt
                             l'égaler à ſoy.</p>
                     </div3>
                     <div3>
@@ -5421,53 +5421,91 @@
                                 /><g source="#P_ed04_ex3" ref="#Pdm"/>Tel a aſſez d'eſprit pour
                             exceller dans une certaine matiere &amp; en faire des leçons, qui en
                             manque pour voir qu'il doit ſe taire ſur quelqu'autre dont il n'a qu'une
-                            foible connoiſſance ; il ſort hardîment des limites<pb source="#P_ed05_ex1" n="413"/> de son genie, mais
-                            il s'égare, &amp; fait que l'homme illuſtre parle comme un ſot.</p>
+                            foible connoiſſance ; il ſort hardîment des limites<pb
+                                source="#P_ed05_ex1" n="413"/> de son genie, mais il s'égare, &amp;
+                            fait que l'homme illuſtre parle comme un ſot.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/><emph rend="italic"><persName>Herille</persName></emph> ſoit qu'il parle, qu'il harangue ou qu'il écrive veut citer : il fait dire au <emph rend="italic">Prince des Philoſophes</emph>, que le vin enyvre, &amp; à <emph rend="italic">l'Orateur Romain</emph> que l'eau le tempere, s'il ſe jette dans la morale, ce n'eſt pas luy, c'eſt <emph rend="italic">le divin Platon</emph> qui aſſure que la vertu eſt aimable, le vice odieux, ou que l'un &amp; l'autre ſe tournent en habitude : les choſes les plus communes, les plus triviales, &amp; qu'il eſt meſme capable de penſer, il veut les devoir aux anciens, aux Latins, aux Grecs : ce n'eſt ny pour donner plus d'autorité à ce qu'il dit, ny peut-eſtre pour ſe faire honneur de ce qu'il ſçait. Il veut citer.
-                        </p>
+                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/><emph
+                                rend="italic"><persName>Herille</persName></emph> ſoit qu'il parle,
+                            qu'il harangue ou qu'il écrive veut citer : il fait dire au <emph
+                                rend="italic">Prince des Philoſophes</emph>, que le vin enyvre,
+                            &amp; à <emph rend="italic">l'Orateur Romain</emph> que l'eau le
+                            tempere, s'il ſe jette dans la morale, ce n'eſt pas luy, c'eſt <emph
+                                rend="italic">le divin Platon</emph> qui aſſure que la vertu eſt
+                            aimable, le vice odieux, ou que l'un &amp; l'autre ſe tournent en
+                            habitude : les choſes les plus communes, les plus triviales, &amp; qu'il
+                            eſt meſme capable de penſer, il veut les devoir aux anciens, aux Latins,
+                            aux Grecs : ce n'eſt ny pour donner plus d'autorité à ce qu'il dit, ny
+                            peut-eſtre pour ſe faire honneur de ce qu'il ſçait. Il veut citer. </p>
                     </div3>
-                    
+
                     <div3>
-                        <p source="#P_ed04_ex3">On a dit de <emph style="smallcaps"
+                        <p source="#P_ed05_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"/>C'eſt
+                            ſouvent hazarder un bon mot &amp; vouloir le perdre, que de le donner
+                            pour ſien : il n'eſt pas televé, il tombe avec des gens d'eſprit ou qui
+                            ſe croient tels, qui ne l'ont pas dit, &amp; qui devoient le dire. C'eſt
+                            au contraire le faire valoir, que de le rapporter comme d'un autre ; ce
+                            n'eſt qu'un fait, &amp; qu'on ne ſe croit pas<pb n="414"
+                                source="#P_ed05_ex1"/> obligé de ſçavoir ; il est dit avec plus
+                            d'inſinuation, &amp; reçû avec moins de jalouſie, perſonne ne ſouffre :
+                            on rit s'il faut rire, &amp; s'il faut admirer, on admire.</p>
+                    </div3>
+
+
+                    <div3>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"></g>On a dit de <emph style="smallcaps"
                                     ><persName>Socrate</persName></emph> qu'il étoit en délire,
                             &amp; que c'étoit <emph style="italic">un fou tout plein
                             d'eſprit</emph> ; mais ceux des Grecs qui parloient ainſi d'un homme ſi
-                            ſage paſſoient pour fous : ils diſoient quels bizarres portraits nous
-                            fait ce Philoſophe ! quelles mœuvres étranges &amp; particulieres ne
-                            décrit-il point ? où a-t-il révé, creuſé, raſſemblé des idées ſi
+                            ſage paſſoient pour fous <seg><app type="#punct"><rdg source="#P_ed04_ex3">: i</rdg><rdg source="#P_ed05_ex1">. I</rdg></app> ls</seg> diſoient quels bizarres portraits nous
+                            fait ce Philoſophe ! quelles mœures étranges &amp; particulieres ne
+                            décrit-il point ? où <seg>a-t<app><rdg source="#P_ed04_ex3">-</rdg><rdg source="#P_ed05_ex1">'</rdg></app>il</seg> <seg>r<app><rdg source="#P_ed04_ex3">é</rdg><rdg source="#P_ed05_ex1">ê</rdg></app>vé</seg>, creuſé, raſſemblé des idées ſi
                             extraordinaires ? quelles couleurs, quel pinceau ! ce ſont des
                             chimeres ; ils ſe trompoient, c'étoient des monſtres, c'étoient des
                             vices, mais peints au na<app>
                                 <rdg source="#P_ed04_ex3" resp="hand">t</rdg>
+                                <rdg source="#P_ed05_ex1">t</rdg>
                             </app>urel, on croïoit les voir, ils faiſoient peur.
-                                <persName>Socrate</persName> s'éloignoit du Cinique, il épargnoit
+                            <persName>Socrate</persName> s'éloignoit <seg>d<app>
+                                <rdg source="#P_ed04_ex3">u</rdg>
+                                <rdg source="#P_ed05_ex1">e</rdg>
+                            </app></seg> Cinique, il épargnoit
                             les perſonnes, &amp; blâmoit les mœurs qui étoient mauvaises.</p>
                     </div3>
+                    
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="r12_071_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1">C'eſt abreger, &amp; s'épargner mille discuſſions, que de penſer de certaines gens, qu'ils ſont incapables de parler juſte, &amp; de condamner ce qu'ils diſent, ce qu'ils ont dit, &amp; ce qu'ils diront.</p>
+                    </div3>
+                    
+                    <div3>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_071_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">Les mêmes défauts qui dans les autres ſont lourds
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Les mêmes défauts qui dans les autres ſont lourds
                             &amp; inſupportables, ſont chez nous comme dans leur centre, ils ne
                             peſent plus, on ne les ſent pas : tel parle d'un autre, &amp; en fait un
-                            portrait affreux, qui ne voit pas qu'il ſe peint luy-même.</p>
+                            portrait affreux, qui ne voit pas qu'il ſe peint luy-<seg>m<app><rdg source="#P_ed04_ex3">ê</rdg><rdg source="#P_ed05_ex1">eſ</rdg></app>me</seg>.</p>
                         <pb n="362" source="#P_ed04_ex3"/>
-                        <p source="#P_ed04_ex3">Rien ne nous corrigeroit plus promptement de nos
+                        <p source="#P_ed04_ex3 #P_ed05_ex1">Rien ne nous corrigeroit plus promptement de nos
                             défauts, que ſi nous étions capables de les avoüer &amp; de les
                             reconnoître dans les autres ; c'eſt dans cette juſte diſtance que nous
                             paroiſſant tels qu'ils ſont, ils ſe feroient haïr autant qu'ils le
                             meritent.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3">La ſage conduite roule ſur deux pivots, le paſſé
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>La ſage conduite roule ſur deux pivots, le paſſé
                             &amp; l'avenir : celuy qui a la memoire fidele &amp; une grande
-                            prévoyance, eſt hors du peril de cenſurer dans les autres ce qu'il a
-                            peut-être fait luy-même ; ou de condamner une action dans un pareil cas,
-                            &amp; dans toutes les circonstances où elle luy ſera un jour
+                            prévoyance, eſt hors du peril de cenſurer dans les autres<seg><app type="#punct"><rdg source="#P_ed04_ex3"></rdg><rdg source="#P_ed05_ex1">,</rdg></app></seg> ce qu'il a
+                            peut-<seg><app><rdg source="#P_ed04_ex3">ê</rdg><rdg source="#P_ed05_ex1">eſ</rdg></app>tre</seg> fait luy-<seg>m<app><rdg source="#P_ed04_ex3">ê</rdg><rdg source="#P_ed05_ex1">eſ</rdg></app>me</seg> ; ou de condamner une action dans un pareil cas,
+                            &amp; dans toutes les circonstances<seg><app type="#punct"><rdg source="#P_ed04_ex3"></rdg><rdg source="#P_ed05_ex1">,</rdg></app></seg> où elle luy ſera un jour
                             inévitable.</p>
                     </div3>
+                    
+                    <div3>
+                        <p source="#P_ed05_ex1"><g ref="#Pardouble" source="#P_ed05_ex1"/>Il y a dans les meilleurs conſeils dequoy déplaire ; ils viennent<pb source="#P_ed05_ex1" n="416"/> d'ailleurs que de nôtre eſprit, c'eſt aſſez pour eſtre rejettez d'abord apr préſomption &amp; par humeur ; &amp; ſuivis seulement par neceſſité, ou par reflection.</p>
+                    </div3>
+                    
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1" xml:id="r02_33_01"><g
                                 source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"/>Les enfans
@@ -5482,10 +5520,10 @@
                             hommes parfaits que le commun des hommes ne ſort de l'enfance.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3" corresp="#r12_077_01"/>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_077_01"/>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3"><g source="#P_ed04_ex3"/>L'on gagne à mourir d'être
+                        <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3"/>L'on gagne à mourir d'être
                             loüé de ceux qui nous ſurvivent, ſouvent ſans autre merite que celuy de
                             n'être plus : le même éloge ſert alors pour <emph style="smallcaps"
                                     ><persName>Caton</persName></emph> &amp; pour <emph
