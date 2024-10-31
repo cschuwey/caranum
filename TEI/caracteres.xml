@@ -7616,7 +7616,8 @@
                             source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1">
                             <g ref="#U2761"
                                 source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1"/>
-                            <g ref="#Parsimple" source="#P_ed05_ex1"/> <persName>Theodule</persName> a moins <seg>r<app>
+                            <g ref="#Parsimple" source="#P_ed05_ex1"/>
+                            <persName>Theodule</persName> a moins <seg>r<app>
                                     <rdg source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1">e</rdg>
                                     <rdg source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1">é</rdg>
                                 </app>üſſi</seg> que <seg>quelques<app>
