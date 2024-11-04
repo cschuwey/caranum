@@ -643,7 +643,7 @@
                                     />
                                 </app></seg> &amp; pratic dans les <pb n="107"
                                 source="#P_ed02_ex1 #P_ed03_ex1"/>affai<pb n="159"
-                                source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1"/>res <seg><app
+                                source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1"/>res<seg><app
                                     type="#punct">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1"
@@ -871,7 +871,7 @@
                                         source="#P_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >o</rdg>
                                     <rdg source="#L_ed01_ex1">O</rdg>
-                                </app>uvrage</seg> de pluſieurs <seg><app type="#punct">
+                                </app>uvrage</seg> de pluſieurs <seg><app type="#punct">
                                     <rdg source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1"
                                         >;</rdg>
                                     <rdg
@@ -880,12 +880,12 @@
                                 </app></seg>
                             <persName ref="#Homere"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    ><emph style="petites_caps" source="#B_ed01_ex1"
+                                    ><emph style="smallcaps" source="#B_ed01_ex1"
                                 >Homere</emph></persName> a fait <title rend="roman"
                                 source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >l'Iliade<link
                                     target="https://gallica.bnf.fr/ark:/12148/btv1b10085504j"
-                                /></title>, <persName ref="#Virgile"><emph style="petites_caps"
+                                /></title>, <persName ref="#Virgile"><emph style="smallcaps"
                                     source="#B_ed01_ex1">Virgile</emph></persName>
                             <title rend="roman"
                                 source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed04_ex2 #P_ed05_ex1 #P_ed05_ex2"
@@ -903,7 +903,7 @@
                                             >ï</rdg>
                                     </app>de</seg><link
                                     target="http://ark.bnf.fr/ark:/12148/cb31591737r"/></title>,
-                                <persName ref="#Tite_Live"><emph style="petites_caps"
+                                <persName ref="#Tite_Live"><emph style="smallcaps"
                                     source="#B_ed01_ex1">Tite-Live</emph></persName> ſes <title
                                 rend="roman">Decades<link
                                     target="http://ark.bnf.fr/ark:/12148/cb12008346h"/></title>,
@@ -977,7 +977,7 @@
                                         source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                         >y</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">i</rdg>
-                                </app></seg> les hommes ; ou<seg><app type="#punct">
+                                </app></seg> les hommes ; ou <seg><app type="#punct">
                                     <rdg
                                         source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"> </rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">, </rdg>
@@ -1029,7 +1029,7 @@
                                         source="#L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >é</rdg>
                                     <rdg source="#B_ed01_ex1">ê</rdg>
-                                </app>crit</seg>
+                                </app>crit</seg> 
                             <seg>l'<app type="#caps">
 
                                     <rdg source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1"
@@ -1042,7 +1042,7 @@
                                     <rdg
                                         source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >, </rdg>
-                                </app></seg>à ceux qui leur en ont fourni une ſi noble
+                                </app></seg> à ceux qui leur en ont fourni une ſi noble
                                     matiere<seg><app type="#punct">
                                     <rdg source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1">, </rdg>
                                     <rdg
@@ -1074,7 +1074,7 @@
                                                 >eſ</rdg>
                                             <rdg source="#L_ed01_ex1 #B_ed01_ex1">ê</rdg>
                                         </app>me</seg> on ne le conſidere que comme un homme qui a
-                                    écrit.</note><emph style="petites_caps"
+                                    écrit.</note><emph style="smallcaps"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                             ><seg>Mo<app type="#spell">
                                             <rdg
@@ -1083,19 +1083,19 @@
                                             <rdg
                                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                                 >ï</rdg>
-                                        </app>se</seg></emph></seg>, <emph style="petites_caps"
+                                        </app>se</seg></emph></seg>, <emph style="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Homere"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    >Homere</persName></emph>, <emph style="petites_caps"
+                                    >Homere</persName></emph>, <emph style="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Platon"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    >Platon</persName></emph>, <emph style="petites_caps"
+                                    >Platon</persName></emph>, <emph style="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     ><persName ref="#Virgile"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
-                                    >Virgile</persName></emph>, <emph style="petites_caps"
+                                    >Virgile</persName></emph>, <emph style="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Horace"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
@@ -1736,7 +1736,7 @@
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Capys</emph></persName> qui s'érige en juge du <pb n="98"
                                 source="#P_ed05_ex1 #P_ed05_ex2"/>beau ſtile, &amp; qui croit écrire
-                            comme <emph style="petites_caps"
+                            comme <emph style="smallcaps"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         ><seg><app type="#words" subtype="names">
 
@@ -1856,10 +1856,10 @@
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>Je ne ſçay ſi l'on
                             pourra jamais mettre dans des lettres plus d'eſprit, plus de tour, plus
                             d'agrément &amp; plus de ſtile que l'on n'en voit dans celles de
-                                <persName type="real"><emph style="petites_caps"
+                                <persName type="real"><emph style="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Balzac</emph></persName> &amp; de <persName type="real"><emph
-                                    style="petites_caps"
+                                    style="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Voiture</emph></persName> : elles ſont <pb n="96"
                                 source="#P_ed04_ex1 P_ed04_ex2 #P_ed04_ex3"/>vuides de ſentimens qui
@@ -1919,14 +1919,14 @@
                             source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2">
                             <g ref="Pdm" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>Il n'a manqué à
-                                <persName type="real"><emph style="petites_caps"
+                                <persName type="real"><emph style="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Terence</emph></persName> que <seg>d'<app type="#spell">
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3">ê</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">eſ</rdg>
                                 </app>tre</seg> moins froid : quelle pureté ? quelle exactitude ?
                             quelle politeſſe ? quelle élegance ? quels caracteres ? Il n'a manqué à
-                                <persName type="real"><emph style="petites_caps"
+                                <persName type="real"><emph style="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Moliere</emph></persName> que d'éviter le jargon &amp; d'écrire
                             purement : quel feu ? quelle naïveté ? quelle ſource de la bonne
@@ -1938,9 +1938,9 @@
                     <div3>
                         <p xml:id="r01_39_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/> J'ay lû <persName
-                                type="real"><emph style="petites_caps" source="#P_ed05_ex1"
+                                type="real"><emph style="smallcaps" source="#P_ed05_ex1"
                                     >Malherbe</emph></persName> &amp; <persName type="real"><emph
-                                    style="petites_caps" source="#P_ed05_ex1"
+                                    style="smallcaps" source="#P_ed05_ex1"
                                 >Theophile</emph></persName>, ils ont tous deux connu la nature,
                             avec cette difference, que le premier d'un ſtile plein &amp; uniforme
                             montre tout à le fois ce qu'elle a de plus beau &amp; de plus noble, de
@@ -1955,9 +1955,9 @@
                     <div3>
                         <p xml:id="r01_40_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName type="real"><emph style="petites_caps"
+                            <persName type="real"><emph style="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Ronsard</emph></persName> &amp;
-                                <persName type="real"><emph style="petites_caps"
+                                <persName type="real"><emph style="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Balzac</emph></persName> ont eu
                             chacun dans leur genre aſſez de bon &amp; de mauvais pour former aprés
                             eux de tres-grands hommes en vers &amp; en proſe.</p>
@@ -1965,10 +1965,10 @@
                     <div3>
                         <p xml:id="r01_41_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName type="real"><emph style="petites_caps"
+                            <persName type="real"><emph style="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Marot</emph></persName> par ſon
                             tour &amp; par ſon ſtile ſemble avoir écrit depuis <persName type="real"
-                                    ><emph style="petites_caps" source="#P_ed05_ex1"
+                                    ><emph style="smallcaps" source="#P_ed05_ex1"
                                 >Ronsard</emph></persName> : il n'y a gueres entre ce premier &amp;
                             nous, que la difference de quelques mots.</p>
                     </div3>
@@ -4305,7 +4305,8 @@
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">eſ</rdg>
                                     <rdg source="#P_ed04_ex3">ê</rdg>
                                 </app>me</seg>
-                            <seg><app type="#spell">
+                            <seg>
+                                <app type="#spell">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">j</rdg>
                                     <rdg source="#P_ed04_ex3">i</rdg>
                                 </app>our</seg> ; ce <seg><app type="#spell">
@@ -4319,8 +4320,10 @@
                                     type="#spell">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">j</rdg>
                                     <rdg source="#P_ed04_ex3">i</rdg>
-                                </app>ugemens</seg> le public, a varié ſur ſon <seg>ſu<app
-                                    type="#spell">
+                                </app>ugemens</seg><seg><app type="#punct">
+                                    <rdg source="#P_ed04_ex3 #P_ed05_ex1"/>
+                                    <rdg source="#P_ed06_ex1">,</rdg>
+                                </app></seg> le public, a varié ſur ſon <seg>ſu<app type="#spell">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">j</rdg>
                                     <rdg source="#P_ed04_ex3">i</rdg>
                                 </app>et</seg>, ou il ſe trompe, ou il s'eſt trompé ; celuy qui
@@ -4744,7 +4747,7 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_044_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3" ref="#Pdm"
                                 /><g source="#P_ed05_ex1" ref="#Parsimple"/>Un ſot eſt celuy qui n'a
                             pas <seg>m<app type="#spell">
                                     <rdg
@@ -4767,7 +4770,7 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_071_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1"
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1" ref="#Pdm"
                             />Nous n'approuvons les autres<pb n="415" source="#P_ed05_ex1"/> que par
                             les rapports que nous ſentons qu'ils ont avec <seg>nous<app>
                                     <rdg
@@ -5448,33 +5451,44 @@
                             ſera jamais : ou la gravité n'eſt point, ou elle eſt naturelle, &amp; il
                             eſt moins difficile d'en deſcendre que d'y monter.</p>
                     </div3>
-                    
+
                     <div3>
                         <p source="#P_ed06_ex1">
-                            <g source="#P_ed06_ex1" ref="#Pdm"/>Un homme de talent &amp; de reputation, s'il eſt chagrin &amp; auſtere, il effarouche les jeunes gens, les fait penſer mal de la vertu, &amp; la leur rend ſuſpecte d'une trop grande reforme &amp; d'une pratique torp ennuyeuſe ; s'il eſt au contraire d'un bon commerce, il leur eſt une leçon utile, il leur apprend qu'on peut vivre gayement &amp; laborieuſement, avoir des vûës ſerieuses ſans renoncer aux plaiſirs honnêtes ; il leur devient un exemple qu'on peut ſuivre.
-                        </p>
+                            <g source="#P_ed06_ex1" ref="#Pdm"/>Un homme de talent &amp; de
+                            reputation, s'il eſt chagrin &amp; auſtere, il effarouche les jeunes
+                            gens, les fait penſer mal de la vertu, &amp; la leur rend ſuſpecte d'une
+                            trop grande reforme &amp; d'une pratique torp ennuyeuſe ; s'il eſt au
+                            contraire d'un bon commerce, il leur eſt une leçon utile, il leur
+                            apprend qu'on peut vivre gayement &amp; laborieuſement, avoir des vûës
+                            ſerieuses ſans renoncer aux plaiſirs honnêtes ; il leur devient un
+                            exemple qu'on peut ſuivre. </p>
                     </div3>
-                   
+
 
                     <pb source="#P_ed05_ex1" n="407"/>
 
                     <div3>
-                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>La phiſionomie
-                            n'eſt pas une regle qui nous ſoit donnée pour juger des hommes : elle
-                            peut nous ſervir de conjecture.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g
+                                source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
+                                ref="#Parsimple"/>La phiſionomie n'eſt pas une regle qui nous ſoit
+                            donnée pour juger des hommes : elle peut nous ſervir de conjecture.</p>
                     </div3>
                     <pb n="355" source="#P_ed04_ex3"/>
                     <div3>
-                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>L'air ſpirituel
-                            eſt dans les hommes<seg><app type="#punct">
+                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g
+                                source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
+                                ref="#Parsimple"/>L'air ſpirituel eſt dans les hommes<seg><app
+                                    type="#punct">
                                     <rdg source="#P_ed04_ex1"/>
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">,</rdg>
                                 </app></seg> ce que la regularité des traits eſt dans les femmes :
                             c'eſt le genre de beauté où les plus vains puiſſent aspirer.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Un homme qui a
-                            beaucoup de merite &amp; d'eſprit, &amp; qui eſt connu<pb n="444" source="#P_ed06_ex1"/> pour tel, n'eſt
+                        <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g
+                                source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
+                                ref="#Parsimple"/>Un homme qui a beaucoup de merite &amp; d'eſprit,
+                            &amp; qui eſt connu<pb n="444" source="#P_ed06_ex1"/> pour tel, n'eſt
                             pas laid, même avec des traits qui ſont difformes ; ou s'il a de la
                             laideur, elle ne fait <seg><app>
                                     <rdg source="#P_ed04_ex1">point</rdg>
@@ -5487,19 +5501,22 @@
                     <div3>
                         <p source="#P_ed04_ex3 #P_ed05_ex1" corresp="#r12_036_01"/>
                     </div3>
-                    
+
                     <div3>
-                        <p source="#P_ed06_ex1"><g source="#P_ed06_ex1" ref="#Pdm"/>Je ne ſçay s'il eſt permis de juger des hommes par une faute qui eſt unique ; &amp; ſi un beſoin extreme, ou une violente paſſion, ou un premier mouvement tirent à conſequence.</p>
+                        <p source="#P_ed06_ex1"><g source="#P_ed06_ex1" ref="#Pdm"/>Je ne ſçay s'il
+                            eſt permis de juger des hommes par une faute qui eſt unique ; &amp; ſi
+                            un beſoin extreme, ou une violente paſſion, ou un premier mouvement
+                            tirent à conſequence.</p>
                     </div3>
-                    
+
                     <div3>
                         <p source="#P_ed06_ex1" corresp="#r12_038_01"/>
                     </div3>
-                    
+
                     <div3>
                         <p source="#P_ed06_ex1" corresp="#r12_039_01"/>
                     </div3>
-                    
+
                     <div3>
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1" corresp="#r12_042_01"/>
                     </div3>
@@ -5908,18 +5925,20 @@
                                 </app>tre</seg> de grands vices</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3 #P_ed05_ex1" xml:id="r12_038_01"><g source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g
-                                source="#P_ed05_ex1" ref="#Parsimple"/>Le contraire des bruits qui
-                            courent des affaires ou des perſonnes, eſt ſouvent la verité.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" xml:id="r12_038_01"><g
+                                source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
+                                ref="#Parsimple"/>Le contraire des bruits qui courent des affaires
+                            ou des perſonnes, eſt ſouvent la verité.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed04_ex3 #P_ed05_ex1" xml:id="r12_039_01"><g source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g
-                                source="#P_ed05_ex1" ref="#Parsimple"/>Sans une grande roideur &amp;
-                            une continuelle attention à toutes ſes paroles, on eſt expoſé à dire en
-                            moins d'une heure le oüy &amp; le non ſur une même choſe, ou ſur une
-                            même per<pb n="365" source="#P_ed04_ex3"/>ſonne, déterminé ſeulement par
-                            un eſprit de ſocieté &amp; de commerce, qui entraîne naturellement à ne
-                            pas contredire celuy-cy &amp; celuy-là qui en parlent differemment.</p>
+                        <p source="#P_ed04_ex3 #P_ed05_ex1" xml:id="r12_039_01"><g
+                                source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
+                                ref="#Parsimple"/>Sans une grande roideur &amp; une continuelle
+                            attention à toutes ſes paroles, on eſt expoſé à dire en moins d'une
+                            heure le oüy &amp; le non ſur une même choſe, ou ſur une même per<pb
+                                n="365" source="#P_ed04_ex3"/>ſonne, déterminé ſeulement par un
+                            eſprit de ſocieté &amp; de commerce, qui entraîne naturellement à ne pas
+                            contredire celuy-cy &amp; celuy-là qui en parlent differemment.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed04_ex3 #P_ed05_ex1"><g source="#P_ed04_ex3" ref="#Pdm"/><g
@@ -6570,7 +6589,7 @@
                                 </app>a</seg> contemple, il l'admire<seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1"> ; </rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">, </rdg>
-                                </app></seg><emph style="petites_caps"
+                                </app></seg><emph style="smallcaps"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Dieu</emph> &amp; la nature ſont en tout cela ce qu'il n'admire
                             point, il ne va pas plus loin que l'oignon de ſa tulippe qu'il ne
@@ -7425,7 +7444,7 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"
                                         >û</rdg>
                                     <rdg source="#P_ed10_ex1">uſ</rdg>
-                                </app>t-il</seg> un <emph style="petites_caps"
+                                </app>t-il</seg> un <emph style="smallcaps"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Catulle</emph><seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1">, </rdg>
@@ -7544,9 +7563,9 @@
                             <g ref="#Pdm"
                                 source="#P_ed04_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex #P_ed09_ex1 #P_ed10_ex1"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1"/>
-                            <emph style="petites_caps"
+                            <emph style="smallcaps"
                                 source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >Voiture</emph> &amp; <emph style="petites_caps"
+                                >Voiture</emph> &amp; <emph style="smallcaps"
                                 source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Sarrasin</emph>
                             <seg><app type="#spell">
