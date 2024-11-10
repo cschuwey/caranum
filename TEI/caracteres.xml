@@ -569,8 +569,7 @@
                                     <rdg
                                         source="#L_ed01_ex1 #B_ed01_ex1 #L_ed04_ex1 #P_ed06_ex1 #P_ed06_ex2 P_ed07_ex1 #P_ed08_ex1"
                                         >ô</rdg>
-                                </app>tre</seg>
-                            <seg>go<app type="#spell">
+                                </app>tre</seg> <seg>go<app type="#spell">
                                     <rdg source="#P_ed02_ex1 #P_ed03_ex1">uſ</rdg>
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed04_ex1 #P_ed04_ex3 #L_ed04_ex1 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed06_ex2 #P_ed07_ex1 #P_ed08_ex1"
@@ -1029,7 +1028,7 @@
                                         source="#L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >é</rdg>
                                     <rdg source="#B_ed01_ex1">ê</rdg>
-                                </app>crit</seg> 
+                                </app>crit</seg>
                             <seg>l'<app type="#caps">
 
                                     <rdg source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1"
@@ -4747,9 +4746,9 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_044_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3" ref="#Pdm"
-                                /><g source="#P_ed05_ex1" ref="#Parsimple"/>Un ſot eſt celuy qui n'a
-                            pas <seg>m<app type="#spell">
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
+                                ref="#Pdm"/><g source="#P_ed05_ex1" ref="#Parsimple"/>Un ſot eſt
+                            celuy qui n'a pas <seg>m<app type="#spell">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1"
                                         >eſ</rdg>
@@ -4770,9 +4769,10 @@
                     <div3>
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_071_01"><g
-                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1" ref="#Pdm"
-                            />Nous n'approuvons les autres<pb n="415" source="#P_ed05_ex1"/> que par
-                            les rapports que nous ſentons qu'ils ont avec <seg>nous<app>
+                                source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1"
+                                ref="#Pdm"/>Nous n'approuvons les autres<pb n="415"
+                                source="#P_ed05_ex1"/> que par les rapports que nous ſentons qu'ils
+                            ont avec <seg>nous<app>
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"
                                         >-</rdg>
