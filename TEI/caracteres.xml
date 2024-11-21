@@ -3509,11 +3509,14 @@
                     <pb n="324" source="#P_ed10_ex1"/>
 
                     <div3>
+                        <note
+                            source="#P_ed08_ex1" resp="hand">Article propose afin de reflechir
+                            [1 mot] et ou ne rien dire</note>
                         <p xml:id="r10_009_01"
                             source="#P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm"
                                 source="#P_ed04_ex1 #P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
-                            <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/><seg>La guerre a
+                            <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>La guerre a
                                 pour elle l'antiquité, elle a été dans tous les ſiecles : <seg><app
                                         type="#words">
                                         <rdg
@@ -3621,9 +3624,7 @@
                                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                             >,</rdg>
                                     </app></seg> on <pb n="244" source="#P_ed04_ex1 #P_ed04_ex3"
-                                />avoit pour toûjours la paix &amp; la liberté.</seg><note
-                                source="#P_ed08_ex1" resp="hand">Article propose afin de reflechir
-                                [1 mot] et ou ne rien dire</note></p>
+                                />avoit pour toûjours la paix &amp; la liberté.</p>
                     </div3>
 
                     <div3>
@@ -5180,7 +5181,7 @@
                     </div3>
 
                     <div3>
-                        <p source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
+                        <p  xml:id="r10_022_01" source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>Le panneau
                             le plus délié &amp; le plus ſpecieux qui dans tous les temps ait été
                             tendu aux Grands par leurs gens d'affaires, &amp; aux Rois par leurs
@@ -5526,7 +5527,7 @@
                             prix de l'argent.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
+                        <p  xml:id="r10_026_01" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             />Tout proſpere dans une Monarchie<seg><app type="#punct">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">,</rdg>
@@ -5535,7 +5536,7 @@
                             Prince.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
+                        <p  xml:id="r10_027_01" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             />Nommer un <seg><app type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">Roy</rdg>
@@ -5547,7 +5548,7 @@
                             éloge, que l'appeller par ſon nom, ou faire ſa définition.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
+                        <p  xml:id="r10_028_01" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             />Il y a un commerce ou un retour <pb n="398" source="#P_ed08_ex1"/>de
                             devoirs du Souverain à ſes Sujets, &amp; de <seg><app type="#spell">
@@ -5577,7 +5578,7 @@
                             l'agonie.</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
+                        <p xml:id="r10_029_01" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             />Quand vous <seg><app type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">voyez</rdg>
@@ -5619,7 +5620,7 @@
                             ?</p>
                     </div3>
                     <div3>
-                        <p source="#P_ed07_ex1 #P_ed08_ex1 P_ed09_ex1 #P_ed10_ex1">
+                        <p xml:id="r10_030_02" source="#P_ed07_ex1 #P_ed08_ex1 P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             />Quelle heureuſe place que celle <pb n="385" source="#P_ed07_ex1"/>qui
                             fournit dans tous les inſtans l'occaſion à un homme de faire du bien à
