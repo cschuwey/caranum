@@ -7126,6 +7126,7 @@
                                 </app></seg>. </p>
                     </div3>
                 </div2>
+                
                 <div2 xml:id="ch15">
 
                     <head>De la Chaire.</head>
@@ -7329,7 +7330,7 @@
                                 source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 /><g ref="#Asterisque" source="#B_ed01_ex1"/> Juſqu’à ce qu’il
                             revienne un homme<note resp="#hand" source="#P_ed08_ex1" place="right"
-                                >Let[...]</note><seg><app type="#punct">
+                                cert="low">Letourneaux</note><seg><app type="#punct">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3"/>
                                     <rdg
@@ -7383,8 +7384,9 @@
                                         >y</rdg>
                                     <rdg source="#B_ed01_ex1">i</rdg>
                                 </app>le</seg> fleuri<note resp="#hand" source="#P_ed08_ex1"
-                                place="left">L'abé B[...]</note>, une morale enjoüée, des figures
-                                    <seg>r<app type="#spell">
+                                place="left" cert="low">L'abé Bouin Le père Soüanin de
+                                l'oratoire</note>, une morale enjoüée, des figures <seg>r<app
+                                    type="#spell">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed07_ex1"
                                         >e</rdg>
@@ -7668,10 +7670,11 @@
                             <g ref="#Pdm"
                                 source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 /><g ref="#Asterisque" source="#B_ed01_ex1"/> L’Orateur<note
-                                resp="#hand" source="#P_ed08_ex1" place="left"><del>L'abé Bonin
-                                    [...]</del>L'abé Boileau [...]</note> fait de ſi belles images
-                            de certains deſordres, y fait entrer des circonſtances ſi <seg>d<app
-                                    type="#spell">
+                                resp="#hand" source="#P_ed08_ex1" place="left" cert="low"><del>L'abé
+                                    Bouin Le père Soüanin de l'oratoire Le père
+                                Bourdalouë</del>L'abé Boileau Le père de la roche</note> fait de ſi
+                            belles images de certains deſordres, y fait entrer des circonſtances ſi
+                                    <seg>d<app type="#spell">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed09_ex1"
                                         >e</rdg>
@@ -7704,7 +7707,8 @@
                                     <rdg source="#P_ed09_ex1">i</rdg>
                                 </app></seg> pas de pente à vouloir reſſembler à ſes por<pb n="421"
                                 source="#P_ed09_ex1"/>traits<note resp="#hand" source="#P_ed08_ex1"
-                                rend="+" place="left">Let</note>, <seg>j’a<app type="#spell">
+                                rend="+" place="left" cert="low">Letourneaux Laruë
+                                Jesuin<!-- à chercher --></note>, <seg>j’a<app type="#spell">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >y</rdg>
@@ -7800,10 +7804,10 @@
                                         >y</rdg>
                                     <rdg source="#P_ed09_ex1">i</rdg>
                                 </app></seg> qu’on vient d’entendre !<note resp="#hand"
-                                source="#P_ed08_ex1" place="right">Le père [...] ou selon quelques
-                                autres L'abé flechi[...] ou [...]</note> les points de religion les
-                            plus eſſentiels, comme les plus preſſans motifs de converſion y ont
-                                    <seg><app type="#spell">
+                                source="#P_ed08_ex1" place="right" cert="low">Le père Bourdalouë ou
+                                selon quelques autres L'abé flechier ou Le père laruë</note> les
+                            points de religion les plus eſſentiels, comme les plus preſſans motifs
+                            de converſion y ont <seg><app type="#spell">
                                     <rdg
                                         source="#P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1"
                                         >eſ</rdg>
@@ -7959,8 +7963,11 @@
                                         source="#P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >u</rdg>
                                 </app>es</seg><note resp="#hand" source="#P_ed08_ex1"
-                                type="commentaire" place="left end" cert="low">[...]</note> ; ils
-                            ont changé la parole <seg><app type="#caps">
+                                type="commentaire" place="left end" cert="low">L'abé Roquette neveu
+                                [...] preche le jour de la cene [...} avoir composé un Sermon à la
+                                louange du Roy qui pourtant [...]. L'abé [...] aussy preche ny [...]
+                                de dieu mais pour son Roy qui ny estoi pas</note> ; ils ont changé
+                            la parole <seg><app type="#caps">
                                     <rdg
                                         source="#P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >ſ</rdg>
@@ -8197,8 +8204,8 @@
                                                 source="#P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                                 >at</rdg>
                                         </app></seg><note resp="#hand" source="#P_ed08_ex1"
-                                        place="right">[...] Labrouë</note></emph></persName> a
-                                    <seg><app type="#spell">
+                                        place="right" cert="low">[...]
+                                Labrouë</note></emph></persName> a <seg><app type="#spell">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1"
                                         >eſ</rdg>
@@ -8268,7 +8275,8 @@
                                 source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 /><g ref="#Asterisque" source="#B_ed01_ex1"/> Le nom de ce
                                 Panegyriſte<note resp="#hand" source="#P_ed08_ex1" place="left"
-                                >[...]</note> ſemble gemir ſous le poids des titres dont <pb n="210"
+                                cert="low">[...] de chartres aujourd'huy l'abbé de Jarÿ</note>
+                            ſemble gemir ſous le poids des titres dont <pb n="210"
                                 source="#B_ed01_ex1"/> il eſt accablé, leur grand nombre remplit de
                             vaſtes <seg>a<app type="#spell">
                                     <rdg
@@ -8329,11 +8337,13 @@
                                         >ê</rdg>
                                 </app>tre</seg> loüable ou non<note resp="#hand"
                                 source="#P_ed08_ex1" type="commentaire" place="left" cert="low"
-                                >[...] les oraisons funèbres que [...]</note>, &amp; devant le ſaint
-                            Autel, &amp; dans la chaire de <pb n="653" source="#P_ed08_ex1"/><pb
-                                n="599" source="#P_ed10_ex1"/>la verité, loüé &amp; celebré à ſes
-                            funerailles ? n’y a-t-il point d’autre grandeur que celle qui vient de
-                            l’autorité <pb n="620" source="#P_ed07_ex1"/>&amp; de la naissance ?
+                                >contre les oraisons funèbres que [...] qu'on ne soit estre loué
+                                [...] faussess attribuez ou [...]non louables quand [...] de
+                                l'accompagnement de plusieurs autres [...]</note>, &amp; devant le
+                            ſaint Autel, &amp; dans la chaire de <pb n="653" source="#P_ed08_ex1"
+                                /><pb n="599" source="#P_ed10_ex1"/>la verité, loüé &amp; celebré à
+                            ſes funerailles ? n’y a-t-il point d’autre grandeur que celle qui vient
+                            de l’autorité <pb n="620" source="#P_ed07_ex1"/>&amp; de la naissance ?
                                     <seg>pourquo<app type="#spell">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >y</rdg>
@@ -8436,8 +8446,9 @@
                                     <rdg source="#P_ed10_ex1">ë</rdg>
                                 </app></seg>, je vais faire un livre, ſans autre talent pour écrire,
                             que le beſoin qu’il a de cinquante piſtoles<note resp="#hand"
-                                source="#P_ed08_ex1" place="left">[...] du cabinet des grands grand
-                                [...]</note> ; je luy crie inutilement<seg><app type="#punct">
+                                source="#P_ed08_ex1" place="left" cert="low">gedeon de pontier
+                                auteur du cabinet des grands grand [...]</note> ; je luy crie
+                                    inutilement<seg><app type="#punct">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1">,</rdg>
                                     <rdg source="#P_ed09_ex1 #P_ed10_ex1"> ;</rdg>
                                 </app></seg> prenez une ſcie, <emph style="italic">Dioſcore</emph>,
@@ -8981,7 +8992,7 @@
                                 source="#P_ed04_ex1 #P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/> Il me ſemble
                             qu’un Predicateur<note resp="#hand" source="#P_ed08_ex1" place="right"
-                                >Le père de <del>La ruë</del></note>
+                                cert="low">Le père de <del>La ruë</del></note>
                             <pb n="662" source="#P_ed08_ex1"/><pb n="608" source="#P_ed10_ex1"
                             />devroit faire choix dans chaque diſcours d’une verité unique, mais
                             capitale, terrible<seg><app type="#punct">
