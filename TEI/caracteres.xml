@@ -881,12 +881,12 @@
                                 </app></seg>
                             <persName ref="#Homere"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    ><emph style="smallcaps" source="#B_ed01_ex1"
+                                    ><emph rend="smallcaps" source="#B_ed01_ex1"
                                 >Homere</emph></persName> a fait <title rend="roman"
                                 source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >l’Iliade<link
                                     target="https://gallica.bnf.fr/ark:/12148/btv1b10085504j"
-                                /></title>, <persName ref="#Virgile"><emph style="smallcaps"
+                                /></title>, <persName ref="#Virgile"><emph rend="smallcaps"
                                     source="#B_ed01_ex1">Virgile</emph></persName>
                             <title rend="roman"
                                 source="#B_ed01_ex1 #P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed04_ex2 #P_ed05_ex1 #P_ed05_ex2"
@@ -904,7 +904,7 @@
                                             >ï</rdg>
                                     </app>de</seg><link
                                     target="http://ark.bnf.fr/ark:/12148/cb31591737r"/></title>,
-                                <persName ref="#Tite_Live"><emph style="smallcaps"
+                                <persName ref="#Tite_Live"><emph rend="smallcaps"
                                     source="#B_ed01_ex1">Tite-Live</emph></persName> ſes <title
                                 rend="roman">Decades<link
                                     target="http://ark.bnf.fr/ark:/12148/cb12008346h"/></title>,
@@ -1075,7 +1075,7 @@
                                                 >eſ</rdg>
                                             <rdg source="#L_ed01_ex1 #B_ed01_ex1">ê</rdg>
                                         </app>me</seg> on ne le conſidere que comme un homme qui a
-                                    écrit.</note><emph style="smallcaps"
+                                    écrit.</note><emph rend="smallcaps"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                             ><seg>Mo<app type="#spell">
                                             <rdg
@@ -1084,19 +1084,19 @@
                                             <rdg
                                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                                 >ï</rdg>
-                                        </app>se</seg></emph></seg>, <emph style="smallcaps"
+                                        </app>se</seg></emph></seg>, <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Homere"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    >Homere</persName></emph>, <emph style="smallcaps"
+                                    >Homere</persName></emph>, <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Platon"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
-                                    >Platon</persName></emph>, <emph style="smallcaps"
+                                    >Platon</persName></emph>, <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     ><persName ref="#Virgile"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
-                                    >Virgile</persName></emph>, <emph style="smallcaps"
+                                    >Virgile</persName></emph>, <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     ><persName ref="#Horace"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
@@ -1162,7 +1162,7 @@
                             tire le plus que l’on peut, on en renfle ſes ouvrages ; &amp; quand
                             enfin l’on eſt auteur, &amp; que l’on croit marcher tout ſeul, on
                             s’éleve contre eux, on les maltraite ; ſemblables à ces enfans <emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                 >drus</emph> &amp; forts d’un bon lait qu’ils ont ſuccé, qui battent
                             leur nourrice.</p>
@@ -1332,14 +1332,14 @@
                                         source="#P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >é</rdg>
                                     <rdg source="#B_ed01_ex1">ê</rdg>
-                                </app></seg>, dit <persName type="pseudo"><emph style="italic"
+                                </app></seg>, dit <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Ariſte</emph></persName>, à lire mes <seg><app>
                                     <rdg
                                         source="#P_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         >o</rdg>
                                     <rdg source="#L_ed01_ex1">O</rdg>
-                                </app>uvrages</seg> à <emph style="italic"
+                                </app>uvrages</seg> à <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"><seg><app>
                                         <rdg
                                             source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
@@ -1545,30 +1545,30 @@
                             source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2">
                             <g ref="Pdm" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>Que dites-vous du
-                            livre d’<persName type="pseudo"><emph style="italic"
+                            livre d’<persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Hermodore</emph></persName> ? qu’il eſt mauvais, répond
-                                <persName type="pseudo"><emph style="italic"
+                                <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Anthime</emph></persName> ; qu’il eſt mauvais ; qu’il eſt tel,
                             continuë-t’il, que ce n’eſt pas un livre, ou qui merite du moins que le
                             monde en parle; Mais l’avez-vous lû ? Non, dit <persName type="pseudo"
-                                    ><emph style="italic"
+                                    ><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Antime</emph></persName> : que n’ajoûte-t’il que <persName
-                                type="pseudo"><emph style="italic"
+                                type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Fulvie</emph></persName> &amp; <persName type="pseudo"><emph
-                                    style="italic"
+                                    rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Melanie</emph></persName> l’ont condamné ſans l’avoir lû, &amp;
                             qu’il eſt <seg>am<app type="#spell">
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3">y</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">i</rdg>
-                                </app></seg> de <persName type="pseudo"><emph style="italic"
+                                </app></seg> de <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >Fluvie</emph></persName> &amp; de <persName type="pseudo"><emph
-                                    style="italic"
+                                    rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >Melanie</emph></persName>.</p>
                     </div3>
@@ -1577,7 +1577,7 @@
                             source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2">
                             <g ref="Pdm" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName type="pseudo"><emph style="italic"
+                            <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >Arſene</emph></persName> du plus haut de ſon eſprit contemple
                             les hommes, &amp; dans l’éloignement <seg type="manuscrit">d<app
@@ -1702,7 +1702,7 @@
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">-eſ</rdg>
                                 </app>tre</seg> moins difficile aux rares genies de rencontrer le
                             grand &amp; le ſublime, que d’éviter toute ſorte de fautes. Le <title
-                                style="italic"><emph style="italic"
+                                style="italic"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1"
                                     >Cid</emph></title> n’a eû qu’une voix pour luy à ſa naiſſance,
                             qui a <seg><app type="#spell">
@@ -1733,11 +1733,11 @@
                             <g ref="Pdm"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1"/>
-                            <persName type="pseudo"><emph style="italic"
+                            <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Capys</emph></persName> qui s’érige en juge du <pb n="98"
                                 source="#P_ed05_ex1 #P_ed05_ex2"/>beau ſtile, &amp; qui croit écrire
-                            comme <emph style="smallcaps"
+                            comme <emph rend="smallcaps"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                         ><seg><app type="#words" subtype="names">
 
@@ -1747,16 +1747,16 @@
                                                 >Bouhours</persName> &amp; <persName type="reel"
                                                 >Rabutin</persName></rdg>
                                     </app></seg></emph> reſiſte à la voix du peuple, &amp; dit tout
-                            ſeul que <persName type="pseudo"><emph style="italic"
+                            ſeul que <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Damis</emph></persName> n’eſt pas un bon <seg><app>
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3">Ecrivain</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">Auteur</rdg>
-                                </app></seg>. <persName type="pseudo"><emph style="italic"
+                                </app></seg>. <persName type="pseudo"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Damis</emph></persName> cede à la multitude, &amp; dit
                             ingenuëment avec le public que <persName type="pseudo"><emph
-                                    style="italic"
+                                    rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Capys</emph></persName> eſt un froid <seg><app type="#word">
 
@@ -1774,7 +1774,7 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"> </rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">, </rdg>
                                 </app></seg>il y a un tel livre qui court, &amp; qui eſt imprimé
-                            chez <persName type="real"><emph style="italic"
+                            chez <persName type="real"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Cramoiſy</emph></persName> en tel caractere, il eſt bien relié
                             &amp; en beau papier, il ſe vend tant ; il doit ſçavoir <seg>juſqu<app>
@@ -1857,10 +1857,10 @@
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>Je ne ſçay ſi l’on
                             pourra jamais mettre dans des lettres plus d’eſprit, plus de tour, plus
                             d’agrément &amp; plus de ſtile que l’on n’en voit dans celles de
-                                <persName type="real"><emph style="smallcaps"
+                                <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Balzac</emph></persName> &amp; de <persName type="real"><emph
-                                    style="smallcaps"
+                                    rend="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Voiture</emph></persName> : elles ſont <pb n="96"
                                 source="#P_ed04_ex1 P_ed04_ex2 #P_ed04_ex3"/>vuides de ſentimens qui
@@ -1920,14 +1920,14 @@
                             source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2">
                             <g ref="Pdm" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>Il n’a manqué à
-                                <persName type="real"><emph style="smallcaps"
+                                <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Terence</emph></persName> que <seg>d’<app type="#spell">
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3">ê</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2">eſ</rdg>
                                 </app>tre</seg> moins froid : quelle pureté ? quelle exactitude ?
                             quelle politeſſe ? quelle élegance ? quels caracteres ? Il n’a manqué à
-                                <persName type="real"><emph style="smallcaps"
+                                <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2"
                                     >Moliere</emph></persName> que d’éviter le jargon &amp; d’écrire
                             purement : quel feu ? quelle naïveté ? quelle ſource de la bonne
@@ -1939,9 +1939,9 @@
                     <div3>
                         <p xml:id="r01_039_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/>J’ay lû <persName
-                                type="real"><emph style="smallcaps" source="#P_ed05_ex1"
+                                type="real"><emph rend="smallcaps" source="#P_ed05_ex1"
                                     >Malherbe</emph></persName> &amp; <persName type="real"><emph
-                                    style="smallcaps" source="#P_ed05_ex1"
+                                    rend="smallcaps" source="#P_ed05_ex1"
                                 >Theophile</emph></persName>, ils ont tous deux connu la nature,
                             avec cette difference, que le premier d’un ſtile plein &amp; uniforme
                             montre tout à le fois ce qu’elle a de plus beau &amp; de plus noble, de
@@ -1956,9 +1956,9 @@
                     <div3>
                         <p xml:id="r01_040_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName type="real"><emph style="smallcaps"
+                            <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Ronsard</emph></persName> &amp;
-                                <persName type="real"><emph style="smallcaps"
+                                <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Balzac</emph></persName> ont eu
                             chacun dans leur genre aſſez de bon &amp; de mauvais pour former aprés
                             eux de tres-grands hommes en vers &amp; en proſe.</p>
@@ -1966,10 +1966,10 @@
                     <div3>
                         <p xml:id="r01_041_01" source="#P_ed05_ex1 #P_ed05_ex2">
                             <g ref="#Pardouble" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName type="real"><emph style="smallcaps"
+                            <persName type="real"><emph rend="smallcaps"
                                     source="#P_ed05_ex1 #P_ed05_ex2">Marot</emph></persName> par ſon
                             tour &amp; par ſon ſtile ſemble avoir écrit depuis <persName type="real"
-                                    ><emph style="smallcaps" source="#P_ed05_ex1"
+                                    ><emph rend="smallcaps" source="#P_ed05_ex1"
                                 >Ronsard</emph></persName> : il n’y a gueres entre ce premier &amp;
                             nous, que la difference de quelques mots.</p>
                     </div3>
@@ -2100,14 +2100,14 @@
                             <g ref="Pdm"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"/>
                             <g ref="Asterisque" source="#B_ed01_ex1"/>L’on voit bien que l’<emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Opera</emph> eſt l’ébauche d’un grand ſpectacle ; il en donne
                             l’idée. </p>
                         <p xml:id="r01_047_02"
                             source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 ><pb source="#B_ed01_ex1"/> Je ne ſçay pas comment l’<emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Opera</emph>
                             <pb source="#P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1"/> avec une <seg><app>
@@ -2122,7 +2122,7 @@
                                 </app></seg>&amp; une dépenſe toute Royale a pû réüſſir à m’ennuyer. </p>
                         <p xml:id="r01_047_03"
                             source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                            > Il y a des endroits dans l’<emph style="italic"
+                            > Il y a des endroits dans l’<emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Opera</emph> qui laiſſent en deſirer d’autres, il échape
                             quelquefois <pb n="105" source="#P_ed05_ex2"/>de ſouhaiter la fin de
@@ -2142,25 +2142,25 @@
                                 </app></seg> &amp; de choſes qui intereſſent.</p>
                         <p xml:id="r01_047_04"
                             source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"> L’<emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Opera</emph> juſques à ce jour n’eſt pas un Poëme, ce ſont des vers
                             ; ni un ſpectacle depuis que les machines ont diſparu par le bon ménage
-                                d’<persName type="pseudo" style="italic"><emph style="italic"
+                                d’<persName type="pseudo" style="italic"><emph rend="italic"
                                     source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                 >Amphion</emph></persName> &amp; de ſa race ; c’eſt un concert, où
                             ce ſont des voix ſoûtenuës par des inſtrumens : c’eſt prendre le change,
                                 <pb n="99" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/>&amp;
                             cultiver un mauvais goût que de dire, comme l’on fait, que la machine
                             n’eſt qu’un amuſement d’enfans, &amp; qui ne convient qu’aux <emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Marionettes</emph> : elle augmente &amp; embellit la fiction,
                             ſoûtient dans les ſpectateurs cette douce illuſion qui eſt tout le
                             plaiſir du theatre où elle jette encore le merveilleux. Il ne faut point
                             de vols, ni de chars, ni de changemens aux <title style="italic"
                                 >Berenices</title> &amp; à <title style="italic">Penelope</title>,
-                            il en faut aux <emph style="italic"
+                            il en faut aux <emph rend="italic"
                                 source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                 >Operas</emph>, &amp; le propre de ce ſpectacle eſt de tenir les
                             eſprits, les yeux &amp; les oreilles dans un égal enchantement. </p>
@@ -2585,18 +2585,18 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >i</rdg>
                                 </app></seg> le patetique ; quelle plus grande tendreſſe que celle
-                            qui eſt réponduë dans tout le <emph style="italic"
+                            qui eſt réponduë dans tout le <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >Cid<link target="http://ark.bnf.fr/ark:/12148/cb302712379"
-                                    /></title></emph>, dans <emph style="italic"
+                                    /></title></emph>, dans <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >Polieucte<link
                                         target="http://ark.bnf.fr/ark:/12148/cb302712379"
-                                /></title></emph> &amp; dans les <title><emph style="italic"
+                                /></title></emph> &amp; dans les <title><emph rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     >Horaces</emph></title>
                             <seg><app type="#punct">
@@ -2605,15 +2605,15 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >?</rdg>
                                 </app></seg> quelle grandeur ne ſe remarque point en <emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                                    >Mitridate</title></emph>, en <emph style="italic"
+                                    >Mitridate</title></emph>, en <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title ref="#Porus"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                                    >Porus</title></emph>, &amp; en <emph style="italic"
+                                    >Porus</title></emph>, &amp; en <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title ref="#Burrhus"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
@@ -2641,18 +2641,18 @@
                                         >eſ</rdg>
                                     <rdg source="#L_ed01_ex1">é</rdg>
                                     <rdg source="#B_ed01_ex1">ê</rdg>
-                                </app>té</seg> connuës de ces deux Poëtes ; <emph style="italic"
+                                </app>té</seg> connuës de ces deux Poëtes ; <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title ref="#Oreste"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                                    >Oreſte</title></emph> dans l’<emph style="italic"
+                                    >Oreſte</title></emph> dans l’<emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title rend="italic"
                                     source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >Andromaque<link
                                         target="http://ark.bnf.fr/ark:/12148/cb311688660"
                                 /></title></emph> de <persName ref="#Racine" style="roman"
-                                >Racine</persName>, &amp; <emph style="italic"
+                                >Racine</persName>, &amp; <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                     ><title ref="#Phedre"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
@@ -2661,7 +2661,7 @@
                                     <rdg
                                         source="#L_ed01_ex1 #B_ed01_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                         >ê</rdg>
-                                </app>me</seg> Auteur, comme l’<emph style="italic"
+                                </app>me</seg> Auteur, comme l’<emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title ref="#Oedipe"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
@@ -2774,13 +2774,13 @@
                                         ;</rdg>
                                 </app></seg>
                             <persName ref="#Racine" type="real">Racine</persName> plus naturel : il
-                            ſemble que l’un imite <emph style="smallcaps"><persName ref="#Sophocle"
+                            ſemble que l’un imite <emph rend="smallcaps"><persName ref="#Sophocle"
                                     type="real">Sophocle</persName></emph><seg><app type="#punct">
                                     <rdg
                                         source="#P_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         > ;</rdg>
                                     <rdg source="#L_ed01_ex1">,</rdg>
-                                </app></seg> &amp; que l’autre doit plus à <emph style="smallcaps">
+                                </app></seg> &amp; que l’autre doit plus à <emph rend="smallcaps">
                                 <persName ref="#Euripide" type="real"
                             >Euripide</persName></emph>.</p>
                     </div3>
@@ -2929,8 +2929,8 @@
                             conſtruction ; l’on a enrichi la langue de nouveaux mots, ſecoüé le joug
                             du Latiniſme, &amp; reduit le ſtyle à la phraſe purement Françoiſe ;
                             l’on <pb n="118" source="#P_ed05_ex2"/>a preſque retrouvé le nombre que
-                                <emph style="smallcaps" source="#P_ed05_ex2"><persName type="real"
-                                    >Malherbe</persName></emph> &amp; <emph style="smallcaps"
+                                <emph rend="smallcaps" source="#P_ed05_ex2"><persName type="real"
+                                    >Malherbe</persName></emph> &amp; <emph rend="smallcaps"
                                 source="#P_ed05_ex2"><persName type="real">Balzac</persName></emph>
                             avoient les premiers rencontré, &amp; que tant d’auteurs depuis eux ont
                             laiſſé perdre ; l’on a mis enfin dans le diſcours tout l’ordre &amp;
@@ -3052,7 +3052,7 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex3"> </rdg>
                                 </app></seg>de peur de reſſembler à <seg><note source="#B_ed01_ex1"
                                     resp="imprime" place="left" rend="Dorilas" type="cle"
-                                    >Varillas.</note><emph style="italic"
+                                    >Varillas.</note><emph rend="italic"
                                     source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
                                         ><persName ref="#Dorilas" type="pseudo"
                                         source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
@@ -3061,7 +3061,7 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex2"> </rdg>
                                 </app></seg><seg><note source="#B_ed01_ex1" resp="imprime"
                                     place="left" rend="Handburg" type="remarque"
-                                    >Maimbourg.</note><emph style="italic"
+                                    >Maimbourg.</note><emph rend="italic"
                                     source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
                                         ><persName type="pseudo">Handburg</persName></emph></seg>
                             <app type="#punct">
@@ -3134,11 +3134,11 @@
                             <g ref="Pdm"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex2"/>
                             <g ref="Asterisque" source="#B_ed01_ex1"/>
-                            <emph style="smallcaps"
+                            <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex2"
                                     ><persName ref="#Horace" type="real"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
-                                    >Horace</persName></emph> ou <emph style="smallcaps"
+                                    >Horace</persName></emph> ou <emph rend="smallcaps"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex2"
                                     ><persName ref="#Despreaux" type="real"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
@@ -3381,7 +3381,7 @@
                                 ref="#manicule_gauche" source="#P_ed08_ex1"/><g ref="#Pdm"
                                 source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>Qu’importe à l’Etat
                                     qu’<seg><emph source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                    style="italic"><persName>Ergaſte</persName></emph><note
+                                    rend="italic"><persName>Ergaſte</persName></emph><note
                                     source="#P_ed08_ex1" resp="hand" rend="☜" cert="low">Le baron d.
                                         <persName>[beauvoir]</persName></note></seg> ſoit riche,
                             qu’il ait des chiens qui arrétent bien, qu’il crée les modes ſur les
@@ -3430,7 +3430,7 @@
                                                   source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                                   >même</rdg>
                                             </app> bataille</seg>. Jeune <seg><emph
-                                                style="smallcaps"
+                                                rend="smallcaps"
                                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                                   ><app type="#spell">
                                                   <rdg
@@ -3601,7 +3601,7 @@
                                 ><note source="#P_ed08_ex1" resp="hand">Les frondeurs</note><g
                                 ref="#Pdm"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                /><emph style="italic"
+                                /><emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                     ><persName>Démophile</persName></emph> à ma droite ſe lamente
                             &amp; s’écrie, tout eſt perdu, c’eſt fait de l’Etat, il eſt du moins ſur
@@ -3612,7 +3612,7 @@
                                     <rdg source="#P_ed09_ex1">moien</rdg>
                                 </app></seg>, je ne dis pas d’être ſuperieur, mais de ſuffire ſeul à
                             tant &amp; de ſi puiſſans ennemis ? cela eſt ſans exemple dans la
-                            Monarchie. Un Heros, un <emph style="smallcaps"
+                            Monarchie. Un Heros, un <emph rend="smallcaps"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                     ><persName>Achilles</persName></emph> y ſuccomberoit<seg><app
                                     type="#punct">
@@ -3639,9 +3639,9 @@
                                     <rdg source="#P_ed06_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >là-deſſus</rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed09_ex1">là deſſus</rdg>
-                                </app></seg> avec admiration d’<emph style="italic"
+                                </app></seg> avec admiration d’<emph rend="italic"
                                 source="#P_ed06_ex1"><persName>Olivier le Daim</persName></emph>
-                            &amp; de <emph style="italic" source="#P_ed06_ex1"><persName>Jacques
+                            &amp; de <emph rend="italic" source="#P_ed06_ex1"><persName>Jacques
                                     Coeur</persName></emph>, c’étoient là des hommes, dit-il,
                             c’étoient des Miniſtres. Il debite ſes nouvelles, qui ſont toutes les
                             plus triſtes &amp; les plus deſavantageuses que l’on pourroit feindre :
@@ -3676,9 +3676,9 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >luy-même</rdg>
                                     <rdg source="#P_ed09_ex1">lui-même</rdg>
-                                </app></seg>, <emph style="italic"
+                                </app></seg>, <emph rend="italic"
                                 source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">il a perdu
-                                    <emph style="italic" source="#P_ed06_ex1">un bon <seg><app
+                                    <emph rend="italic" source="#P_ed06_ex1">un bon <seg><app
                                             type="#spell">
                                             <rdg
                                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed09_ex1 #P_ed10_ex1"
@@ -3717,7 +3717,7 @@
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 ><note source="#P_ed08_ex1" resp="hand" cert="low">Les anti
                                 frondeurs. L’abé d. <persName>[2 mots]</persName></note>Mais à ma
-                            gauche <emph style="italic"
+                            gauche <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                     ><persName>Baſilide</persName></emph> met tout d’un coup ſur
                             pied une armée de trois cens mille hommes, il n’en ra<pb n="328"
@@ -3844,7 +3844,7 @@
                                     <rdg source="#P_ed06_ex1">l’Empire</rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >l’Empereur</rdg>
-                                </app></seg>, que le Grand Seigneur arme <emph style="italic"
+                                </app></seg>, que le Grand Seigneur arme <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >puiſſamment</emph>, ne veut point de paix, &amp; que ſon Viſir va
                             ſe montrer une <seg><app type="#spell">
@@ -3857,18 +3857,18 @@
                                     <rdg source="#P_ed07_ex1 #P_ed06_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >luy</rdg>
                                     <rdg source="#P_ed09_ex1">lui</rdg>
-                                </app></seg> eſt un <emph style="italic" source="#P_ed06_ex1"
+                                </app></seg> eſt un <emph rend="italic" source="#P_ed06_ex1"
                                 >Cerbere</emph>, &amp; les ennemis autant de monſtres à aſſommer :
                             il <pb n="368" source="#P_ed07_ex1"/>ne parle que de lauriers, que de
                             palmes, que de triomphes, &amp; que de trophées. Il dit dans le diſcours
-                            familier, <emph style="italic"
+                            familier, <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Nôtre auguſte Heros, nôtre grand Potentat, nôtre invincible
                                 Monarque</emph>. Reduiſez-le ſi vous pouvez à dire
                                     ſimplement<seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed10_ex1"> : </rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1">. </rdg>
-                                </app></seg><emph style="italic"
+                                </app></seg><emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Le Roy a beaucoup <pb n="327" source="#P_ed06_ex1"/>d’ennemis, ils
                                 ſont puiſſans, ils ſont unis, ils ſont aigris<seg><app type="#punct">
@@ -3878,9 +3878,9 @@
                                             > ;</rdg>
                                     </app></seg> il les a vaincus, j’eſpere toûjours qu’il les
                                 pourra vaincre</emph>. Ce ſtyle trop ferme &amp; trop deciſif pour
-                                <emph style="italic" source="#P_ed06_ex1"
+                                <emph rend="italic" source="#P_ed06_ex1"
                                     ><persName>Demophile</persName></emph> n’eſt pour <emph
-                                style="italic" source="#P_ed06_ex1"
+                                rend="italic" source="#P_ed06_ex1"
                                 ><persName>Baſilide</persName></emph><seg><app type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed06_ex1 #P_ed08_ex1 #P_ed10_ex1">
                                         ny</rdg>
@@ -5046,13 +5046,13 @@
                                 </app>, <app type="#spell">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">&amp;</rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
-                                </app></seg> de dire de ſes Villes, <emph style="italic"
+                                </app></seg> de dire de ſes Villes, <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >ma bonne Ville</emph>, &amp; de ſon <seg><app type="#caps">
                                     <rdg source="#P_ed06_ex1">peuple</rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 P_ed09_ex1 #P_ed10_ex1"
                                         >Peuple</rdg>
-                                </app></seg>, <emph style="italic"
+                                </app></seg>, <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >mon Peuple</emph>. Cet autre dont vous <seg><app type="#spell">
                                     <rdg source="#P_ed06_ex1 #P_ed09_ex1">voiez</rdg>
@@ -5481,7 +5481,7 @@
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">Roy</rdg>
                                     <rdg source="#P_ed09_ex1">Roi</rdg>
                                 </app></seg>
-                            <emph style="smallcaps"
+                            <emph rend="smallcaps"
                                 source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">Pere du <pb
                                     n="383" source="#P_ed07_ex1"/>peuple</emph>, eſt moins faire ſon
                             éloge, que l’appeller par ſon nom, ou faire ſa définition.</p>
@@ -6725,8 +6725,8 @@
                                 </app></seg> &amp; le prodigieux accablement de leurs commentaires <seg><app>
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">;</rdg>
                                     <rdg source="#P_ed07_ex1">?</rdg>
-                                </app></seg> que devient le <emph style="italic">petitoire</emph>
-                            &amp; le <emph style="italic">poſſeſſoire</emph>, &amp; tout ce qu’on
+                                </app></seg> que devient le <emph rend="italic">petitoire</emph>
+                            &amp; le <emph rend="italic">poſſeſſoire</emph>, &amp; tout ce qu’on
                             appelle Juriſprudence ? <seg><app>
                                     <rdg source="#P_ed05_ex1">O</rdg>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">o</rdg>
@@ -6833,7 +6833,7 @@
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1"><g
                                 source="#P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1" ref="#Pdm"/><g
                                 source="#P_ed05_ex1" ref="#Parsimple"/>Le Phœnix de la Poësie <emph
-                                style="italic">Chantante</emph> renaît de ſes cendres, il a vû
+                                rend="italic">Chantante</emph> renaît de ſes cendres, il a vû
                             mourir &amp; revivre ſa reputation en un <seg>m<app type="#spell">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">eſ</rdg>
                                     <rdg source="#P_ed04_ex3 #P_ed07_ex1">ê</rdg>
@@ -6877,7 +6877,7 @@
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">,</rdg>
                                     <rdg source="#P_ed04_ex3 #P_ed07_ex1"/>
                                 </app></seg> que s’il eût dit il y a quelque temps <emph
-                                style="italic">il eſt bon Poëte</emph>.</p>
+                                rend="italic">il eſt bon Poëte</emph>.</p>
                     </div3>
                     <div3>
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g
@@ -6899,8 +6899,8 @@
                                     <rdg source="#P_ed07_ex1"><emph source="#P_ed07_ex1"
                                         >la</emph></rdg>
                                 </app></seg>
-                            <emph style="italic"><title>Pucelle</title></emph> &amp; <title><emph
-                                    style="italic">Rodogune</emph></title> meritoient chacune une
+                            <emph rend="italic"><title>Pucelle</title></emph> &amp; <title><emph
+                                    rend="italic">Rodogune</emph></title> meritoient chacune une
                             autre avanture : ainſi l’on a toûjours demandé pourquoy dans telle <app>
                                 <rdg resp="hand" source="#P_ed04_ex3">ou</rdg>
                                 <rdg source="#P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1">ou</rdg>
@@ -6927,17 +6927,17 @@
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1"><g
                                 source="#P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1" ref="#Pdm"/><g
                                 source="#P_ed05_ex1" ref="#Parsimple"/>Il ſuffiſoit à <emph
-                                style="italic"><persName>Bathylle</persName></emph> d’<seg><app
+                                rend="italic"><persName>Bathylle</persName></emph> d’<seg><app
                                     type="#spell">
                                     <rdg source="#P_ed05_ex1">eſ</rdg>
                                     <rdg source="#P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1">ê</rdg>
                                 </app>tre</seg> Pantomime pour <seg><app type="#spell">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">eſ</rdg>
                                     <rdg source="#P_ed04_ex3 #P_ed07_ex1">ê</rdg>
-                                </app>tre</seg> couru des Dames Romaines, à <emph style="italic"
+                                </app>tre</seg> couru des Dames Romaines, à <emph rend="italic"
                                     ><persName>Rhoé</persName></emph> de danſer au theatre, à <emph
-                                style="italic"><persName>Roſcie</persName></emph> &amp; à <emph
-                                style="italic"><persName>Nerine</persName></emph> de repreſen<pb
+                                rend="italic"><persName>Roſcie</persName></emph> &amp; à <emph
+                                rend="italic"><persName>Nerine</persName></emph> de repreſen<pb
                                 n="477" source="#P_ed07_ex1"/>ter dans les chœurs<seg><app
                                     type="#punct">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1">,</rdg>
@@ -6962,7 +6962,7 @@
                                     type="#caps">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">C</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed04_ex3">c</rdg>
-                                </app>omedienne</seg>, mais une <emph style="italic"
+                                </app>omedienne</seg>, mais une <emph rend="italic"
                                 >Comedienne</emph>.</p>
                     </div3>
                     <pb n="348" source="#P_ed04_ex3"/>
@@ -7066,7 +7066,7 @@
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
                                             >Ceſar</rdg>
                                         <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph
-                                                style="smallcaps">Cesar</emph></rdg>
+                                                rend="smallcaps">Cesar</emph></rdg>
                                     </app></seg></persName> n’<seg><app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                                         >eſ</rdg>
@@ -7096,7 +7096,7 @@
                                         <rdg
                                             source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3"
                                             >Alexandre</rdg>
-                                        <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph style="italic"
+                                        <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph rend="italic"
                                                 >Alexandre</emph></rdg>
                                     </app></seg></persName>
                             <pb n="308" source="#P_ed01_ex1"/><pb n="256"
@@ -7117,7 +7117,7 @@
                         <p source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
                             xml:id="r12_106_01"><g
                                 source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"
-                                ref="#Pdm"/><emph style="smallcaps" source="#P_ed04_ex3">Un <app
+                                ref="#Pdm"/><emph rend="smallcaps" source="#P_ed04_ex3">Un <app
                                     type="#ms">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1" rend="normal">j</rdg>
                                     <rdg
@@ -7505,7 +7505,7 @@
                                     <seg><app type="#names">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"/>
-                                    <rdg source="#P_ed06_ex1 #P_ed07_ex1">d’<emph style="italic"
+                                    <rdg source="#P_ed06_ex1 #P_ed07_ex1">d’<emph rend="italic"
                                                 ><persName>Estrées</persName></emph></rdg>
                                 </app> de <emph rend="smallcaps"><persName>Harlay</persName></emph>,
                                     <emph rend="smallcaps"><persName>Bossuet</persName></emph>,
@@ -7533,7 +7533,7 @@
                                 </app>me</seg> citer les grands noms de <seg><app type="#names">
                                     <rdg
                                         source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex3 #P_ed05_ex1"/>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                                 ><persName>Chartres</persName></emph></rdg>
                                 </app><emph rend="smallcaps"><persName>Condé</persName></emph>, <app>
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1 #P_ed03_ex1"
@@ -7645,7 +7645,7 @@
                                 <emph><persName>Bignons</persName></emph>, les
                                     <emph><persName>Lamoignons</persName></emph> eſtoient de purs
                             grimauds, qui en peut douter ? ils ſçavoient le Grec. Quelle viſion,
-                            quel delire au grand, au ſage, au judicieux <emph style="smallcaps"
+                            quel delire au grand, au ſage, au judicieux <emph rend="smallcaps"
                                     ><persName>Antonin</persName></emph> ! de dire qu’<emph
                                 rend="italic">alors les peuples ſeroient heureux, ſi l’Empereur
                                 philoſophoit, ou ſi le Philoſophe, ou le grimaud venoit à
@@ -7667,7 +7667,7 @@
                     </div3>
 
                     <div3>
-                        <p source="#P_ed06_ex1 #P_ed07_ex1">Je nomme <emph style="italic"
+                        <p source="#P_ed06_ex1 #P_ed07_ex1">Je nomme <emph rend="italic"
                                     ><persName>Euripile</persName></emph>, &amp; vous dites, c’eſt
                             un bel eſprit : vous dites<pb n="481" source="#P_ed07_ex1"/> auſſi de
                             celuy qui travaille une poutre, il eſt Charpentier, &amp; de celuy qui
@@ -8510,9 +8510,9 @@
                     <div3>
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1"><g
                                 source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
-                                ref="#Parsimple"/>On a dit de <emph style="smallcaps"
+                                ref="#Parsimple"/>On a dit de <emph rend="smallcaps"
                                     ><persName>Socrate</persName></emph> qu’il étoit en délire,
-                            &amp; que c’étoit <emph style="italic">un fou tout plein
+                            &amp; que c’étoit <emph rend="italic">un fou tout plein
                             d’eſprit</emph> ; mais ceux des Grecs qui parloient ainſi d’un homme ſi
                             ſage paſſoient pour fous <seg><app type="#punct">
                                     <rdg source="#P_ed04_ex3">: i</rdg>
@@ -8655,14 +8655,14 @@
                                 </app>tre</seg> plus : le <seg>m<app>
                                     <rdg source="#P_ed04_ex3 #P_ed05_ex1">ê</rdg>
                                     <rdg source="#P_ed06_ex1">eſ</rdg>
-                                </app>me</seg> éloge ſert alors pour <emph style="smallcaps"
+                                </app>me</seg> éloge ſert alors pour <emph rend="smallcaps"
                                     ><persName>Caton</persName></emph><seg><app type="#punct">
                                     <rdg source="#P_ed04_ex3 #P_ed06_ex1"/>
                                     <rdg source="#P_ed05_ex1">,</rdg>
-                                </app></seg> &amp; pour <emph style="italic"
+                                </app></seg> &amp; pour <emph rend="italic"
                                     ><persName>Piſon</persName></emph>.</p>
                         <p source="#P_ed04_ex3 #P_ed05_ex1 #P_ed06_ex1">Le bruit court que <emph
-                                style="italic"><persName>Piſon</persName></emph> eſt mort, c’eſt un
+                                rend="italic"><persName>Piſon</persName></emph> eſt mort, c’eſt un
                             grande perte, c’<seg><app type="#spell">
                                     <rdg source="#P_ed04_ex3">ê</rdg>
                                     <rdg source="#P_ed05_ex1">eſ</rdg>
@@ -8857,13 +8857,13 @@
                                 source="#P_ed04_ex3 #P_ed06_ex1" ref="#Pdm"/><g source="#P_ed05_ex1"
                                 ref="#Parsimple"/>Tels ſont oubliez dans la diſtribution des graces,
                             &amp; font dire d’eux,<pb n="412" source="#P_ed05_ex1"/>
-                            <emph style="italic">pourquoy les oublier</emph>, qui, ſi l’on s’en
+                            <emph rend="italic">pourquoy les oublier</emph>, qui, ſi l’on s’en
                                     <seg><app type="#spell">
                                     <rdg source="#P_ed04_ex3 #P_ed06_ex1">é</rdg>
                                     <rdg source="#P_ed05_ex1">eſ</rdg>
-                                </app>toit</seg> ſouvenu, auroient fait dire, <emph style="italic"
+                                </app>toit</seg> ſouvenu, auroient fait dire, <emph rend="italic"
                                 >pourquoy s’en ſouvenir</emph> <app>
-                                <rdg source="#P_ed04_ex3 #P_ed05_ex1"><emph style="italic"
+                                <rdg source="#P_ed04_ex3 #P_ed05_ex1"><emph rend="italic"
                                     >:</emph></rdg>
                                 <rdg source="#P_ed06_ex1">:</rdg>
                             </app> d’où vient cette contrarieté ? Eſt-ce du caractere de ces
@@ -8930,12 +8930,12 @@
                                     <rdg source="#P_ed04_ex3 #P_ed06_ex1">i</rdg>
                                 </app>es</seg> l’une contre l’autre, &amp; que la<pb n="465"
                                 source="#P_ed06_ex1"/> paſſion domine, l’homme docte eſt un <emph
-                                style="italic">Sçavantaſſe</emph> ; le Magiſtrat un Bourgeois ou un
+                                rend="italic">Sçavantaſſe</emph> ; le Magiſtrat un Bourgeois ou un
                             Praticien ; le <seg>Fi<app type="#typo">
                                     <rdg source="#P_ed04_ex3 #P_ed05_ex1">n</rdg>
                                     <rdg source="#P_ed06_ex1">u</rdg>
-                                </app>ancier</seg> un <emph style="italic">Maltotier</emph>, &amp;
-                            le Gentilhomme un <emph style="italic">Gentillâtre</emph> ; mais il eſt
+                                </app>ancier</seg> un <emph rend="italic">Maltotier</emph>, &amp;
+                            le Gentilhomme un <emph rend="italic">Gentillâtre</emph> ; mais il eſt
                             étrange que de ſi mauvais noms que la colere &amp; la haine ont ſçû
                             inventer deviennent familiers, &amp; que le dédain tout froid &amp; tout
                             paiſible qu’il eſt<seg><app type="#punct">
@@ -9107,7 +9107,7 @@
                                     eſtes<seg><app type="#punct">
                                     <rdg source="#P_ed05_ex1 #P_ed06_ex1">-</rdg>
                                     <rdg source="#P_ed04_ex3"> </rdg>
-                                </app></seg>vous vicieux, ô <emph style="italic"
+                                </app></seg>vous vicieux, ô <emph rend="italic"
                                     ><persName>Thraſille</persName></emph> ? je ne le ſçavois pas,
                             &amp; vous me l’apprenez ; ce que je ſçay eſt que vous n’eſtes plus
                             jeune.</p>
@@ -9161,7 +9161,7 @@
                                     <rdg source="#P_ed07_ex1">,</rdg>
                                 </app></seg> d’Imprimerie : qu’on ne ſe hazarde plus de me dire,
                                 vous<pb n="435" source="#P_ed06_ex1"/> écrivez ſi bien, <emph
-                                style="italic"><persName><seg><app type="#name">
+                                rend="italic"><persName><seg><app type="#name">
                                             <rdg source="#P_ed05_ex1">Democrite</rdg>
                                             <rdg source="#P_ed06_ex1 #P_ed07_ex1">Antiſthene</rdg>
                                         </app></seg></persName></emph>, <seg>contin<app
@@ -9169,8 +9169,8 @@
                                     <rdg source="#P_ed05_ex1">ü</rdg>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">u</rdg>
                                 </app>ez</seg> d’écrire ; ne verrons-nous point de vous un <emph
-                                style="italic">in folio</emph> <seg><app>
-                                    <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph style="italic"
+                                rend="italic">in folio</emph> <seg><app>
+                                    <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph rend="italic"
                                             >?</emph></rdg>
                                     <rdg source="#P_ed07_ex1">?</rdg>
                                 </app></seg> traitez de toutes les vertus &amp; de tous les vices
@@ -9182,7 +9182,7 @@
                                     <seg><app type="#spell">
                                     <rdg source="#P_ed05_ex1">eſ</rdg>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">é</rdg>
-                                </app></seg>té, qui eſt, &amp; qui ſera livre. <emph style="italic"
+                                </app></seg>té, qui eſt, &amp; qui ſera livre. <emph rend="italic"
                                     ><persName>Berylle</persName></emph> tombe en <seg>ſ<app
                                     type="#spell">
                                     <rdg source="#P_ed05_ex1">i</rdg>
@@ -9209,7 +9209,7 @@
                                     <rdg source="#P_ed05_ex1">jaune ou feüille-morte</rdg>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1"><seg><app type="fonts">
                                                 <rdg source="#P_ed05_ex1 #P_ed06_ex1"><emph
-                                                  style="italic">rouge ou feüille-morte</emph></rdg>
+                                                  rend="italic">rouge ou feüille-morte</emph></rdg>
                                                 <rdg source="#P_ed07_ex1">ou</rdg>
                                             </app></seg></rdg>
                                 </app></seg> devint Commis, &amp; <seg>bien-t<app type="#spell">
@@ -9237,8 +9237,8 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">,</rdg>
                                 </app></seg> il n’eſt pas déchargé, que les penſions courent, &amp;
                             il eſt prêt de retourner d’où il arrive avec des mulets &amp; des
-                            fourgons. <emph style="italic"><persName>Mercure</persName></emph> eſt
-                                <emph style="italic"><persName>Mercure</persName></emph>, &amp; rien
+                            fourgons. <emph rend="italic"><persName>Mercure</persName></emph> eſt
+                                <emph rend="italic"><persName>Mercure</persName></emph>, &amp; rien
                             davantage, &amp; l’or ne peut payer ſes mediations &amp; ſes intrigues <seg><app>
                                     <rdg source="#P_ed05_ex1 #P_ed07_ex1">;</rdg>
                                     <rdg source="#P_ed06_ex1">,</rdg>
@@ -9264,11 +9264,11 @@
                                     <rdg source="#P_ed07_ex1"/>
                                 </app></seg> ils ayent une porte qui ferme bien ; eſt-il neceſſaire
                             qu’ils ſoient inſtruits ? folie, ſimplicité, imbecilité ! continuë <emph
-                                style="italic"><seg><app type="#name">
+                                rend="italic"><seg><app type="#name">
                                         <rdg source="#P_ed05_ex1">Democrite</rdg>
                                         <rdg source="#P_ed06_ex1 #P_ed07_ex1">Antiſthene</rdg>
                                     </app></seg></emph>, de mettre l’enſeigne d’Auteur ou de
-                            Philoſophe : avoir, s’il ſe peut, un <emph style="italic"><seg><app
+                            Philoſophe : avoir, s’il ſe peut, un <emph rend="italic"><seg><app
                                         type="caps">
                                         <rdg source="#P_ed05_ex1 #P_ed06_ex1">o</rdg>
                                         <rdg source="#P_ed07_ex1">O</rdg>
@@ -9278,7 +9278,7 @@
                                     <rdg source="#P_ed07_ex1">ê</rdg>
                                 </app>ter</seg> à ſes amis, &amp; donner à ceux qui ne peuvent
                             rendre : écrire<pb n="437" source="#P_ed06_ex1"/> alors par jeu, par
-                            oyſiveté, &amp; comme <emph style="italic"
+                            oyſiveté, &amp; comme <emph rend="italic"
                                 ><persName>Tityre</persName></emph> ſifle ou <seg>jo<app
                                     type="#spell">
                                     <rdg source="#P_ed05_ex1">üe</rdg>
@@ -9289,9 +9289,9 @@
                                 </app>te</seg> ; cela, ou rien : j’écris à ces conditions, &amp; je
                             cede ainſi à la violence de ceux qui me prennent à la gorge, &amp; me
                             disent, vous écrirez. Ils liront pour titre de mon nouveau livre, <emph
-                                style="smallcaps">Du Beau, du Bon, du Vray. Des Idées. Du premier
+                                rend="smallcaps">Du Beau, du Bon, du Vray. Des Idées. Du premier
                                 Principe,</emph>
-                            <emph style="italic">par <seg><app type="#name">
+                            <emph rend="italic">par <seg><app type="#name">
                                         <rdg source="#P_ed05_ex1">Democrite</rdg>
                                         <rdg source="#P_ed06_ex1 #P_ed07_ex1">Antiſthene</rdg>
                                     </app></seg> Vendeur de marée</emph>.</p>
@@ -9322,7 +9322,7 @@
                                 l’on<pb n="456" source="#P_ed06_ex1"/> arrive au délicieux port de
                             la fortune : &amp; ſelon ſes principes il raiſonne juſte.</p>
                         <p source="#P_ed04_ex3 #P_ed06_ex1" xml:id="r12_067_02">Je pardonne, dit
-                                <emph style="italic"><persName><seg>Antiſth<app type="#name">
+                                <emph rend="italic"><persName><seg>Antiſth<app type="#name">
                                             <rdg source="#P_ed04_ex3 #P_ed05_ex1">ene</rdg>
                                             <rdg source="#P_ed06_ex1">ius</rdg>
                                         </app></seg></persName></emph>, à ceux que j’ay loüez dans
@@ -9475,7 +9475,7 @@
                             autre ligne droite fait deux angles droits, ou égaux a deux droits, de
                             peur que les hommes venant à y découvrir quelque choſe de plus ou de
                             moins, je ne ſois raillé de ma propoſition : ainſi dans un autre genre
-                            je diray à peine avec toute la France, <emph style="smallcaps"
+                            je diray à peine avec toute la France, <emph rend="smallcaps"
                                     ><persName>Vauban</persName></emph> est infaillible, on n’en
                             appelle point ; qui me garentiroit que dans peu de temps on n’inſinuëra
                             pas que meſme ſur le ſiege, qui eſt ſon fort &amp; où il décide
@@ -9561,11 +9561,11 @@
                     <div3>
                         <p source="#P_ed05_ex1 #P_ed06_ex1"><g source="#P_ed05_ex1" ref="#Pardouble"
                                 /><g source="#P_ed06_ex1" ref="#Pdm"/>O temps ! ô mœurs ! s’écrie
-                                <emph style="italic"><persName>Heraclite</persName></emph>, ô
+                                <emph rend="italic"><persName>Heraclite</persName></emph>, ô
                             malheureux ſiecle ! ſiecle rempli de mauvais exemples, où la vertu
                             ſouffre, où le crime domine,<pb n="430" source="#P_ed05_ex1"/> où il
-                            triomphe ! Je veux eſtre un <emph style="italic"
-                                    ><persName>Lycaon</persName></emph>, un <emph style="italic"
+                            triomphe ! Je veux eſtre un <emph rend="italic"
+                                    ><persName>Lycaon</persName></emph>, un <emph rend="italic"
                                     ><persName>Ægyſte</persName></emph>, l’occaſion ne peut eſtre
                             meilleure, ny les conjonctures plus favorables, ſi je deſire du moins de
                             fleurir &amp; de proſperer. Un homme dit, je paſſeray la mer, je
@@ -9608,7 +9608,7 @@
                             un grand Empire ; il la neglige pour une guerre douteuſe. Ceux qui sont
                             nez arbitres &amp; mediateurs temporiſent ; &amp; lors qu’ils pourroient
                                 <pb n="432" source="#P_ed05_ex1"/> avoir déja employé utilement luer
-                            mediation, ils la promettent. O paſtres ! contunuë <emph style="italic"
+                            mediation, ils la promettent. O paſtres ! contunuë <emph rend="italic"
                                     ><persName>Heraclite</persName></emph>. O ruſtres qui habitez
                             ſous le chaume &amp; dans les cabanes ! ſi les évenemens ne vont point
                             jusques à vous ; ſi vous n’avez point le cœur percé par la malice des
@@ -9849,7 +9849,7 @@
                                         source="#P_ed02_ex1 #P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"
                                         >-</rdg>
                                     <rdg source="#P_ed10_ex1"> - </rdg>
-                                </app>temps</seg> par <emph style="italic"
+                                </app>temps</seg> par <emph rend="italic"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Theotime</emph> ; ſes tendres exhortations ne ſauvoient plus que le <seg><app>
                                     <rdg
@@ -9858,11 +9858,11 @@
                                     <rdg source="#B_ed01_ex1">P</rdg>
                                 </app>euple</seg>, &amp; <seg><app>
                                     <rdg source="#P_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1"><emph
-                                            style="italic"
+                                            rend="italic"
                                             source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1"
                                             >Theot.</emph></rdg>
                                     <rdg source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1"><emph
-                                            style="italic"
+                                            rend="italic"
                                             source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1"
                                             >Theotime</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
@@ -9904,7 +9904,7 @@
                                     <rdg source="#P_ed09_ex1 #P_ed10_ex1"/>
                                 </app>bourg</seg>, il y court au lever du Soleil, &amp; il en
                             revient à ſon coucher ; vous le voyez planté, &amp; qui a pris racine au
-                            milieu de ſes tulippes &amp; devant la <emph style="italic"
+                            milieu de ſes tulippes &amp; devant la <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >ſolitaire</emph><seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1"> ; </rdg>
@@ -9912,26 +9912,26 @@
                                 </app></seg>il ouvre de grands yeux, il frotte ſes mains, il ſe
                             baiſſe, il la voit de plus prés, il ne l’a jamais vûë ſi belle, il a le
                             cœur épanoüi de joye ; il la quitte pour <seg><app>
-                                    <rdg><emph style="italic" source="#P_ed06_ex1 #P_ed07_ex1"
+                                    <rdg><emph rend="italic" source="#P_ed06_ex1 #P_ed07_ex1"
                                             >l’orientale</emph></rdg>
-                                    <rdg>l’<emph style="italic"
+                                    <rdg>l’<emph rend="italic"
                                             source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                             >orientale</emph></rdg>
                                 </app></seg>, <seg>de<app>
                                     <rdg source="#P_ed06_ex1"/>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                     > </rdg>
-                                </app>là</seg> il va à la <emph style="italic"
+                                </app>là</seg> il va à la <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >veuve</emph>, il paſſe au <emph style="italic"
+                                >veuve</emph>, il paſſe au <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >drap d’or</emph>, de <seg>celle-c<app type="#spell">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >y</rdg>
                                     <rdg source="#P_ed09_ex1">i</rdg>
-                                </app></seg> à <emph style="italic"
+                                </app></seg> à <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >l’agathe</emph>, d’où il revient enfin à la <emph style="italic"
+                                >l’agathe</emph>, d’où il revient enfin à la <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >ſolitaire</emph>,<pb n="370" source="#P_ed09_ex1"/><seg><app>
                                     <rdg source="#P_ed06_ex1"> </rdg>
@@ -9948,7 +9948,7 @@
                                 </app>a</seg> contemple, il l’admire<seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1"> ; </rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">, </rdg>
-                                </app></seg><emph style="smallcaps"
+                                </app></seg><emph rend="smallcaps"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Dieu</emph> &amp; la nature ſont en tout cela ce qu’il n’admire
                             point, il ne va pas plus loin que l’oignon de ſa tulippe qu’il ne
@@ -10039,7 +10039,7 @@
                         <p xml:id="r13_002_04" source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1"><pb
                                 n="371" source="#P_ed09_ex1"/> Un troiſiéme que vous allez voir,
                             vous parle des curieux ſes confreres, &amp; ſur tout de <emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Diognete</emph>. Je l’admire, dit-il, &amp; je le comprends moins
                             que jamais ; penſez-vous qu’il cherche à s’inſtruire par les medailles,
@@ -10051,20 +10051,20 @@
                                     <rdg source="#P_ed06_ex1 #P_ed09_ex1">eſ</rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">ê</rdg>
                                 </app>tre</seg> que toute la peine qu’il ſe donne pour recouvrer une
-                                <emph style="italic"
+                                <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >teſte</emph>, vient du plaiſir qu’il ſe fait de ne voir pas une
                             ſuite d’Empereurs interrompuë, c’eſt encore moins<seg><app>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"> : </rdg>
                                     <rdg source="#P_ed10_ex1">: </rdg>
-                                </app></seg>Diognete ſçait d’une medaille le <emph style="italic"
+                                </app></seg>Diognete ſçait d’une medaille le <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >fruſt</emph>, le <emph style="italic"
+                                >fruſt</emph>, le <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >feloux</emph><seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"> </rdg>
                                     <rdg source="#P_ed10_ex1">, </rdg>
-                                </app></seg>&amp; la <emph style="italic"
+                                </app></seg>&amp; la <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >fleur de coin</emph><seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1"> ; </rdg>
@@ -10077,7 +10077,7 @@
                             employe ſon bien &amp; ſa vie.</p>
                         <p xml:id="r13_002_05"
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
-                            Vous voulez, ajoûte <emph style="italic"
+                            Vous voulez, ajoûte <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Democede</emph>, voir mes eſtampes, &amp; bien-tôt il les étale
                             &amp; vous les montre ; vous en rencontrez une qui n’eſt <seg>n<app
@@ -10125,7 +10125,7 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >y</rdg>
                                     <rdg source="#P_ed09_ex1">i</rdg>
-                                </app></seg> tout <emph style="italic"
+                                </app></seg> tout <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Calot</emph> hormis une ſeule qui n’eſt pas à la verité de ſes bons
                                     ouvrages<seg><app type="#punct">
@@ -10326,7 +10326,7 @@
                                 </app>ſoudre</seg> à mettre en vente. </p>
                         <p xml:id="r13_002_12"
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
-                            <emph style="italic"
+                            <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Diphile</emph> commence par un oiſeau &amp; finit par mille ; ſa
                             maiſon n’en eſt pas <seg><app type="#spell">
@@ -10352,7 +10352,7 @@
                             miniſtere que de ſiffler des ſerins au flageolet, &amp; de faire <seg>couve<app>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">t</rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">r</rdg>
-                                </app></seg> des <emph style="italic"
+                                </app></seg> des <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Canaries</emph> ; il eſt vray que ce qu’il dépenſe d’un <seg>c<app
                                     type="#spell">
@@ -10428,11 +10428,11 @@
                                 </app></seg>devineriez-vous à entendre parler celuy-cy de ſon <note
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 place="bottom" resp="Leopard_plume_musique" type="commentaire">Noms
-                                de coquillages.</note><emph style="italic"
+                                de coquillages.</note><emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >Leopard</emph>, de ſa <emph style="italic"
+                                >Leopard</emph>, de ſa <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >plume</emph>, de ſa <emph style="italic"
+                                >plume</emph>, de ſa <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >muſique</emph>, les vanter comme ce qu’il y a ſur la terre de plus
                             ſingulier &amp; de plus merveilleux, qu’il veut vendre ſes
@@ -10751,13 +10751,13 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >pp</rdg>
                                     <rdg source="#P_ed09_ex1">p</rdg>
-                                </app>renez</seg> qu’il y a un <emph style="italic"
+                                </app>renez</seg> qu’il y a un <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >Tigillin</emph> qui <emph style="italic"
+                                >Tigillin</emph> qui <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"><seg>ſou<app>
                                         <rdg source="#P_ed06_ex1 #P_ed07_ex1">ff</rdg>
                                         <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">f</rdg>
-                                    </app>le</seg></emph> ou qui <emph style="italic"
+                                    </app>le</seg></emph> ou qui <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >jette en ſable</emph> un verre d’eau de vie<seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1">,</rdg>
@@ -10803,7 +10803,7 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"
                                         >û</rdg>
                                     <rdg source="#P_ed10_ex1">uſ</rdg>
-                                </app>t-il</seg> un <emph style="smallcaps"
+                                </app>t-il</seg> un <emph rend="smallcaps"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Catulle</emph><seg><app type="#punct">
                                     <rdg source="#P_ed06_ex1">, </rdg>
@@ -10821,7 +10821,7 @@
                             <g ref="#Pdm"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 /><pb n="377" source="#P_ed09_ex1"/> Une perſonne à la mode
-                            reſſemble à une <emph style="italic"
+                            reſſemble à une <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >fleur bleuë</emph>, qui <seg>cro<app>
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"
@@ -10884,7 +10884,7 @@
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                            /> L’on voit <emph style="italic"
+                            /> L’on voit <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Euſtrate</emph> aſſis dans ſa nacelle, où il joüit d’un air pur
                             &amp; d’un ciel ſerein ; il avance d’un bon vent &amp; qui a toutes les <seg>a<app>
@@ -10922,9 +10922,9 @@
                             <g ref="#Pdm"
                                 source="#P_ed04_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex #P_ed09_ex1 #P_ed10_ex1"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1"/>
-                            <emph style="smallcaps"
+                            <emph rend="smallcaps"
                                 source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >Voiture</emph> &amp; <emph style="smallcaps"
+                                >Voiture</emph> &amp; <emph rend="smallcaps"
                                 source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Sarrasin</emph>
                             <seg><app type="#spell">
@@ -11234,7 +11234,7 @@
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
-                            <emph style="italic"
+                            <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Iphis</emph> voit à l’Egliſe un ſoulier d’une nouvelle mode, il
                             regarde le ſien, &amp; en rougit, il ne ſe <seg>cro<app>
@@ -11340,7 +11340,7 @@
                                 </app>ellent</seg> ny les mœurs ny la perſonne ; ils aiment des
                             attitudes forcées ou immodeſtes, une maniere dure, ſauvage, <pb n="580"
                                 source="#P_ed09_ex1"/>étrangere, qui ſont un <seg><app>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">Capitan</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Capitan</rdg>
@@ -11352,7 +11352,7 @@
                                         >&amp;</rdg>
                                     <rdg source="#P_ed09_ex1"/>
                                 </app></seg> un <seg><app>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">Matamor</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Matamor</rdg>
@@ -11366,7 +11366,7 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"> ; </rdg>
                                     <rdg source="#P_ed10_ex1">; </rdg>
                                 </app></seg>une <seg><app>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">Diane</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Diane</rdg>
@@ -11376,12 +11376,12 @@
 
                                 </app></seg>comme d’une femme ſimple &amp; timide une amazone ou une
                                     <seg><app type="#punct">
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">Pallas</emph>;</rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Pallas ;</rdg>
                                 </app></seg> une <seg><app>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">laïs</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Laïs</rdg>
@@ -11389,7 +11389,7 @@
                                     <rdg source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1">he</rdg>
                                     <rdg source="#P_ed09_ex1 #P_ed10_ex1">e</rdg>
                                 </app></seg>, un <seg><app>
-                                    <rdg source="#P_ed06_ex1"><emph style="italic"
+                                    <rdg source="#P_ed06_ex1"><emph rend="italic"
                                             source="#P_ed06_ex1">Attila</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Attila</rdg>
@@ -11703,12 +11703,12 @@
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1"> </rdg>
                                     <rdg source="#P_ed10_ex1">, </rdg>
                                 </app></seg>ou les dehors de l’incontinence : ſi <emph
-                                style="italic"
+                                rend="italic"
                                 source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Pherecide</emph> paſſe pour être <seg>gu<app type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1">e</rdg>
                                     <rdg source="#P_ed10_ex1">é</rdg>
-                                </app>ri</seg> des femmes, ou <emph style="italic"
+                                </app>ri</seg> des femmes, ou <emph rend="italic"
                                 source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Pherenice</emph> pour être fidele à ſon mari, ce leur eſt aſſez :
                             laiſſez-les joüer un jeu ruineux , faire perdre leurs creanciers, ſe
@@ -11881,7 +11881,7 @@
                             source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
-                            <emph style="italic"
+                            <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Onuphre</emph> n’a pour tout lit qu’une houſſe de ſerge griſe, mais
                             il couche ſur le cotton &amp; ſur le duvet ; de même il eſt habillé
@@ -11894,9 +11894,9 @@
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1">,</rdg>
                                     <rdg source="#P_ed10_ex1">;</rdg>
                                 </app></seg> il porte des chemiſes tres-déliées qu’il a un
-                            tres-grand ſoin de bien cacher. Il ne dit point <emph style="italic"
+                            tres-grand ſoin de bien cacher. Il ne dit point <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
-                                >ma haire</emph> &amp; <emph style="italic"
+                                >ma haire</emph> &amp; <emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >ma diſcipline</emph>, au contraire, il paſſeroit pour ce qu’il eſt,
                             pour un hypocrite, &amp; il veut paſſer pour ce qu’il n’eſt pas, pour un
@@ -12236,7 +12236,7 @@
                                     <rdg source="#P_ed06_ex1">; </rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"> ;
                                     </rdg>
-                                </app></seg>on luy parle d’<emph style="italic"
+                                </app></seg>on luy parle d’<emph rend="italic"
                                 source="#P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                     >Eu<pb n="564" source="#P_ed07_ex1"/>doxe</emph>, il ſourit, ou
                             il ſoûpire<seg><app type="#punct">
@@ -12253,7 +12253,7 @@
                         <p xml:id="r13_025_01"
                             source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
                             <g ref="#Pdm" source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
-                            Riez, <emph style="italic"
+                            Riez, <emph rend="italic"
                                 source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                 >Zelie</emph>, ſoyez badine &amp; folâtre à vôtre ordinaire, qu’eſt
                             devenuë vôtre joye ? Je ſuis riche, dites-vous, me voilà au large, &amp;
@@ -12353,17 +12353,17 @@
                             une mode qu’il faut ſuivre. Elles comptoient autrefois une ſemaine par
                             les jours de jeu, de ſpectacle, de repas, de promenade, de concert, de
                             maſcarade ; &amp; d’un joli ſermon ; elles alloient le Lundi perdre leur
-                            argent chez <emph style="italic" source="#P_ed06_ex1">Iſmene</emph>, le
-                            Mardi leur temps chez <emph style="italic" source="#P_ed06_ex1"
+                            argent chez <emph rend="italic" source="#P_ed06_ex1">Iſmene</emph>, le
+                            Mardi leur temps chez <emph rend="italic" source="#P_ed06_ex1"
                                 >Climene</emph>, &amp; le Mercredy leur reputation chez <emph
-                                style="italic" source="#P_ed06_ex1">Celimene</emph>. Elles ſçavoient
+                                rend="italic" source="#P_ed06_ex1">Celimene</emph>. Elles ſçavoient
                             dés la veille toute la joye qu’elles devoient avoir le jour d’aprés
                             &amp; le lendemain ; elles joüiſſoient tout à la fois du plaiſir preſent
                             &amp; de celuy qui ne leur pouvoit manquer ; elles auroient ſouhaité de
                             les pouvoir raſſembler tous en <pb n="509" source="#P_ed06_ex1"/>un ſeul
                             jour ; c’étoit alors leur unique inquietude &amp; tout le ſujet de leurs
                             diſtractions, &amp; ſi elles ſe trouvoient quelquefois à l’<emph
-                                style="italic" source="#P_ed06_ex1">Opera</emph>, elles y
+                                rend="italic" source="#P_ed06_ex1">Opera</emph>, elles y
                             regrettoient la comedie. Autres temps, autres moeurs. Elles outrnt
                             l’auſterité &amp; la retraite ; elles n’ouvrent plus les yeux, qui leur
                             ſont donnez pour voir, elles ne mettent plus leurs ſens à aucun uſage,
@@ -12745,12 +12745,12 @@
                                 </app></seg> où <seg><app type="caps">
                                     <rdg
                                         source="#P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1"
-                                            >L<emph style="smallcaps">e</emph></rdg>
+                                            >L<emph rend="smallcaps">e</emph></rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"><emph
-                                            style="smallcaps">Le</emph></rdg>
-                                </app></seg> M<emph style="smallcaps">aistre</emph>, P<emph
-                                style="smallcaps">ucelle</emph>, &amp; <persName>F<emph
-                                    style="smallcaps">ourcroy</emph></persName> l’ont fait regner,
+                                            rend="smallcaps">Le</emph></rdg>
+                                </app></seg> M<emph rend="smallcaps">aistre</emph>, P<emph
+                                rend="smallcaps">ucelle</emph>, &amp; <persName>F<emph
+                                    rend="smallcaps">ourcroy</emph></persName> l’ont fait regner,
                             &amp; où elle n’eſt plus d’uſage, à la Chaire où elle ne doit pas
                                     <seg><app type="#spell">
                                     <rdg
@@ -13018,7 +13018,7 @@
                                     <rdg source="P_ed8_ex1">é</rdg>
                                     <rdg source="P_ed9_ex1 P_ed10_ex1">ê</rdg>
                                 </app>te</seg> l’oreille aux Rheteurs, aux Declamateurs, aux <emph
-                                style="italic">Enumerateurs</emph>, on court ceux qui peignent en
+                                rend="italic">Enumerateurs</emph>, on court ceux qui peignent en
                             grand, ou en miniature ; il n’y a pas <seg>long-tem<app type="#spell">
                                     <rdg source="P_ed8_ex1 P_ed10_ex1">p</rdg>
                                     <rdg source="P_ed9_ex1"/>
@@ -13110,7 +13110,7 @@
                             de décider des mariages &amp; des teſtamens, &amp; venoient avec les
                                     <seg><app type="spell" cert="low">
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1"><emph
-                                            style="italic">Pandectes</emph></rdg>
+                                            rend="italic">Pandectes</emph></rdg>
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >Pandectes</rdg>
                                 </app></seg> au ſecours de la veuve <seg><app type="#word">
@@ -13374,7 +13374,7 @@
                                         source="#P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >,</rdg>
                                 </app></seg> &amp; touchez au point de reſoudre dans leur cœur ſur
-                            ce Sermon de <emph style="italic"><persName>Theodore</persName></emph>,
+                            ce Sermon de <emph rend="italic"><persName>Theodore</persName></emph>,
                             qu’il eſt encore plus beau que le dernier qu’il a prêché.</p>
                     </div3>
 
@@ -13605,7 +13605,7 @@
                             <g ref="#Pdm"
                                 source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #P_ed02_ex1 #P_ed03_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <emph style="italic"><persName>Theodule</persName></emph> a moins
+                            <emph rend="italic"><persName>Theodule</persName></emph> a moins
                                     <seg>r<app type="#spell">
                                     <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed02_ex1">eü</rdg>
                                     <rdg source="#P_ed03_ex1 #P_ed05_ex1 #P_ed06_ex1">eu</rdg>
@@ -13735,7 +13735,7 @@
                                     <rdg
                                         source="#L_ed01_ex1 #B_ed01_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1"
                                         >ê</rdg>
-                                </app>tre</seg> entierement ignoré. <persName><emph style="italic"
+                                </app>tre</seg> entierement ignoré. <persName><emph rend="italic"
                                             ><seg>Theod<app type="#name" cert="low">
                                             <rdg
                                                 source="#P_ed01_ex1 #P_ed01_ex2 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1"
@@ -13966,8 +13966,8 @@
                                     <rdg
                                         source="#B_ed01_ex1 #P_ed03_ex1 #P_ed04_ex1 #P_ed04_ex3 #P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                                         >,</rdg>
-                                </app></seg> ſe comparer déja aux V<emph style="smallcaps"
-                                >incens</emph> &amp; aux X<emph style="smallcaps">aviers</emph>,
+                                </app></seg> ſe comparer déja aux V<emph rend="smallcaps"
+                                >incens</emph> &amp; aux X<emph rend="smallcaps">aviers</emph>,
                             &amp; ſe croire des hommes Apoſtoliques : de ſi grands travaux &amp; de
                             ſi heureuſes <pb n="654" source="#P_ed08_ex1"/><pb n="60"
                                 source="#P_ed10_ex1"/>miſſions ne ſeroient pas à leur gré payées
@@ -13991,7 +13991,7 @@
                                     inutilement<seg><app type="#punct">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1">,</rdg>
                                     <rdg source="#P_ed09_ex1 #P_ed10_ex1"> ;</rdg>
-                                </app></seg> prenez une ſcie, <emph style="italic">Dioſcore</emph>,
+                                </app></seg> prenez une ſcie, <emph rend="italic">Dioſcore</emph>,
                             ſciez, ou bien tournez, ou faites une jante de rouë ; vous aurez vôtre
                             ſalaire, il n’a point fait <seg>l’a<app type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1 #P_ed10_ex1">pp</rdg>
@@ -14079,11 +14079,11 @@
                             <g ref="#Pdm"
                                 source="#P_ed04_ex1 #P_ed04_ex3 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
                             <g ref="#Parsimple" source="#P_ed05_ex1 #P_ed05_ex2"/>
-                            <persName>L’. de M<emph style="smallcaps">eaux</emph></persName> &amp;
-                            le <persName>P. B<emph style="smallcaps">ourdaloüe</emph></persName> me
-                            rappellent <persName>D<emph style="smallcaps"
+                            <persName>L’. de M<emph rend="smallcaps">eaux</emph></persName> &amp;
+                            le <persName>P. B<emph rend="smallcaps">ourdaloüe</emph></persName> me
+                            rappellent <persName>D<emph rend="smallcaps"
                                 >emosthene</emph></persName> &amp; <pb n="558" source="#P_ed06_ex1"
-                                    /><persName>C<emph style="smallcaps">iceron</emph></persName>.
+                                    /><persName>C<emph rend="smallcaps">iceron</emph></persName>.
                             Tous deux maîtres dans <pb n="476" source="#P_ed05_ex1 #P_ed05_ex2"
                             />l’Eloquence de la <seg><app type="#caps">
                                     <rdg
@@ -14498,7 +14498,7 @@
                             &amp; qui écrit auſſi bien que luy <seg><app type="#punct">
                                     <rdg source="#P_ed07_ex1">:</rdg>
                                     <rdg source="#P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">;</rdg>
-                                </app></seg> en un mot le <emph style="italic">Sermoneur</emph> eſt
+                                </app></seg> en un mot le <emph rend="italic">Sermoneur</emph> eſt
                             plûtôt Evêque que le plus ſolide Ecrivain n’eſt <seg>rev<app
                                     type="#spell">
                                     <rdg source="#P_ed07_ex1 #P_ed08_ex1">é</rdg>
@@ -14645,7 +14645,7 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex3">eſt plus digne d’un
                                         Evêché</rdg>
                                     <rdg source="#P_ed05_ex1 #P_ed05_ex2 #P_ed06_ex1">merite mieux
-                                        un Evêché ? <persName>F<emph style="smallcaps"
+                                        un Evêché ? <persName>F<emph rend="smallcaps"
                                             >enelon</emph></persName> en <seg><app type="#spell">
                                                 <rdg source="#P_ed04_ex1 #P_ed05_ex1 #P_ed05_ex2"
                                                   >eſ</rdg>
