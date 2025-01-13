@@ -2168,7 +2168,7 @@
                                         source="#L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >d’action</rdg>
                                 </app></seg><seg><app type="#punct">
-                                    <rdg>,</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed02_ex1">,</rdg>
                                     <rdg source="#P_ed05_ex2"/>
                                 </app></seg> &amp; de choſes qui intereſſent.</p>
                         <p xml:id="r01_047_04"
@@ -2413,7 +2413,7 @@
                                         source="#L_ed01_ex1 #B_ed01_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >ê</rdg>
                                 </app>tre</seg>
-                            <pb source="#L_ed01_ex1"/>é<pb source="#P_ed01_ex1 #P_ed02_ex1"/>galé
+                            <pb source="#L_ed01_ex1"/> é<pb source="#P_ed01_ex1 #P_ed02_ex1"/>galé
                             dans les endroits où il excelle, il a pour lors un caractere original
                             &amp; inimitable ; mais <seg><app type="#word">
 
@@ -2455,9 +2455,9 @@
                                         de ſi haut.</rdg>
                                 </app></seg>
                             <seg><app type="#caps">
-                                    <rdg source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1"
+                                    <rdg source="#B_ed01_ex1 #L_ed01_ex1"
                                         >D</rdg>
-                                    <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
+                                    <rdg source="#P_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >d</rdg>
                                 </app>ans</seg> quelques-unes de ſes meilleures pieces il y <pb
                                 source="#B_ed01_ex1"/>a des fautes inexcusables contre les mœurs ;
@@ -2549,7 +2549,7 @@
                                         >û</rdg>
                                 </app>t</seg> des Grecs, &amp; à leur grande ſimplicité ; il a aimé
                             au contraire à charger la ſcene d’<seg><app type="#spell">
-                                    <rdg source="#P_ed04_ex1">é</rdg>
+                                    <rdg source="#P_ed01_ex1 #P_ed01_ex2 #P_ed04_ex1">é</rdg>
                                     <rdg source="#P_ed05_ex2">e</rdg>
                                 </app>venemens</seg> dont il eſt preſque toûjours ſorti avec <pb
                                 n="104" source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"/><seg>ſucc<app
@@ -2613,7 +2613,7 @@
                                 ſim<pb source="#P_ed01_ex1 #L_ed01_ex1 P_ed02_ex1"/>plicité de
                             l’action ; à qui le grand &amp; le merveilleux n’ont pas même manqué,
                             ainſi qu’à <persName ref="#Corneille" type="real" style="roman"
-                                >Corneille</persName>
+                                >Corneille</persName> 
                             <seg>n<app type="#spell">
                                     <rdg source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1"
                                         >y</rdg>
@@ -2625,7 +2625,7 @@
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                         >i</rdg>
                                 </app></seg> le patetique ; quelle plus grande tendreſſe que celle
-                            qui eſt réponduë dans tout le <emph rend="italic"
+                            qui eſt répanduë dans tout le <emph rend="italic"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
@@ -2638,7 +2638,7 @@
                                         target="http://ark.bnf.fr/ark:/12148/cb302712379"
                                 /></title></emph> &amp; dans les <title><emph rend="italic"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                                    >Horaces</emph></title>
+                                    >Horaces</emph></title> 
                             <seg><app type="#punct">
                                     <rdg source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1"
                                         >!</rdg>
@@ -2657,7 +2657,7 @@
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
                                     ><title ref="#Burrhus"
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
-                                    >Burrhus</title></emph>
+                                    >Burrhus</title></emph> 
                             <seg><app type="#punct">
                                     <rdg
                                         source="#P_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
@@ -2726,22 +2726,20 @@
                                         source="#L_ed01_ex1 #B_ed01_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                         >ê</rdg>
                                 </app>tre</seg>
-                            <pb source="#B_ed01_ex1"/>qu’on pourroit parler ainſi<seg><app
+                            <pb source="#B_ed01_ex1"/> qu’on pourroit parler ainſi<seg><app
                                     type="#punct">
-
                                     <rdg source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1"
                                         >.</rdg>
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2">
                                         :</rdg>
-                                </app></seg>
+                                </app></seg> 
                             <persName ref="#Corneille" type="real"
                                 source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3"
                                 >Corneille</persName> nous aſſujettit à ſes caracteres &amp; à ſes
                             idées ; <persName ref="#Racine" type="real"
                                 source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2"
-                                >Racine</persName>
+                                >Racine</persName> 
                             <seg><app type="#words">
-
                                     <rdg source="#B_ed01_ex1 #L_ed01_ex1 #P_ed01_ex1 #P_ed02_ex1"
                                         >deſcend juſques</rdg>
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2">ſe
@@ -2814,7 +2812,7 @@
                                         >,</rdg>
                                     <rdg source="#P_ed04_ex1 #P_ed04_ex2 #P_ed04_ex3 #P_ed05_ex2">
                                         ;</rdg>
-                                </app></seg>
+                                </app></seg> 
                             <persName ref="#Racine" type="real">Racine</persName> plus naturel : il
                             ſemble que l’un imite <emph rend="smallcaps"><persName ref="#Sophocle"
                                     type="real">Sophocle</persName></emph><seg><app type="#punct">
@@ -3054,7 +3052,7 @@
                             <app type="#punct">
                                 <rdg
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
-                                    cert="low">;</rdg>
+                                    cert="low"> ;</rdg>
                                 <rdg source="#P_ed05_ex2">,</rdg>
                             </app> les <pb n="111" source="#P_ed04_ex1 #P_ed04_ex3"/>grands ſujets
                             luy ſont défendus<app type="#punct">
@@ -3107,7 +3105,7 @@
                                     place="left" rend="Handburg" type="remarque"
                                     >Maimbourg.</note><emph rend="italic"
                                     source="#P_ed01_ex1 #L_ed01_ex1 #B_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
-                                        ><persName type="pseudo">Handburg</persName></emph></seg>
+                                        ><persName type="pseudo">Handburg</persName></emph> </seg>
                             <app type="#punct">
                                 <rdg
                                     source="#P_ed01_ex1 #B_ed01_ex1 #L_ed01_ex1 #P_ed02_ex1 #P_ed04_ex1 #P_ed04_ex3"
