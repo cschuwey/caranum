@@ -1,3 +1,5 @@
+WARNING: This repository is now deprecated. Check out: https://gitlab.huma-num.fr/cschuwey/caranum/
+
 # Caranum
 La Bruyère's _Les Caractères_ TEI digital edition. 
 
