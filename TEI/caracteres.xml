@@ -5930,13 +5930,13 @@
                             source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"/>
                     </div3>
                     <div3>
-                        <p xml:id="r05_079_01"
+                        <p corresp="r05_079_01"
                             source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1">
-                            <g ref="#Pdm"
+                            <!-- <g ref="#Pdm"
                                 source="#P_ed04_ex1 #P_ed05_ex1 #P_ed06_ex1 #P_ed07_ex1 #P_ed08_ex1 #P_ed09_ex1 #P_ed10_ex1"
                             /> Il n’y a gueres qu’une naiſſance honnête, ou qu’une bonne éducation
                             qui <pb n="175" source="#P_ed04_ex1"/>rende les hommes capables de
-                            ſecret.</p>
+                            ſecret. --></p>
                     </div3>
                     <pb n="193" source="#P_ed06_ex1"/>
                     <div3>
