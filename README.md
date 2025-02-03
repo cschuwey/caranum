@@ -1,3 +1,4 @@
+[DEPRECATED]
 WARNING: This repository is now deprecated. Check out: https://gitlab.huma-num.fr/cschuwey/caranum/
 
 # Caranum
